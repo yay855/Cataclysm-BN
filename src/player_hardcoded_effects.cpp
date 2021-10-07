@@ -26,7 +26,6 @@
 #include "rng.h"
 #include "sdl_wrappers.h"
 #include "sounds.h"
-#include "stomach.h"
 #include "string_formatter.h"
 #include "teleport.h"
 #include "translations.h"
@@ -46,7 +45,6 @@ static const efftype_id effect_attention( "attention" );
 static const efftype_id effect_bite( "bite" );
 static const efftype_id effect_bleed( "bleed" );
 static const efftype_id effect_blind( "blind" );
-static const efftype_id effect_bloated( "bloated" );
 static const efftype_id effect_bloodworms( "bloodworms" );
 static const efftype_id effect_boomered( "boomered" );
 static const efftype_id effect_brainworms( "brainworms" );
@@ -239,12 +237,9 @@ static void eff_fun_hallu( player &u, effect &it )
             u.add_msg_if_player( m_warning, _( "Something feels very, very wrong." ) );
         }
     } else if( dur > peakTime && dur < comeupTime ) {
-        if( u.stomach.get_calories() > 0 && ( one_in( 1200 ) || x_in_y( u.vomit_mod(), 300 ) ) ) {
+        if( x_in_y( u.vomit_mod(), 4800 ) ) {
             u.add_msg_if_player( m_bad, _( "You feel sick to your stomach." ) );
-            u.mod_stored_kcal( 20 );
-            if( one_in( 6 ) ) {
-                u.vomit();
-            }
+            u.vomit();
         }
         if( u.is_npc() && one_in( 1200 ) ) {
             static const std::array<std::string, 4> npc_hallu = {{
@@ -420,12 +415,6 @@ static void eff_fun_frostbite( player &u, effect &it )
     }
 }
 
-static void eff_fun_bloated( player &u, effect &it )
-{
-    if( u.get_stored_kcal() > u.max_stored_kcal() || u.get_thirst() < 0 ) {
-        it.set_duration( 5_minutes );
-    }
-}
 
 static void eff_fun_toxin_buildup( player &u, effect &it )
 {
@@ -482,7 +471,6 @@ void player::hardcoded_effects( effect &it )
             { effect_cold, eff_fun_cold },
             { effect_hot, eff_fun_hot },
             { effect_frostbite, eff_fun_frostbite },
-            { effect_bloated, eff_fun_bloated },
             { effect_toxin_buildup, eff_fun_toxin_buildup },
             { effect_mutating, eff_fun_mutating },
         }

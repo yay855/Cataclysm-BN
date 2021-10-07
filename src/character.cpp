@@ -113,7 +113,6 @@ static const efftype_id effect_bite( "bite" );
 static const efftype_id effect_bleed( "bleed" );
 static const efftype_id effect_blind( "blind" );
 static const efftype_id effect_blisters( "blisters" );
-static const efftype_id effect_bloated( "bloated" );
 static const efftype_id effect_boomered( "boomered" );
 static const efftype_id effect_cold( "cold" );
 static const efftype_id effect_contacts( "contacts" );
@@ -124,7 +123,6 @@ static const efftype_id effect_darkness( "darkness" );
 static const efftype_id effect_deaf( "deaf" );
 static const efftype_id effect_disinfected( "disinfected" );
 static const efftype_id effect_downed( "downed" );
-static const efftype_id effect_drunk( "drunk" );
 static const efftype_id effect_earphones( "earphones" );
 static const efftype_id effect_foodpoison( "foodpoison" );
 static const efftype_id effect_frostbite( "frostbite" );
@@ -415,7 +413,6 @@ Character::Character() :
     update_type_of_scent( true );
     pkill = 0;
     stored_calories = max_stored_kcal() - 100;
-    initialize_stomach_contents();
     healed_total = { { 0, 0, 0, 0, 0, 0 } };
 
     name.clear();
@@ -4189,7 +4186,7 @@ std::pair<std::string, nc_color> Character::get_thirst_description() const
 
 std::pair<std::string, nc_color> Character::get_hunger_description() const
 {
-    int total_kcal = stored_calories + stomach.get_calories();
+    int total_kcal = stored_calories;
     int max_kcal = max_stored_kcal();
     float days_left = static_cast<float>( total_kcal ) / bmr();
     float days_max = static_cast<float>( max_kcal ) / bmr();
@@ -4570,19 +4567,12 @@ void Character::update_stomach( const time_point &from, const time_point &to )
     const bool mycus = has_trait( trait_M_DEPENDENT );
     const float kcal_per_time = bmr() / ( 12.0f * 24.0f );
     const int five_mins = ticks_between( from, to, 5_minutes );
+    if( five_mins <= 0 ) {
+        return;
+    }
 
-    if( five_mins > 0 ) {
-        // Digest nutrients in stomach
-        food_summary digested_to_body = stomach.digest( rates, five_mins );
-        // Apply nutrients, unless this is an NPC and NO_NPC_FOOD is enabled.
-        if( !npc_no_food ) {
-            mod_stored_kcal( digested_to_body.nutr.kcal );
-            vitamins_mod( digested_to_body.nutr.vitamins, false );
-        }
-        if( !foodless && rates.hunger > 0.0f ) {
-            // instead of hunger keeping track of how you're living, burn calories instead
-            mod_stored_kcal( -roll_remainder( five_mins * kcal_per_time ) );
-        }
+    if( !foodless && rates.hunger > 0.0f ) {
+        mod_stored_kcal( -roll_remainder( five_mins * kcal_per_time ) );
     }
 
     if( !foodless && rates.thirst > 0.0f ) {
@@ -4595,7 +4585,6 @@ void Character::update_stomach( const time_point &from, const time_point &to )
     }
 
     // Mycus and Metabolic Rehydration makes thirst unnecessary
-    // since water is not limited by intake but by absorption, we can just set thirst to zero
     if( mycus || mouse ) {
         set_thirst( 0 );
     }
@@ -4791,16 +4780,7 @@ needs_rates Character::calc_needs_rates() const
 
 void Character::check_needs_extremes()
 {
-    // Check if we've overdosed... in any deadly way.
-    if( get_stim() > 250 ) {
-        add_msg_if_player( m_bad, _( "You have a sudden heart attack!" ) );
-        g->events().send<event_type::dies_from_drug_overdose>( getID(), efftype_id() );
-        set_part_hp_cur( bodypart_id( "torso" ), 0 );
-    } else if( get_stim() < -200 || get_painkiller() > 240 ) {
-        add_msg_if_player( m_bad, _( "Your breathing stops completely." ) );
-        g->events().send<event_type::dies_from_drug_overdose>( getID(), efftype_id() );
-        set_part_hp_cur( bodypart_id( "torso" ), 0 );
-    } else if( has_effect( effect_jetinjector ) && get_effect_dur( effect_jetinjector ) > 40_minutes ) {
+    if( has_effect( effect_jetinjector ) && get_effect_dur( effect_jetinjector ) > 40_minutes ) {
         if( !( has_trait( trait_NOPAIN ) ) ) {
             add_msg_if_player( m_bad, _( "Your heart spasms painfully and stops." ) );
         } else {
@@ -4811,10 +4791,6 @@ void Character::check_needs_extremes()
     } else if( get_effect_dur( effect_adrenaline ) > 50_minutes ) {
         add_msg_if_player( m_bad, _( "Your heart spasms and stops." ) );
         g->events().send<event_type::dies_from_drug_overdose>( getID(), effect_adrenaline );
-        set_part_hp_cur( bodypart_id( "torso" ), 0 );
-    } else if( get_effect_int( effect_drunk ) > 4 ) {
-        add_msg_if_player( m_bad, _( "Your breathing slows down to a stop." ) );
-        g->events().send<event_type::dies_from_drug_overdose>( getID(), effect_drunk );
         set_part_hp_cur( bodypart_id( "torso" ), 0 );
     }
 
@@ -7507,48 +7483,7 @@ void Character::shout( std::string msg, bool order )
 
 void Character::vomit()
 {
-    g->events().send<event_type::throws_up>( getID() );
-
-    if( get_effect_int( effect_fungus ) >= 3 ) {
-        add_msg_player_or_npc( m_bad,  _( "You vomit thousands of live spores!" ),
-                               _( "<npcname> vomits thousands of live spores!" ) );
-        fungal_effects( *g, g->m ).fungalize( pos(), this );
-    } else if( stomach.get_calories() > 0 || get_thirst() < 0 ) {
-        add_msg_player_or_npc( m_bad, _( "You throw up heavily!" ), _( "<npcname> throws up heavily!" ) );
-        g->m.add_field( adjacent_tile(), fd_bile, 1 );
-    } else {
-        return;
-    }
-
-    if( !has_effect( effect_nausea ) ) {  // Prevents never-ending nausea
-        const effect dummy_nausea( &effect_nausea.obj(), 0_turns, bodypart_str_id::NULL_ID(), 1,
-                                   calendar::turn );
-        add_effect( effect_nausea, std::max( dummy_nausea.get_max_duration() *
-                                             stomach.get_calories() / 100, dummy_nausea.get_int_dur_factor() ) );
-    }
-
-    stomach.empty();
-    set_thirst( std::max( 0, get_thirst() ) );
-    remove_effect( effect_bloated );
-    if( get_healthy_mod() > 0 ) {
-        set_healthy_mod( 0 );
-    }
-
-    moves -= 100;
-    // get_effect is more correct than has_effect because of body parts
-    effect &eff_foodpoison = get_effect( effect_foodpoison );
-    if( eff_foodpoison ) {
-        eff_foodpoison.mod_duration( -30_minutes );
-    }
-    effect &eff_drunk = get_effect( effect_drunk );
-    if( eff_drunk ) {
-        eff_drunk.mod_duration( rng( -10_minutes, -50_minutes ) );
-    }
-    remove_effect( effect_pkill1 );
-    remove_effect( effect_pkill2 );
-    remove_effect( effect_pkill3 );
-    // Don't wake up when just retching
-    wake_up();
+    health::vomit( *g, *this );
 }
 
 // adjacent_tile() returns a safe, unoccupied adjacent tile. If there are no such tiles, returns player position instead.

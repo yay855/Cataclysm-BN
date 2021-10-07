@@ -14,8 +14,11 @@
 #include "cata_utility.h"
 #include "craft_command.h"
 #include "debug.h"
+#include "effect.h"
 #include "enums.h"
+#include "field.h"
 #include "flat_set.h"
+#include "fungal_effects.h"
 #include "game.h"
 #include "item_contents.h"
 #include "itype.h"
@@ -57,8 +60,8 @@ static const bionic_id bio_reactor( "bio_reactor" );
 static const bionic_id bio_taste_blocker( "bio_taste_blocker" );
 
 static const efftype_id effect_bloodworms( "bloodworms" );
-static const efftype_id effect_bloated( "bloated" );
 static const efftype_id effect_brainworms( "brainworms" );
+static const efftype_id effect_drunk( "drunk" );
 static const efftype_id effect_foodpoison( "foodpoison" );
 static const efftype_id effect_fungus( "fungus" );
 static const efftype_id effect_hallu( "hallu" );
@@ -756,12 +759,6 @@ ret_val<edible_rating> Character::will_eat( const item &food, bool interactive )
                          edible_rating::nausea );
     }
 
-    if( ( food_kcal > 0 || comest->quench > 0 ) && has_effect( effect_bloated )
-        && !food.has_flag( flag_NO_BLOAT ) ) {
-        add_consequence( _( "You're full and will vomit if you try to consume anything." ),
-                         edible_rating::bloated );
-    }
-
     if( ( allergy_type( food ) != MORALE_NULL ) || ( carnivore && food.has_flag( flag_ALLERGEN_JUNK ) &&
             !food.has_flag( flag_CARNIVORE_OK ) ) ) {
         add_consequence( _( "Your stomach won't be happy (allergy)." ), edible_rating::allergy );
@@ -778,7 +775,7 @@ ret_val<edible_rating> Character::will_eat( const item &food, bool interactive )
 
     if( !food.has_infinite_charges() &&
         ( ( food_kcal > 0 &&
-            get_stored_kcal() + stomach.get_calories() + food_kcal
+            get_stored_kcal() + food_kcal
             > max_stored_kcal() ) ||
           ( comest->quench > 0 && get_thirst() < comest->quench ) ) ) {
         add_consequence( _( "You're full already and the excess food will be wasted." ),
@@ -822,13 +819,6 @@ bool player::eat( item &food, bool force )
     const auto ret = force ? can_eat( food ) : will_eat( food, is_player() );
     if( !ret.success() ) {
         return false;
-    }
-
-    if( has_effect( effect_bloated ) &&
-        ( compute_effective_nutrients( food ).kcal > 0 || food.get_comestible()->quench > 0 ) &&
-        !food.has_flag( flag_NO_BLOAT ) ) {
-        add_msg_if_player( _( "You force yourself to vomit to make space for %s." ), food.tname() );
-        vomit();
     }
 
     int charges_used = 0;
@@ -1221,16 +1211,9 @@ bool Character::consume_effects( item &food )
     if( has_effect( effect_tapeworm ) ) {
         ingested.nutr /= 2;
     }
-
-    int excess_kcal = get_stored_kcal() + stomach.get_calories() + ingested.nutr.kcal -
-                      max_stored_kcal();
-    int excess_quench = -( get_thirst() - comest.quench );
-    stomach.ingest( ingested );
+    mod_stored_kcal( ingested.nutr.kcal );
     mod_thirst( -contained_food.type->comestible->quench );
-
-    if( ( excess_kcal > 0 || excess_quench > 0 ) && !food.has_flag( flag_NO_BLOAT ) ) {
-        add_effect( effect_bloated, 5_minutes );
-    }
+    vitamins_mod( ingested.nutr.vitamins, false );
 
     return true;
 }
@@ -1513,4 +1496,47 @@ item &Character::get_consumable_from( item &it ) const
     // Since it's not const.
     null_comestible = item();
     return null_comestible;
+}
+
+namespace health
+{
+
+void vomit( game &g, Character &c )
+{
+    g.events().send<event_type::throws_up>( c.getID() );
+    if( c.get_kcal_percent() > 0.1 ) {
+        c.mod_stored_kcal( -100 * c.get_kcal_percent() );
+    }
+    c.mod_thirst( 20 );
+
+    if( c.get_effect_int( effect_fungus ) >= 3 ) {
+        c.add_msg_player_or_npc( m_bad,  _( "You vomit thousands of live spores!" ),
+                                 _( "<npcname> vomits thousands of live spores!" ) );
+        fungal_effects( g, g.m ).fungalize( c.pos(), &c );
+    } else {
+        c.add_msg_player_or_npc( m_bad, _( "You throw up heavily!" ), _( "<npcname> throws up heavily!" ) );
+        g.m.add_field( c.adjacent_tile(), fd_bile, 1 );
+    }
+
+    c.set_thirst( std::max( 0, c.get_thirst() ) );
+    if( c.get_healthy_mod() > 0 ) {
+        c.set_healthy_mod( 0 );
+    }
+
+    int enc = c.encumb( body_part_mouth->token );
+    c.mod_moves( std::max( -400, -100 - 5 * enc ) );
+    if( enc > 10 ) {
+        c.add_msg_if_player( m_warning, _( "Your mouth encumbrance makes vomiting take more time." ) );
+    }
+    // get_effect is more correct than has_effect because of body parts
+    effect &eff_foodpoison = c.get_effect( effect_foodpoison );
+    if( eff_foodpoison ) {
+        eff_foodpoison.mod_duration( -30_minutes );
+    }
+    effect &eff_drunk = c.get_effect( effect_drunk );
+    if( eff_drunk ) {
+        eff_drunk.mod_duration( -30_minutes );
+    }
+    c.wake_up();
+}
 }

@@ -741,7 +741,6 @@ void Character::suffer_in_sunlight()
 
     if( x_in_y( sunlight_nutrition, 12000 ) ) {
         mod_stored_kcal( 10 );
-        stomach.ate();
     }
 
     if( !g->is_in_sunlight( pos() ) ) {
@@ -1109,8 +1108,8 @@ void Character::suffer_from_radiation()
         if( get_option<bool>( "RAD_MUTATION" ) && rng( 100, 10000 ) < get_rad() ) {
             mutate();
             mod_rad( -50 );
-        } else if( get_rad() > 50 && rng( 1, 3000 ) < get_rad() && ( stomach.get_calories() > 0 ||
-                   radiation_increasing || !in_sleep_state() ) ) {
+        } else if( get_rad() > 50 && rng( 1, 3000 ) < get_rad() &&
+                   radiation_increasing && !in_sleep_state() ) {
             vomit();
             mod_rad( -1 );
         }

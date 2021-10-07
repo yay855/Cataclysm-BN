@@ -22,7 +22,6 @@
 #include "player.h"
 #include "player_activity.h"
 #include "point.h"
-#include "stomach.h"
 #include "string_id.h"
 #include "type_id.h"
 
@@ -71,9 +70,6 @@ void clear_character( player &dummy, bool debug_storage )
     dummy.set_power_level( 0_J );
     dummy.set_max_power_level( 0_J );
 
-    // Clear stomach and then eat a nutritious meal to normalize stomach
-    // contents (needs to happen before clear_morale).
-    dummy.stomach.empty();
     dummy.consumption_history.clear();
     item food( "debug_nutrition" );
     dummy.eat( food );

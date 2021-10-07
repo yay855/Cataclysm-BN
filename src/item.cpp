@@ -4001,7 +4001,6 @@ nc_color item::color_in_inventory() const
                 ret = c_brown;
                 break;
             case edible_rating::nausea:
-            case edible_rating::bloated:
                 ret = c_pink;
                 break;
             case edible_rating::no_tool:

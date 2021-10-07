@@ -165,8 +165,6 @@ enum class edible_rating {
     rotten,
     // Can provoke vomiting if you already feel nauseous.
     nausea,
-    // We did overeat, cramming more will surely cause vomiting.
-    bloated,
     // We can eat this, but we'll overeat
     too_full,
     // Some weird stuff that requires a tool we don't have
@@ -357,8 +355,8 @@ class Character : public Creature, public visitable<Character>
 
         /** Getter for need values exclusive to characters */
         int get_stored_kcal() const;
-        // Maximum stored calories, excluding stomach.
-        // If more would be digested, it is instead wasted.
+        // Maximum stored calories
+        // If more would be consumed, it is instead wasted.
         int max_stored_kcal() const;
         float get_kcal_percent() const;
         int get_thirst() const;
@@ -1578,7 +1576,6 @@ class Character : public Creature, public visitable<Character>
         pimpl<bionic_collection> my_bionics;
         pimpl<character_martial_arts> martial_arts_data;
 
-        stomach_contents stomach;
         std::list<consumption_event> consumption_history;
 
         int oxygen = 0;
@@ -1663,7 +1660,6 @@ class Character : public Creature, public visitable<Character>
         void set_stashed_activity( const player_activity &act,
                                    const player_activity &act_back = player_activity() );
         bool has_stashed_activity() const;
-        void initialize_stomach_contents();
 
         /** Stable base metabolic rate due to traits */
         float metabolic_rate_base() const;
@@ -2290,5 +2286,12 @@ float threshold_for_nv_range( float range );
 float nv_range_from_per( int per );
 float nv_range_from_eye_encumbrance( int enc );
 } // namespace vision
+
+namespace health
+{
+
+void vomit( game &g, Character &c );
+
+}
 
 #endif // CATA_SRC_CHARACTER_H

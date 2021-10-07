@@ -1701,11 +1701,6 @@ double player::vomit_mod()
     if( has_trait( trait_VOMITOUS ) ) {
         mod *= 3;
     }
-    // If you're already nauseous, any food in your stomach greatly
-    // increases chance of vomiting. Water doesn't provoke vomiting, though.
-    if( stomach.get_calories() > 0 && has_effect( effect_nausea ) ) {
-        mod *= 5 * get_effect_int( effect_nausea );
-    }
     return mod;
 }
 
