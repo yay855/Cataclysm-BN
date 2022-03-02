@@ -1109,8 +1109,7 @@ class map
         /** Checks if a square should collapse, returns the X for the one_in(X) collapse chance */
         int collapse_check( const tripoint &p );
         /** Causes a collapse at p, such as from destroying a wall */
-        void collapse_at( const tripoint &p, bool silent, bool was_supporting = false,
-                          bool destroy_pos = true );
+        void collapse_at( const tripoint &p, bool silent, bool was_supporting = false );
         /** Checks surrounding tiles for suspension, and has them check for collapse. !!Should only be called after the tile at this point has been destroyed!!*/
         void propagate_suspension_check( const tripoint &point );
         /** Triggers a recursive collapse of suspended tiles based on their support validity*/

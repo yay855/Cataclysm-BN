@@ -2045,7 +2045,7 @@ bool map::has_floor_or_support( const tripoint &p ) const
 void map::drop_everything( const tripoint &p )
 {
     //Do a suspension check so that there won't be a floor there for the rest of this check.
-    if( has_flag( "SUSPENDED", p ) ) {
+    if( has_flag( TFLAG_SUSPENDED, p ) ) {
         collapse_invalid_suspension( p );
     }
     if( has_floor( p ) ) {
@@ -2893,17 +2893,10 @@ int map::collapse_check( const tripoint &p )
 
 // there is still some odd behavior here and there and you can get floating chunks of
 // unsupported floor, but this is much better than it used to be
-void map::collapse_at( const tripoint &p, const bool silent, const bool was_supporting,
-                       const bool destroy_pos )
+void map::collapse_at( const tripoint &p, const bool silent, const bool was_supporting )
 {
     const bool supports = was_supporting || has_flag( TFLAG_SUPPORTS_ROOF, p );
     const bool wall = was_supporting || has_flag( TFLAG_WALL, p );
-    // don't bash again if the caller already bashed here
-    if( destroy_pos ) {
-        destroy( p, silent );
-        crush( p );
-        make_rubble( p );
-    }
     const bool still_supports = has_flag( TFLAG_SUPPORTS_ROOF, p );
 
     // If something supporting the roof collapsed, see what else collapses
@@ -2942,6 +2935,7 @@ void map::propagate_suspension_check( const tripoint &point )
 {
     for( const tripoint &neighbor : points_in_radius( point, 1 ) ) {
         if( neighbor != point && has_flag( TFLAG_SUSPENDED, neighbor ) ) {
+            // TODO: Edge case with huge recursion depth could stack overflow
             collapse_invalid_suspension( neighbor );
         }
     }
@@ -2951,7 +2945,6 @@ void map::collapse_invalid_suspension( const tripoint &point )
 {
     if( !is_suspension_valid( point ) ) {
         ter_set( point, t_open_air );
-        furn_set( point, f_null );
 
         propagate_suspension_check( point );
     }
@@ -3242,7 +3235,7 @@ bash_results map::bash_ter_success( const tripoint &p, const bash_params &params
     }
 
     if( will_collapse && !has_flag( TFLAG_SUPPORTS_ROOF, p ) ) {
-        collapse_at( p, params.silent, true, bash.explosive > 0 );
+        collapse_at( p, params.silent, true );
     }
 
     if( bash.explosive > 0 ) {
