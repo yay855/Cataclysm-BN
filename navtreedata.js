@@ -252,21 +252,21 @@ var NAVTREEINDEX =
 "structislot__tool.html#a469419f9c49e27d69483dec969debf17",
 "structkey__from__json__string_3_01std_1_1string_00_01void_01_4.html",
 "structmatrix.html#a6f223a7b7f0d2845585ed0b29d34023e",
-"structmtype.html#a0a29aa015b570a0d611e81c98cd4545c",
+"structmtype.html#a09b3dab7e8a40d991242870bf1bf160e",
 "structmutation__branch.html#ae1f334586c95e97ce29331dffea4885a",
 "structom__map__extra.html",
 "structpathfinder.html",
 "structpointmenu__cb_1_1impl__t.html#a661b1a2e16238ac202a7dc3a2f464796",
-"structregional__settings.html#a73bbc9611b377c0cde485049614832db",
-"structstat__mod.html#a02fc9b713716dc8d9c8643db09cd853a",
-"structtimed__event.html#af599230a044e93c311ef28c22e44440a",
-"structvehicle__part.html#a15b3929f28a099a00d503643afe549ea",
-"structwisheffect__state.html#a3762823b21c68e296fa6d2c3b348eab6",
-"translations_8h.html#a9e39a96618079002323c6e554271d3e2",
-"ui_8h.html#aa7da4bb7ea07f4ed35bed1d6dce30a27",
-"veh__interact_8cpp.html#a57b1e7fc0fbee16bf3e192bdc2589287",
-"vehicle__move_8cpp.html#a43e5ce141f651d0255c6f15d0954018e",
-"weather__type_8h.html#a5a82e69056b07603dd9ccb8d3b809554"
+"structregional__settings.html#a606dc3092534055bee681caf6f9e6d48",
+"structsphere.html#ac90471295cb773d806729cb7002fca25",
+"structtimed__event.html#a7827751b6d41ee9be5c25aa725c892fe",
+"structvehicle__part.html#a06977e7f3179a1d1f08eb28279853d7c",
+"structwformat__args.html#a4c7ee837082f0201049cd43e0a3620f7",
+"translations_8h.html#a7a31399077339ac4ad89cdef2a1d28b3",
+"ui_8h.html#a54d6a29361bbd8297292c8352d1f3a12",
+"veh__interact_8cpp.html#a3f2436294a28dc686156c10abab2f994",
+"vehicle__move_8cpp.html#a2bddc1d0e2dc9d47e0c3a85362f1bd46",
+"weather__type_8h.html#a0b78777ab367c0db919aacd8bba938f0a7cfe64ea44dc3bbeb63b29ff3039a481"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

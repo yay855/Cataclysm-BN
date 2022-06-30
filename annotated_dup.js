@@ -1182,6 +1182,7 @@ var annotated_dup =
     [ "rect_range", "classrect__range.html", "classrect__range" ],
     [ "rectangle", "structrectangle.html", "structrectangle" ],
     [ "reg_coord_pair", "structreg__coord__pair.html", "structreg__coord__pair" ],
+    [ "regen_modifier", "structregen__modifier.html", "structregen__modifier" ],
     [ "region_terrain_and_furniture_settings", "structregion__terrain__and__furniture__settings.html", "structregion__terrain__and__furniture__settings" ],
     [ "regional_settings", "structregional__settings.html", "structregional__settings" ],
     [ "relic", "classrelic.html", "classrelic" ],

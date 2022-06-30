@@ -3,6 +3,7 @@ var mtype_8h =
     [ "enum_traits< mon_trigger >", "structenum__traits_3_01mon__trigger_01_4.html", "structenum__traits_3_01mon__trigger_01_4" ],
     [ "enum_traits< m_flag >", "structenum__traits_3_01m__flag_01_4.html", "structenum__traits_3_01m__flag_01_4" ],
     [ "mon_effect_data", "structmon__effect__data.html", "structmon__effect__data" ],
+    [ "regen_modifier", "structregen__modifier.html", "structregen__modifier" ],
     [ "mtype", "structmtype.html", "structmtype" ],
     [ "CATA_SRC_MTYPE_H", "mtype_8h.html#ad5579f916e88b2d952baf088e5d3b9b9", null ],
     [ "bodytype_id", "mtype_8h.html#afa47dd7776166d27248a54bcf21f1ac8", null ],

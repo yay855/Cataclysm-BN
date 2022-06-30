@@ -1426,6 +1426,7 @@ var hierarchy =
       [ "inclusive_rectangle< Point, >", "structinclusive__rectangle.html", null ]
     ] ],
     [ "reg_coord_pair", "structreg__coord__pair.html", null ],
+    [ "regen_modifier", "structregen__modifier.html", null ],
     [ "region_terrain_and_furniture_settings", "structregion__terrain__and__furniture__settings.html", null ],
     [ "regional_settings", "structregional__settings.html", null ],
     [ "relic", "classrelic.html", null ],

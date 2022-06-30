@@ -232,7 +232,7 @@ var searchData=
   ['add_5fpoint_229',['add_point',['../structpathfinder.html#ab7b80d453998f12d82f075db97234f05',1,'pathfinder']]],
   ['add_5frain_5fto_5fcontainer_230',['add_rain_to_container',['../group__Weather.html#ga62f8d8c16409bbd233295c4a19ac59df',1,'item']]],
   ['add_5frange_231',['add_range',['../classdispersion__sources.html#af9119f90d39a52caf16086dca87b1cac',1,'dispersion_sources']]],
-  ['add_5fregeneration_5fmodifier_232',['add_regeneration_modifier',['../structmtype.html#aabf341392b7e2a87414faafe2fa4f2e5',1,'mtype']]],
+  ['add_5fregeneration_5fmodifier_232',['add_regeneration_modifier',['../structmtype.html#a1baeb1707871ab7ae42fa6ad957fc197',1,'mtype']]],
   ['add_5fregeneration_5fmodifiers_233',['add_regeneration_modifiers',['../structmtype.html#ad889c3a3554cd4a273bdcf6a3dea55ae',1,'mtype']]],
   ['add_5frequirements_234',['add_requirements',['../classrecipe.html#a09906a54fe30434daa78d5747a40cd75',1,'recipe']]],
   ['add_5fresource_235',['add_resource',['../classbasecamp.html#afc886372356be0375b10ab9612539d93',1,'basecamp']]],

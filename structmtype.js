@@ -2,7 +2,7 @@ var structmtype =
 [
     [ "mtype", "structmtype.html#a03981cd335769406ed0a68d19fd5007f", null ],
     [ "add_goal", "structmtype.html#a4c20845a550cc124eaac289cb0b8e1c9", null ],
-    [ "add_regeneration_modifier", "structmtype.html#aabf341392b7e2a87414faafe2fa4f2e5", null ],
+    [ "add_regeneration_modifier", "structmtype.html#a1baeb1707871ab7ae42fa6ad957fc197", null ],
     [ "add_regeneration_modifiers", "structmtype.html#ad889c3a3554cd4a273bdcf6a3dea55ae", null ],
     [ "add_special_attack", "structmtype.html#a5ed20392cde7880e73be35a7d30a39f6", null ],
     [ "add_special_attack", "structmtype.html#a415d4b8d8257460beb5922c50c5c9ce4", null ],
@@ -90,7 +90,7 @@ var structmtype =
     [ "regen_morale", "structmtype.html#a7bb30162b64f86f4eebcf00b3b37146d", null ],
     [ "regenerates", "structmtype.html#a9c5f5681128376b6abcd83747e947262", null ],
     [ "regenerates_in_dark", "structmtype.html#afaaebe8d0765896be201b3cffafa55c3", null ],
-    [ "regeneration_modifiers", "structmtype.html#a8298ebd05f730d391f4d05d4cb2ea7c1", null ],
+    [ "regeneration_modifiers", "structmtype.html#a077316d76dd4b034b44401b5c05fe2f0", null ],
     [ "reproduces", "structmtype.html#aa5d095d022d8661fbadcd45a916a4388", null ],
     [ "revert_to_itype", "structmtype.html#a02618ceb25281f59dc290714769cd987", null ],
     [ "scents_ignored", "structmtype.html#a30acba3bb0f18e38d564fe72b7e34f8b", null ],

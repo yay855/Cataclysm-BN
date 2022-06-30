@@ -91,7 +91,7 @@ var searchData=
   ['regen_5fmorale_88',['regen_morale',['../structmtype.html#a7bb30162b64f86f4eebcf00b3b37146d',1,'mtype']]],
   ['regenerates_89',['regenerates',['../structmtype.html#a9c5f5681128376b6abcd83747e947262',1,'mtype']]],
   ['regenerates_5fin_5fdark_90',['regenerates_in_dark',['../structmtype.html#afaaebe8d0765896be201b3cffafa55c3',1,'mtype']]],
-  ['regeneration_5fmodifiers_91',['regeneration_modifiers',['../structmtype.html#a8298ebd05f730d391f4d05d4cb2ea7c1',1,'mtype']]],
+  ['regeneration_5fmodifiers_91',['regeneration_modifiers',['../structmtype.html#a077316d76dd4b034b44401b5c05fe2f0',1,'mtype']]],
   ['region_92',['region',['../classmapgendata.html#a72a8a7458a69c04a9f80e980713ccd5e',1,'mapgendata']]],
   ['region_5fextras_93',['region_extras',['../structregional__settings.html#a606dc3092534055bee681caf6f9e6d48',1,'regional_settings']]],
   ['region_5fsettings_5fmap_94',['region_settings_map',['../overmap_8cpp.html#a451aac4ddcfe0f7640425c4a14d06395',1,'region_settings_map():&#160;overmap.cpp'],['../regional__settings_8h.html#a451aac4ddcfe0f7640425c4a14d06395',1,'region_settings_map():&#160;overmap.cpp']]],
