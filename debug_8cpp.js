@@ -28,6 +28,7 @@ var debug_8cpp =
     [ "capturing", "debug_8cpp.html#a24e470ac53e77a9081f1075b80e8cecd", null ],
     [ "debugClass", "debug_8cpp.html#a3c85547622b0bcd7764f162a8f3fc533", null ],
     [ "debugLevel", "debug_8cpp.html#a116c62df72e84952b83422c4d41d4fb0", null ],
+    [ "dont_debugmsg", "debug_8cpp.html#abde66c8b93b424d63cccb7ab103e2f2d", null ],
     [ "error_observed", "debug_8cpp.html#a79825f7113926da477d17181f70d40a4", null ],
     [ "ignored_messages", "debug_8cpp.html#aac5ec8bb66a16096a2fd9ae0e87fcdf6", null ],
     [ "rep_folder", "debug_8cpp.html#a9deab9b43bb2ea3fc5d5e7a0b888142c", null ]

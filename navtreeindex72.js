@@ -1,5 +1,6 @@
 var NAVTREEINDEX72 =
 {
+"classwish__mutate__callback.html#abae114f21b673af39bf8be85e51de654":[36,0,987,0],
 "classwish__mutate__callback.html#ad41eee928355a19215cf92af27204358":[36,0,987,5],
 "classwish__mutate__callback.html#ad76dbc8e303d4fbccb2ce82ad07c8c0a":[36,0,987,1],
 "classworldfactory.html":[36,0,990],
@@ -248,6 +249,5 @@ var NAVTREEINDEX72 =
 "color_8cpp.html#af600494c677628f77182e7e72db72894":[37,0,1,98,8],
 "color_8cpp_source.html":[37,0,1,98],
 "color_8h.html":[37,0,1,99],
-"color_8h.html#a00ff895e55d9c2f629fed5c947d66ded":[37,0,1,99,96],
-"color_8h.html#a04e8393d2ee173670d5eb17978c48f9d":[37,0,1,99,89]
+"color_8h.html#a00ff895e55d9c2f629fed5c947d66ded":[37,0,1,99,96]
 };

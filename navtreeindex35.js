@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"classeditmap.html#ad5350cd1216b0ec223d44620b5f44f42":[36,0,223,13],
 "classeditmap.html#ad9635f2d0a1b26f7324ff96f00b21455":[36,0,223,36],
 "classeditmap.html#adc31cdc40feabf5a35e1bb60ff87a52a":[36,0,223,23],
 "classeditmap.html#ae68b5a7f2e22370833a227e5420f5eeb":[36,0,223,29],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "classes.html":[36,1],
 "classevent__bus.html":[36,0,291],
 "classevent__bus.html#a12010902ea765f2078ed0383d68df8cc":[36,0,291,0],
-"classevent__bus.html#a2aa066fa70555abccfc8e1964c6b7f4e":[36,0,291,8],
-"classevent__bus.html#a80cfa59012a302ef82191d8d0885cc94":[36,0,291,4]
+"classevent__bus.html#a2aa066fa70555abccfc8e1964c6b7f4e":[36,0,291,8]
 };

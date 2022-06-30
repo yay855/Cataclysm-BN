@@ -1,5 +1,7 @@
 var NAVTREEINDEX110 =
 {
+"namespaceanonymous__namespace_02morale__types_8cpp_03.html":[35,0,41],
+"namespaceanonymous__namespace_02morale__types_8cpp_03.html#ae666ffea986f521e03da256c4d23d161":[35,0,41,0],
 "namespaceanonymous__namespace_02mutation__data_8cpp_03.html":[35,0,42],
 "namespaceanonymous__namespace_02mutation__data_8cpp_03.html#acf19123a626b837788b860563cd2191b":[35,0,42,0],
 "namespaceanonymous__namespace_02npcmove_8cpp_03.html":[35,0,43],
@@ -164,10 +166,10 @@ var NAVTREEINDEX110 =
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,37],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,35],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,34],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,40],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,33],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,32],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,31],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,40],
 "namespacecata_1_1event__detail.html":[35,0,68,0],
 "namespacecata_1_1hash64__detail.html":[35,0,68,1],
 "namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4":[35,0,68,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX110 =
 "namespacecatacurses.html#a5e3d87563c99055c3a89fae235b305a4":[35,0,73,24],
 "namespacecatacurses.html#a6b1752cd3ddf8789d193e23b540d6354":[35,0,73,21],
 "namespacecatacurses.html#a6e9a783e2fdee22a75e15b2588c683f8":[35,0,73,16],
-"namespacecatacurses.html#a7407bbe97af63fd80e0a4d26bf0274ab":[35,0,73,23],
-"namespacecatacurses.html#a896759dbb967711125b3bd6677dcb578":[35,0,73,36],
-"namespacecatacurses.html#a929fe85d472028f52d8a5cdfc0d35017":[35,0,73,13]
+"namespacecatacurses.html#a7407bbe97af63fd80e0a4d26bf0274ab":[35,0,73,23]
 };

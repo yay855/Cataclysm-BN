@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"classstat__watcher.html":[36,0,845],
 "classstat__watcher.html#a57669a79d99c081254d190273d4f0738":[36,0,845,0],
 "classstatic__popup.html":[36,0,846],
 "classstatic__popup.html#a70f86f8891bdfe229cab6064b46710aa":[36,0,846,1],
@@ -87,14 +88,14 @@ var NAVTREEINDEX64 =
 "classstring__id.html#a7957eaf21d022ad7e3234e5de2aa4a06":[36,0,854,8],
 "classstring__id.html#a7f7a52e4e8b2d80d4108f572b193ef29":[36,0,854,3],
 "classstring__id.html#a81aa230415e836028d2d071a71b12fca":[36,0,854,11],
-"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,58],
+"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,54],
 "classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,57],
+"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,58],
 "classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,56],
 "classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,55],
-"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,54],
-"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,53],
-"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,52],
 "classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,51],
+"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,52],
+"classstring__id.html#a82c7d03709757c4ba0795935d64e8a3d":[36,0,854,53],
 "classstring__id.html#a86b592e72bbf63c33e9d0f5adf12a912":[36,0,854,36],
 "classstring__id.html#a8ca0e76fa665125f1e50bd1ed8dbd213":[36,0,854,13],
 "classstring__id.html#a8ca0e76fa665125f1e50bd1ed8dbd213":[36,0,854,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "classsubmap.html#a6df876dc4bca97aaa9a2c8d96c85649c":[36,0,862,12],
 "classsubmap.html#a700d0df13bb6952a458f2f0127afeae0":[36,0,862,6],
 "classsubmap.html#a76ec98572ef0887b49dd58cc14405d72":[36,0,862,24],
-"classsubmap.html#a801d50ed5b9762d90603c0cbef49b453":[36,0,862,18],
-"classsubmap.html#a832045300c5e4be5d0277986bdfaecae":[36,0,862,38]
+"classsubmap.html#a801d50ed5b9762d90603c0cbef49b453":[36,0,862,18]
 };

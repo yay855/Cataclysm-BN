@@ -1,5 +1,6 @@
 var NAVTREEINDEX60 =
 {
+"classprofession.html#a95c0cf174d1536f47696a3a62748a342":[36,0,747,38],
 "classprofession.html#a97c73cd3bb3895111aeee82afca3a108":[36,0,747,7],
 "classprofession.html#a9ba6501454d9805b1ca75f54f2679eb4":[36,0,747,1],
 "classprofession.html#aa2a9953d8d11e945563c7c5ef6f34e7b":[36,0,747,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX60 =
 "classrelic.html#a802c46ad46eda2fc089592acf9c03052":[36,0,769,4],
 "classrelic.html#a8f9e06eb5a63957f5e884db5529b676f":[36,0,769,11],
 "classrelic.html#aa59f10709d5c7d7bc5a18db27d0a49a0":[36,0,769,0],
-"classrelic.html#ad0a2a8e26ac99e7821d8c25adec7de5c":[36,0,769,8],
-"classrelic.html#ae53b673f5590c34f693a0b77f3f7584a":[36,0,769,7]
+"classrelic.html#ad0a2a8e26ac99e7821d8c25adec7de5c":[36,0,769,8]
 };

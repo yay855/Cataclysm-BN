@@ -1,5 +1,8 @@
 var NAVTREEINDEX153 =
 {
+"structregional__settings.html#a73bbc9611b377c0cde485049614832db":[36,0,768,12],
+"structregional__settings.html#a73f1bde81ec92a66d047c8f010a5bb53":[36,0,768,14],
+"structregional__settings.html#a75b62d1743b484b28b26fc79330bfce9":[36,0,768,7],
 "structregional__settings.html#a7dbcaf0fb863f57a84185d3ca1bfe10b":[36,0,768,0],
 "structregional__settings.html#a8d67b4cf295dac491cb0e716270a8e8e":[36,0,768,10],
 "structregional__settings.html#aa3e13275f58002592356ff023c6797c4":[36,0,768,16],
@@ -232,12 +235,12 @@ var NAVTREEINDEX153 =
 "structspell__detail_1_1line__iterable.html#aa956cec79769de2d3202d53033935c74":[36,0,33,0,3],
 "structspell__detail_1_1line__iterable.html#ab10b4cf17c2801c922ae95e0281a66dc":[35,0,147,0,6],
 "structspell__detail_1_1line__iterable.html#ab10b4cf17c2801c922ae95e0281a66dc":[36,0,33,0,6],
-"structspell__detail_1_1line__iterable.html#ac78c89f65f2bbe810d8732c9a69c7dc4":[36,0,33,0,0],
 "structspell__detail_1_1line__iterable.html#ac78c89f65f2bbe810d8732c9a69c7dc4":[35,0,147,0,0],
+"structspell__detail_1_1line__iterable.html#ac78c89f65f2bbe810d8732c9a69c7dc4":[36,0,33,0,0],
 "structspell__detail_1_1line__iterable.html#ae1bc9315c9befd30d8ea159f0da3a4dd":[35,0,147,0,8],
 "structspell__detail_1_1line__iterable.html#ae1bc9315c9befd30d8ea159f0da3a4dd":[36,0,33,0,8],
-"structspell__detail_1_1line__iterable.html#ae2ea584f6149c8964508498cea5357b3":[36,0,33,0,1],
 "structspell__detail_1_1line__iterable.html#ae2ea584f6149c8964508498cea5357b3":[35,0,147,0,1],
+"structspell__detail_1_1line__iterable.html#ae2ea584f6149c8964508498cea5357b3":[36,0,33,0,1],
 "structspell__detail_1_1line__iterable.html#af7628089c641c6d0487ad5b4a7573ef0":[35,0,147,0,2],
 "structspell__detail_1_1line__iterable.html#af7628089c641c6d0487ad5b4a7573ef0":[36,0,33,0,2],
 "structsphere.html":[36,0,840],
@@ -246,8 +249,5 @@ var NAVTREEINDEX153 =
 "structsphere.html#ab16d49e72153fc6278ecaf5ae29525aa":[36,0,840,3],
 "structsphere.html#ac90471295cb773d806729cb7002fca25":[36,0,840,2],
 "structsphere.html#ad63ffa503da72ae302d36c80946f7596":[36,0,840,1],
-"structstat__mod.html":[36,0,844],
-"structstat__mod.html#a02fc9b713716dc8d9c8643db09cd853a":[36,0,844,1],
-"structstat__mod.html#a362a69480e76954ddece8a94f8fb41d9":[36,0,844,4],
-"structstat__mod.html#a68d43eb8265c5a2b6af57db10fd25ce8":[36,0,844,0]
+"structstat__mod.html":[36,0,844]
 };

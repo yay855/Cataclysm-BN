@@ -1,5 +1,7 @@
 var NAVTREEINDEX80 =
 {
+"event_8h.html#a430b444c74dd3fd1472a31714ec5f1cea45392c0bed50ff4afbbdae44546af5bb":[37,0,1,167,69,60],
+"event_8h.html#a430b444c74dd3fd1472a31714ec5f1cea4e1d40b9faafb4cce1e627ed46ef3d67":[37,0,1,167,69,31],
 "event_8h.html#a430b444c74dd3fd1472a31714ec5f1cea51254c482b6dacdbdb37316246fc1f52":[37,0,1,167,69,54],
 "event_8h.html#a430b444c74dd3fd1472a31714ec5f1cea5af19c77ac2514bf3d73a1bb935d2445":[37,0,1,167,69,41],
 "event_8h.html#a430b444c74dd3fd1472a31714ec5f1cea5bd65214d7b589aa2192ad3543f4f925":[37,0,1,167,69,34],
@@ -247,7 +249,5 @@ var NAVTREEINDEX80 =
 "faction__camp_8cpp.html#adde50658d3dac1b9ce40699cc12b8ba7":[37,0,1,179,73],
 "faction__camp_8cpp.html#ae2b3ed2add1eabd706b7f9ebd170066e":[37,0,1,179,56],
 "faction__camp_8cpp.html#ae4a868c6d7f9a6a15b788475c80b59a8":[37,0,1,179,10],
-"faction__camp_8cpp.html#ae6542bfcb887fbe0cb9c5e00f3bf53a2":[37,0,1,179,59],
-"faction__camp_8cpp.html#ae7dfe49c2a6765b3e91b58c545448fc8":[37,0,1,179,40],
-"faction__camp_8cpp.html#aea18c5bc97d3dae46568afc531ccafae":[37,0,1,179,23]
+"faction__camp_8cpp.html#ae6542bfcb887fbe0cb9c5e00f3bf53a2":[37,0,1,179,59]
 };
