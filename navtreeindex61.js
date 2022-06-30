@@ -1,5 +1,6 @@
 var NAVTREEINDEX61 =
 {
+"classrelic.html#ad0a2a8e26ac99e7821d8c25adec7de5c":[36,0,770,8],
 "classrelic.html#ae53b673f5590c34f693a0b77f3f7584a":[36,0,770,7],
 "classrelic.html#aea77c2d23648527dda6f05c7c38f0009":[36,0,770,14],
 "classrelic.html#af4444e2e168d7af8c97e1653b3236040":[36,0,770,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX61 =
 "classscenario.html#a3a9ef9ef7cc09d0510eb97389c5cf519":[36,0,795,31],
 "classscenario.html#a403062b2e6af4ce57a0ab0d2f790c747":[36,0,795,32],
 "classscenario.html#a40d898d7a0899ee9d2814909c9959d4f":[36,0,795,26],
-"classscenario.html#a4954321ce744f2ab8b42fb7a4ae5400e":[36,0,795,41],
-"classscenario.html#a532f5d22d4a2ae62a2309af685aa1c0b":[36,0,795,7]
+"classscenario.html#a4954321ce744f2ab8b42fb7a4ae5400e":[36,0,795,41]
 };

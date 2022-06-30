@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"classhelp.html#aca6c62f3704e574ddb8f87e0e5e1a8fb":[36,0,380,6],
 "classhelp.html#aea2e8b96224f803c874513732bc9d7dd":[36,0,380,8],
 "classhelp.html#afd64f46a37dd0bcf6b1d1c7a81b8fbae":[36,0,380,4],
 "classholster__actor.html":[36,0,381],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "classinventory.html#a72e5a1a88b44c6e5fc1bdbdbb5e855a7":[36,0,394,71],
 "classinventory.html#a79cb9c4b64211bd61c09106ce58db8fd":[36,0,394,64],
 "classinventory.html#a7fcd617d12fda235fc71774c514d6cd1":[36,0,394,45],
-"classinventory.html#a827410aeab7a7e7c74bc4adb5bf616ea":[36,0,394,68],
-"classinventory.html#a83456dac16cd4a8057c9372ae8648a52":[36,0,394,48]
+"classinventory.html#a827410aeab7a7e7c74bc4adb5bf616ea":[36,0,394,68]
 };

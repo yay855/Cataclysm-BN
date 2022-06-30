@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"classMonsterGroupManager.html#abde0a3bd52c519ba55ae35cb5e05ba37":[36,0,632,13],
 "classMonsterGroupManager.html#ac5c4f820a26d260ec57d780e9cf4bd77":[36,0,632,9],
 "classMonsterGroupManager.html#acc4506e3d4c7ee1f10b0fd26a5b073f2":[36,0,632,10],
 "classMonsterGroupManager.html#ad16591c9153584950a7446d1678c08df":[36,0,632,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "classachievement__tracker.html":[36,0,42],
 "classachievement__tracker.html#a27b3e83e020ddd6d6b95f96206fe6a00":[36,0,42,2],
 "classachievement__tracker.html#a3d570cfd85fb2f585ba0a07e72ad134c":[36,0,42,8],
-"classachievement__tracker.html#a4e90499150d3706b1df1d59294d57db8":[36,0,42,7],
-"classachievement__tracker.html#a56085f8831d14facdbd7e441630cdc44":[36,0,42,3]
+"classachievement__tracker.html#a4e90499150d3706b1df1d59294d57db8":[36,0,42,7]
 };

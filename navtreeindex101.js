@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"mapgen_8cpp.html#ae8c006d3476bb4046919e833d1baea63":[37,0,1,334,59],
 "mapgen_8cpp.html#ae9e0172b9a2fda25903a62bfb234ac42":[37,0,1,334,76],
 "mapgen_8cpp.html#af48c12e8ec72f49f2b1cde0f65fd4756":[37,0,1,334,73],
 "mapgen_8cpp.html#af585d4bf35b770504d1c7a5ebc9bf4ea":[37,0,1,334,33],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "martialarts_8cpp.html#a63233aaf936955f4df6542d8f786116f":[37,0,1,344,7],
 "martialarts_8cpp.html#a753a9aea9c41572680b66b8a8f7fc259":[37,0,1,344,5],
 "martialarts_8cpp.html#a863b5e05d6e9a301dbcddd6bbb61ab28":[37,0,1,344,6],
-"martialarts_8cpp.html#aae3f3de3b7baac697dfacb78ad4a80ea":[37,0,1,344,23],
-"martialarts_8cpp.html#ab4af33e819e63d72755ab1a324fb09ed":[37,0,1,344,11]
+"martialarts_8cpp.html#aae3f3de3b7baac697dfacb78ad4a80ea":[37,0,1,344,23]
 };

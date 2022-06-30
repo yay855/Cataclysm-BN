@@ -1,5 +1,7 @@
 var NAVTREEINDEX142 =
 {
+"structevent__statistic__maximum_1_1state.html#aceecc7303bc12a2f7d135e2062f11060":[36,0,298,0,3],
+"structevent__statistic__minimum.html":[36,0,299],
 "structevent__statistic__minimum.html#a076e9dcae7b192d5283e24c687d2fc3c":[36,0,299,10],
 "structevent__statistic__minimum.html#a1f040d890593ae0fae21519e904524f2":[36,0,299,3],
 "structevent__statistic__minimum.html#a4594e67d5b0abfe2782df6a9b1518f2a":[36,0,299,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX142 =
 "structfield__type.html#ab660a14996c8441bdf8f3cfa6da475af":[36,0,323,42],
 "structfield__type.html#ab9770b873bdb5331c9ef936fd6a9012a":[36,0,323,37],
 "structfield__type.html#ab9ed553a0bd9df7b7580d12f7b24c8b4":[36,0,323,24],
-"structfield__type.html#abf120d0be94361ccb4acbfe6dfbc69a7":[36,0,323,53],
-"structfield__type.html#abf7f1d653b0b6ba98fd163f124ad4a2d":[36,0,323,46],
-"structfield__type.html#ac4cd20f3310c1eab8e30250ad6171502":[36,0,323,14]
+"structfield__type.html#abf120d0be94361ccb4acbfe6dfbc69a7":[36,0,323,53]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX18 =
 {
+"classachievement__tracker.html#a56085f8831d14facdbd7e441630cdc44":[36,0,42,3],
 "classachievement__tracker.html#a5ac3e8ec93feacdc74514dd7de41963f":[36,0,42,4],
 "classachievement__tracker.html#a68005b6f68c1d85766cd7a082a64687c":[36,0,42,6],
 "classachievement__tracker.html#a69b1c4c4a34d10fdd8b1af95581f2681":[36,0,42,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX18 =
 "classadvanced__inventory__pane.html#ade8e1e1d5703345da960700c763900e6":[36,0,60,13],
 "classadvanced__inventory__pane.html#adf44cdbe904fdadbeee158e3f773ce4f":[36,0,60,19],
 "classadvanced__inventory__pane.html#af2c4b2f624bbf139fe14db30f4c4a619":[36,0,60,11],
-"classadvanced__inventory__pane.html#af9cb7ca917f871dae4935385ec762537":[36,0,60,17],
-"classadvanced__inventory__pane.html#afe1073cc2511832d0c61687a8bc6ead4":[36,0,60,24]
+"classadvanced__inventory__pane.html#af9cb7ca917f871dae4935385ec762537":[36,0,60,17]
 };

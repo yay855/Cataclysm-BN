@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"classgame_1_1monster__range.html#ae3333abb248f910956cff9c6e23cabfb":[36,0,355,3,0],
 "classgame_1_1non__dead__range.html":[36,0,355,4],
 "classgame_1_1non__dead__range.html#a4a87ad4a568e3be4ec950de49c813aa4":[36,0,355,4,1],
 "classgame_1_1non__dead__range.html#a5fb34c7b863670d3b93ab887be54953a":[36,0,355,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "classhelp.html#a7003e5f15e9b45132fda0268eac2d27c":[36,0,380,2],
 "classhelp.html#a7e79c9714a06115f413d3681e2b99ea5":[36,0,380,7],
 "classhelp.html#a8f7f5c48382d2155ebd6d5dcf622eff4":[36,0,380,1],
-"classhelp.html#ac5579138daa4ea224f64d4c5d9a36f98":[36,0,380,3],
-"classhelp.html#aca6c62f3704e574ddb8f87e0e5e1a8fb":[36,0,380,6]
+"classhelp.html#ac5579138daa4ea224f64d4c5d9a36f98":[36,0,380,3]
 };

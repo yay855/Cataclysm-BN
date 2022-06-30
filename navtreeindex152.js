@@ -1,5 +1,7 @@
 var NAVTREEINDEX152 =
 {
+"structpointmenu__cb_1_1impl__t.html#a26dae5ae43156b9005e5909e7808b3d2":[36,0,741,0,2],
+"structpointmenu__cb_1_1impl__t.html#a4cf6a728ebe0f98823bb476d2d3aa1d5":[36,0,741,0,5],
 "structpointmenu__cb_1_1impl__t.html#a661b1a2e16238ac202a7dc3a2f464796":[36,0,741,0,1],
 "structpointmenu__cb_1_1impl__t.html#a8ee450523cb03d2db08d659cf827d73e":[36,0,741,0,3],
 "structpointmenu__cb_1_1impl__t.html#a90e7cfd02f999c549903366a443f392f":[36,0,741,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX152 =
 "structregion__terrain__and__furniture__settings.html#aa570129751a364dbd48816f7c4aca745":[36,0,768,2],
 "structregion__terrain__and__furniture__settings.html#ae29c49e136ba27f20cbbc457703be74e":[36,0,768,0],
 "structregional__settings.html":[36,0,769],
-"structregional__settings.html#a0d312ede0b608ac3970cb95f60735fc8":[36,0,769,1],
-"structregional__settings.html#a1e58ab6ae92a6ad3b80b3f22ee65bf54":[36,0,769,15],
-"structregional__settings.html#a362b0d08f70e68322e56b7378593ff7c":[36,0,769,6]
+"structregional__settings.html#a0d312ede0b608ac3970cb95f60735fc8":[36,0,769,1]
 };

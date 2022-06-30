@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"structsphere.html#a34404561fad440a3fa54e0d434ce96db":[36,0,841,0],
+"structsphere.html#ab16d49e72153fc6278ecaf5ae29525aa":[36,0,841,3],
 "structsphere.html#ac90471295cb773d806729cb7002fca25":[36,0,841,2],
 "structsphere.html#ad63ffa503da72ae302d36c80946f7596":[36,0,841,1],
 "structstat__mod.html":[36,0,845],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "structtime__info__t.html#a562e779c37f25968ccd5f5298a8c308c":[36,0,891,1],
 "structtime__info__t.html#ab3676d37128ef1625abe58686c8c2bfb":[36,0,891,0],
 "structtimed__event.html":[36,0,893],
-"structtimed__event.html#a015cccc7239db6edded5f390d39ce92f":[36,0,893,1],
-"structtimed__event.html#a108a46a65f29ec9cc34c41e5fcc95241":[36,0,893,6],
-"structtimed__event.html#a3f5b5f973d2368b89e709ffdc72ef5fb":[36,0,893,5]
+"structtimed__event.html#a015cccc7239db6edded5f390d39ce92f":[36,0,893,1]
 };

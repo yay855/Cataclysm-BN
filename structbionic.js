@@ -21,6 +21,7 @@ var structbionic =
     [ "auto_start_threshold", "structbionic.html#a1653e341c38d8ced1112b63be102c8f6", null ],
     [ "bionic_tags", "structbionic.html#ad584892540f36aa0c358634c41eccd7e", null ],
     [ "charge_timer", "structbionic.html#a9ba6a347620bc748a13a909909effd3e", null ],
+    [ "energy_stored", "structbionic.html#a9ffb74340fe471788746f0a0247bf772", null ],
     [ "id", "structbionic.html#a69c27d34e4a5014ae73135e80dd304b0", null ],
     [ "incapacitated_time", "structbionic.html#af11f65196d14cfeafffc68124ff00f00", null ],
     [ "invlet", "structbionic.html#a4b38420250d3ff4ad9c7eba7e2b25a48", null ],

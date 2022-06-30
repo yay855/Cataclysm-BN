@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"structislot__tool.html":[36,0,442],
+"structislot__tool.html#a34cb657c095ea8da2fb8b97220a05c0e":[36,0,442,7],
 "structislot__tool.html#a469419f9c49e27d69483dec969debf17":[36,0,442,4],
 "structislot__tool.html#a4906f4af3ef31373c2a1e9e0e3296b4d":[36,0,442,2],
 "structislot__tool.html#a5aa69741a40ee3d2f76571d1a844ccae":[36,0,442,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "structjson__source__location.html":[36,0,506],
 "structjson__source__location.html#a0be5647cfb5b9be0292f80f851ea0c5f":[36,0,506,0],
 "structjson__source__location.html#a4c1f7b56b78a73e263a4c04b6e3e5192":[36,0,506,1],
-"structkey__from__json__string.html":[36,0,519],
-"structkey__from__json__string_3_01Enum_00_01std_1_1enable__if__t_3_01std_1_1is__enum_3_01Enum_01_4_1_1value_01_4_01_4.html":[36,0,520],
-"structkey__from__json__string_3_01Enum_00_01std_1_1enable__if__t_3_01std_1_1is__enum_3_01Enum_01_4_1_1value_01_4_01_4.html#a9f873e25e08d8b7d606b605e9bd3f4e4":[36,0,520,0]
+"structkey__from__json__string.html":[36,0,519]
 };

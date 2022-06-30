@@ -1,5 +1,6 @@
 var NAVTREEINDEX104 =
 {
+"mod__tileset_8h.html#ad213acd18f3682e97f0e8b75801b95d1":[37,0,1,376,3],
 "mod__tileset_8h_source.html":[37,0,1,376],
 "modules.html":[34],
 "monattack_8cpp.html":[37,0,1,377],
@@ -248,6 +249,5 @@ var NAVTREEINDEX104 =
 "mondeath_8cpp.html#a039c3acd23099e1631feefe7748f49ac":[37,0,1,379,14],
 "mondeath_8cpp.html#a041e74f49f2eab98904a956d5d5e473a":[37,0,1,379,19],
 "mondeath_8cpp.html#a0781c8bcbb6f6f615b022a1b308a21f7":[37,0,1,379,24],
-"mondeath_8cpp.html#a0e701368604950da9eae27352af9044b":[37,0,1,379,9],
-"mondeath_8cpp.html#a1274db01551e337ca6c69d003d280e98":[37,0,1,379,21]
+"mondeath_8cpp.html#a0e701368604950da9eae27352af9044b":[37,0,1,379,9]
 };

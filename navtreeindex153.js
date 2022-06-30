@@ -1,5 +1,7 @@
 var NAVTREEINDEX153 =
 {
+"structregional__settings.html#a1e58ab6ae92a6ad3b80b3f22ee65bf54":[36,0,769,15],
+"structregional__settings.html#a362b0d08f70e68322e56b7378593ff7c":[36,0,769,6],
 "structregional__settings.html#a606dc3092534055bee681caf6f9e6d48":[36,0,769,13],
 "structregional__settings.html#a653abf108c611cefd8f33cbdab28140e":[36,0,769,5],
 "structregional__settings.html#a71bd1cf5d47797847624483f5bb20263":[36,0,769,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX153 =
 "structspell__detail_1_1line__iterable.html#af7628089c641c6d0487ad5b4a7573ef0":[35,0,147,0,2],
 "structspell__detail_1_1line__iterable.html#af7628089c641c6d0487ad5b4a7573ef0":[36,0,33,0,2],
 "structsphere.html":[36,0,841],
-"structsphere.html#a1747279c77c768c61a33e22b2d282254":[36,0,841,4],
-"structsphere.html#a34404561fad440a3fa54e0d434ce96db":[36,0,841,0],
-"structsphere.html#ab16d49e72153fc6278ecaf5ae29525aa":[36,0,841,3]
+"structsphere.html#a1747279c77c768c61a33e22b2d282254":[36,0,841,4]
 };
