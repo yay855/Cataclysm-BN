@@ -1,5 +1,13 @@
 var NAVTREEINDEX47 =
 {
+"classjson__talk__topic.html#a6708bd7cc150086a186834e18602153f":[36,0,509,1],
+"classjson__talk__topic.html#a88388d9df3956532a3c729eaefdb0951":[36,0,509,8],
+"classjson__talk__topic.html#a8df0825ed5c5fa802df2d6b6dab827df":[36,0,509,3],
+"classjson__talk__topic.html#aab530ab1bd05a679e710c1bf342e6d09":[36,0,509,4],
+"classjson__talk__topic.html#ab866df08f1f584775ae7789ad221b1ed":[36,0,509,5],
+"classjson__talk__topic.html#ad290464175bb9209acef01ce25c34873":[36,0,509,7],
+"classkill__tracker.html":[36,0,523],
+"classkill__tracker.html#a0cda164553dbb4498ce4debef7ba2835":[36,0,523,3],
 "classkill__tracker.html#a1fbcc4310449c768846a668f79fc90e7":[36,0,523,12],
 "classkill__tracker.html#a5e24113dea091488c3dc08b65faf8322":[36,0,523,13],
 "classkill__tracker.html#a6193f1472eeb9cd71b11913472d640bd":[36,0,523,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX47 =
 "classma__weapon__damage__reader.html#a8287a45b78404eed8ba81f29bae6a0cd":[36,0,553,1],
 "classmain__menu.html":[36,0,554],
 "classmain__menu.html#a0448978efb910aad386c22a8cd53cfb4":[36,0,554,36],
-"classmain__menu.html#a07f8ebf39264602e4b715515695fe80e":[36,0,554,16],
-"classmain__menu.html#a088dac3416c18271eff6ea74466af758":[36,0,554,19],
-"classmain__menu.html#a0d0587144d1369c5369014caf0691489":[36,0,554,20],
-"classmain__menu.html#a0fb869206105b33c5e9e077779dd318c":[36,0,554,6],
-"classmain__menu.html#a1325b0d0775f52828b57c31e7f0a116b":[36,0,554,15],
-"classmain__menu.html#a13e8c5fa5c8ff204ae1811bc5bf76db9":[36,0,554,0],
-"classmain__menu.html#a21588bc2b2a05b65a747a12da302daf0":[36,0,554,32],
-"classmain__menu.html#a22550ea68036ab0af52f8b9e3a3dde4c":[36,0,554,1],
-"classmain__menu.html#a2c20926b480e1b8721aaed9a8527bb2c":[36,0,554,4]
+"classmain__menu.html#a07f8ebf39264602e4b715515695fe80e":[36,0,554,16]
 };

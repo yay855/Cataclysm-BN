@@ -1,5 +1,13 @@
 var NAVTREEINDEX46 =
 {
+"classjmapgen__faction.html":[36,0,473],
+"classjmapgen__faction.html#a741db9da4375a7f21b5868e146385d2a":[36,0,473,2],
+"classjmapgen__faction.html#a87a860f0049801610aae6b0425d370e1":[36,0,473,1],
+"classjmapgen__faction.html#aefc668fd7f3972276e41db30d6794099":[36,0,473,0],
+"classjmapgen__field.html":[36,0,474],
+"classjmapgen__field.html#a06acb70033e50e30b7826ef7ea4d4d73":[36,0,474,2],
+"classjmapgen__field.html#a1785f5654924d09298f00fd934af8988":[36,0,474,4],
+"classjmapgen__field.html#a84a0dca1bac03c213ff06fd38ad1c205":[36,0,474,1],
 "classjmapgen__field.html#aea9b95dce9c5f4b873c66acecc859f74":[36,0,474,0],
 "classjmapgen__field.html#afcfc470004709b5ded1794dc8d1e37d1":[36,0,474,3],
 "classjmapgen__furniture.html":[36,0,475],
@@ -241,13 +249,5 @@ var NAVTREEINDEX46 =
 "classjson__talk__topic.html#a37dae88b07a4b0a36250545a10fcad6e":[36,0,509,2],
 "classjson__talk__topic.html#a3cb657577a284656df8296c1a67443e4":[36,0,509,10],
 "classjson__talk__topic.html#a4899a0dc38a5bbec1494b16c587691ce":[36,0,509,0],
-"classjson__talk__topic.html#a60d46eeeb595c3390a394d36850e93ac":[36,0,509,6],
-"classjson__talk__topic.html#a6708bd7cc150086a186834e18602153f":[36,0,509,1],
-"classjson__talk__topic.html#a88388d9df3956532a3c729eaefdb0951":[36,0,509,8],
-"classjson__talk__topic.html#a8df0825ed5c5fa802df2d6b6dab827df":[36,0,509,3],
-"classjson__talk__topic.html#aab530ab1bd05a679e710c1bf342e6d09":[36,0,509,4],
-"classjson__talk__topic.html#ab866df08f1f584775ae7789ad221b1ed":[36,0,509,5],
-"classjson__talk__topic.html#ad290464175bb9209acef01ce25c34873":[36,0,509,7],
-"classkill__tracker.html":[36,0,523],
-"classkill__tracker.html#a0cda164553dbb4498ce4debef7ba2835":[36,0,523,3]
+"classjson__talk__topic.html#a60d46eeeb595c3390a394d36850e93ac":[36,0,509,6]
 };
