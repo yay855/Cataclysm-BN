@@ -1,5 +1,7 @@
 var NAVTREEINDEX85 =
 {
+"game_8h.html#a27ff5b62ff56db75d1aed38dfb6f9ad4":[37,0,1,207,31],
+"game_8h.html#a2924321647561aca9977ca98b57874b5":[37,0,1,207,20],
 "game_8h.html#a2ec593ae25fa781c4c03384f439a3175":[37,0,1,207,28],
 "game_8h.html#a3b764ae8d2e7cf8b93aa37e0a834b0a3":[37,0,1,207,14],
 "game_8h.html#a3b764ae8d2e7cf8b93aa37e0a834b0a3ad5f73c826d405eee4e962c2f438cbe70":[37,0,1,207,14,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX85 =
 "gamemode__defense_8h.html#aba5ec805df25924330a57ca17554cd79a67b7d903fa45c1a058a9b890b76d0f1f":[37,0,1,216,2,8],
 "gamemode__defense_8h.html#aba5ec805df25924330a57ca17554cd79af294110cdfbd0364e6c0c9c883c228d4":[37,0,1,216,2,7],
 "gamemode__defense_8h.html#ac34fd12b283cd18207efedba46e540d2":[37,0,1,216,4],
-"gamemode__defense_8h.html#ac34fd12b283cd18207efedba46e540d2a0dd496ccda638a3fd6d0a37730f40eee":[37,0,1,216,4,2],
-"gamemode__defense_8h.html#ac34fd12b283cd18207efedba46e540d2a14e1bcc10b5cab25569425a2c577beaa":[37,0,1,216,4,3],
-"gamemode__defense_8h.html#ac34fd12b283cd18207efedba46e540d2a731e29e759656bacfe9e4cc906d9c7d1":[37,0,1,216,4,9]
+"gamemode__defense_8h.html#ac34fd12b283cd18207efedba46e540d2a0dd496ccda638a3fd6d0a37730f40eee":[37,0,1,216,4,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX116 =
 {
+"namespacemelee.html":[35,0,117],
+"namespacemelee.html#a037bbc3757ef2973e9d84c68ebbad9a9":[35,0,117,3],
 "namespacemelee.html#a33b60e27938b5580314106c628ec5f06":[35,0,117,1],
 "namespacemelee.html#a5ed3b88ed3376694a321005bc94214b7":[35,0,117,2],
 "namespacemelee.html#aa17d019b7ecb851f167fabc75b2362f9":[35,0,117,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX116 =
 "namespacepf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03.html#a0e8ef21a2d69ccae460acfc3baac8c07":[35,0,137,0,4],
 "namespacepf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03.html#a2e85cc5786917ed6927e8ac06512f374":[35,0,137,0,7],
 "namespacepf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03.html#a6e3091cce260b1c3821827e9dde921e9":[35,0,137,0,3],
-"namespacepf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03.html#aa1c49846f7751d9fa02c273867180a7e":[35,0,137,0,5],
-"namespacepickup.html":[35,0,138],
-"namespacepickup.html#a03a2e6f98be01a67be0ad42cb7aa4c61":[35,0,138,5]
+"namespacepf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03.html#aa1c49846f7751d9fa02c273867180a7e":[35,0,137,0,5]
 };

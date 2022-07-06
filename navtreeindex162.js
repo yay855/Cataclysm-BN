@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"weather__type_8h.html#a07843d170d5e4fbc42df83f3c3daee75":[37,0,1,633,8],
+"weather__type_8h.html#a0b78777ab367c0db919aacd8bba938f0":[37,0,1,633,9],
 "weather__type_8h.html#a0b78777ab367c0db919aacd8bba938f0a2ac43aa43bf473f9a9c09b4b608619d3":[37,0,1,633,9,2],
 "weather__type_8h.html#a0b78777ab367c0db919aacd8bba938f0a334c4a4c42fdb79d7ebc3e73b517e6f8":[37,0,1,633,9,0],
 "weather__type_8h.html#a0b78777ab367c0db919aacd8bba938f0a7cfe64ea44dc3bbeb63b29ff3039a481":[37,0,1,633,9,3],

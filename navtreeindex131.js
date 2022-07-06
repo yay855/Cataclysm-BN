@@ -1,5 +1,7 @@
 var NAVTREEINDEX131 =
 {
+"structVehicleLocation.html#a1651c4dfd1d03a1c27d8c85f63664602":[36,0,950,0],
+"structVehicleLocation.html#a1c0577cc25df5ad9d11a078a4cc50757":[36,0,950,1],
 "structVehicleLocation.html#a1ca32f1cd55a1fad40b90e24a02a71fa":[36,0,950,5],
 "structVehicleLocation.html#a78c74c8df4d2a3662598f1c47b776fec":[36,0,950,3],
 "structVehicleLocation.html#a98c1af7e96aefe1fe452535c9b8eec1a":[36,0,950,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX131 =
 "structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#adc64d4377b8a35965b574632e95990ad":[35,0,40,0,7],
 "structanonymous__namespace_02recipe__groups_8cpp_03_1_1recipe__group__data.html":[36,0,8,0],
 "structanonymous__namespace_02recipe__groups_8cpp_03_1_1recipe__group__data.html":[35,0,50,0],
-"structanonymous__namespace_02recipe__groups_8cpp_03_1_1recipe__group__data.html#a14e21daa113b842656698848ecf9f581":[36,0,8,0,1],
-"structanonymous__namespace_02recipe__groups_8cpp_03_1_1recipe__group__data.html#a14e21daa113b842656698848ecf9f581":[35,0,50,0,1],
-"structanonymous__namespace_02recipe__groups_8cpp_03_1_1recipe__group__data.html#a57d2fbc94a63716ff0deed9b496c5315":[36,0,8,0,3]
+"structanonymous__namespace_02recipe__groups_8cpp_03_1_1recipe__group__data.html#a14e21daa113b842656698848ecf9f581":[36,0,8,0,1]
 };

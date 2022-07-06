@@ -1,5 +1,7 @@
 var NAVTREEINDEX133 =
 {
+"structbionic__data.html":[36,0,108],
+"structbionic__data.html#a11dceb5ca876efb5a865834788ea9bbb":[36,0,108,38],
 "structbionic__data.html#a12166a7456e1c3c46c027e1d90d6a565":[36,0,108,13],
 "structbionic__data.html#a20cd35d6f814b0e7ec9fd32e312664ce":[36,0,108,21],
 "structbionic__data.html#a234cff789bc72433ebcca4e4da4f48f4":[36,0,108,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX133 =
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__triggers__trap_01_4.html":[36,0,14,0,18],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__triggers__trap_01_4.html":[35,0,68,0,18],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__triggers__trap_01_4.html#a4bd2fc84c203aebd3c714afb7459cc02":[36,0,14,0,18,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__triggers__trap_01_4.html#a4bd2fc84c203aebd3c714afb7459cc02":[35,0,68,0,18,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__wakes__up_01_4.html":[35,0,68,0,19],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__wakes__up_01_4.html":[36,0,14,0,19]
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__triggers__trap_01_4.html#a4bd2fc84c203aebd3c714afb7459cc02":[35,0,68,0,18,0]
 };
