@@ -1,5 +1,8 @@
 var NAVTREEINDEX110 =
 {
+"namespaceanonymous__namespace_02live__view_8cpp_03.html#a32b3f1d49c12690986ef7ff300f6dd97":[35,0,31,1],
+"namespaceanonymous__namespace_02magic_8cpp_03.html":[35,0,32],
+"namespaceanonymous__namespace_02magic_8cpp_03.html#adb68c1ae0d163ec93e1820c9a3374a6d":[35,0,32,0],
 "namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html":[35,0,33],
 "namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#a5fcc56ba11bba20034a45fa200fb9db8":[35,0,33,1],
 "namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#aabd90917ed74421ca18812b8922c41a8":[35,0,33,0],
@@ -185,15 +188,15 @@ var NAVTREEINDEX110 =
 "namespacecata.html#ae46986af1dab17c49a326aca49824ebb":[35,0,68,43],
 "namespacecata.html#ae69b05589ee85e0484909df93337e642":[35,0,68,46],
 "namespacecata.html#afffb8622bc3a60914019309e92cc57e3":[35,0,68,49],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,39],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,31],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,32],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,33],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,34],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,35],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,37],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,39],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,38],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,37],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,40],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,34],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,33],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,32],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,68,31],
 "namespacecata_1_1event__detail.html":[35,0,68,0],
 "namespacecata_1_1hash64__detail.html":[35,0,68,1],
 "namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4":[35,0,68,1,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX110 =
 "namespacecatacurses.html#a03121643695b0c990aed0a0b0408e85f":[35,0,73,26],
 "namespacecatacurses.html#a07c5180048f87110c547f58341b04812":[35,0,73,27],
 "namespacecatacurses.html#a09e76bc17486e9c6132dea7af4b74d23":[35,0,73,11],
-"namespacecatacurses.html#a15fdfac7c1c8dabb4e3455539c483af5":[35,0,73,33],
-"namespacecatacurses.html#a1687642ac64126135cb717de36e9e087":[35,0,73,17],
-"namespacecatacurses.html#a1cf4fdb43a9d75c345023dd2c4ef16ef":[35,0,73,1],
-"namespacecatacurses.html#a2181be54a83455ed99a7b7fab4fb46e8":[35,0,73,3]
+"namespacecatacurses.html#a15fdfac7c1c8dabb4e3455539c483af5":[35,0,73,33]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX94 =
 {
+"iuse__software__snake_8h.html":[37,0,1,284],
+"iuse__software__snake_8h.html#acdf5be326f7b8b3dc9a5b549e6b5d1f6":[37,0,1,284,1],
+"iuse__software__snake_8h_source.html":[37,0,1,284],
 "iuse__software__sokoban_8cpp.html":[37,0,1,285],
 "iuse__software__sokoban_8cpp_source.html":[37,0,1,285],
 "iuse__software__sokoban_8h.html":[37,0,1,286],
@@ -246,8 +249,5 @@ var NAVTREEINDEX94 =
 "live__view_8cpp.html#a32b3f1d49c12690986ef7ff300f6dd97":[37,0,1,298,1],
 "live__view_8cpp_source.html":[37,0,1,298],
 "live__view_8h.html":[37,0,1,299],
-"live__view_8h.html#abd231bcbf48e6f61c58647a80ac293d9":[37,0,1,299,1],
-"live__view_8h_source.html":[37,0,1,299],
-"loading__ui_8cpp.html":[37,0,1,300],
-"loading__ui_8cpp_source.html":[37,0,1,300]
+"live__view_8h.html#abd231bcbf48e6f61c58647a80ac293d9":[37,0,1,299,1]
 };

@@ -854,6 +854,7 @@ var annotated_dup =
     [ "islot_gun", "structislot__gun.html", "structislot__gun" ],
     [ "islot_gunmod", "structislot__gunmod.html", "structislot__gunmod" ],
     [ "islot_magazine", "structislot__magazine.html", "structislot__magazine" ],
+    [ "islot_milling", "classislot__milling.html", "classislot__milling" ],
     [ "islot_mod", "structislot__mod.html", "structislot__mod" ],
     [ "islot_pet_armor", "structislot__pet__armor.html", "structislot__pet__armor" ],
     [ "islot_seed", "structislot__seed.html", "structislot__seed" ],

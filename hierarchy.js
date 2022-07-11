@@ -920,6 +920,7 @@ var hierarchy =
     [ "islot_engine", "structislot__engine.html", null ],
     [ "islot_fuel", "structislot__fuel.html", null ],
     [ "islot_magazine", "structislot__magazine.html", null ],
+    [ "islot_milling", "classislot__milling.html", null ],
     [ "islot_mod", "structislot__mod.html", null ],
     [ "islot_pet_armor", "structislot__pet__armor.html", null ],
     [ "islot_seed", "structislot__seed.html", null ],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX93 =
 {
+"iuse_8h.html#a3bdece1a07a33641fa483176a9bd0175":[37,0,1,272,172],
+"iuse_8h.html#a3c1d4a10bd7e29e546ba40ab02b3d765":[37,0,1,272,122],
+"iuse_8h.html#a3ec4a9ae044aed6a9e99b59258a6fbda":[37,0,1,272,148],
 "iuse_8h.html#a3ed61e824f231f3b6855d8d3769f085a":[37,0,1,272,171],
 "iuse_8h.html#a3f435663e43863b4d83264dac8fbe9ad":[37,0,1,272,104],
 "iuse_8h.html#a418d7c8d1422f573f32df2253997b165":[37,0,1,272,45],
@@ -246,8 +249,5 @@ var NAVTREEINDEX93 =
 "iuse__software__minesweeper_8h.html#a2d07c8b60e2af8fab2a72a6ceaf79374":[37,0,1,282,1],
 "iuse__software__minesweeper_8h_source.html":[37,0,1,282],
 "iuse__software__snake_8cpp.html":[37,0,1,283],
-"iuse__software__snake_8cpp_source.html":[37,0,1,283],
-"iuse__software__snake_8h.html":[37,0,1,284],
-"iuse__software__snake_8h.html#acdf5be326f7b8b3dc9a5b549e6b5d1f6":[37,0,1,284,1],
-"iuse__software__snake_8h_source.html":[37,0,1,284]
+"iuse__software__snake_8cpp_source.html":[37,0,1,283]
 };
