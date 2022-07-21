@@ -1157,7 +1157,7 @@ $(document).ready(function(){initNavTree('gamemode__defense_8cpp_source.html',''
 <div class="line"><a id="l01068" name="l01068"></a><span class="lineno"> 1068</span>                    <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;u.i_add( tmp );</div>
 <div class="line"><a id="l01069" name="l01069"></a><span class="lineno"> 1069</span>                } <span class="keywordflow">else</span> { <span class="comment">// Could fit it in the inventory!</span></div>
 <div class="line"><a id="l01070" name="l01070"></a><span class="lineno"> 1070</span>                    dropped_some = <span class="keyword">true</span>;</div>
-<div class="line"><a id="l01071" name="l01071"></a><span class="lineno"> 1071</span>                    <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;m.add_item_or_charges( <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;u.pos(), tmp );</div>
+<div class="line"><a id="l01071" name="l01071"></a><span class="lineno"> 1071</span>                    <a class="code hl_function" href="map_8cpp.html#acb0b34be6e497bdd2f9f40ae6929d562">get_map</a>().<a class="code hl_function" href="classmap.html#a5579e13088b4ccd9c5a75458919d528a">add_item_or_charges</a>( <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;u.pos(), tmp );</div>
 <div class="line"><a id="l01072" name="l01072"></a><span class="lineno"> 1072</span>                }</div>
 <div class="line"><a id="l01073" name="l01073"></a><span class="lineno"> 1073</span>            }</div>
 <div class="line"><a id="l01074" name="l01074"></a><span class="lineno"> 1074</span>        }</div>
@@ -1562,6 +1562,7 @@ $(document).ready(function(){initNavTree('gamemode__defense_8cpp_source.html',''
 <div class="ttc" id="aclassitem_html_a910393f5651f273b5df0bdd576bef78d"><div class="ttname"><a href="classitem.html#a910393f5651f273b5df0bdd576bef78d">item::price</a></div><div class="ttdeci">int price(bool practical) const</div><div class="ttdoc">Returns the monetary value of an item.</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l04807">item.cpp:4807</a></div></div>
 <div class="ttc" id="aclassitem_html_aa7e9319c5779e2e1c550158ee8a2cc98"><div class="ttname"><a href="classitem.html#aa7e9319c5779e2e1c550158ee8a2cc98">item::magazine_integral</a></div><div class="ttdeci">bool magazine_integral() const</div><div class="ttdoc">Does item have an integral magazine (as opposed to allowing detachable magazines)</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l07503">item.cpp:7503</a></div></div>
 <div class="ttc" id="aclassmap_html_a3d3299337a809f5b5d4c435a199cd82c"><div class="ttname"><a href="classmap.html#a3d3299337a809f5b5d4c435a199cd82c">map::clear_traps</a></div><div class="ttdeci">void clear_traps()</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l07591">map.cpp:7591</a></div></div>
+<div class="ttc" id="aclassmap_html_a5579e13088b4ccd9c5a75458919d528a"><div class="ttname"><a href="classmap.html#a5579e13088b4ccd9c5a75458919d528a">map::add_item_or_charges</a></div><div class="ttdeci">item &amp; add_item_or_charges(const tripoint &amp;pos, item obj, bool overflow=true)</div><div class="ttdoc">Adds an item to map tile or stacks charges.</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l04212">map.cpp:4212</a></div></div>
 <div class="ttc" id="aclassmap_html_a6bc669c8915ae41469ef8f0b5e925c3e"><div class="ttname"><a href="classmap.html#a6bc669c8915ae41469ef8f0b5e925c3e">map::save</a></div><div class="ttdeci">void save()</div><div class="ttdoc">Add currently loaded submaps (in grid) to the mapbuffer.</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l06483">map.cpp:6483</a></div></div>
 <div class="ttc" id="aclassmap_html_aa6a7244304f9053fa555bbc29ed0dcc5"><div class="ttname"><a href="classmap.html#aa6a7244304f9053fa555bbc29ed0dcc5">map::generate</a></div><div class="ttdeci">void generate(const tripoint &amp;p, const time_point &amp;when)</div><div class="ttdef"><b>Definition:</b> <a href="mapgen_8cpp_source.html#l00105">mapgen.cpp:105</a></div></div>
 <div class="ttc" id="aclassmap_html_ab118e42361f7efce62fdf46df19c9994"><div class="ttname"><a href="classmap.html#ab118e42361f7efce62fdf46df19c9994">map::clear_spawns</a></div><div class="ttdeci">void clear_spawns()</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l07584">map.cpp:7584</a></div></div>
@@ -1671,6 +1672,7 @@ $(document).ready(function(){initNavTree('gamemode__defense_8cpp_source.html',''
 <div class="ttc" id="ainput_8h_html"><div class="ttname"><a href="input_8h.html">input.h</a></div></div>
 <div class="ttc" id="aitem_8h_html"><div class="ttname"><a href="item_8h.html">item.h</a></div></div>
 <div class="ttc" id="aitem__group_8h_html"><div class="ttname"><a href="item__group_8h.html">item_group.h</a></div></div>
+<div class="ttc" id="amap_8cpp_html_acb0b34be6e497bdd2f9f40ae6929d562"><div class="ttname"><a href="map_8cpp.html#acb0b34be6e497bdd2f9f40ae6929d562">get_map</a></div><div class="ttdeci">map &amp; get_map()</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l00141">map.cpp:141</a></div></div>
 <div class="ttc" id="amap_8h_html"><div class="ttname"><a href="map_8h.html">map.h</a></div></div>
 <div class="ttc" id="amessages_8cpp_html_a54489326fc37823819c5105addfa27f2"><div class="ttname"><a href="messages_8cpp.html#a54489326fc37823819c5105addfa27f2">add_msg</a></div><div class="ttdeci">void add_msg(std::string msg)</div><div class="ttdef"><b>Definition:</b> <a href="messages_8cpp_source.html#l00884">messages.cpp:884</a></div></div>
 <div class="ttc" id="amessages_8h_html"><div class="ttname"><a href="messages_8h.html">messages.h</a></div></div>
@@ -1806,7 +1808,7 @@ $(document).ready(function(){initNavTree('gamemode__defense_8cpp_source.html',''
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="gamemode__defense_8cpp.html">gamemode_defense.cpp</a></li>
-    <li class="footer">Generated on Thu Jul 21 2022 21:46:07 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Thu Jul 21 2022 21:47:07 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
