@@ -326,7 +326,7 @@ var searchData=
   ['elements_323',['elements',['../classsubmap.html#a6aa8eac8b516b65613b099399075fc4d',1,'submap::elements()'],['../classshape__min.html#a145c35b832787d6571f4a1b94fc27ac4',1,'shape_min::elements()'],['../structcata_1_1colony_1_1group.html#a38efcb309efe4ba2c9def35c654cea03',1,'cata::colony::group::elements()']]],
   ['elementwise_5fmax_324',['elementwise_max',['../structfour__quadrants.html#a12e2585a184311d6d9d1f3880b951c0f',1,'four_quadrants::elementwise_max()'],['../structfour__quadrants.html#adf374a1e433a6c53d858b945910a73fb',1,'four_quadrants::elementwise_max()']]],
   ['elems_325',['elems',['../classexplosion__handler_1_1explosion__queue.html#a66a046dd6be9e1611d6707db7f200079',1,'explosion_handler::explosion_queue']]],
-  ['elevate_5fbridges_326',['elevate_bridges',['../overmap_8cpp.html#a4a593a5ed27a71543b0c7a15e1876ff2',1,'overmap.cpp']]],
+  ['elevate_5fbridges_326',['elevate_bridges',['../overmap_8cpp.html#a4ed05175aca230b5737505cb0eb61712',1,'overmap.cpp']]],
   ['elevator_327',['elevator',['../namespaceiexamine.html#ab4fee7395ae362ec1cdc5cc9c9fa5911',1,'iexamine']]],
   ['else_5fentries_328',['else_entries',['../classjmapgen__nested.html#a00903e0f5296883e8a2530887f19469f',1,'jmapgen_nested']]],
   ['em_329',['em',['../classeditmap_1_1game__draw__callback__t__container.html#a021c2e54a90156fc065379decae08e77',1,'editmap::game_draw_callback_t_container']]],

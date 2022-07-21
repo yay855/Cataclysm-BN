@@ -272,8 +272,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><a id="l00728" name="l00728"></a><span class="lineno">  728</span>    <a class="code hl_variable" href="structoter__t.html#a7fa3e17aec8f6cce296ae95d1aa704bc">symbol_alt</a>( <a class="code hl_function" href="namespaceom__direction.html#a1a2e4f8ffd98ed611f555d655bb018ae">om_direction::rotate_symbol</a>( <a class="code hl_variable" href="structoter__t.html#a063e58c6a2620660da9a8e95f6819b29">type</a>.<a class="code hl_variable" href="structoter__type__t.html#ad64566e2bbcbae2d691556ced30d1cbe">land_use_code</a> ? <a class="code hl_variable" href="structoter__t.html#a063e58c6a2620660da9a8e95f6819b29">type</a>.<a class="code hl_variable" href="structoter__type__t.html#ad64566e2bbcbae2d691556ced30d1cbe">land_use_code</a>-&gt;<a class="code hl_variable" href="classovermap__land__use__code.html#a7418cef4e4df1c4be6ca74dec051e006">symbol</a> :</div>
 <div class="line"><a id="l00729" name="l00729"></a><span class="lineno">  729</span>                <a class="code hl_variable" href="structoter__t.html#a063e58c6a2620660da9a8e95f6819b29">type</a>.<a class="code hl_variable" href="structoter__type__t.html#a27e07d2930d3ea08c22a46787b06dab3">symbol</a>, <a class="code hl_variable" href="structoter__t.html#a261f01242d082319b6ddd5789a6e705b">dir</a> ) ),</div>
 <div class="line"><a id="l00730" name="l00730"></a><span class="lineno">  730</span>    <a class="code hl_variable" href="structoter__t.html#a7fdea5293d90ccc952b2426b2879fc08">line</a>( <a class="code hl_function" href="namespaceom__lines.html#a444f5998f333364be25137a388f18ddb">om_lines::from_dir</a>( <a class="code hl_variable" href="structoter__t.html#a261f01242d082319b6ddd5789a6e705b">dir</a> ) ) {}</div>
-<div class="ttc" id="anamespaceom__direction_html_a1a2e4f8ffd98ed611f555d655bb018ae"><div class="ttname"><a href="namespaceom__direction.html#a1a2e4f8ffd98ed611f555d655bb018ae">om_direction::rotate_symbol</a></div><div class="ttdeci">uint32_t rotate_symbol(uint32_t sym, type dir)</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l04097">overmap.cpp:4097</a></div></div>
-<div class="ttc" id="anamespaceom__direction_html_aa1a61aff83d6172cc670f0492ca0e8ea"><div class="ttname"><a href="namespaceom__direction.html#aa1a61aff83d6172cc670f0492ca0e8ea">om_direction::id</a></div><div class="ttdeci">const std::string &amp; id(type dir)</div><div class="ttdoc">Identifier for serialization purposes.</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l04039">overmap.cpp:4039</a></div></div>
+<div class="ttc" id="anamespaceom__direction_html_a1a2e4f8ffd98ed611f555d655bb018ae"><div class="ttname"><a href="namespaceom__direction.html#a1a2e4f8ffd98ed611f555d655bb018ae">om_direction::rotate_symbol</a></div><div class="ttdeci">uint32_t rotate_symbol(uint32_t sym, type dir)</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l04120">overmap.cpp:4120</a></div></div>
+<div class="ttc" id="anamespaceom__direction_html_aa1a61aff83d6172cc670f0492ca0e8ea"><div class="ttname"><a href="namespaceom__direction.html#aa1a61aff83d6172cc670f0492ca0e8ea">om_direction::id</a></div><div class="ttdeci">const std::string &amp; id(type dir)</div><div class="ttdoc">Identifier for serialization purposes.</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l04062">overmap.cpp:4062</a></div></div>
 <div class="ttc" id="anamespaceom__lines_html_a444f5998f333364be25137a388f18ddb"><div class="ttname"><a href="namespaceom__lines.html#a444f5998f333364be25137a388f18ddb">om_lines::from_dir</a></div><div class="ttdeci">static size_t from_dir(om_direction::type dir)</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l00168">overmap.cpp:168</a></div></div>
 <div class="ttc" id="astructoter__t_html_a261f01242d082319b6ddd5789a6e705b"><div class="ttname"><a href="structoter__t.html#a261f01242d082319b6ddd5789a6e705b">oter_t::dir</a></div><div class="ttdeci">om_direction::type dir</div><div class="ttdef"><b>Definition:</b> <a href="omdata_8h_source.html#l00391">omdata.h:391</a></div></div>
 <div class="ttc" id="astructoter__t_html_a7fdea5293d90ccc952b2426b2879fc08"><div class="ttname"><a href="structoter__t.html#a7fdea5293d90ccc952b2426b2879fc08">oter_t::line</a></div><div class="ttdeci">size_t line</div><div class="ttdef"><b>Definition:</b> <a href="omdata_8h_source.html#l00394">omdata.h:394</a></div></div>
@@ -385,7 +385,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="omdata_8h_source.html#l00391">dir</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03780">overmap::build_connection()</a>, <a class="el" href="mapgen_8cpp_source.html#l02771">mapgen_function_json::generate()</a>, <a class="el" href="overmap_8cpp_source.html#l01638">overmap::generate_sub()</a>, <a class="el" href="overmap_8cpp_source.html#l00753">get_rotation_and_subtile()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l01633">mapgen_railroad_bridge()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l00172">mapgen_rotate()</a>, and <a class="el" href="overmap_8cpp_source.html#l02485">overmap::place_forest_trailheads()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03803">overmap::build_connection()</a>, <a class="el" href="mapgen_8cpp_source.html#l02771">mapgen_function_json::generate()</a>, <a class="el" href="overmap_8cpp_source.html#l01638">overmap::generate_sub()</a>, <a class="el" href="overmap_8cpp_source.html#l00753">get_rotation_and_subtile()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l01633">mapgen_railroad_bridge()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l00172">mapgen_rotate()</a>, and <a class="el" href="overmap_8cpp_source.html#l02508">overmap::place_forest_trailheads()</a>.</p>
 
 </div>
 </div>
@@ -486,7 +486,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="omdata_8h_source.html#l00394">line</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03487">overmap::build_anthill()</a>, <a class="el" href="overmap_8cpp_source.html#l03197">overmap::build_city_street()</a>, and <a class="el" href="overmap_8cpp_source.html#l03780">overmap::build_connection()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03510">overmap::build_anthill()</a>, <a class="el" href="overmap_8cpp_source.html#l03220">overmap::build_city_street()</a>, and <a class="el" href="overmap_8cpp_source.html#l03803">overmap::build_connection()</a>.</p>
 
 </div>
 </div>
@@ -614,14 +614,14 @@ Private Attributes</h2></td></tr>
 <div class="line"><a id="l00749" name="l00749"></a><span class="lineno">  749</span>           ? <a class="code hl_variable" href="structoter__t.html#a063e58c6a2620660da9a8e95f6819b29">type</a>-&gt;<a class="code hl_function" href="structoter__type__t.html#a956ef49de92193e0d4306f6d61e5d443">get_linear</a>( <a class="code hl_function" href="namespaceom__lines.html#a3f2b1a5a226f7015c4aeb889da0ca955">om_lines::rotate</a>( this-&gt;<a class="code hl_variable" href="structoter__t.html#a7fdea5293d90ccc952b2426b2879fc08">line</a>, <a class="code hl_variable" href="structoter__t.html#a261f01242d082319b6ddd5789a6e705b">dir</a> ) )</div>
 <div class="line"><a id="l00750" name="l00750"></a><span class="lineno">  750</span>           : <a class="code hl_variable" href="structoter__t.html#a063e58c6a2620660da9a8e95f6819b29">type</a>-&gt;<a class="code hl_function" href="structoter__type__t.html#aaf8532194ab632bb66c42214f1907178">get_rotated</a>( <a class="code hl_function" href="namespaceom__direction.html#a75c0342ea30288a5a6d5bdbff38f7cde">om_direction::add</a>( this-&gt;<a class="code hl_variable" href="structoter__t.html#a261f01242d082319b6ddd5789a6e705b">dir</a>, <a class="code hl_variable" href="structoter__t.html#a261f01242d082319b6ddd5789a6e705b">dir</a> ) );</div>
 <div class="line"><a id="l00751" name="l00751"></a><span class="lineno">  751</span>}</div>
-<div class="ttc" id="anamespaceom__direction_html_a75c0342ea30288a5a6d5bdbff38f7cde"><div class="ttname"><a href="namespaceom__direction.html#a75c0342ea30288a5a6d5bdbff38f7cde">om_direction::add</a></div><div class="ttdeci">type add(type dir1, type dir2)</div><div class="ttdoc">Returns a sum of two numbers.</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l04117">overmap.cpp:4117</a></div></div>
+<div class="ttc" id="anamespaceom__direction_html_a75c0342ea30288a5a6d5bdbff38f7cde"><div class="ttname"><a href="namespaceom__direction.html#a75c0342ea30288a5a6d5bdbff38f7cde">om_direction::add</a></div><div class="ttdeci">type add(type dir1, type dir2)</div><div class="ttdoc">Returns a sum of two numbers.</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l04140">overmap.cpp:4140</a></div></div>
 <div class="ttc" id="anamespaceom__lines_html_a3f2b1a5a226f7015c4aeb889da0ca955"><div class="ttname"><a href="namespaceom__lines.html#a3f2b1a5a226f7015c4aeb889da0ca955">om_lines::rotate</a></div><div class="ttdeci">constexpr size_t rotate(size_t line, om_direction::type dir)</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l00132">overmap.cpp:132</a></div></div>
 <div class="ttc" id="astructoter__type__t_html_a956ef49de92193e0d4306f6d61e5d443"><div class="ttname"><a href="structoter__type__t.html#a956ef49de92193e0d4306f6d61e5d443">oter_type_t::get_linear</a></div><div class="ttdeci">oter_id get_linear(size_t n) const</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l00701">overmap.cpp:701</a></div></div>
 <div class="ttc" id="astructoter__type__t_html_aaf8532194ab632bb66c42214f1907178"><div class="ttname"><a href="structoter__type__t.html#aaf8532194ab632bb66c42214f1907178">oter_type_t::get_rotated</a></div><div class="ttdeci">oter_id get_rotated(om_direction::type dir) const</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l00689">overmap.cpp:689</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="overmap_8cpp_source.html#l04117">om_direction::add()</a>, <a class="el" href="omdata_8h_source.html#l00391">dir</a>, <a class="el" href="overmap_8cpp_source.html#l00701">oter_type_t::get_linear()</a>, <a class="el" href="overmap_8cpp_source.html#l00689">oter_type_t::get_rotated()</a>, <a class="el" href="omdata_8h_source.html#l00249">oter_type_t::has_flag()</a>, <a class="el" href="omdata_8h_source.html#l00394">line</a>, <a class="el" href="omdata_8h_source.html#l00190">line_drawing</a>, <a class="el" href="overmap_8cpp_source.html#l00132">om_lines::rotate()</a>, and <a class="el" href="omdata_8h_source.html#l00287">type</a>.</p>
+<p class="reference">References <a class="el" href="overmap_8cpp_source.html#l04140">om_direction::add()</a>, <a class="el" href="omdata_8h_source.html#l00391">dir</a>, <a class="el" href="overmap_8cpp_source.html#l00701">oter_type_t::get_linear()</a>, <a class="el" href="overmap_8cpp_source.html#l00689">oter_type_t::get_rotated()</a>, <a class="el" href="omdata_8h_source.html#l00249">oter_type_t::has_flag()</a>, <a class="el" href="omdata_8h_source.html#l00394">line</a>, <a class="el" href="omdata_8h_source.html#l00190">line_drawing</a>, <a class="el" href="overmap_8cpp_source.html#l00132">om_lines::rotate()</a>, and <a class="el" href="omdata_8h_source.html#l00287">type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap__ui_8cpp_source.html#l00777">overmap_ui::draw_ascii()</a>, <a class="el" href="overmap_8cpp_source.html#l04242">overmap::place_special()</a>, and <a class="el" href="overmap__ui_8cpp_source.html#l01688">overmap_ui::place_ter_or_special()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap__ui_8cpp_source.html#l00777">overmap_ui::draw_ascii()</a>, <a class="el" href="overmap_8cpp_source.html#l04265">overmap::place_special()</a>, and <a class="el" href="overmap__ui_8cpp_source.html#l01688">overmap_ui::place_ter_or_special()</a>.</p>
 
 </div>
 </div>
@@ -845,7 +845,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="omdata_8h_source.html#l00227">oter_type_t::id</a>, and <a class="el" href="omdata_8h_source.html#l00287">type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03487">overmap::build_anthill()</a>, <a class="el" href="overmap_8cpp_source.html#l03780">overmap::build_connection()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l01273">overmap_ui::draw_om_sidebar()</a>, <a class="el" href="overmap_8cpp_source.html#l01918">elevate_bridges()</a>, <a class="el" href="overmap_8cpp_source.html#l00510">is_ot_match()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l01322">mapgen_railroad()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l00490">mapgen_road()</a>, and <a class="el" href="mapgen__functions_8cpp_source.html#l00838">mapgen_subway()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03510">overmap::build_anthill()</a>, <a class="el" href="overmap_8cpp_source.html#l03803">overmap::build_connection()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l01273">overmap_ui::draw_om_sidebar()</a>, <a class="el" href="overmap_8cpp_source.html#l01918">elevate_bridges()</a>, <a class="el" href="overmap_8cpp_source.html#l00510">is_ot_match()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l01322">mapgen_railroad()</a>, <a class="el" href="mapgen__functions_8cpp_source.html#l00490">mapgen_road()</a>, and <a class="el" href="mapgen__functions_8cpp_source.html#l00838">mapgen_subway()</a>.</p>
 
 </div>
 </div>
@@ -1112,7 +1112,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="omdata_8h_source.html#l00265">oter_type_t::is_linear()</a>, and <a class="el" href="omdata_8h_source.html#l00287">type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03780">overmap::build_connection()</a>, and <a class="el" href="overmap_8cpp_source.html#l00753">get_rotation_and_subtile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03803">overmap::build_connection()</a>, and <a class="el" href="overmap_8cpp_source.html#l00753">get_rotation_and_subtile()</a>.</p>
 
 </div>
 </div>
@@ -1182,7 +1182,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="omdata_8h_source.html#l00261">oter_type_t::is_rotatable()</a>, and <a class="el" href="omdata_8h_source.html#l00287">type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03780">overmap::build_connection()</a>, <a class="el" href="mapgen_8cpp_source.html#l02771">mapgen_function_json::generate()</a>, <a class="el" href="overmap_8cpp_source.html#l00753">get_rotation_and_subtile()</a>, and <a class="el" href="overmap__ui_8cpp_source.html#l01688">overmap_ui::place_ter_or_special()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l03803">overmap::build_connection()</a>, <a class="el" href="mapgen_8cpp_source.html#l02771">mapgen_function_json::generate()</a>, <a class="el" href="overmap_8cpp_source.html#l00753">get_rotation_and_subtile()</a>, and <a class="el" href="overmap__ui_8cpp_source.html#l01688">overmap_ui::place_ter_or_special()</a>.</p>
 
 </div>
 </div>
@@ -1250,7 +1250,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="omdata_8h_source.html#l00227">oter_type_t::id</a>, and <a class="el" href="omdata_8h_source.html#l00287">type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap__connection_8cpp_source.html#l00038">overmap_connection::subtype::allows_terrain()</a>, <a class="el" href="overmap_8cpp_source.html#l03197">overmap::build_city_street()</a>, and <a class="el" href="overmap_8cpp_source.html#l00668">oter_type_t::register_terrain()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap__connection_8cpp_source.html#l00038">overmap_connection::subtype::allows_terrain()</a>, <a class="el" href="overmap_8cpp_source.html#l03220">overmap::build_city_street()</a>, and <a class="el" href="overmap_8cpp_source.html#l00668">oter_type_t::register_terrain()</a>.</p>
 
 </div>
 </div>
@@ -1438,7 +1438,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="structoter__t.html">oter_t</a></li>
-    <li class="footer">Generated on Mon Jul 11 2022 09:52:56 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Thu Jul 21 2022 18:28:41 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
