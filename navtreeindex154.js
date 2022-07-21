@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"structspecial__attack.html#a6f2636946f7fe379eb2cdc93e8be40e0":[36,0,835,1],
+"structspecial__attack.html#a731e461645bb900be061d5e007de8723":[36,0,835,0],
 "structspecial__game.html":[36,0,836],
 "structspecial__game.html#a2febfae6530cda3acc72b21a46d4c551":[36,0,836,3],
 "structspecial__game.html#a3136fdad68f271d5b8f79c09a67264c4":[36,0,836,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "structtemperature__effect.html#a9d1e017e352aa6ed8bfb7dd329014d82":[36,0,878,0],
 "structtemperature__effect.html#ad560873f6d8b02fbbd1f9ea5ce264363":[36,0,878,5],
 "structter__furn__id.html":[36,0,881],
-"structter__furn__id.html#a0e4c9b3cbcad5dea11c882c58bf9caaf":[36,0,881,2],
-"structter__furn__id.html#a2fb5bf785bd9beb40c7956f92f00733d":[36,0,881,0],
-"structter__furn__id.html#acbfc4f432b2cf479189e6ab09e37d236":[36,0,881,1]
+"structter__furn__id.html#a0e4c9b3cbcad5dea11c882c58bf9caaf":[36,0,881,2]
 };

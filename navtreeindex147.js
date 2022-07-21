@@ -1,5 +1,7 @@
 var NAVTREEINDEX147 =
 {
+"structmap__memory_1_1coord__pair.html#ad136a4ccba391eac3fbe075ad346f7cb":[36,0,567,0,1],
+"structmap__memory_1_1coord__pair.html#afbaca5d68eda0690dc903960d50ca0ac":[36,0,567,0,2],
 "structmaptile.html":[36,0,581],
 "structmaptile.html#a0159d631feffce6738c8e07a38c934a1":[36,0,581,14],
 "structmaptile.html#a09a3fb71b0c8d22a8d1257144205d775":[36,0,581,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX147 =
 "structmongroup.html#a81e128d63f3362e6467bb9e9f91b74cb":[36,0,623,7],
 "structmongroup.html#a8324fcaf09bb4fb13cc2e527584dc151":[36,0,623,5],
 "structmongroup.html#a8fe94964fb81bf1c28f5d2c1a6724442":[36,0,623,8],
-"structmongroup.html#a98558fc6a97780029b1195483392f071":[36,0,623,15],
-"structmongroup.html#aa8f912d5dbdc16b30293d9d158c54337":[36,0,623,1],
-"structmongroup.html#ab6a6b28d74efd6ddf631c868747535f3":[36,0,623,21]
+"structmongroup.html#a98558fc6a97780029b1195483392f071":[36,0,623,15]
 };
