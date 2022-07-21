@@ -1,5 +1,13 @@
 var NAVTREEINDEX116 =
 {
+"namespacemdeath.html#a7b6de89bbd0d28404dcb3da6638ac038":[35,0,115,9],
+"namespacemdeath.html#a7de3914cb9dc1dbc25bde6c170946a24":[35,0,115,13],
+"namespacemdeath.html#a8552351ca9ff310424c8f48a32eea44a":[35,0,115,33],
+"namespacemdeath.html#a9373a979aa8282207e7b8221f3112fe6":[35,0,115,16],
+"namespacemdeath.html#a9603f2e984887d32c881e9df6d224f37":[35,0,115,4],
+"namespacemdeath.html#a9e7e29aca27668de55cfc4fa0e5ae3f9":[35,0,115,1],
+"namespacemdeath.html#aa395f6a2411d34c58c9fce3f9ca2c2f6":[35,0,115,25],
+"namespacemdeath.html#aa87171d164f54c54a699eb13f9b5f894":[35,0,115,35],
 "namespacemdeath.html#aaa11eb74acaa458a524ce41f4f9a4850":[35,0,115,0],
 "namespacemdeath.html#ab9af743813d471e4f846965044d219e1":[35,0,115,12],
 "namespacemdeath.html#ab9b7285922e5e083b4a090db9137c3d8":[35,0,115,34],
@@ -241,13 +249,5 @@ var NAVTREEINDEX116 =
 "namespaceovermap__terrains.html#adeb350d773c86be9ebdc18a60b9eca30":[35,0,134,2],
 "namespaceovermap__ui.html":[35,0,135],
 "namespaceovermap__ui.html#a06c7012cacbc54d3089948f7d99791ce":[35,0,135,21],
-"namespaceovermap__ui.html#a2e98c69cd4c14544afd28c0b4958e70f":[35,0,135,22],
-"namespaceovermap__ui.html#a3167d5016c349a84b9472caf6450a01f":[35,0,135,15],
-"namespaceovermap__ui.html#a37d0b9bb160674dc0bbc582369d92851":[35,0,135,12],
-"namespaceovermap__ui.html#a3930b3b4ee4682bd4052b4fc6db205ce":[35,0,135,20],
-"namespaceovermap__ui.html#a3ddd3354486513edb257520a2dec8c17":[35,0,135,11],
-"namespaceovermap__ui.html#a42e88e8afcf281959d291b79fe01b7f3":[35,0,135,19],
-"namespaceovermap__ui.html#a489ad7a3dbcaa340feb37082beaa6d4a":[35,0,135,14],
-"namespaceovermap__ui.html#a4ba12fdc7202cba4c3c78cc6c4ccc891":[35,0,135,6],
-"namespaceovermap__ui.html#a57a94975f6453de621fb2c21a83154de":[35,0,135,26]
+"namespaceovermap__ui.html#a2e98c69cd4c14544afd28c0b4958e70f":[35,0,135,22]
 };

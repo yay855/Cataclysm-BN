@@ -1,5 +1,13 @@
 var NAVTREEINDEX133 =
 {
+"structbash__results.html#a48c2a9a4e6818114ae5506cf3eee1083":[36,0,94,4],
+"structbash__results.html#a73ff68ed8a80ac1c7e4a5b50fc8fc5e5":[36,0,94,1],
+"structbash__results.html#a7b4071c6742fab2f9aa93c9275c26b92":[36,0,94,2],
+"structbash__results.html#aca607ab5e6884fe03b2119ffecd88419":[36,0,94,6],
+"structbash__results.html#afe659e698646174add3359fbb95e9309":[36,0,94,3],
+"structbasic__format__specs.html":[36,0,99],
+"structbasic__format__specs.html#a06daac73c25f7975686f9c1f5d39ef1b":[36,0,99,5],
+"structbasic__format__specs.html#a13916cccec89df957bd2ad7f21a9a856":[36,0,99,3],
 "structbasic__format__specs.html#a19b57f324eb8ed2b6cc96329009b1612":[36,0,99,1],
 "structbasic__format__specs.html#a3e5701aefaa9266a5a2d531f9789167d":[36,0,99,6],
 "structbasic__format__specs.html#a540259499cbd3ccbc3e43dd94aa3c188":[36,0,99,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX133 =
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1activates__mininuke_01_4.html":[36,0,14,0,2],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1administers__mutagen_01_4.html":[35,0,68,0,3],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1administers__mutagen_01_4.html":[36,0,14,0,3],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1administers__mutagen_01_4.html#a20e3fd5f343867cec236cd4eb24a5dfc":[35,0,68,0,3,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1administers__mutagen_01_4.html#a20e3fd5f343867cec236cd4eb24a5dfc":[36,0,14,0,3,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[35,0,68,0,4],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[36,0,14,0,4],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html":[35,0,68,0,5],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html":[36,0,14,0,5],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html#a3eae4a6102362fc53a01a19dac1e4360":[36,0,14,0,5,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html#a3eae4a6102362fc53a01a19dac1e4360":[35,0,68,0,5,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1awakes__dark__wyrms_01_4.html":[36,0,14,0,6]
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1administers__mutagen_01_4.html#a20e3fd5f343867cec236cd4eb24a5dfc":[35,0,68,0,3,0]
 };

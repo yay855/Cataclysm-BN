@@ -1,5 +1,13 @@
 var NAVTREEINDEX136 =
 {
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1matype__id_01_4.html":[35,0,72,11],
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1matype__id_01_4.html":[36,0,16,11],
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mtype__id_01_4.html":[35,0,72,12],
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mtype__id_01_4.html":[36,0,16,12],
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mutagen__technique_01_4.html":[35,0,72,13],
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mutagen__technique_01_4.html":[36,0,16,13],
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mutation__category__id_01_4.html":[35,0,72,14],
+"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mutation__category__id_01_4.html":[36,0,16,14],
 "structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1oter__id_01_4.html":[36,0,16,15],
 "structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1oter__id_01_4.html":[35,0,72,15],
 "structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1skill__id_01_4.html":[35,0,72,16],
@@ -241,13 +249,5 @@ var NAVTREEINDEX136 =
 "structconfidence__rating.html#a47c7756df867e77f46be130c7bb02e5c":[36,0,164,2],
 "structconfidence__rating.html#a95391c9a8078562cb5f37dacf9ff0267":[36,0,164,0],
 "structconfidence__rating.html#afe2900a64ed6d6d39f4f2322216abf36":[36,0,164,1],
-"structconflict__pair.html":[36,0,165],
-"structconflict__pair.html#a924170f19dc6fb3db12fe18f2788d925":[36,0,165,1],
-"structconflict__pair.html#aed1f24ae6e54e2b3cb65149118fd941c":[36,0,165,0],
-"structconstruction.html":[36,0,167],
-"structconstruction.html#a028cdad58389e12991899814221f0122":[36,0,167,25],
-"structconstruction.html#a22e289d2c7173cb76115a771e3f907b6":[36,0,167,17],
-"structconstruction.html#a26d629981cf8cfe3b0ecc1a688601f83":[36,0,167,19],
-"structconstruction.html#a36f1c73706158a5b80c8e24e4b24c2ee":[36,0,167,22],
-"structconstruction.html#a3c03a03f38a58394d4334720c81dd40e":[36,0,167,6]
+"structconflict__pair.html":[36,0,165]
 };

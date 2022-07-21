@@ -1,5 +1,13 @@
 var NAVTREEINDEX134 =
 {
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1administers__mutagen_01_4.html#a20e3fd5f343867cec236cd4eb24a5dfc":[36,0,14,0,3,0],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[35,0,68,0,4],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[36,0,14,0,4],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html":[35,0,68,0,5],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html":[36,0,14,0,5],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html#a3eae4a6102362fc53a01a19dac1e4360":[36,0,14,0,5,0],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html#a3eae4a6102362fc53a01a19dac1e4360":[35,0,68,0,5,0],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1awakes__dark__wyrms_01_4.html":[36,0,14,0,6],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1awakes__dark__wyrms_01_4.html":[35,0,68,0,6],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1becomes__wanted_01_4.html":[35,0,68,0,7],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1becomes__wanted_01_4.html":[36,0,14,0,7],
@@ -241,13 +249,5 @@ var NAVTREEINDEX134 =
 "structcata_1_1list_1_1eq__to.html#abb62785cef51545ae664a2083372687f":[36,0,14,13,6,1],
 "structcata_1_1list_1_1group.html":[35,0,68,14,7],
 "structcata_1_1list_1_1group.html":[36,0,14,13,7],
-"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[36,0,14,13,7,9],
-"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[35,0,68,14,7,9],
-"structcata_1_1list_1_1group.html#a63f046f7c130b6226b8613e8a25d1c24":[35,0,68,14,7,0],
-"structcata_1_1list_1_1group.html#a63f046f7c130b6226b8613e8a25d1c24":[36,0,14,13,7,0],
-"structcata_1_1list_1_1group.html#a7431b92fe2b04639e211d22725f853e1":[35,0,68,14,7,1],
-"structcata_1_1list_1_1group.html#a7431b92fe2b04639e211d22725f853e1":[36,0,14,13,7,1],
-"structcata_1_1list_1_1group.html#a83bad2c98aec60138aee5aa43bf1ac32":[36,0,14,13,7,2],
-"structcata_1_1list_1_1group.html#a83bad2c98aec60138aee5aa43bf1ac32":[35,0,68,14,7,2],
-"structcata_1_1list_1_1group.html#a84ca02139448a8999e2638baa7ff8885":[36,0,14,13,7,3]
+"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[36,0,14,13,7,9]
 };
