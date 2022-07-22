@@ -1,7 +1,5 @@
 var NAVTREEINDEX93 =
 {
-"iuse_8h.html#a31feaa639847b8a1e5974e026eb785b5":[37,0,1,272,47],
-"iuse_8h.html#a32e8ce410f0d48d5d30ad5a75ec274e5":[37,0,1,272,61],
 "iuse_8h.html#a35959c8acb23336c61771b360564c4d1":[37,0,1,272,131],
 "iuse_8h.html#a3795d77ec24e87e31270b733722b971f":[37,0,1,272,30],
 "iuse_8h.html#a3842b28b642b547db964b32260af5010":[37,0,1,272,52],
@@ -249,5 +247,7 @@ var NAVTREEINDEX93 =
 "iuse__software__lightson_8cpp.html":[37,0,1,279],
 "iuse__software__lightson_8cpp_source.html":[37,0,1,279],
 "iuse__software__lightson_8h.html":[37,0,1,280],
-"iuse__software__lightson_8h.html#a64a0689f545bd3904c762dfd0281d922":[37,0,1,280,1]
+"iuse__software__lightson_8h.html#a64a0689f545bd3904c762dfd0281d922":[37,0,1,280,1],
+"iuse__software__lightson_8h_source.html":[37,0,1,280],
+"iuse__software__minesweeper_8cpp.html":[37,0,1,281]
 };

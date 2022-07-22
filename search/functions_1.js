@@ -368,7 +368,7 @@ var searchData=
   ['allow_5fupgrade_365',['allow_upgrade',['../classmonster.html#aca57bd31eec87f957ca9854e5cfed768',1,'monster']]],
   ['allowed_5fstart_366',['allowed_start',['../classscenario.html#ad9af66a71402245281fd2f93c5c7190c',1,'scenario']]],
   ['allows_5fselecting_367',['allows_selecting',['../classinventory__column.html#a38f1c952136b362b7522877fe3dc1af4',1,'inventory_column::allows_selecting()'],['../classselection__column.html#abad377f47e3b9dd3faa256dc1f11df86',1,'selection_column::allows_selecting()']]],
-  ['allows_5fterrain_368',['allows_terrain',['../classovermap__connection_1_1subtype.html#ab33aa8f6cbe3d7aef070ca4230c028f1',1,'overmap_connection::subtype']]],
+  ['allows_5fterrain_368',['allows_terrain',['../classovermap__connection_1_1subtype.html#a82ff1bc6eb5a43ca29a110ef8dac5033',1,'overmap_connection::subtype']]],
   ['allows_5fturns_369',['allows_turns',['../classovermap__connection_1_1subtype.html#ab6668fa317aee205ae953eec22f2bc71',1,'overmap_connection::subtype']]],
   ['already_5fused_5fby_5fplayer_370',['already_used_by_player',['../classitem.html#ae91a1e39e57f546b94d3e94fe189ed6b',1,'item']]],
   ['alt_5fattack_371',['alt_attack',['../classnpc.html#a6c36c6a68cd081709933c1d966feeac7',1,'npc']]],

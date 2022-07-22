@@ -1,7 +1,5 @@
 var NAVTREEINDEX116 =
 {
-"namespacemdeath.html#a7b6de89bbd0d28404dcb3da6638ac038":[35,0,115,9],
-"namespacemdeath.html#a7de3914cb9dc1dbc25bde6c170946a24":[35,0,115,13],
 "namespacemdeath.html#a8552351ca9ff310424c8f48a32eea44a":[35,0,115,33],
 "namespacemdeath.html#a9373a979aa8282207e7b8221f3112fe6":[35,0,115,16],
 "namespacemdeath.html#a9603f2e984887d32c881e9df6d224f37":[35,0,115,4],
@@ -47,8 +45,8 @@ var NAVTREEINDEX116 =
 "namespacemembers_enum.html":[35,1,4],
 "namespacemembers_eval.html":[35,1,5],
 "namespacemembers_f.html":[35,1,0,6],
-"namespacemembers_func.html":[35,1,1,0],
 "namespacemembers_func.html":[35,1,1],
+"namespacemembers_func.html":[35,1,1,0],
 "namespacemembers_func_a.html":[35,1,1,1],
 "namespacemembers_func_b.html":[35,1,1,2],
 "namespacemembers_func_c.html":[35,1,1,3],
@@ -216,12 +214,12 @@ var NAVTREEINDEX116 =
 "namespaceom__lines.html#ad651ccbd3219f53dfcc05b5cd1400bae":[35,0,128,5],
 "namespaceom__noise.html":[35,0,129],
 "namespaceovermap__connections.html":[35,0,130],
-"namespaceovermap__connections.html#a23da3f5473af6f6b500dccd0d3755444":[35,0,130,3],
+"namespaceovermap__connections.html#a08ab011bb828d660cabc5c89cbe1b0f4":[35,0,130,2],
 "namespaceovermap__connections.html#a42c4f1f50efcfaca2bf3e432c16476a6":[35,0,130,1],
 "namespaceovermap__connections.html#ab36252a44fc0ccdaee6640bfa11c1be5":[35,0,130,0],
-"namespaceovermap__connections.html#acd9590bde48cf17bcc18f277713e0e70":[35,0,130,2],
 "namespaceovermap__connections.html#ae63dd560ad9fcf9bf40d2023642fb114":[35,0,130,4],
 "namespaceovermap__connections.html#aedeb81c9b5cc4ed3aa0345d2b4b7a5ab":[35,0,130,5],
+"namespaceovermap__connections.html#af90b58fed265f687f61ea7ebddd57ae1":[35,0,130,3],
 "namespaceovermap__land__use__codes.html":[35,0,131],
 "namespaceovermap__land__use__codes.html#a04f16b10494e93f0553b274410d7d0e4":[35,0,131,4],
 "namespaceovermap__land__use__codes.html#a2be951f6bad0e668474c17144f556670":[35,0,131,3],
@@ -240,7 +238,7 @@ var NAVTREEINDEX116 =
 "namespaceovermap__specials.html#a7e95432bcc3c9ccbb4567d281671ec36":[35,0,133,4],
 "namespaceovermap__specials.html#ac5a9bc184554a7bea55b66ec11bcc76e":[35,0,133,5],
 "namespaceovermap__specials.html#ae39e94620013b52e3f84a973c5a5bf73":[35,0,133,3],
-"namespaceovermap__specials.html#af2ddf58bdbaf464bad8d7aca1d70226c":[35,0,133,1],
+"namespaceovermap__specials.html#af05eed49c8aee8dba1ae1fcdf347385c":[35,0,133,1],
 "namespaceovermap__terrains.html":[35,0,134],
 "namespaceovermap__terrains.html#a4d7d53060fea66b34f5fec124eed6790":[35,0,134,3],
 "namespaceovermap__terrains.html#a5c4233383094691159d7177dd183e628":[35,0,134,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX116 =
 "namespaceovermap__terrains.html#adeb350d773c86be9ebdc18a60b9eca30":[35,0,134,2],
 "namespaceovermap__ui.html":[35,0,135],
 "namespaceovermap__ui.html#a06c7012cacbc54d3089948f7d99791ce":[35,0,135,21],
-"namespaceovermap__ui.html#a2e98c69cd4c14544afd28c0b4958e70f":[35,0,135,22]
+"namespaceovermap__ui.html#a2e98c69cd4c14544afd28c0b4958e70f":[35,0,135,22],
+"namespaceovermap__ui.html#a3167d5016c349a84b9472caf6450a01f":[35,0,135,15],
+"namespaceovermap__ui.html#a37d0b9bb160674dc0bbc582369d92851":[35,0,135,12]
 };

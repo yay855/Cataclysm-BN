@@ -1,7 +1,5 @@
 var NAVTREEINDEX109 =
 {
-"namespaceVehicleSpawnFunction.html#abc7e345285cb068e45df6862876ba140":[35,0,164,1],
-"namespaceVehicleSpawnFunction.html#acbc63a9295a538a51ae103e57ae5768f":[35,0,164,4],
 "namespaceVehicleSpawnFunction.html#ad19da351196135d64975f9100c16453d":[35,0,164,2],
 "namespaceactive__tiles.html":[35,0,0],
 "namespaceactive__tiles.html#a6b0d010a1354252227d36ca8bff5a660":[35,0,0,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX109 =
 "namespaceanonymous__namespace_02game__inventory_8cpp_03.html#ae3f4d94e193baa355d297ca1e160122e":[35,0,26,1],
 "namespaceanonymous__namespace_02gates_8cpp_03.html":[35,0,27],
 "namespaceanonymous__namespace_02gates_8cpp_03.html#a0b0ef71c59e4f2574505a15e0d02853d":[35,0,27,2],
-"namespaceanonymous__namespace_02gates_8cpp_03.html#a62213fe2f53bd7076df7272451a41e1d":[35,0,27,3]
+"namespaceanonymous__namespace_02gates_8cpp_03.html#a62213fe2f53bd7076df7272451a41e1d":[35,0,27,3],
+"namespaceanonymous__namespace_02gates_8cpp_03.html#a63b9a34372e97c33bc7cd8ed239b4682":[35,0,27,1],
+"namespaceanonymous__namespace_02iexamine_8cpp_03.html":[35,0,28]
 };
