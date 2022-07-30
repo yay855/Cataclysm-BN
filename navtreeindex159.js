@@ -1,7 +1,5 @@
 var NAVTREEINDEX159 =
 {
-"type__id_8h.html#a44aa01c09faf1c1723400eb9075a1f4d":[37,0,1,582,62],
-"type__id_8h.html#a462e78d510851b30d4f5795c409c7467":[37,0,1,582,49],
 "type__id_8h.html#a4a240e1107e45f10d64b78f1b5f58d59":[37,0,1,582,4],
 "type__id_8h.html#a4ec2337d992ab8b0115c2bd7ff30902a":[37,0,1,582,70],
 "type__id_8h.html#a4f2c3af519c8af54af672a6d8c98df64":[37,0,1,582,10],
@@ -249,5 +247,7 @@ var NAVTREEINDEX159 =
 "units__temperature_8h.html#acc82b4b1d310b15f93dcb321c598e008":[37,0,1,597,7],
 "units__temperature_8h.html#acdd80a8c9fd2cf0001a3242e6cc223e3":[37,0,1,597,12],
 "units__temperature_8h.html#ad0ad3801a1ac8b3ed849ce0a67050046":[37,0,1,597,5],
-"units__temperature_8h.html#ad411ed31e83404311ef27bdcb7e31260":[37,0,1,597,14]
+"units__temperature_8h.html#ad411ed31e83404311ef27bdcb7e31260":[37,0,1,597,14],
+"units__temperature_8h.html#ad595e601b3873fbd720be5536dbce49c":[37,0,1,597,9],
+"units__temperature_8h.html#aeb85a88f145d3dbe26d1818b528612b9":[37,0,1,597,13]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"ranged_8h_source.html":[37,0,1,482],
-"ranged__aoe_8cpp.html":[37,0,1,483],
 "ranged__aoe_8cpp.html#a7b4da33d1d9391123845f299f1f156dc":[37,0,1,483,3],
 "ranged__aoe_8cpp.html#ade9b38890f46ab6cbe94e1004f0ea5f1":[37,0,1,483,2],
 "ranged__aoe_8cpp_source.html":[37,0,1,483],
@@ -249,5 +247,7 @@ var NAVTREEINDEX128 =
 "savegame__json_8cpp.html#aaeadabf202652885cbe0c4ee67c0b3d8":[37,0,1,509,13],
 "savegame__json_8cpp.html#aaec9a7b6bc00b5f3d1e0c167337ac015":[37,0,1,509,2],
 "savegame__json_8cpp.html#ab5f267c571dc194e5b7e0b10b5136a33":[37,0,1,509,21],
-"savegame__json_8cpp.html#abcbcc0e7086564f6c6bcd631b1c54010":[37,0,1,509,25]
+"savegame__json_8cpp.html#abcbcc0e7086564f6c6bcd631b1c54010":[37,0,1,509,25],
+"savegame__json_8cpp.html#ae53910d23796e99aad476b8bba2061be":[37,0,1,509,18],
+"savegame__json_8cpp_source.html":[37,0,1,509]
 };

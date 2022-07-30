@@ -1,7 +1,5 @@
 var NAVTREEINDEX148 =
 {
-"structmongroup.html#a72fba11bb2ab526b80e1a0a76d05dfe6":[36,0,623,6],
-"structmongroup.html#a73a776cff09bb5c33ba76f17250216bc":[36,0,623,27],
 "structmongroup.html#a75dec23839dc529233e5af8d2ac85c34":[36,0,623,2],
 "structmongroup.html#a806ceea83751c6654e706bcc36fe5969":[36,0,623,14],
 "structmongroup.html#a81e128d63f3362e6467bb9e9f91b74cb":[36,0,623,7],
@@ -249,5 +247,7 @@ var NAVTREEINDEX148 =
 "structmutation__branch.html#a63a449374eb0b6789a5dec446246daef":[36,0,646,126],
 "structmutation__branch.html#a6a8b44117b014e578d220540f990020e":[36,0,646,61],
 "structmutation__branch.html#a6b0f9e7a595a662218eaac7a204af52d":[36,0,646,114],
-"structmutation__branch.html#a74b9bfa8483224926885672a1b1b8398":[36,0,646,33]
+"structmutation__branch.html#a74b9bfa8483224926885672a1b1b8398":[36,0,646,33],
+"structmutation__branch.html#a763141c68e9b9036eb9cdfee5f7ca2c1":[36,0,646,1],
+"structmutation__branch.html#a792433557f4e2d5711921221d5df4e5d":[36,0,646,10]
 };

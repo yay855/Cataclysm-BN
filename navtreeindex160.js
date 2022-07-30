@@ -1,7 +1,5 @@
 var NAVTREEINDEX160 =
 {
-"units__temperature_8h.html#ad595e601b3873fbd720be5536dbce49c":[37,0,1,597,9],
-"units__temperature_8h.html#aeb85a88f145d3dbe26d1818b528612b9":[37,0,1,597,13],
 "units__temperature_8h.html#afa9852e3a9b191c2a281b722cb511619":[37,0,1,597,6],
 "units__temperature_8h.html#afdf695c90e1c304090445219015c5fdf":[37,0,1,597,20],
 "units__temperature_8h_source.html":[37,0,1,597],
@@ -249,5 +247,7 @@ var NAVTREEINDEX160 =
 "vehicle__autodrive_8cpp.html#a215f412e7c5d4e90bec0e8d2035793c9":[37,0,1,610,41],
 "vehicle__autodrive_8cpp.html#a2aaa9378c358066aabd13008fbfe1e3a":[37,0,1,610,9],
 "vehicle__autodrive_8cpp.html#a2aaa9378c358066aabd13008fbfe1e3aa444bcb3a3fcf8389296c49467f27e1d6":[37,0,1,610,9,0],
-"vehicle__autodrive_8cpp.html#a2aaa9378c358066aabd13008fbfe1e3aa5a439578513520e7a5c859a7bef3daf6":[37,0,1,610,9,3]
+"vehicle__autodrive_8cpp.html#a2aaa9378c358066aabd13008fbfe1e3aa5a439578513520e7a5c859a7bef3daf6":[37,0,1,610,9,3],
+"vehicle__autodrive_8cpp.html#a2aaa9378c358066aabd13008fbfe1e3aa79c72afc5b76b7deae279594faeaffd5":[37,0,1,610,9,2],
+"vehicle__autodrive_8cpp.html#a2aaa9378c358066aabd13008fbfe1e3aaa6c423ccc42ca8a587c1fc432952f327":[37,0,1,610,9,1]
 };

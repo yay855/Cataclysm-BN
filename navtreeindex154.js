@@ -1,7 +1,5 @@
 var NAVTREEINDEX154 =
 {
-"structspawn__point.html#a32b3da05e693133e99eea8c679fe31cd":[36,0,834,6],
-"structspawn__point.html#a6852090461fd4e80ff658b2c49b2f530":[36,0,834,3],
 "structspawn__point.html#a77424969366aae38dea969325a4f1094":[36,0,834,1],
 "structspawn__point.html#a7bf1659b66e11e0101bc9fb40ff9f9ce":[36,0,834,7],
 "structspawn__point.html#a7c09ef1a3a5bea327999b153ecd869f2":[36,0,834,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX154 =
 "structtemperature__effect.html":[36,0,878],
 "structtemperature__effect.html#a081aa9003979ed6ff3fb06a33b72a1e2":[36,0,878,1],
 "structtemperature__effect.html#a1ee31802dbc934ab0dfd7f02f6270251":[36,0,878,6],
-"structtemperature__effect.html#a2edf1ddb50bb67d512acd0f9f492f632":[36,0,878,2]
+"structtemperature__effect.html#a2edf1ddb50bb67d512acd0f9f492f632":[36,0,878,2],
+"structtemperature__effect.html#a634f4b33b99a2c99f8f3762724637552":[36,0,878,3],
+"structtemperature__effect.html#a64d9a087662accd814ad74e05af687f7":[36,0,878,8]
 };

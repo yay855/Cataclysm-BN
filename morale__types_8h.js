@@ -33,7 +33,6 @@ var morale__types_8h =
     [ "MORALE_FOOD_HOT", "morale__types_8h.html#a3b055b0e07eac86fce19084d99ed0ed3", null ],
     [ "MORALE_FUNERAL", "morale__types_8h.html#a4795b983a89003b099fd2e084b2d31b5", null ],
     [ "MORALE_GAME", "morale__types_8h.html#aa92ae0c7a9ad4159c1f351ad6ede13e6", null ],
-    [ "MORALE_GAME_FOUND_KITTEN", "morale__types_8h.html#a706ff59582b7c43da090574150a4795a", null ],
     [ "MORALE_GRAVEDIGGER", "morale__types_8h.html#a2cac6f09b9dd056581720915f41df6de", null ],
     [ "MORALE_HAIRCUT", "morale__types_8h.html#aef227ee1ea20b7d3c292025cc95cd4cf", null ],
     [ "MORALE_HONEY", "morale__types_8h.html#a697eaf5b9209d9d81b278a12d2539ab9", null ],
