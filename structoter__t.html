@@ -659,13 +659,14 @@ Private Attributes</h2></td></tr>
 <div class="line"><a id="l00791" name="l00791"></a><span class="lineno">  791</span>        rotation = t.<a class="code hl_variable" href="structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d">rotation</a>;</div>
 <div class="line"><a id="l00792" name="l00792"></a><span class="lineno">  792</span>        subtile = t.<a class="code hl_variable" href="structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6">subtile</a>;</div>
 <div class="line"><a id="l00793" name="l00793"></a><span class="lineno">  793</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( <a class="code hl_function" href="structoter__t.html#ab15d534fa68fa86074239dcf8b05000f">is_rotatable</a>() ) {</div>
-<div class="line"><a id="l00794" name="l00794"></a><span class="lineno">  794</span>        rotation = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>( <a class="code hl_function" href="structoter__t.html#ab67e34c7131934759a4f01f31c8456bf">get_dir</a>() );</div>
+<div class="line"><a id="l00794" name="l00794"></a><span class="lineno">  794</span>        rotation = <a class="code hl_function" href="namespaceom__direction.html#a43141a14e705a9f0a0e2c56aea891e6d">om_direction::get_num_ccw_rotations</a>( <a class="code hl_function" href="structoter__t.html#ab67e34c7131934759a4f01f31c8456bf">get_dir</a>() );</div>
 <div class="line"><a id="l00795" name="l00795"></a><span class="lineno">  795</span>        subtile = -1;</div>
 <div class="line"><a id="l00796" name="l00796"></a><span class="lineno">  796</span>    } <span class="keywordflow">else</span> {</div>
 <div class="line"><a id="l00797" name="l00797"></a><span class="lineno">  797</span>        rotation = 0;</div>
 <div class="line"><a id="l00798" name="l00798"></a><span class="lineno">  798</span>        subtile = -1;</div>
 <div class="line"><a id="l00799" name="l00799"></a><span class="lineno">  799</span>    }</div>
 <div class="line"><a id="l00800" name="l00800"></a><span class="lineno">  800</span>}</div>
+<div class="ttc" id="anamespaceom__direction_html_a43141a14e705a9f0a0e2c56aea891e6d"><div class="ttname"><a href="namespaceom__direction.html#a43141a14e705a9f0a0e2c56aea891e6d">om_direction::get_num_ccw_rotations</a></div><div class="ttdeci">constexpr int get_num_ccw_rotations(type dir)</div><div class="ttdoc">Returns number of counterclockwise rotations needed to reach this direction from 'north'.</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00056">om_direction.h:56</a></div></div>
 <div class="ttc" id="astructom__lines_1_1type_html"><div class="ttname"><a href="structom__lines_1_1type.html">om_lines::type</a></div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l00095">overmap.cpp:95</a></div></div>
 <div class="ttc" id="astructom__lines_1_1type_html_a1ac3e349ea5ee7ec5433fe2507015c4d"><div class="ttname"><a href="structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d">om_lines::type::rotation</a></div><div class="ttdeci">int rotation</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l00099">overmap.cpp:99</a></div></div>
 <div class="ttc" id="astructom__lines_1_1type_html_a72f063e7322b094d73e1d3e6bbed50e6"><div class="ttname"><a href="structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6">om_lines::type::subtile</a></div><div class="ttdeci">MULTITILE_TYPE subtile</div><div class="ttdef"><b>Definition:</b> <a href="overmap_8cpp_source.html#l00098">overmap.cpp:98</a></div></div>
@@ -673,7 +674,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructoter__t_html_ab15d534fa68fa86074239dcf8b05000f"><div class="ttname"><a href="structoter__t.html#ab15d534fa68fa86074239dcf8b05000f">oter_t::is_rotatable</a></div><div class="ttdeci">bool is_rotatable() const</div><div class="ttdef"><b>Definition:</b> <a href="omdata_8h_source.html#l00268">omdata.h:268</a></div></div>
 <div class="ttc" id="astructoter__t_html_ab67e34c7131934759a4f01f31c8456bf"><div class="ttname"><a href="structoter__t.html#ab67e34c7131934759a4f01f31c8456bf">oter_t::get_dir</a></div><div class="ttdeci">om_direction::type get_dir() const</div><div class="ttdef"><b>Definition:</b> <a href="omdata_8h_source.html#l00225">omdata.h:225</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="overmap_8cpp_source.html#l00108">om_lines::all</a>, <a class="el" href="omdata_8h_source.html#l00225">get_dir()</a>, <a class="el" href="omdata_8h_source.html#l00272">is_linear()</a>, <a class="el" href="omdata_8h_source.html#l00268">is_rotatable()</a>, <a class="el" href="omdata_8h_source.html#l00299">line</a>, <a class="el" href="overmap_8cpp_source.html#l00099">om_lines::type::rotation</a>, and <a class="el" href="overmap_8cpp_source.html#l00098">om_lines::type::subtile</a>.</p>
+<p class="reference">References <a class="el" href="overmap_8cpp_source.html#l00108">om_lines::all</a>, <a class="el" href="omdata_8h_source.html#l00225">get_dir()</a>, <a class="el" href="om__direction_8h_source.html#l00056">om_direction::get_num_ccw_rotations()</a>, <a class="el" href="omdata_8h_source.html#l00272">is_linear()</a>, <a class="el" href="omdata_8h_source.html#l00268">is_rotatable()</a>, <a class="el" href="omdata_8h_source.html#l00299">line</a>, <a class="el" href="overmap_8cpp_source.html#l00099">om_lines::type::rotation</a>, and <a class="el" href="overmap_8cpp_source.html#l00098">om_lines::type::subtile</a>.</p>
 
 </div>
 </div>
@@ -1440,7 +1441,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="structoter__t.html">oter_t</a></li>
-    <li class="footer">Generated on Sat Jul 30 2022 22:00:21 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Jul 30 2022 22:01:39 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

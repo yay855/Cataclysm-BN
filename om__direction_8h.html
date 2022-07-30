@@ -133,6 +133,9 @@ Functions</h2></td></tr>
 <tr class="memitem:ae5880bf6be45abef1fa502fcfd72f2e0"><td class="memItemLeft" align="right" valign="top">constexpr int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#ae5880bf6be45abef1fa502fcfd72f2e0">om_direction::get_num_cw_rotations</a> (<a class="el" href="enums_8h.html#ac7c2392f800a8be2feb093ef5fe48d40af3725cafa78eb43cc647b405bb6ecfab">type</a> dir)</td></tr>
 <tr class="memdesc:ae5880bf6be45abef1fa502fcfd72f2e0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns number of clockwise rotations needed to reach this direction from 'north'.  <a href="namespaceom__direction.html#ae5880bf6be45abef1fa502fcfd72f2e0">More...</a><br /></td></tr>
 <tr class="separator:ae5880bf6be45abef1fa502fcfd72f2e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43141a14e705a9f0a0e2c56aea891e6d"><td class="memItemLeft" align="right" valign="top">constexpr int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#a43141a14e705a9f0a0e2c56aea891e6d">om_direction::get_num_ccw_rotations</a> (<a class="el" href="enums_8h.html#ac7c2392f800a8be2feb093ef5fe48d40af3725cafa78eb43cc647b405bb6ecfab">type</a> dir)</td></tr>
+<tr class="memdesc:a43141a14e705a9f0a0e2c56aea891e6d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns number of counterclockwise rotations needed to reach this direction from 'north'.  <a href="namespaceom__direction.html#a43141a14e705a9f0a0e2c56aea891e6d">More...</a><br /></td></tr>
+<tr class="separator:a43141a14e705a9f0a0e2c56aea891e6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa1a61aff83d6172cc670f0492ca0e8ea"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#aa1a61aff83d6172cc670f0492ca0e8ea">om_direction::id</a> (<a class="el" href="enums_8h.html#ac7c2392f800a8be2feb093ef5fe48d40af3725cafa78eb43cc647b405bb6ecfab">type</a> dir)</td></tr>
 <tr class="memdesc:aa1a61aff83d6172cc670f0492ca0e8ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Identifier for serialization purposes.  <a href="namespaceom__direction.html#aa1a61aff83d6172cc670f0492ca0e8ea">More...</a><br /></td></tr>
 <tr class="separator:aa1a61aff83d6172cc670f0492ca0e8ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -182,6 +185,8 @@ Variables</h2></td></tr>
 <tr class="separator:a5ce76e0483e37d651ad6210bb00fa30b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b39a84cafdcaf8907103ea262cec3c1"><td class="memItemLeft" align="right" valign="top">const std::array&lt; int, 4 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#a2b39a84cafdcaf8907103ea262cec3c1">om_direction::all_cw_rotations</a> = {{ 0, 1, 2, 3 }}</td></tr>
 <tr class="separator:a2b39a84cafdcaf8907103ea262cec3c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af97ede0bd1352a9fb13019d245e90b58"><td class="memItemLeft" align="right" valign="top">const std::array&lt; int, 4 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#af97ede0bd1352a9fb13019d245e90b58">om_direction::all_ccw_rotations</a> = { { 0, 3, 2, 1 } }</td></tr>
+<tr class="separator:af97ede0bd1352a9fb13019d245e90b58"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad5d9b0a3900b2503fa0e662dd4f18eb0"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#ad5d9b0a3900b2503fa0e662dd4f18eb0">om_direction::invalid_dir_rotations</a> = 0</td></tr>
 <tr class="separator:ad5d9b0a3900b2503fa0e662dd4f18eb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad5b4fe0a1bf503b57217aa8bf45b7e53"><td class="memItemLeft" align="right" valign="top">const size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#ad5b4fe0a1bf503b57217aa8bf45b7e53">om_direction::bits</a> = static_cast&lt;size_t&gt;( -1 ) &gt;&gt; ( CHAR_BIT *sizeof( size_t ) - size )</td></tr>
@@ -211,7 +216,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="om__direction_8h.html">om_direction.h</a></li>
-    <li class="footer">Generated on Sat Jul 30 2022 22:00:03 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Jul 30 2022 22:01:22 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

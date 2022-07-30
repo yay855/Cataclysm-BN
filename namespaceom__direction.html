@@ -118,6 +118,9 @@ Functions</h2></td></tr>
 <tr class="memitem:ae5880bf6be45abef1fa502fcfd72f2e0"><td class="memItemLeft" align="right" valign="top">constexpr int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#ae5880bf6be45abef1fa502fcfd72f2e0">get_num_cw_rotations</a> (<a class="el" href="namespaceom__direction.html#a3f3a3bf2c5af33fc8036734d1ba70b7c">type</a> dir)</td></tr>
 <tr class="memdesc:ae5880bf6be45abef1fa502fcfd72f2e0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns number of clockwise rotations needed to reach this direction from 'north'.  <a href="namespaceom__direction.html#ae5880bf6be45abef1fa502fcfd72f2e0">More...</a><br /></td></tr>
 <tr class="separator:ae5880bf6be45abef1fa502fcfd72f2e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43141a14e705a9f0a0e2c56aea891e6d"><td class="memItemLeft" align="right" valign="top">constexpr int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#a43141a14e705a9f0a0e2c56aea891e6d">get_num_ccw_rotations</a> (<a class="el" href="namespaceom__direction.html#a3f3a3bf2c5af33fc8036734d1ba70b7c">type</a> dir)</td></tr>
+<tr class="memdesc:a43141a14e705a9f0a0e2c56aea891e6d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns number of counterclockwise rotations needed to reach this direction from 'north'.  <a href="namespaceom__direction.html#a43141a14e705a9f0a0e2c56aea891e6d">More...</a><br /></td></tr>
+<tr class="separator:a43141a14e705a9f0a0e2c56aea891e6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa1a61aff83d6172cc670f0492ca0e8ea"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#aa1a61aff83d6172cc670f0492ca0e8ea">id</a> (<a class="el" href="namespaceom__direction.html#a3f3a3bf2c5af33fc8036734d1ba70b7c">type</a> dir)</td></tr>
 <tr class="memdesc:aa1a61aff83d6172cc670f0492ca0e8ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Identifier for serialization purposes.  <a href="namespaceom__direction.html#aa1a61aff83d6172cc670f0492ca0e8ea">More...</a><br /></td></tr>
 <tr class="separator:aa1a61aff83d6172cc670f0492ca0e8ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -167,6 +170,8 @@ Variables</h2></td></tr>
 <tr class="separator:a5ce76e0483e37d651ad6210bb00fa30b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b39a84cafdcaf8907103ea262cec3c1"><td class="memItemLeft" align="right" valign="top">const std::array&lt; int, 4 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#a2b39a84cafdcaf8907103ea262cec3c1">all_cw_rotations</a> = {{ 0, 1, 2, 3 }}</td></tr>
 <tr class="separator:a2b39a84cafdcaf8907103ea262cec3c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af97ede0bd1352a9fb13019d245e90b58"><td class="memItemLeft" align="right" valign="top">const std::array&lt; int, 4 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#af97ede0bd1352a9fb13019d245e90b58">all_ccw_rotations</a> = { { 0, 3, 2, 1 } }</td></tr>
+<tr class="separator:af97ede0bd1352a9fb13019d245e90b58"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad5d9b0a3900b2503fa0e662dd4f18eb0"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#ad5d9b0a3900b2503fa0e662dd4f18eb0">invalid_dir_rotations</a> = 0</td></tr>
 <tr class="separator:ad5d9b0a3900b2503fa0e662dd4f18eb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad5b4fe0a1bf503b57217aa8bf45b7e53"><td class="memItemLeft" align="right" valign="top">const size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceom__direction.html#ad5b4fe0a1bf503b57217aa8bf45b7e53">bits</a> = static_cast&lt;size_t&gt;( -1 ) &gt;&gt; ( CHAR_BIT *sizeof( size_t ) - <a class="el" href="namespaceom__direction.html#af97f9dbddaa758278662da3478826c61">size</a> )</td></tr>
@@ -358,6 +363,49 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a id="a43141a14e705a9f0a0e2c56aea891e6d" name="a43141a14e705a9f0a0e2c56aea891e6d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43141a14e705a9f0a0e2c56aea891e6d">&#9670;&nbsp;</a></span>get_num_ccw_rotations()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr int om_direction::get_num_ccw_rotations </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="namespaceom__direction.html#a3f3a3bf2c5af33fc8036734d1ba70b7c">type</a>&#160;</td>
+          <td class="paramname"><em>dir</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns number of counterclockwise rotations needed to reach this direction from 'north'. </p>
+
+<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00056">56</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>{</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>    <span class="keywordflow">if</span>( dir == type::invalid ) {</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#ad5d9b0a3900b2503fa0e662dd4f18eb0">invalid_dir_rotations</a>;</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#af97ede0bd1352a9fb13019d245e90b58">all_ccw_rotations</a>[<span class="keyword">static_cast&lt;</span><span class="keywordtype">size_t</span><span class="keyword">&gt;</span>( dir )];</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>    }</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>}</div>
+<div class="ttc" id="anamespaceom__direction_html_ad5d9b0a3900b2503fa0e662dd4f18eb0"><div class="ttname"><a href="namespaceom__direction.html#ad5d9b0a3900b2503fa0e662dd4f18eb0">om_direction::invalid_dir_rotations</a></div><div class="ttdeci">const int invalid_dir_rotations</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00033">om_direction.h:33</a></div></div>
+<div class="ttc" id="anamespaceom__direction_html_af97ede0bd1352a9fb13019d245e90b58"><div class="ttname"><a href="namespaceom__direction.html#af97ede0bd1352a9fb13019d245e90b58">om_direction::all_ccw_rotations</a></div><div class="ttdeci">const std::array&lt; int, 4 &gt; all_ccw_rotations</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00032">om_direction.h:32</a></div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="om__direction_8h_source.html#l00032">all_ccw_rotations</a>, <a class="el" href="namespaceom__direction.html#a3f3a3bf2c5af33fc8036734d1ba70b7cafedb2d84cafe20862cb4399751a8a7e3">invalid</a>, and <a class="el" href="om__direction_8h_source.html#l00033">invalid_dir_rotations</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l00787">oter_t::get_rotation_and_subtile()</a>.</p>
+
+</div>
+</div>
 <a id="ae5880bf6be45abef1fa502fcfd72f2e0" name="ae5880bf6be45abef1fa502fcfd72f2e0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae5880bf6be45abef1fa502fcfd72f2e0">&#9670;&nbsp;</a></span>get_num_cw_rotations()</h2>
 
@@ -384,18 +432,17 @@ Variables</h2></td></tr>
 
 <p>Returns number of clockwise rotations needed to reach this direction from 'north'. </p>
 
-<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00045">45</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>{</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    <span class="keywordflow">if</span>( dir == type::invalid ) {</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#ad5d9b0a3900b2503fa0e662dd4f18eb0">invalid_dir_rotations</a>;</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#a2b39a84cafdcaf8907103ea262cec3c1">all_cw_rotations</a>[<span class="keyword">static_cast&lt;</span><span class="keywordtype">size_t</span><span class="keyword">&gt;</span>( dir )];</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    }</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>}</div>
+<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00046">46</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>{</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    <span class="keywordflow">if</span>( dir == type::invalid ) {</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#ad5d9b0a3900b2503fa0e662dd4f18eb0">invalid_dir_rotations</a>;</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#a2b39a84cafdcaf8907103ea262cec3c1">all_cw_rotations</a>[<span class="keyword">static_cast&lt;</span><span class="keywordtype">size_t</span><span class="keyword">&gt;</span>( dir )];</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    }</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>}</div>
 <div class="ttc" id="anamespaceom__direction_html_a2b39a84cafdcaf8907103ea262cec3c1"><div class="ttname"><a href="namespaceom__direction.html#a2b39a84cafdcaf8907103ea262cec3c1">om_direction::all_cw_rotations</a></div><div class="ttdeci">const std::array&lt; int, 4 &gt; all_cw_rotations</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00031">om_direction.h:31</a></div></div>
-<div class="ttc" id="anamespaceom__direction_html_ad5d9b0a3900b2503fa0e662dd4f18eb0"><div class="ttname"><a href="namespaceom__direction.html#ad5d9b0a3900b2503fa0e662dd4f18eb0">om_direction::invalid_dir_rotations</a></div><div class="ttdeci">const int invalid_dir_rotations</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00032">om_direction.h:32</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="om__direction_8h_source.html#l00031">all_cw_rotations</a>, <a class="el" href="namespaceom__direction.html#a3f3a3bf2c5af33fc8036734d1ba70b7cafedb2d84cafe20862cb4399751a8a7e3">invalid</a>, and <a class="el" href="om__direction_8h_source.html#l00032">invalid_dir_rotations</a>.</p>
+<p class="reference">References <a class="el" href="om__direction_8h_source.html#l00031">all_cw_rotations</a>, <a class="el" href="namespaceom__direction.html#a3f3a3bf2c5af33fc8036734d1ba70b7cafedb2d84cafe20862cb4399751a8a7e3">invalid</a>, and <a class="el" href="om__direction_8h_source.html#l00033">invalid_dir_rotations</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l05023">oter_get_rotations()</a>.</p>
 
@@ -428,14 +475,14 @@ Variables</h2></td></tr>
 <p>Returns directional suffix associated with the value, e.g. </p>
 <p >_north or _west. </p>
 
-<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00035">35</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>{</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    <span class="keywordflow">if</span>( dir == type::invalid ) {</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#a5ce76e0483e37d651ad6210bb00fa30b">invalid_dir_suffix</a>;</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#aac35dc8ac4c61236c41ff4e0f0fbc42c">all_suffixes</a>[<span class="keyword">static_cast&lt;</span><span class="keywordtype">size_t</span><span class="keyword">&gt;</span>( dir )];</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    }</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>}</div>
+<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00036">36</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>{</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    <span class="keywordflow">if</span>( dir == type::invalid ) {</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#a5ce76e0483e37d651ad6210bb00fa30b">invalid_dir_suffix</a>;</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#aac35dc8ac4c61236c41ff4e0f0fbc42c">all_suffixes</a>[<span class="keyword">static_cast&lt;</span><span class="keywordtype">size_t</span><span class="keyword">&gt;</span>( dir )];</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    }</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>}</div>
 <div class="ttc" id="anamespaceom__direction_html_a5ce76e0483e37d651ad6210bb00fa30b"><div class="ttname"><a href="namespaceom__direction.html#a5ce76e0483e37d651ad6210bb00fa30b">om_direction::invalid_dir_suffix</a></div><div class="ttdeci">const std::string invalid_dir_suffix</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00030">om_direction.h:30</a></div></div>
 <div class="ttc" id="anamespaceom__direction_html_aac35dc8ac4c61236c41ff4e0f0fbc42c"><div class="ttname"><a href="namespaceom__direction.html#aac35dc8ac4c61236c41ff4e0f0fbc42c">om_direction::all_suffixes</a></div><div class="ttdeci">const std::array&lt; std::string, 4 &gt; all_suffixes</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00029">om_direction.h:29</a></div></div>
 </div><!-- fragment -->
@@ -816,6 +863,24 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a id="af97ede0bd1352a9fb13019d245e90b58" name="af97ede0bd1352a9fb13019d245e90b58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af97ede0bd1352a9fb13019d245e90b58">&#9670;&nbsp;</a></span>all_ccw_rotations</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::array&lt;int, 4&gt; om_direction::all_ccw_rotations = { { 0, 3, 2, 1 } }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00032">32</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="om__direction_8h_source.html#l00056">get_num_ccw_rotations()</a>.</p>
+
+</div>
+</div>
 <a id="a2b39a84cafdcaf8907103ea262cec3c1" name="a2b39a84cafdcaf8907103ea262cec3c1"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a2b39a84cafdcaf8907103ea262cec3c1">&#9670;&nbsp;</a></span>all_cw_rotations</h2>
 
@@ -830,7 +895,7 @@ Variables</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00031">31</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="om__direction_8h_source.html#l00045">get_num_cw_rotations()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="om__direction_8h_source.html#l00046">get_num_cw_rotations()</a>.</p>
 
 </div>
 </div>
@@ -848,7 +913,7 @@ Variables</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00029">29</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l01952">elevate_bridges()</a>, and <a class="el" href="om__direction_8h_source.html#l00035">get_suffix()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l01952">elevate_bridges()</a>, and <a class="el" href="om__direction_8h_source.html#l00036">get_suffix()</a>.</p>
 
 </div>
 </div>
@@ -866,7 +931,7 @@ Variables</h2></td></tr>
 
 <p>Number of bits needed to store directions. </p>
 
-<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00055">55</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00066">66</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="overmap_8cpp_source.html#l00131">om_lines::rotate()</a>.</p>
 
@@ -884,9 +949,9 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00032">32</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00033">33</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="om__direction_8h_source.html#l00045">get_num_cw_rotations()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="om__direction_8h_source.html#l00056">get_num_ccw_rotations()</a>, and <a class="el" href="om__direction_8h_source.html#l00046">get_num_cw_rotations()</a>.</p>
 
 </div>
 </div>
@@ -904,7 +969,7 @@ Variables</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="om__direction_8h_source.html#l00030">30</a> of file <a class="el" href="om__direction_8h_source.html">om_direction.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="om__direction_8h_source.html#l00035">get_suffix()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="om__direction_8h_source.html#l00036">get_suffix()</a>.</p>
 
 </div>
 </div>
@@ -932,7 +997,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceom__direction.html">om_direction</a></li>
-    <li class="footer">Generated on Sat Jul 30 2022 22:00:33 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Jul 30 2022 22:01:51 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
