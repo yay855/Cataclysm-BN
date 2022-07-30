@@ -357,7 +357,6 @@ var classvehicle =
     [ "unboard_all", "classvehicle.html#a222ab75111163098b53f34a28e017dad", null ],
     [ "update_alternator_load", "classvehicle.html#ab594a5970cdd36a1a4fbc1423de88538", null ],
     [ "update_time", "classvehicle.html#a43595d99bbf7a719529147ce12c0b959", null ],
-    [ "use_autoclave", "classvehicle.html#a370afbdd3c703760b7f2c9f04d1a05ce", null ],
     [ "use_bike_rack", "classvehicle.html#a418ad39b520d156f334cb08132fe472e", null ],
     [ "use_controls", "classvehicle.html#a7872008545efae65aac7a6d9582bbd3b", null ],
     [ "use_dishwasher", "classvehicle.html#a0cada0f94f36c1bbaf243d6ff82426ed", null ],

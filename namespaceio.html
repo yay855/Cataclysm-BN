@@ -375,7 +375,7 @@ template&lt;typename E &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="enum__conversions_8h_source.html#l00042">build_enum_lookup_map()</a>, <a class="el" href="event__statistics_8cpp_source.html#l00268">new_field::check()</a>, <a class="el" href="event__statistics_8cpp_source.html#l00212">value_constraint::check()</a>, <a class="el" href="event__statistics_8cpp_source.html#l00335">event_type_event_source::debug_description()</a>, <a class="el" href="magic_8cpp_source.html#l01090">spell::enumerate_targets()</a>, <a class="el" href="cata__variant_8h_source.html#l00293">cata_variant::get()</a>, <a class="el" href="character_8cpp_source.html#l03270">Character::get_overlay_ids()</a>, <a class="el" href="event_8h_source.html#l00583">cata::event::get_variant()</a>, <a class="el" href="craft__command_8cpp_source.html#l00069">comp_selection&lt; CompType &gt;::serialize()</a>, and <a class="el" href="cata__variant_8h_source.html#l00148">cata_variant_detail::convert_enum&lt; T &gt;::to_string()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="enum__conversions_8h_source.html#l00042">build_enum_lookup_map()</a>, <a class="el" href="event__statistics_8cpp_source.html#l00268">new_field::check()</a>, <a class="el" href="event__statistics_8cpp_source.html#l00212">value_constraint::check()</a>, <a class="el" href="event__statistics_8cpp_source.html#l00335">event_type_event_source::debug_description()</a>, <a class="el" href="magic_8cpp_source.html#l01090">spell::enumerate_targets()</a>, <a class="el" href="cata__variant_8h_source.html#l00293">cata_variant::get()</a>, <a class="el" href="character_8cpp_source.html#l03272">Character::get_overlay_ids()</a>, <a class="el" href="event_8h_source.html#l00583">cata::event::get_variant()</a>, <a class="el" href="craft__command_8cpp_source.html#l00069">comp_selection&lt; CompType &gt;::serialize()</a>, and <a class="el" href="cata__variant_8h_source.html#l00148">cata_variant_detail::convert_enum&lt; T &gt;::to_string()</a>.</p>
 
 </div>
 </div>
@@ -1078,20 +1078,20 @@ template&lt;&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l00364">364</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l00365" name="l00365"></a><span class="lineno">  365</span>{</div>
-<div class="line"><a id="l00366" name="l00366"></a><span class="lineno">  366</span>    <span class="keywordflow">switch</span>( data ) {</div>
-<div class="line"><a id="l00367" name="l00367"></a><span class="lineno">  367</span>            <span class="comment">// *INDENT-OFF*</span></div>
-<div class="line"><a id="l00368" name="l00368"></a><span class="lineno">  368</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba7bf92261bd9be1bced9caa8354c3203d">character_movemode::CMM_WALK</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;walk&quot;</span>;</div>
-<div class="line"><a id="l00369" name="l00369"></a><span class="lineno">  369</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba3d69a30a227d3f7bcd67e80d164cf786">character_movemode::CMM_RUN</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;run&quot;</span>;</div>
-<div class="line"><a id="l00370" name="l00370"></a><span class="lineno">  370</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19baa1885f8602d8a35017c4a310ed64e62b">character_movemode::CMM_CROUCH</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;crouch&quot;</span>;</div>
-<div class="line"><a id="l00371" name="l00371"></a><span class="lineno">  371</span>            <span class="comment">// *INDENT-ON*</span></div>
-<div class="line"><a id="l00372" name="l00372"></a><span class="lineno">  372</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba5b74be953794e9151d56a8db3324889b">character_movemode::CMM_COUNT</a>:</div>
-<div class="line"><a id="l00373" name="l00373"></a><span class="lineno">  373</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l00374" name="l00374"></a><span class="lineno">  374</span>    }</div>
-<div class="line"><a id="l00375" name="l00375"></a><span class="lineno">  375</span>    <a class="code hl_define" href="debug_8h.html#a87e509562277a7ada3a75330d00cb445">debugmsg</a>( <span class="stringliteral">&quot;Invalid character_movemode&quot;</span> );</div>
-<div class="line"><a id="l00376" name="l00376"></a><span class="lineno">  376</span>    <a class="code hl_enumvalue" href="vehicle_8h.html#a120e32a2f241b5f666c5189a2f405eeaa5bb94a1c12413a2e5d14deabab29f2aa">abort</a>();</div>
-<div class="line"><a id="l00377" name="l00377"></a><span class="lineno">  377</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l00366">366</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l00367" name="l00367"></a><span class="lineno">  367</span>{</div>
+<div class="line"><a id="l00368" name="l00368"></a><span class="lineno">  368</span>    <span class="keywordflow">switch</span>( data ) {</div>
+<div class="line"><a id="l00369" name="l00369"></a><span class="lineno">  369</span>            <span class="comment">// *INDENT-OFF*</span></div>
+<div class="line"><a id="l00370" name="l00370"></a><span class="lineno">  370</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba7bf92261bd9be1bced9caa8354c3203d">character_movemode::CMM_WALK</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;walk&quot;</span>;</div>
+<div class="line"><a id="l00371" name="l00371"></a><span class="lineno">  371</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba3d69a30a227d3f7bcd67e80d164cf786">character_movemode::CMM_RUN</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;run&quot;</span>;</div>
+<div class="line"><a id="l00372" name="l00372"></a><span class="lineno">  372</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19baa1885f8602d8a35017c4a310ed64e62b">character_movemode::CMM_CROUCH</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;crouch&quot;</span>;</div>
+<div class="line"><a id="l00373" name="l00373"></a><span class="lineno">  373</span>            <span class="comment">// *INDENT-ON*</span></div>
+<div class="line"><a id="l00374" name="l00374"></a><span class="lineno">  374</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba5b74be953794e9151d56a8db3324889b">character_movemode::CMM_COUNT</a>:</div>
+<div class="line"><a id="l00375" name="l00375"></a><span class="lineno">  375</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00376" name="l00376"></a><span class="lineno">  376</span>    }</div>
+<div class="line"><a id="l00377" name="l00377"></a><span class="lineno">  377</span>    <a class="code hl_define" href="debug_8h.html#a87e509562277a7ada3a75330d00cb445">debugmsg</a>( <span class="stringliteral">&quot;Invalid character_movemode&quot;</span> );</div>
+<div class="line"><a id="l00378" name="l00378"></a><span class="lineno">  378</span>    <a class="code hl_enumvalue" href="vehicle_8h.html#a120e32a2f241b5f666c5189a2f405eeaa5bb94a1c12413a2e5d14deabab29f2aa">abort</a>();</div>
+<div class="line"><a id="l00379" name="l00379"></a><span class="lineno">  379</span>}</div>
 <div class="ttc" id="acharacter_8h_html_af749573d20b6327d21f9588ebdd5b19ba3d69a30a227d3f7bcd67e80d164cf786"><div class="ttname"><a href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba3d69a30a227d3f7bcd67e80d164cf786">CMM_RUN</a></div><div class="ttdeci">@ CMM_RUN</div><div class="ttdef"><b>Definition:</b> <a href="character_8h_source.html#l00098">character.h:98</a></div></div>
 <div class="ttc" id="acharacter_8h_html_af749573d20b6327d21f9588ebdd5b19ba5b74be953794e9151d56a8db3324889b"><div class="ttname"><a href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba5b74be953794e9151d56a8db3324889b">CMM_COUNT</a></div><div class="ttdeci">@ CMM_COUNT</div><div class="ttdef"><b>Definition:</b> <a href="character_8h_source.html#l00101">character.h:100</a></div></div>
 <div class="ttc" id="acharacter_8h_html_af749573d20b6327d21f9588ebdd5b19ba7bf92261bd9be1bced9caa8354c3203d"><div class="ttname"><a href="character_8h.html#af749573d20b6327d21f9588ebdd5b19ba7bf92261bd9be1bced9caa8354c3203d">CMM_WALK</a></div><div class="ttdeci">@ CMM_WALK</div><div class="ttdef"><b>Definition:</b> <a href="character_8h_source.html#l00097">character.h:97</a></div></div>
@@ -1119,21 +1119,21 @@ template&lt;&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l04218">4218</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l04219" name="l04219"></a><span class="lineno"> 4219</span>{</div>
-<div class="line"><a id="l04220" name="l04220"></a><span class="lineno"> 4220</span>    <span class="keywordflow">switch</span>( data ) {</div>
-<div class="line"><a id="l04221" name="l04221"></a><span class="lineno"> 4221</span>        <span class="comment">// *INDENT-OFF*</span></div>
-<div class="line"><a id="l04222" name="l04222"></a><span class="lineno"> 4222</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc">character_stat::STRENGTH</a>:     <span class="keywordflow">return</span> <span class="stringliteral">&quot;STR&quot;</span>;</div>
-<div class="line"><a id="l04223" name="l04223"></a><span class="lineno"> 4223</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203">character_stat::DEXTERITY</a>:    <span class="keywordflow">return</span> <span class="stringliteral">&quot;DEX&quot;</span>;</div>
-<div class="line"><a id="l04224" name="l04224"></a><span class="lineno"> 4224</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755acbc4a7ccc74fbcbda6a01632c5e4656e">character_stat::INTELLIGENCE</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;INT&quot;</span>;</div>
-<div class="line"><a id="l04225" name="l04225"></a><span class="lineno"> 4225</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a7301a4f338e31867e8ef6d3f0a148319">character_stat::PERCEPTION</a>:   <span class="keywordflow">return</span> <span class="stringliteral">&quot;PER&quot;</span>;</div>
-<div class="line"><a id="l04226" name="l04226"></a><span class="lineno"> 4226</span> </div>
-<div class="line"><a id="l04227" name="l04227"></a><span class="lineno"> 4227</span>        <span class="comment">// *INDENT-ON*</span></div>
-<div class="line"><a id="l04228" name="l04228"></a><span class="lineno"> 4228</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a308f546dec073d676fe48face3d09056">character_stat::DUMMY_STAT</a>:</div>
-<div class="line"><a id="l04229" name="l04229"></a><span class="lineno"> 4229</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l04230" name="l04230"></a><span class="lineno"> 4230</span>    }</div>
-<div class="line"><a id="l04231" name="l04231"></a><span class="lineno"> 4231</span>    <a class="code hl_enumvalue" href="vehicle_8h.html#a120e32a2f241b5f666c5189a2f405eeaa5bb94a1c12413a2e5d14deabab29f2aa">abort</a>();</div>
-<div class="line"><a id="l04232" name="l04232"></a><span class="lineno"> 4232</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l04220">4220</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l04221" name="l04221"></a><span class="lineno"> 4221</span>{</div>
+<div class="line"><a id="l04222" name="l04222"></a><span class="lineno"> 4222</span>    <span class="keywordflow">switch</span>( data ) {</div>
+<div class="line"><a id="l04223" name="l04223"></a><span class="lineno"> 4223</span>        <span class="comment">// *INDENT-OFF*</span></div>
+<div class="line"><a id="l04224" name="l04224"></a><span class="lineno"> 4224</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc">character_stat::STRENGTH</a>:     <span class="keywordflow">return</span> <span class="stringliteral">&quot;STR&quot;</span>;</div>
+<div class="line"><a id="l04225" name="l04225"></a><span class="lineno"> 4225</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203">character_stat::DEXTERITY</a>:    <span class="keywordflow">return</span> <span class="stringliteral">&quot;DEX&quot;</span>;</div>
+<div class="line"><a id="l04226" name="l04226"></a><span class="lineno"> 4226</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755acbc4a7ccc74fbcbda6a01632c5e4656e">character_stat::INTELLIGENCE</a>: <span class="keywordflow">return</span> <span class="stringliteral">&quot;INT&quot;</span>;</div>
+<div class="line"><a id="l04227" name="l04227"></a><span class="lineno"> 4227</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a7301a4f338e31867e8ef6d3f0a148319">character_stat::PERCEPTION</a>:   <span class="keywordflow">return</span> <span class="stringliteral">&quot;PER&quot;</span>;</div>
+<div class="line"><a id="l04228" name="l04228"></a><span class="lineno"> 4228</span> </div>
+<div class="line"><a id="l04229" name="l04229"></a><span class="lineno"> 4229</span>        <span class="comment">// *INDENT-ON*</span></div>
+<div class="line"><a id="l04230" name="l04230"></a><span class="lineno"> 4230</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a308f546dec073d676fe48face3d09056">character_stat::DUMMY_STAT</a>:</div>
+<div class="line"><a id="l04231" name="l04231"></a><span class="lineno"> 4231</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l04232" name="l04232"></a><span class="lineno"> 4232</span>    }</div>
+<div class="line"><a id="l04233" name="l04233"></a><span class="lineno"> 4233</span>    <a class="code hl_enumvalue" href="vehicle_8h.html#a120e32a2f241b5f666c5189a2f405eeaa5bb94a1c12413a2e5d14deabab29f2aa">abort</a>();</div>
+<div class="line"><a id="l04234" name="l04234"></a><span class="lineno"> 4234</span>}</div>
 <div class="ttc" id="acharacter_8h_html_a27f8e52e2e5afc1c4a709dd65ab84755a308f546dec073d676fe48face3d09056"><div class="ttname"><a href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a308f546dec073d676fe48face3d09056">character_stat::DUMMY_STAT</a></div><div class="ttdeci">@ DUMMY_STAT</div></div>
 <div class="ttc" id="acharacter_8h_html_a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc"><div class="ttname"><a href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc">character_stat::STRENGTH</a></div><div class="ttdeci">@ STRENGTH</div></div>
 <div class="ttc" id="acharacter_8h_html_a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203"><div class="ttname"><a href="character_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203">character_stat::DEXTERITY</a></div><div class="ttdeci">@ DEXTERITY</div></div>
@@ -3633,7 +3633,7 @@ template&lt;typename C , typename E  = typename C::mapped_type&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceio.html">io</a></li>
-    <li class="footer">Generated on Sat Jul 30 2022 11:33:31 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Jul 30 2022 21:59:08 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

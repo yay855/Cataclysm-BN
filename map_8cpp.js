@@ -30,6 +30,7 @@ var map_8cpp =
     [ "ammo_effect_PLASMA", "map_8cpp.html#aaf09bb55e60a45b1eb81e989d0758e93", null ],
     [ "effect_boomered", "map_8cpp.html#a468a4ea99d05230e46c7e014a68270a7", null ],
     [ "effect_crushed", "map_8cpp.html#a309e3746ea5d262a99d79a007dcd8478", null ],
+    [ "itype_autoclave", "map_8cpp.html#a131f75fad15a4a5320ba7e9a5abe8bbf", null ],
     [ "itype_battery", "map_8cpp.html#ab5f267c571dc194e5b7e0b10b5136a33", null ],
     [ "itype_chemistry_set", "map_8cpp.html#a495e4af5b38a4acf2e5b0f1758715e04", null ],
     [ "itype_dehydrator", "map_8cpp.html#acf28cbb1937f8d45d771cf2b04773327", null ],

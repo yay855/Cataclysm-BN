@@ -1,10 +1,5 @@
 var NAVTREEINDEX93 =
 {
-"iuse_8h.html#a35959c8acb23336c61771b360564c4d1":[37,0,1,272,131],
-"iuse_8h.html#a3795d77ec24e87e31270b733722b971f":[37,0,1,272,30],
-"iuse_8h.html#a3842b28b642b547db964b32260af5010":[37,0,1,272,52],
-"iuse_8h.html#a385737dae1ad9a403ea7946dea63a601":[37,0,1,272,191],
-"iuse_8h.html#a39a54f099f8fd5fbb811aa05bad58e02":[37,0,1,272,15],
 "iuse_8h.html#a3b71f85b22913d8683ec1464ec8bec41":[37,0,1,272,75],
 "iuse_8h.html#a3bdece1a07a33641fa483176a9bd0175":[37,0,1,272,172],
 "iuse_8h.html#a3c1d4a10bd7e29e546ba40ab02b3d765":[37,0,1,272,122],
@@ -169,6 +164,7 @@ var NAVTREEINDEX93 =
 "iuse__actor_8cpp.html#a1c07be3a760c8f593258e8c0da77fbfe":[37,0,1,273,19],
 "iuse__actor_8cpp.html#a1de43fa1f6d16ce87ab7a3a49e47c463":[37,0,1,273,31],
 "iuse__actor_8cpp.html#a24886ecb2b3812c98899a8ceaf5d29fa":[37,0,1,273,35],
+"iuse__actor_8cpp.html#a26ecdac9a64be27edf58e27505e8548b":[37,0,1,273,38],
 "iuse__actor_8cpp.html#a2a1b60111a7bbffa1b9cffe54cbcf2da":[37,0,1,273,5],
 "iuse__actor_8cpp.html#a2d866d9790623dc33511f3f08ec510b5":[37,0,1,273,62],
 "iuse__actor_8cpp.html#a2d87fd497d36d3b6b4c389a34059eb89":[37,0,1,273,41],
@@ -190,7 +186,6 @@ var NAVTREEINDEX93 =
 "iuse__actor_8cpp.html#a68c5ef383bc1e0a72f76c0e09276a494":[37,0,1,273,39],
 "iuse__actor_8cpp.html#a6adfa0528195381a4900dba03c2190b8":[37,0,1,273,12],
 "iuse__actor_8cpp.html#a6b7f507ab36a908d229ead684bab1961":[37,0,1,273,42],
-"iuse__actor_8cpp.html#a7b2016ecb9e283e6acc05e11624f1310":[37,0,1,273,38],
 "iuse__actor_8cpp.html#a7b3cfe7974afe7bfab9e412aeb022f31":[37,0,1,273,15],
 "iuse__actor_8cpp.html#a7c2a13f94c0d13712af84b23f13e788f":[37,0,1,273,26],
 "iuse__actor_8cpp.html#a81e18c8e1fd6ef79c566b9857e852433":[37,0,1,273,9],
@@ -249,5 +244,10 @@ var NAVTREEINDEX93 =
 "iuse__software__lightson_8h.html":[37,0,1,280],
 "iuse__software__lightson_8h.html#a64a0689f545bd3904c762dfd0281d922":[37,0,1,280,1],
 "iuse__software__lightson_8h_source.html":[37,0,1,280],
-"iuse__software__minesweeper_8cpp.html":[37,0,1,281]
+"iuse__software__minesweeper_8cpp.html":[37,0,1,281],
+"iuse__software__minesweeper_8cpp_source.html":[37,0,1,281],
+"iuse__software__minesweeper_8h.html":[37,0,1,282],
+"iuse__software__minesweeper_8h.html#a2d07c8b60e2af8fab2a72a6ceaf79374":[37,0,1,282,1],
+"iuse__software__minesweeper_8h_source.html":[37,0,1,282],
+"iuse__software__snake_8cpp.html":[37,0,1,283]
 };

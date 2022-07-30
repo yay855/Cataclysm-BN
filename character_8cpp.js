@@ -166,6 +166,7 @@ var character_8cpp =
     [ "effect_took_prozac", "character_8cpp.html#a09fec42ea1d19920f66b5a9afd8e7606", null ],
     [ "effect_took_xanax", "character_8cpp.html#ae37624c520e2e6b05529cf6870489bc3", null ],
     [ "effect_webbed", "character_8cpp.html#aa222d693ccc29efba86a3bb9f18add4e", null ],
+    [ "fault_bionic_nonsterile", "character_8cpp.html#a26ecdac9a64be27edf58e27505e8548b", null ],
     [ "flag_BIONIC_ARMOR_INTERFACE", "character_8cpp.html#ad32c41dfffb3b7258fa0359ad4b8d3cf", null ],
     [ "flag_CLIMATE_CONTROL", "character_8cpp.html#a1e1d04d4a03638b2a87c710300973f2e", null ],
     [ "flag_COLLAR", "character_8cpp.html#ad85214a8e38d9dd99d56d2884b9736ff", null ],

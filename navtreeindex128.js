@@ -1,9 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"ranged__aoe_8cpp.html#a7b4da33d1d9391123845f299f1f156dc":[37,0,1,483,3],
-"ranged__aoe_8cpp.html#ade9b38890f46ab6cbe94e1004f0ea5f1":[37,0,1,483,2],
-"ranged__aoe_8cpp_source.html":[37,0,1,483],
-"recipe_8cpp.html":[37,0,1,484],
 "recipe_8cpp.html#a317e7697261e4b73b46c6564a71ad532":[37,0,1,484,1],
 "recipe_8cpp.html#a42a7e9ad7c91cf20c2e19b2f2ea1588c":[37,0,1,484,5],
 "recipe_8cpp.html#a614c2056b7d8fcc6773e3441a3feacc3":[37,0,1,484,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX128 =
 "savegame__json_8cpp.html#ab5f267c571dc194e5b7e0b10b5136a33":[37,0,1,509,21],
 "savegame__json_8cpp.html#abcbcc0e7086564f6c6bcd631b1c54010":[37,0,1,509,25],
 "savegame__json_8cpp.html#ae53910d23796e99aad476b8bba2061be":[37,0,1,509,18],
-"savegame__json_8cpp_source.html":[37,0,1,509]
+"savegame__json_8cpp_source.html":[37,0,1,509],
+"savegame__legacy_8cpp.html":[37,0,1,510],
+"savegame__legacy_8cpp.html#a0aade5ead77b80032af2a15aaa43c7ab":[37,0,1,510,1],
+"savegame__legacy_8cpp.html#a9230441043cee9eea510d61cf40d7cf8":[37,0,1,510,2],
+"savegame__legacy_8cpp_source.html":[37,0,1,510]
 };

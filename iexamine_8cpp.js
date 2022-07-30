@@ -18,7 +18,6 @@ var iexamine_8cpp =
     [ "flag_DIAMOND", "iexamine_8cpp.html#a6e3abd26810b9daacc0533ce433b2171", null ],
     [ "flag_ELEVATOR", "iexamine_8cpp.html#a483a2928c33c4f70d1b00ac5dc37ebcc", null ],
     [ "flag_FERTILIZER", "iexamine_8cpp.html#a6667890439d15281d61810dfde0dc2fa", null ],
-    [ "flag_FILTHY", "iexamine_8cpp.html#ae190be54ad3b3ff1d2d3058918c41791", null ],
     [ "flag_FIRE", "iexamine_8cpp.html#a352d917849c46a3af8658f0069105cd7", null ],
     [ "flag_FIRESTARTER", "iexamine_8cpp.html#a4513b947a174bc83fbd690dd1a3ef345", null ],
     [ "flag_GROWTH_HARVEST", "iexamine_8cpp.html#a7961ab14a92a6031a839a61c6c876889", null ],

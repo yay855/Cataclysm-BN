@@ -1,9 +1,5 @@
 var NAVTREEINDEX162 =
 {
-"wdirent_8h.html#aead3f72cc4062f3d0a4a613c5cd29794":[37,0,1,629,64],
-"wdirent_8h.html#aef3a1d1ba22c83e30b5c834dd343b2a8":[37,0,1,629,25],
-"wdirent_8h.html#af10a35e3950795d6ee4e07157d000131":[37,0,1,629,50],
-"wdirent_8h.html#af3e03a80974ee384ff3c529fef08d751":[37,0,1,629,67],
 "wdirent_8h.html#af862352847d1b389ef162ec1222130a8":[37,0,1,629,20],
 "wdirent_8h.html#afef163ce62372757e84bd9fc88c07aad":[37,0,1,629,29],
 "wdirent_8h.html#aff48ec2514bda89769c968c66db181f3":[37,0,1,629,69],

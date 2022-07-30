@@ -1,8 +1,5 @@
 var NAVTREEINDEX86 =
 {
-"gamemode__defense_8cpp.html#aa6b044cf23b3ec0ad31412a94dff1546":[37,0,1,215,20],
-"gamemode__defense_8cpp.html#ab0bd02854963c0c701295d07dc8fe27b":[37,0,1,215,0],
-"gamemode__defense_8cpp.html#ac1d0f55fdf6cdbb66f86b83a337173c2":[37,0,1,215,18],
 "gamemode__defense_8cpp.html#ad98cdde1309bfafa440b90f39936cc0b":[37,0,1,215,11],
 "gamemode__defense_8cpp.html#adfeb5196409e3e31e8ea6eeb118ad073":[37,0,1,215,9],
 "gamemode__defense_8cpp_source.html":[37,0,1,215],
@@ -131,14 +128,14 @@ var NAVTREEINDEX86 =
 "get__version_8h.html#a2ff8e2d8c8d901aee375b52bfea6cee6":[37,0,1,223,1],
 "get__version_8h.html#a9f120ab779553d2c1e829c98c17bf57d":[37,0,1,223,0],
 "get__version_8h_source.html":[37,0,1,223],
-"globals.html":[37,1,0,0],
 "globals.html":[37,1,0],
+"globals.html":[37,1,0,0],
 "globals_a.html":[37,1,0,1],
 "globals_b.html":[37,1,0,2],
 "globals_c.html":[37,1,0,3],
 "globals_d.html":[37,1,0,4],
-"globals_defs.html":[37,1,6,0],
 "globals_defs.html":[37,1,6],
+"globals_defs.html":[37,1,6,0],
 "globals_defs_a.html":[37,1,6,1],
 "globals_defs_b.html":[37,1,6,2],
 "globals_defs_c.html":[37,1,6,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX86 =
 "globals_type_u.html":[37,1,3,18],
 "globals_type_v.html":[37,1,3,19],
 "globals_type_w.html":[37,1,3,20],
-"globals_type_z.html":[37,1,3,21]
+"globals_type_z.html":[37,1,3,21],
+"globals_u.html":[37,1,0,21],
+"globals_v.html":[37,1,0,22],
+"globals_vars.html":[37,1,2]
 };

@@ -568,7 +568,7 @@ var searchData=
   ['auto_5fnote_5fmanager_5fgui_565',['auto_note_manager_gui',['../classauto__notes_1_1auto__note__manager__gui.html#aee659fdb43e2b0c1d763dea95f85a592',1,'auto_notes::auto_note_manager_gui']]],
   ['autoattack_566',['autoattack',['../namespaceavatar__action.html#a3fe0323e13640197154fe53026c95211',1,'avatar_action']]],
   ['autoclave_567',['autoclave',['../namespaceiuse.html#ae706eba79724ccf3b4bc1cb14572df7d',1,'iuse']]],
-  ['autoclave_5fempty_568',['autoclave_empty',['../namespaceiexamine.html#a765a9760cc92b4a4a0484d7e3b399563',1,'iexamine']]],
+  ['autoclave_5fempty_568',['autoclave_empty',['../namespaceiexamine.html#ade9b3a39e81ded33678ac38dec220458',1,'iexamine']]],
   ['autoclave_5ffull_569',['autoclave_full',['../namespaceiexamine.html#ad6411cefc5adcc6510bf0fd041c7d366',1,'iexamine']]],
   ['autoclave_5finternal_570',['autoclave_internal',['../game__inventory_8cpp.html#a083c1468f360a536cb3b83697f563d94',1,'game_inventory.cpp']]],
   ['autodoc_571',['autodoc',['../namespaceiexamine.html#a48bc61be041645e2894eb6c3d8c5e9b5',1,'iexamine']]],

@@ -1,9 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"structenum__traits_3_01vitamin__type_01_4.html#ad44ce8c2b5713f1b4e6a0f3f526d92a6":[36,0,287,0],
-"structenum__traits_3_01weather__sound__category_01_4.html":[36,0,288],
-"structenum__traits_3_01weather__sound__category_01_4.html#ae3ea31ede8f12e2e2898a7924a0ae4dd":[36,0,288,0],
-"structenum__traits_3_01weather__time__requirement__type_01_4.html":[36,0,289],
 "structenum__traits_3_01weather__time__requirement__type_01_4.html#abbbec19a8201754edc37d96c3b5c95ff":[36,0,289,0],
 "structevent__field__transformation.html":[36,0,292],
 "structevent__field__transformation.html#a105dd0d4c55ff06f43b099e812d86a8d":[36,0,292,1],
@@ -169,14 +165,14 @@ var NAVTREEINDEX142 =
 "structexplosion__handler_1_1queued__explosion.html#a509af4eb88d5466c64bd244b13ef83fa":[36,0,22,1,5],
 "structexplosion__handler_1_1queued__explosion.html#a69ce8c3f7f160d5ef7b1fcbf939424bf":[36,0,22,1,6],
 "structexplosion__handler_1_1queued__explosion.html#a69ce8c3f7f160d5ef7b1fcbf939424bf":[35,0,92,2,6],
-"structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[35,0,92,2,0],
 "structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[36,0,22,1,0],
+"structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[35,0,92,2,0],
 "structexplosion__handler_1_1queued__explosion.html#a88b8f9fb1519b3e8f8a8bdfd9c654981":[35,0,92,2,2],
 "structexplosion__handler_1_1queued__explosion.html#a88b8f9fb1519b3e8f8a8bdfd9c654981":[36,0,22,1,2],
 "structexplosion__handler_1_1queued__explosion.html#acb2c67d77fbd506b5291d4fce940a7d0":[35,0,92,2,1],
 "structexplosion__handler_1_1queued__explosion.html#acb2c67d77fbd506b5291d4fce940a7d0":[36,0,22,1,1],
-"structexplosion__handler_1_1queued__explosion.html#af289e1457f8cb11635569bf3a8e1405a":[36,0,22,1,7],
 "structexplosion__handler_1_1queued__explosion.html#af289e1457f8cb11635569bf3a8e1405a":[35,0,92,2,7],
+"structexplosion__handler_1_1queued__explosion.html#af289e1457f8cb11635569bf3a8e1405a":[36,0,22,1,7],
 "structexplosion__handler_1_1queued__explosion.html#afd8ffbc8b33f0cb6d347ed5e8393dfe5":[35,0,92,2,3],
 "structexplosion__handler_1_1queued__explosion.html#afd8ffbc8b33f0cb6d347ed5e8393dfe5":[36,0,22,1,3],
 "structexplosion__tile.html":[36,0,310],
@@ -249,5 +245,9 @@ var NAVTREEINDEX142 =
 "structfield__intensity__level.html#ac8615a950b97704527acf692118301c4":[36,0,322,4],
 "structfield__intensity__level.html#ae8e6c35ee21b880f5d26730e4a79d6ba":[36,0,322,7],
 "structfield__type.html":[36,0,323],
-"structfield__type.html#a0009bf80770a092f1461659780c408a1":[36,0,323,20]
+"structfield__type.html#a0009bf80770a092f1461659780c408a1":[36,0,323,20],
+"structfield__type.html#a053fea7c52e6dc5d763f81f75451f3c8":[36,0,323,57],
+"structfield__type.html#a07d0501165de40daaca70e96c881e2f1":[36,0,323,30],
+"structfield__type.html#a0d2e2a9b9ca652fb550842278cc3518f":[36,0,323,13],
+"structfield__type.html#a1375edd833abdc91d043f35bae3b0f0e":[36,0,323,47]
 };

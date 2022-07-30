@@ -1,6 +1,5 @@
 var NAVTREEINDEX76 =
 {
-"coordinate__conversions_8h.html#a24fce5d0632043832b87aacb9155d6de":[37,0,1,114,18],
 "coordinate__conversions_8h.html#a25521f7c41da90832b8d6573c2405f45":[37,0,1,114,8],
 "coordinate__conversions_8h.html#a323c60830f00fd61265b99b34992bf31":[37,0,1,114,38],
 "coordinate__conversions_8h.html#a34b91c29180242578c6e3924ba4f5c12":[37,0,1,114,52],
@@ -249,5 +248,6 @@ var NAVTREEINDEX76 =
 "crafting__gui_8h_source.html":[37,0,1,121],
 "crash_8cpp.html":[37,0,1,122],
 "crash_8cpp.html#aac647124b8c6a57e21ec683a56b25510":[37,0,1,122,0],
-"crash_8cpp_source.html":[37,0,1,122]
+"crash_8cpp_source.html":[37,0,1,122],
+"crash_8h.html":[37,0,1,123]
 };

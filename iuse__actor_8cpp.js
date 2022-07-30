@@ -38,7 +38,7 @@ var iuse__actor_8cpp =
     [ "effect_recover", "iuse__actor_8cpp.html#a24886ecb2b3812c98899a8ceaf5d29fa", null ],
     [ "effect_sleep", "iuse__actor_8cpp.html#ab16f8be4be2050986e76d2cb0cff7609", null ],
     [ "effect_stunned", "iuse__actor_8cpp.html#ad1df0ca2944a94c3ad796e8baada33ae", null ],
-    [ "fault_bionic_salvaged", "iuse__actor_8cpp.html#a7b2016ecb9e283e6acc05e11624f1310", null ],
+    [ "fault_bionic_nonsterile", "iuse__actor_8cpp.html#a26ecdac9a64be27edf58e27505e8548b", null ],
     [ "HUMAN", "iuse__actor_8cpp.html#a68c5ef383bc1e0a72f76c0e09276a494", null ],
     [ "itype_barrel_small", "iuse__actor_8cpp.html#acb5ce12112db1c8cd3b69158b97000d4", null ],
     [ "itype_brazier", "iuse__actor_8cpp.html#a2d87fd497d36d3b6b4c389a34059eb89", null ],
