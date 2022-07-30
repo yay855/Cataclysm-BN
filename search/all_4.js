@@ -179,7 +179,7 @@ var searchData=
   ['calc_5fclimb_5fcost_176',['calc_climb_cost',['../classmonster.html#ab370bb6801a47533c44b28894f910702',1,'monster']]],
   ['calc_5fdriving_5foffset_177',['calc_driving_offset',['../classgame.html#a6546b1ff65a4e183513050f7554a2fa9',1,'game']]],
   ['calc_5fencumbrance_178',['calc_encumbrance',['../classCharacter.html#acd4e5995e29fca2898fd9154ad3208a4',1,'Character::calc_encumbrance() const'],['../classCharacter.html#a8587b0bcc978dadb10feb560aa1fa052',1,'Character::calc_encumbrance(const item &amp;new_item) const']]],
-  ['calc_5ffatigue_5fcap_179',['calc_fatigue_cap',['../player_8h.html#a7fe4e25d4d32b168cdc76f313b4262c0',1,'calc_fatigue_cap(const player &amp;p):&#160;player.cpp'],['../player_8cpp.html#a7fe4e25d4d32b168cdc76f313b4262c0',1,'calc_fatigue_cap(const player &amp;p):&#160;player.cpp']]],
+  ['calc_5ffatigue_5fcap_179',['calc_fatigue_cap',['../player_8h.html#acc359335b7a969d211414b6a954056e5',1,'calc_fatigue_cap(int fatigue):&#160;player.cpp'],['../player_8cpp.html#acc359335b7a969d211414b6a954056e5',1,'calc_fatigue_cap(int fatigue):&#160;player.cpp']]],
   ['calc_5ffocus_5fchange_180',['calc_focus_change',['../classplayer.html#a6d8d8980786115dc4783f61002cae7a5',1,'player']]],
   ['calc_5ffocus_5fequilibrium_181',['calc_focus_equilibrium',['../classplayer.html#a150ef012c78f811270037535a579e9ea',1,'player']]],
   ['calc_5fhourly_5frotpoints_5fat_5ftemp_182',['calc_hourly_rotpoints_at_temp',['../item_8cpp.html#a8e7250df12cca18746d4fb363021df76',1,'item.cpp']]],
