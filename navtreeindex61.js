@@ -1,5 +1,6 @@
 var NAVTREEINDEX61 =
 {
+"classrect__range_1_1iterator.html#ae52daa517cd44a717b3e52ddbe01336b":[36,0,765,0,6],
 "classrect__range_1_1iterator.html#af4545d0ccf1178725ed072be27c9f79b":[36,0,765,0,3],
 "classrect__range_1_1iterator.html#af61b5906cd4348dcd2f06a8938426db8":[36,0,765,0,0],
 "classrelic.html":[36,0,771],
@@ -248,6 +249,5 @@ var NAVTREEINDEX61 =
 "classsaw__barrel__inventory__preset.html#a7eee9388a9614c147df94b0579c13fb3":[36,0,794,2],
 "classsaw__barrel__inventory__preset.html#a9dca478562799d6773052d4d7213c14c":[36,0,794,1],
 "classsaw__barrel__inventory__preset.html#acc4f12d0be321fb7b09b77422332ffe0":[36,0,794,5],
-"classsaw__barrel__inventory__preset.html#ad11b0ab8d96454b131cb2f69c3958d92":[36,0,794,3],
-"classscenario.html":[36,0,796]
+"classsaw__barrel__inventory__preset.html#ad11b0ab8d96454b131cb2f69c3958d92":[36,0,794,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"savegame__json_8cpp_source.html":[37,0,1,509],
 "savegame__legacy_8cpp.html":[37,0,1,510],
 "savegame__legacy_8cpp.html#a0aade5ead77b80032af2a15aaa43c7ab":[37,0,1,510,1],
 "savegame__legacy_8cpp.html#a9230441043cee9eea510d61cf40d7cf8":[37,0,1,510,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "sounds_8h.html#a800c6363f481773ebcda3c4d525db571":[37,0,1,543,19],
 "sounds_8h.html#a88183e69d6d84f21907582b482f2aa1b":[37,0,1,543,27],
 "sounds_8h.html#a88956b49730d0c96ca4c2b0a4c6eddc4":[37,0,1,543,10],
-"sounds_8h.html#a8fa2bb887ac81392fb686cc4079b5d5a":[37,0,1,543,34],
-"sounds_8h.html#a91b080acfedb7bd53309e7020b2a37ae":[37,0,1,543,1]
+"sounds_8h.html#a8fa2bb887ac81392fb686cc4079b5d5a":[37,0,1,543,34]
 };

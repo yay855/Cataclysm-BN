@@ -42,7 +42,7 @@ var classplayer =
     [ "can_reload", "classplayer.html#a373081bc6d2cfc6c8917398f87052747", null ],
     [ "can_sleep", "classplayer.html#af79e5154c3c5c24b98701e93f30d24d8", null ],
     [ "can_start_craft", "classplayer.html#afeccf7317f1d8fd8bee4571d9812b8f5", null ],
-    [ "can_takeoff", "classplayer.html#acc7afd68c20908fba93feaf5cc28e8cd", null ],
+    [ "can_takeoff", "classplayer.html#a9914bb0a75ce0c2cd35ff07e216afa8e", null ],
     [ "can_wield", "classplayer.html#a0a7027632b8f86717dd34d64d3015dda", null ],
     [ "check_eligible_containers_for_crafting", "classplayer.html#a7de6a67bf992674f83642a4f67cffdba", null ],
     [ "climbing_cost", "classplayer.html#ad90fa441b632cda6fe845de7a55f5df8", null ],

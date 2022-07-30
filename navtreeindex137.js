@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"structconflict__pair.html#aed1f24ae6e54e2b3cb65149118fd941c":[36,0,165,0],
 "structconstruction.html":[36,0,167],
 "structconstruction.html#a028cdad58389e12991899814221f0122":[36,0,167,25],
 "structconstruction.html#a22e289d2c7173cb76115a771e3f907b6":[36,0,167,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "structdetail_1_1accumulator.html#a7726e6a23a356df6083114354ad1dc43":[35,0,85,2,2],
 "structdetail_1_1accumulator.html#a846155e4f8f4e907a544691ab20d23a2":[36,0,20,1,3],
 "structdetail_1_1accumulator.html#a846155e4f8f4e907a544691ab20d23a2":[35,0,85,2,3],
-"structdetail_1_1accumulator.html#a89a6fafa557a17d276fab01841320012":[36,0,20,1,0],
-"structdetail_1_1accumulator.html#a89a6fafa557a17d276fab01841320012":[35,0,85,2,0]
+"structdetail_1_1accumulator.html#a89a6fafa557a17d276fab01841320012":[36,0,20,1,0]
 };

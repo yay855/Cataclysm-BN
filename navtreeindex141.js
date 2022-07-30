@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"structdialogue.html#a2edd4e78d06b37dafd34284a48b82720":[36,0,200,18],
 "structdialogue.html#a3b6fb4b6e79356838e69df8b5d126668":[36,0,200,7],
 "structdialogue.html#a42afe2cf929fea970dc6b74a8bec4bd7":[36,0,200,17],
 "structdialogue.html#a627a44501ac098ea98dfabf899721001":[36,0,200,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "structenum__traits_3_01usage_01_4.html":[36,0,285],
 "structenum__traits_3_01usage_01_4.html#a99f978e8b01b36d4452c2c0e18e01556":[36,0,285,0],
 "structenum__traits_3_01valid__target_01_4.html":[36,0,286],
-"structenum__traits_3_01valid__target_01_4.html#ae57f494b751b5d462616be048c06d06c":[36,0,286,0],
-"structenum__traits_3_01vitamin__type_01_4.html":[36,0,287]
+"structenum__traits_3_01valid__target_01_4.html#ae57f494b751b5d462616be048c06d06c":[36,0,286,0]
 };

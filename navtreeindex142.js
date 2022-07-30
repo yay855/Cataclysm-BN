@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"structenum__traits_3_01vitamin__type_01_4.html":[36,0,287],
 "structenum__traits_3_01vitamin__type_01_4.html#ad44ce8c2b5713f1b4e6a0f3f526d92a6":[36,0,287,0],
 "structenum__traits_3_01weather__sound__category_01_4.html":[36,0,288],
 "structenum__traits_3_01weather__sound__category_01_4.html#ae3ea31ede8f12e2e2898a7924a0ae4dd":[36,0,288,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "structfield__intensity__level.html#ac5bea9ad065ed028bc8847d16f7d33b6":[36,0,322,19],
 "structfield__intensity__level.html#ac8615a950b97704527acf692118301c4":[36,0,322,4],
 "structfield__intensity__level.html#ae8e6c35ee21b880f5d26730e4a79d6ba":[36,0,322,7],
-"structfield__type.html":[36,0,323],
-"structfield__type.html#a0009bf80770a092f1461659780c408a1":[36,0,323,20]
+"structfield__type.html":[36,0,323]
 };

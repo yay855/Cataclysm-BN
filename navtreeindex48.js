@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"classma__weapon__damage__reader.html#a207f00537e23d51fa4ee48439283e459":[36,0,554,0],
 "classma__weapon__damage__reader.html#a8287a45b78404eed8ba81f29bae6a0cd":[36,0,554,1],
 "classmain__menu.html":[36,0,555],
 "classmain__menu.html#a0448978efb910aad386c22a8cd53cfb4":[36,0,555,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "classmap.html#a565f43799a9bfc1294be5e58ffd633e3":[36,0,557,60],
 "classmap.html#a5690822d7d509cd4dc51ff92064353fe":[36,0,557,369],
 "classmap.html#a5741cc08c79673119a9ec251a6253644":[36,0,557,291],
-"classmap.html#a574a8aa376ea529e51b058ca083a81d2":[36,0,557,277],
-"classmap.html#a57d621c74b96f1550b18bf528e4e5282":[36,0,557,193]
+"classmap.html#a574a8aa376ea529e51b058ca083a81d2":[36,0,557,277]
 };

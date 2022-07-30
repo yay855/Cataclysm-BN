@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"classbasecamp.html#a0f86ac686a72158605fb037ffc4e7f15":[36,0,88,84],
 "classbasecamp.html#a11c34117ac8383223524c7b51e5ecd14":[36,0,88,32],
 "classbasecamp.html#a1669371ffad28eca6681ba28598bd704":[36,0,88,108],
 "classbasecamp.html#a189452c1485ae18e54e68e6dffd0f136":[36,0,88,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "classbasic__string__view.html#abbcc283ebd35db4ae2d5365a0861a2e2":[36,0,103,17],
 "classbasic__string__view.html#aedf856c0793e6307934a63e64e217b64":[36,0,103,21],
 "classbasic__string__view.html#af3f5cdfe71a7ada3227d5702ea456128":[36,0,103,8],
-"classbasic__string__view.html#af8b4574d3a39883f409c858fc1006664":[36,0,103,13],
-"classbattery__tile.html":[36,0,104]
+"classbasic__string__view.html#af8b4574d3a39883f409c858fc1006664":[36,0,103,13]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX134 =
 {
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[36,0,14,0,4],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[35,0,68,0,4],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html":[36,0,14,0,5],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html":[35,0,68,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX134 =
 "structcata_1_1list_1_1group.html":[35,0,68,14,7],
 "structcata_1_1list_1_1group.html":[36,0,14,13,7],
 "structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[35,0,68,14,7,9],
-"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[36,0,14,13,7,9],
-"structcata_1_1list_1_1group.html#a63f046f7c130b6226b8613e8a25d1c24":[36,0,14,13,7,0]
+"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[36,0,14,13,7,9]
 };

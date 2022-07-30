@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"classjson__talk__topic.html#a2466648c0fde59b82011d2eccefffcb2":[36,0,510,9],
 "classjson__talk__topic.html#a37dae88b07a4b0a36250545a10fcad6e":[36,0,510,2],
 "classjson__talk__topic.html#a3cb657577a284656df8296c1a67443e4":[36,0,510,10],
 "classjson__talk__topic.html#a4899a0dc38a5bbec1494b16c587691ce":[36,0,510,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "classma__technique.html#af71b3087fd207f36fe9381de602c63b6":[36,0,553,6],
 "classma__technique.html#afa2af258091a77f769ba8dea06f4e450":[36,0,553,10],
 "classma__weapon__damage__reader.html":[36,0,554],
-"classma__weapon__damage__reader.html#a110851c3e9f597cf1280bbefb1869852":[36,0,554,2],
-"classma__weapon__damage__reader.html#a207f00537e23d51fa4ee48439283e459":[36,0,554,0]
+"classma__weapon__damage__reader.html#a110851c3e9f597cf1280bbefb1869852":[36,0,554,2]
 };

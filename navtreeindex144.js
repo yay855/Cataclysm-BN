@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"structhalf__open__rectangle.html#af7cec817aa5f9f48c6bb5b7615aff264":[36,0,371,4],
 "structharvest__entry.html":[36,0,372],
 "structharvest__entry.html#a123b648de435151da941a33c883ff354":[36,0,372,0],
 "structharvest__entry.html#a4313add90dba0326d22f124ce955d1b2":[36,0,372,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "structislot__gun.html#acedd47c3f7557f9b7b839af476c5989e":[36,0,436,16],
 "structislot__gun.html#ade59d069f3f719126fb885c6d61c4e3b":[36,0,436,13],
 "structislot__gun.html#ae35086af4a0c6200e6e05c2c00d3719e":[36,0,436,17],
-"structislot__gun.html#ae9b01aff71774cf78fe209d439258c0a":[36,0,436,19],
-"structislot__gun.html#af061d17935624ae9c2404fa6050dd658":[36,0,436,15]
+"structislot__gun.html#ae9b01aff71774cf78fe209d439258c0a":[36,0,436,19]
 };

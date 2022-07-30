@@ -371,7 +371,7 @@ var searchData=
   ['get_5fdependencies_5fas_5fstrings_368',['get_dependencies_as_strings',['../classdependency__node.html#a5a94e20d34778cba4a51238f26195eb9',1,'dependency_node']]],
   ['get_5fdependencies_5fof_5fx_5fas_5fnodes_369',['get_dependencies_of_X_as_nodes',['../classdependency__tree.html#a7daa226ddb4922202ed1974cd2e29e1a',1,'dependency_tree']]],
   ['get_5fdependencies_5fof_5fx_5fas_5fstrings_370',['get_dependencies_of_X_as_strings',['../classdependency__tree.html#ac01023950008c709367ff5737cdea835',1,'dependency_tree']]],
-  ['get_5fdependent_5fworn_5fitems_371',['get_dependent_worn_items',['../classCharacter.html#a4c47ecf4bf281c370bcc18edc8da662e',1,'Character']]],
+  ['get_5fdependent_5fworn_5fitems_371',['get_dependent_worn_items',['../classCharacter.html#a591474485ef234f71c26b8e59adf57b0',1,'Character']]],
   ['get_5fdependents_5fas_5fnodes_372',['get_dependents_as_nodes',['../classdependency__node.html#a0f974de1c118236e713a7c85254a973d',1,'dependency_node']]],
   ['get_5fdependents_5fas_5fstrings_373',['get_dependents_as_strings',['../classdependency__node.html#ae7d5548b5e11bbc0ad3659d4ca13a0a7',1,'dependency_node']]],
   ['get_5fdependents_5fof_5fx_5fas_5fnodes_374',['get_dependents_of_X_as_nodes',['../classdependency__tree.html#a582dd8b18a4fb2e3d83d6b2b67dcfec5',1,'dependency_tree']]],

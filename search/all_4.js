@@ -346,7 +346,7 @@ var searchData=
   ['can_5fsubmerge_343',['can_submerge',['../classmonster.html#a55fd0614c264b7e89a5735270ff6d2c7',1,'monster']]],
   ['can_5fswap_344',['can_swap',['../classCharacter.html#a4522a03a5d1cdd935f139d67ac4dda43',1,'Character']]],
   ['can_5ftake_5fshelter_345',['can_take_shelter',['../classbehavior_1_1character__oracle__t.html#a9b2a9592eb5d13f1c7fb414d54575f7f',1,'behavior::character_oracle_t']]],
-  ['can_5ftakeoff_346',['can_takeoff',['../classplayer.html#acc7afd68c20908fba93feaf5cc28e8cd',1,'player']]],
+  ['can_5ftakeoff_346',['can_takeoff',['../classplayer.html#a9914bb0a75ce0c2cd35ff07e216afa8e',1,'player']]],
   ['can_5ftrain_347',['can_train',['../classSkillLevel.html#a4de8923aafd85db2946ed9860874d660',1,'SkillLevel']]],
   ['can_5funinstall_5fbionic_348',['can_uninstall_bionic',['../classCharacter.html#a46e532601173c6b54d976d848a068b6a',1,'Character']]],
   ['can_5funload_349',['can_unload',['../classturret__data.html#a8daa2231407bc772e7905ae4535a754d',1,'turret_data']]],

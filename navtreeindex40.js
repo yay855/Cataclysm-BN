@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"classheat__food__actor.html#a214f05bb97c3ec14feeb2af4e1e196b6":[36,0,379,0],
 "classheat__food__actor.html#a5394a2a957f51cd7ca46f7a947f62387":[36,0,379,3],
 "classheat__food__actor.html#a5afdef5a0ed7da6c23f45bfdb02ddb97":[36,0,379,4],
 "classheat__food__actor.html#a7b9e63304bbaf13ad604f32fe6dbb8d0":[36,0,379,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "classinventory.html#a534997d1d7b8d16423f39f32c3ea45a0":[36,0,394,55],
 "classinventory.html#a58bf03d9be48a5ca001819240bbf70ef":[36,0,394,38],
 "classinventory.html#a595139d847118f6ebe5701b07ec7c84d":[36,0,394,35],
-"classinventory.html#a5c2f74c64b0ad40cf8f9c8cfc171a10a":[36,0,394,2],
-"classinventory.html#a5f45453e09ab86b12361a196009617c0":[36,0,394,57]
+"classinventory.html#a5c2f74c64b0ad40cf8f9c8cfc171a10a":[36,0,394,2]
 };

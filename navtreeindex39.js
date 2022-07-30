@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"classgame_1_1debug__hour__timer.html#a5688fa1d4fbf286957168dc6854294ed":[36,0,355,1,3],
 "classgame_1_1debug__hour__timer.html#a65edcca589b6cfc44d8952f0e80ea4df":[36,0,355,1,2],
 "classgame_1_1debug__hour__timer.html#a9feb8994fc0896df854759d46852af04":[36,0,355,1,0],
 "classgame_1_1debug__hour__timer.html#aea4b7723c442a563c5c0e3966fb408be":[36,0,355,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "classheal__actor.html#afd7d1e6177c45daeee4e7edd6a9a0a5b":[36,0,377,30],
 "classheat__food__actor.html":[36,0,379],
 "classheat__food__actor.html#a00819e80eb7f42775d46e6c5b43e6b0e":[36,0,379,1],
-"classheat__food__actor.html#a1ed236047c63d62250be9a475b1792e7":[36,0,379,2],
-"classheat__food__actor.html#a214f05bb97c3ec14feeb2af4e1e196b6":[36,0,379,0]
+"classheat__food__actor.html#a1ed236047c63d62250be9a475b1792e7":[36,0,379,2]
 };

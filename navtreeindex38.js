@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"classgame.html#a5796b727869bcc1bdcaa0b0112c41392":[36,0,355,11],
 "classgame.html#a58b1c2fa346a64ca078631d19873d74f":[36,0,355,84],
 "classgame.html#a59b432cf9afaff1582373f2e15969058":[36,0,355,51],
 "classgame.html#a5a52aa886cd315a657d0c84a84bdaf60":[36,0,355,336],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "classgame_1_1Creature__range.html#a328dd713ce4af6488b12d420aac21f11":[36,0,355,0,1],
 "classgame_1_1Creature__range.html#aabf9a71793d5378b714b5dd518e36587":[36,0,355,0,0],
 "classgame_1_1debug__hour__timer.html":[36,0,355,1],
-"classgame_1_1debug__hour__timer.html#a0ba7c88b05b18425742214bef4e71bd1":[36,0,355,1,4],
-"classgame_1_1debug__hour__timer.html#a5688fa1d4fbf286957168dc6854294ed":[36,0,355,1,3]
+"classgame_1_1debug__hour__timer.html#a0ba7c88b05b18425742214bef4e71bd1":[36,0,355,1,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"classjmapgen__computer.html#a61e8be089243dd50d0dd2802820baa2a":[36,0,473,5],
 "classjmapgen__computer.html#a629a924b94638846268fcd373dd7dc45":[36,0,473,8],
 "classjmapgen__computer.html#aab71eebcc5b5bdd606ea59132f78408a":[36,0,473,1],
 "classjmapgen__computer.html#ae5784a1eb21783b74c70bc96dc489744":[36,0,473,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "classjson__talk__response.html#aea790ba82e2b542a38f3fb0f55227dcb":[36,0,509,4],
 "classjson__talk__response.html#af1b23f1173c8aade6eba9d1c20c9ae92":[36,0,509,9],
 "classjson__talk__response.html#afab1dc93c5b7cc6c02ce44b84a8dac7b":[36,0,509,5],
-"classjson__talk__topic.html":[36,0,510],
-"classjson__talk__topic.html#a2466648c0fde59b82011d2eccefffcb2":[36,0,510,9]
+"classjson__talk__topic.html":[36,0,510]
 };

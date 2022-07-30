@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"monattack_8h.html#acd587bdbaf562c2ce7521301d277afc7":[37,0,1,378,47],
 "monattack_8h.html#acdda0be7e7c8dabb76e9bd130547a3fa":[37,0,1,378,2],
 "monattack_8h.html#ad077033f0300879f861859fead0ab3bf":[37,0,1,378,27],
 "monattack_8h.html#ad7be87b7fe8fff0649de246bc155cf0b":[37,0,1,378,92],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "monster_8cpp.html#a770b98dfaae02acc5d0dcae862bc480b":[37,0,1,390,0],
 "monster_8cpp.html#a79654cfc6f07462199ec3f5da9e49c83":[37,0,1,390,26],
 "monster_8cpp.html#a79d0578dfe3d1e27332b119e515f47fb":[37,0,1,390,51],
-"monster_8cpp.html#a7a40d2780af86b0b95e99dea558dcee6":[37,0,1,390,1],
-"monster_8cpp.html#a7c7651a289cc19a34456c213eeb46edc":[37,0,1,390,29]
+"monster_8cpp.html#a7a40d2780af86b0b95e99dea558dcee6":[37,0,1,390,1]
 };

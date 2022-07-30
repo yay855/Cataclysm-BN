@@ -1,5 +1,6 @@
 var NAVTREEINDEX153 =
 {
+"structreader__detail_1_1handler_3_01std_1_1vector_3_01T_01_4_01_4.html#a276c59e9151e45a91e458c7830f81bd2":[35,0,140,4,0],
 "structreader__detail_1_1handler_3_01std_1_1vector_3_01T_01_4_01_4.html#a2cfc4e4020bd66c276707c7360d1dc2c":[36,0,32,4,3],
 "structreader__detail_1_1handler_3_01std_1_1vector_3_01T_01_4_01_4.html#a2cfc4e4020bd66c276707c7360d1dc2c":[35,0,140,4,3],
 "structreader__detail_1_1handler_3_01std_1_1vector_3_01T_01_4_01_4.html#a3f4d6391c1a46e2247488c034f356cd0":[35,0,140,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX153 =
 "structsound__event.html#ae561f8cb64b63f2e360905100d221a56":[36,0,833,3],
 "structspawn__point.html":[36,0,834],
 "structspawn__point.html#a1ffab0adf60a5effbf189046fb1a5aac":[36,0,834,0],
-"structspawn__point.html#a32b3da05e693133e99eea8c679fe31cd":[36,0,834,6],
-"structspawn__point.html#a6852090461fd4e80ff658b2c49b2f530":[36,0,834,3]
+"structspawn__point.html#a32b3da05e693133e99eea8c679fe31cd":[36,0,834,6]
 };

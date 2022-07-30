@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"structislot__gun.html#af061d17935624ae9c2404fa6050dd658":[36,0,436,15],
 "structislot__gunmod.html":[36,0,437],
 "structislot__gunmod.html#a072bb97399a7ce73226d77671408d0fb":[36,0,437,3],
 "structislot__gunmod.html#a20f62eb4d6e250814ad0e51249ce9a86":[36,0,437,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "structjmapgen__int.html#a419ab06da234974d3cd29fdb9cc3589e":[36,0,479,6],
 "structjmapgen__int.html#a7d2f43f8f1c0fa5f9409f8562f5e579e":[36,0,479,2],
 "structjmapgen__int.html#ab5d661168459112504623684d209a3e2":[36,0,479,4],
-"structjmapgen__int.html#ade405a1b7d223b55b8713e4277040a91":[36,0,479,0],
-"structjmapgen__int.html#af46ca2297a74d2a89244702ca1c6fa04":[36,0,479,7]
+"structjmapgen__int.html#ade405a1b7d223b55b8713e4277040a91":[36,0,479,0]
 };
