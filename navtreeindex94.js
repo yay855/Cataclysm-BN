@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"iuse__software__minesweeper_8h_source.html":[37,0,1,282],
 "iuse__software__snake_8cpp.html":[37,0,1,283],
 "iuse__software__snake_8cpp_source.html":[37,0,1,283],
 "iuse__software__snake_8h.html":[37,0,1,284],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "list_8h_source.html":[37,0,1,297],
 "live__view_8cpp.html":[37,0,1,298],
 "live__view_8cpp.html#a3146adf84d0f147782cef9bb3eb4b391":[37,0,1,298,0],
-"live__view_8cpp.html#a32b3f1d49c12690986ef7ff300f6dd97":[37,0,1,298,1],
-"live__view_8cpp_source.html":[37,0,1,298]
+"live__view_8cpp.html#a32b3f1d49c12690986ef7ff300f6dd97":[37,0,1,298,1]
 };

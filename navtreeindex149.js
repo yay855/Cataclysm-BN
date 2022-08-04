@@ -1,5 +1,13 @@
 var NAVTREEINDEX149 =
 {
+"structmutation__branch.html#a5e2fd89bd29c6220be83941162b14ecd":[36,0,646,78],
+"structmutation__branch.html#a606436681f61b99a42c0ed77d5e3128d":[36,0,646,53],
+"structmutation__branch.html#a63582364a82a76983f6180ad60d3c98b":[36,0,646,37],
+"structmutation__branch.html#a63a449374eb0b6789a5dec446246daef":[36,0,646,126],
+"structmutation__branch.html#a6a8b44117b014e578d220540f990020e":[36,0,646,61],
+"structmutation__branch.html#a6b0f9e7a595a662218eaac7a204af52d":[36,0,646,114],
+"structmutation__branch.html#a74b9bfa8483224926885672a1b1b8398":[36,0,646,33],
+"structmutation__branch.html#a763141c68e9b9036eb9cdfee5f7ca2c1":[36,0,646,1],
 "structmutation__branch.html#a792433557f4e2d5711921221d5df4e5d":[36,0,646,10],
 "structmutation__branch.html#a794111e8cf48f174619b048dafa47790":[36,0,646,69],
 "structmutation__branch.html#a7a8f2c83ae80f53061f0eddcb16809d7":[36,0,646,28],
@@ -241,13 +249,5 @@ var NAVTREEINDEX149 =
 "structnpc__short__term__cache.html":[36,0,669],
 "structnpc__short__term__cache.html#a0c8464dc785d8b0b9ebea26e1904ad04":[36,0,669,11],
 "structnpc__short__term__cache.html#a0f00a09e500a57a83a2eb5a92b79626a":[36,0,669,4],
-"structnpc__short__term__cache.html#a2f847c6cd66e6f7738dec088ffae2264":[36,0,669,1],
-"structnpc__short__term__cache.html#a30e9e46d0c2222553b591a4f5ed1a3ad":[36,0,669,14],
-"structnpc__short__term__cache.html#a7a7d0193975d0535d2fd311299ebebae":[36,0,669,12],
-"structnpc__short__term__cache.html#a87ae0d72618e5cfa212bab6722d1df45":[36,0,669,13],
-"structnpc__short__term__cache.html#aa0a891ed2c8f48d72ddb341986bd3463":[36,0,669,0],
-"structnpc__short__term__cache.html#aa6b8e0edc5a63b7a63c28c7b1e15478c":[36,0,669,8],
-"structnpc__short__term__cache.html#aac51460e7bb6bc9c44bb79e9954d460c":[36,0,669,9],
-"structnpc__short__term__cache.html#ab430f4b25dc26202dca20f13cde3c17c":[36,0,669,10],
-"structnpc__short__term__cache.html#ad1e1c3dc59bb43613859b4e0666e6aa0":[36,0,669,5]
+"structnpc__short__term__cache.html#a2f847c6cd66e6f7738dec088ffae2264":[36,0,669,1]
 };

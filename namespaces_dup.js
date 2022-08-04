@@ -1211,8 +1211,8 @@ var namespaces_dup =
     [ "overmap_connections", "namespaceovermap__connections.html", [
       [ "check_consistency", "namespaceovermap__connections.html#ab36252a44fc0ccdaee6640bfa11c1be5", null ],
       [ "finalize", "namespaceovermap__connections.html#a42c4f1f50efcfaca2bf3e432c16476a6", null ],
-      [ "guess_for", "namespaceovermap__connections.html#a08ab011bb828d660cabc5c89cbe1b0f4", null ],
-      [ "guess_for", "namespaceovermap__connections.html#af90b58fed265f687f61ea7ebddd57ae1", null ],
+      [ "guess_for", "namespaceovermap__connections.html#aca176db1a81fd417c1eed140b74ae602", null ],
+      [ "guess_for", "namespaceovermap__connections.html#a1b075a87209845b9905895a3a9697e52", null ],
       [ "load", "namespaceovermap__connections.html#ae63dd560ad9fcf9bf40d2023642fb114", null ],
       [ "reset", "namespaceovermap__connections.html#aedeb81c9b5cc4ed3aa0345d2b4b7a5ab", null ]
     ] ],

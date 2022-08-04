@@ -1,5 +1,6 @@
 var NAVTREEINDEX84 =
 {
+"fmtlib__printf_8h.html#adee259000b6be20a8deabf9120c42c82":[37,0,1,200,14],
 "fmtlib__printf_8h.html#ae151820679f71b614326c463b0c3ebbb":[37,0,1,200,23],
 "fmtlib__printf_8h_source.html":[37,0,1,200],
 "font__loader_8h.html":[37,0,1,201],
@@ -248,6 +249,5 @@ var NAVTREEINDEX84 =
 "game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1":[37,0,1,206,67],
 "game_8cpp.html#ac038c6319122de04af85fb88e6618601":[37,0,1,206,85],
 "game_8cpp.html#ac12a5ecdcdc46ba58d3707dcfb6d27cf":[37,0,1,206,78],
-"game_8cpp.html#ac19c4d05af220bd829041d6cefaf196f":[37,0,1,206,36],
-"game_8cpp.html#ac2463bb7be26f2dde732d856e58ce4a9":[37,0,1,206,15]
+"game_8cpp.html#ac19c4d05af220bd829041d6cefaf196f":[37,0,1,206,36]
 };

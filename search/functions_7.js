@@ -1203,7 +1203,7 @@ var searchData=
   ['growplants_1200',['growplants',['../namespacemattack.html#a07af5ccfe3022a9bb301db9b8bccae57',1,'mattack']]],
   ['guaranteed_5fhostile_1201',['guaranteed_hostile',['../classnpc.html#adc0b90f197e58b09eb6eb92132d432f0',1,'npc']]],
   ['guard_5fcurrent_5fpos_1202',['guard_current_pos',['../classnpc.html#a276de4730030fc73745440817c9a13aa',1,'npc']]],
-  ['guess_5ffor_1203',['guess_for',['../namespaceovermap__connections.html#af90b58fed265f687f61ea7ebddd57ae1',1,'overmap_connections::guess_for(const oter_type_id &amp;oter_id)'],['../namespaceovermap__connections.html#a08ab011bb828d660cabc5c89cbe1b0f4',1,'overmap_connections::guess_for(const oter_id &amp;oter_id)']]],
+  ['guess_5ffor_1203',['guess_for',['../namespaceovermap__connections.html#aca176db1a81fd417c1eed140b74ae602',1,'overmap_connections::guess_for(const oter_id &amp;oter)'],['../namespaceovermap__connections.html#a1b075a87209845b9905895a3a9697e52',1,'overmap_connections::guess_for(const oter_type_id &amp;oter)']]],
   ['guilt_1204',['guilt',['../namespacemdeath.html#a2b3ee0f23691483f0f16dafa06f3baef',1,'mdeath']]],
   ['gun_5factor_1205',['gun_actor',['../classgun__actor.html#a184cf39f7a846fe56675702feaf05699',1,'gun_actor']]],
   ['gun_5fall_5fmodes_1206',['gun_all_modes',['../classitem.html#aa1a2ecb3e9ebf95dc7fedac4c1de32b4',1,'item']]],
