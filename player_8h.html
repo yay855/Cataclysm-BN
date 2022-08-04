@@ -128,8 +128,6 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structret__val_1_1default__failure.html">ret_val&lt; T &gt;::default_failure</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structstat__mod.html">stat_mod</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structneeds__rates.html">needs_rates</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classplayer.html">player</a></td></tr>
@@ -210,19 +208,19 @@ Functions</h2></td></tr>
 
 <p>Calculates the player's morale cap due to fatigue. </p>
 
-<p class="definition">Definition at line <a class="el" href="player_8cpp_source.html#l04410">4410</a> of file <a class="el" href="player_8cpp_source.html">player.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l04411" name="l04411"></a><span class="lineno"> 4411</span>{</div>
-<div class="line"><a id="l04412" name="l04412"></a><span class="lineno"> 4412</span>    <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a7ab3f388bbf5200ebf5e501260ecddcc">fatigue_levels::massive</a> ) {</div>
-<div class="line"><a id="l04413" name="l04413"></a><span class="lineno"> 4413</span>        <span class="keywordflow">return</span> 20;</div>
-<div class="line"><a id="l04414" name="l04414"></a><span class="lineno"> 4414</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137ae349d735a5fa5b10d9770031e669c477">fatigue_levels::exhausted</a> ) {</div>
-<div class="line"><a id="l04415" name="l04415"></a><span class="lineno"> 4415</span>        <span class="keywordflow">return</span> 40;</div>
-<div class="line"><a id="l04416" name="l04416"></a><span class="lineno"> 4416</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137afc375b3ddd5525adbdf783e5ade0473d">fatigue_levels::dead_tired</a> ) {</div>
-<div class="line"><a id="l04417" name="l04417"></a><span class="lineno"> 4417</span>        <span class="keywordflow">return</span> 60;</div>
-<div class="line"><a id="l04418" name="l04418"></a><span class="lineno"> 4418</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a287f44f35ecb230e8b997abaad077f46">fatigue_levels::tired</a> ) {</div>
-<div class="line"><a id="l04419" name="l04419"></a><span class="lineno"> 4419</span>        <span class="keywordflow">return</span> 80;</div>
-<div class="line"><a id="l04420" name="l04420"></a><span class="lineno"> 4420</span>    }</div>
-<div class="line"><a id="l04421" name="l04421"></a><span class="lineno"> 4421</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><a id="l04422" name="l04422"></a><span class="lineno"> 4422</span>}</div>
+<p class="definition">Definition at line <a class="el" href="player_8cpp_source.html#l04232">4232</a> of file <a class="el" href="player_8cpp_source.html">player.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l04233" name="l04233"></a><span class="lineno"> 4233</span>{</div>
+<div class="line"><a id="l04234" name="l04234"></a><span class="lineno"> 4234</span>    <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a7ab3f388bbf5200ebf5e501260ecddcc">fatigue_levels::massive</a> ) {</div>
+<div class="line"><a id="l04235" name="l04235"></a><span class="lineno"> 4235</span>        <span class="keywordflow">return</span> 20;</div>
+<div class="line"><a id="l04236" name="l04236"></a><span class="lineno"> 4236</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137ae349d735a5fa5b10d9770031e669c477">fatigue_levels::exhausted</a> ) {</div>
+<div class="line"><a id="l04237" name="l04237"></a><span class="lineno"> 4237</span>        <span class="keywordflow">return</span> 40;</div>
+<div class="line"><a id="l04238" name="l04238"></a><span class="lineno"> 4238</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137afc375b3ddd5525adbdf783e5ade0473d">fatigue_levels::dead_tired</a> ) {</div>
+<div class="line"><a id="l04239" name="l04239"></a><span class="lineno"> 4239</span>        <span class="keywordflow">return</span> 60;</div>
+<div class="line"><a id="l04240" name="l04240"></a><span class="lineno"> 4240</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( fatigue &gt;= <a class="code hl_enumvalue" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a287f44f35ecb230e8b997abaad077f46">fatigue_levels::tired</a> ) {</div>
+<div class="line"><a id="l04241" name="l04241"></a><span class="lineno"> 4241</span>        <span class="keywordflow">return</span> 80;</div>
+<div class="line"><a id="l04242" name="l04242"></a><span class="lineno"> 4242</span>    }</div>
+<div class="line"><a id="l04243" name="l04243"></a><span class="lineno"> 4243</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><a id="l04244" name="l04244"></a><span class="lineno"> 4244</span>}</div>
 <div class="ttc" id="acharacter_8h_html_abf088072c9ca5b676f7f7545bac9a137a287f44f35ecb230e8b997abaad077f46"><div class="ttname"><a href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a287f44f35ecb230e8b997abaad077f46">fatigue_levels::tired</a></div><div class="ttdeci">@ tired</div></div>
 <div class="ttc" id="acharacter_8h_html_abf088072c9ca5b676f7f7545bac9a137a7ab3f388bbf5200ebf5e501260ecddcc"><div class="ttname"><a href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a7ab3f388bbf5200ebf5e501260ecddcc">fatigue_levels::massive</a></div><div class="ttdeci">@ massive</div></div>
 <div class="ttc" id="acharacter_8h_html_abf088072c9ca5b676f7f7545bac9a137ae349d735a5fa5b10d9770031e669c477"><div class="ttname"><a href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137ae349d735a5fa5b10d9770031e669c477">fatigue_levels::exhausted</a></div><div class="ttdeci">@ exhausted</div></div>
@@ -230,7 +228,7 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137afc375b3ddd5525adbdf783e5ade0473d">dead_tired</a>, <a class="el" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137ae349d735a5fa5b10d9770031e669c477">exhausted</a>, <a class="el" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a7ab3f388bbf5200ebf5e501260ecddcc">massive</a>, and <a class="el" href="character_8h.html#abf088072c9ca5b676f7f7545bac9a137a287f44f35ecb230e8b997abaad077f46">tired</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="player_8cpp_source.html#l04424">player::calc_focus_equilibrium()</a>, and <a class="el" href="avatar_8cpp_source.html#l00985">avatar::disp_morale()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="player_8cpp_source.html#l04246">player::calc_focus_equilibrium()</a>, and <a class="el" href="avatar_8cpp_source.html#l00988">avatar::disp_morale()</a>.</p>
 
 </div>
 </div>
@@ -278,22 +276,22 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="player_8cpp_source.html#l04280">4280</a> of file <a class="el" href="player_8cpp_source.html">player.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l04281" name="l04281"></a><span class="lineno"> 4281</span>{</div>
-<div class="line"><a id="l04282" name="l04282"></a><span class="lineno"> 4282</span>    <span class="keywordflow">if</span>( level &lt; 0 ) {</div>
-<div class="line"><a id="l04283" name="l04283"></a><span class="lineno"> 4283</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#a1cb87e74156596960610fd0a9ace766d">c_green</a>;</div>
-<div class="line"><a id="l04284" name="l04284"></a><span class="lineno"> 4284</span>    }</div>
-<div class="line"><a id="l04285" name="l04285"></a><span class="lineno"> 4285</span>    <span class="keywordflow">if</span>( level &lt; 10 ) {</div>
-<div class="line"><a id="l04286" name="l04286"></a><span class="lineno"> 4286</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#a1b1e3c0bef566a83c3535e38a93ad733">c_light_gray</a>;</div>
-<div class="line"><a id="l04287" name="l04287"></a><span class="lineno"> 4287</span>    }</div>
-<div class="line"><a id="l04288" name="l04288"></a><span class="lineno"> 4288</span>    <span class="keywordflow">if</span>( level &lt; 40 ) {</div>
-<div class="line"><a id="l04289" name="l04289"></a><span class="lineno"> 4289</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#a81e80ab9142609903b4788a6bb31ae45">c_yellow</a>;</div>
-<div class="line"><a id="l04290" name="l04290"></a><span class="lineno"> 4290</span>    }</div>
-<div class="line"><a id="l04291" name="l04291"></a><span class="lineno"> 4291</span>    <span class="keywordflow">if</span>( level &lt; 70 ) {</div>
-<div class="line"><a id="l04292" name="l04292"></a><span class="lineno"> 4292</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#aab11865a3631a7ce78da82b7fb386b71">c_light_red</a>;</div>
-<div class="line"><a id="l04293" name="l04293"></a><span class="lineno"> 4293</span>    }</div>
-<div class="line"><a id="l04294" name="l04294"></a><span class="lineno"> 4294</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#af0a87eaef36305269f4506dfa34d94c0">c_red</a>;</div>
-<div class="line"><a id="l04295" name="l04295"></a><span class="lineno"> 4295</span>}</div>
+<p class="definition">Definition at line <a class="el" href="player_8cpp_source.html#l04118">4118</a> of file <a class="el" href="player_8cpp_source.html">player.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l04119" name="l04119"></a><span class="lineno"> 4119</span>{</div>
+<div class="line"><a id="l04120" name="l04120"></a><span class="lineno"> 4120</span>    <span class="keywordflow">if</span>( level &lt; 0 ) {</div>
+<div class="line"><a id="l04121" name="l04121"></a><span class="lineno"> 4121</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#a1cb87e74156596960610fd0a9ace766d">c_green</a>;</div>
+<div class="line"><a id="l04122" name="l04122"></a><span class="lineno"> 4122</span>    }</div>
+<div class="line"><a id="l04123" name="l04123"></a><span class="lineno"> 4123</span>    <span class="keywordflow">if</span>( level &lt; 10 ) {</div>
+<div class="line"><a id="l04124" name="l04124"></a><span class="lineno"> 4124</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#a1b1e3c0bef566a83c3535e38a93ad733">c_light_gray</a>;</div>
+<div class="line"><a id="l04125" name="l04125"></a><span class="lineno"> 4125</span>    }</div>
+<div class="line"><a id="l04126" name="l04126"></a><span class="lineno"> 4126</span>    <span class="keywordflow">if</span>( level &lt; 40 ) {</div>
+<div class="line"><a id="l04127" name="l04127"></a><span class="lineno"> 4127</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#a81e80ab9142609903b4788a6bb31ae45">c_yellow</a>;</div>
+<div class="line"><a id="l04128" name="l04128"></a><span class="lineno"> 4128</span>    }</div>
+<div class="line"><a id="l04129" name="l04129"></a><span class="lineno"> 4129</span>    <span class="keywordflow">if</span>( level &lt; 70 ) {</div>
+<div class="line"><a id="l04130" name="l04130"></a><span class="lineno"> 4130</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#aab11865a3631a7ce78da82b7fb386b71">c_light_red</a>;</div>
+<div class="line"><a id="l04131" name="l04131"></a><span class="lineno"> 4131</span>    }</div>
+<div class="line"><a id="l04132" name="l04132"></a><span class="lineno"> 4132</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="color_8h.html#af0a87eaef36305269f4506dfa34d94c0">c_red</a>;</div>
+<div class="line"><a id="l04133" name="l04133"></a><span class="lineno"> 4133</span>}</div>
 <div class="ttc" id="acolor_8h_html_a1b1e3c0bef566a83c3535e38a93ad733"><div class="ttname"><a href="color_8h.html#a1b1e3c0bef566a83c3535e38a93ad733">c_light_gray</a></div><div class="ttdeci">#define c_light_gray</div><div class="ttdef"><b>Definition:</b> <a href="color_8h_source.html#l00019">color.h:19</a></div></div>
 <div class="ttc" id="acolor_8h_html_a1cb87e74156596960610fd0a9ace766d"><div class="ttname"><a href="color_8h.html#a1cb87e74156596960610fd0a9ace766d">c_green</a></div><div class="ttdeci">#define c_green</div><div class="ttdef"><b>Definition:</b> <a href="color_8h_source.html#l00022">color.h:22</a></div></div>
 <div class="ttc" id="acolor_8h_html_a81e80ab9142609903b4788a6bb31ae45"><div class="ttname"><a href="color_8h.html#a81e80ab9142609903b4788a6bb31ae45">c_yellow</a></div><div class="ttdeci">#define c_yellow</div><div class="ttdef"><b>Definition:</b> <a href="color_8h_source.html#l00032">color.h:32</a></div></div>
@@ -302,7 +300,7 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="color_8h_source.html#l00022">c_green</a>, <a class="el" href="color_8h_source.html#l00019">c_light_gray</a>, <a class="el" href="color_8h_source.html#l00027">c_light_red</a>, <a class="el" href="color_8h_source.html#l00021">c_red</a>, and <a class="el" href="color_8h_source.html#l00032">c_yellow</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="player__display_8cpp_source.html#l00094">player::print_encumbrance()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character__display_8cpp_source.html#l00096">character_display::print_encumbrance()</a>.</p>
 
 </div>
 </div>
@@ -312,7 +310,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="player_8h.html">player.h</a></li>
-    <li class="footer">Generated on Thu Aug 4 2022 17:34:59 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Thu Aug 4 2022 17:36:00 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

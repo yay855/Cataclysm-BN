@@ -8,5 +8,6 @@ var searchData=
   ['distribution_5fgraph_5',['distribution_graph',['../namespacedistribution__graph.html',1,'']]],
   ['doors_6',['doors',['../namespacedoors.html',1,'']]],
   ['dragonbox_7',['dragonbox',['../namespacedetail_1_1dragonbox.html',1,'detail']]],
-  ['drop_5ftoken_8',['drop_token',['../namespacedrop__token.html',1,'']]]
+  ['dreams_8',['dreams',['../namespacedreams.html',1,'']]],
+  ['drop_5ftoken_9',['drop_token',['../namespacedrop__token.html',1,'']]]
 ];

@@ -2,7 +2,6 @@ var player_8h =
 [
     [ "ret_val< T >::default_success", "structret__val_1_1default__success.html", null ],
     [ "ret_val< T >::default_failure", "structret__val_1_1default__failure.html", null ],
-    [ "stat_mod", "structstat__mod.html", "structstat__mod" ],
     [ "needs_rates", "structneeds__rates.html", "structneeds__rates" ],
     [ "player", "classplayer.html", "classplayer" ],
     [ "player::power_mut_ui_result", "structplayer_1_1power__mut__ui__result.html", "structplayer_1_1power__mut__ui__result" ],
