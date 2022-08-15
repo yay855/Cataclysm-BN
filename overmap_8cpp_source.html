@@ -3609,8 +3609,8 @@ $(document).ready(function(){initNavTree('overmap_8cpp_source.html',''); initRes
 <div class="line"><a id="l03520" name="l03520"></a><span class="lineno"> 3520</span>        }</div>
 <div class="line"><a id="l03521" name="l03521"></a><span class="lineno"> 3521</span>    }</div>
 <div class="line"><a id="l03522" name="l03522"></a><span class="lineno"> 3522</span> </div>
-<div class="line"><a id="l03523" name="l03523"></a><span class="lineno"> 3523</span>    <span class="comment">// 4th story of labs is a candidate for lab escape, as long as there&#39;s no train or finale.</span></div>
-<div class="line"><a id="l03524" name="l03524"></a><span class="lineno"> 3524</span>    <span class="keywordflow">if</span>( <a class="code hl_enumvalue" href="enums_8h.html#ac7c2392f800a8be2feb093ef5fe48d40a7afa939f8bd773f5f7e326990b07580c">prefix</a>.empty() &amp;&amp; p.<a class="code hl_function" href="classcoords_1_1coord__point.html#a2a7eadc4507dc5944b117ede64d77944">z</a>() == -4 &amp;&amp; train_odds == 0 &amp;&amp; numstairs &gt; 0 ) {</div>
+<div class="line"><a id="l03523" name="l03523"></a><span class="lineno"> 3523</span>    <span class="comment">// 4th story of labs and down are candidates for lab escape, as long as there&#39;s no train or finale.</span></div>
+<div class="line"><a id="l03524" name="l03524"></a><span class="lineno"> 3524</span>    <span class="keywordflow">if</span>( <a class="code hl_enumvalue" href="enums_8h.html#ac7c2392f800a8be2feb093ef5fe48d40a7afa939f8bd773f5f7e326990b07580c">prefix</a>.empty() &amp;&amp; p.<a class="code hl_function" href="classcoords_1_1coord__point.html#a2a7eadc4507dc5944b117ede64d77944">z</a>() &lt;= -4 &amp;&amp; train_odds == 0 &amp;&amp; numstairs &gt; 0 ) {</div>
 <div class="line"><a id="l03525" name="l03525"></a><span class="lineno"> 3525</span>        <a class="code hl_class" href="classcoords_1_1coord__point.html">tripoint_om_omt</a> cell;</div>
 <div class="line"><a id="l03526" name="l03526"></a><span class="lineno"> 3526</span>        <span class="keywordtype">int</span> tries = 0;</div>
 <div class="line"><a id="l03527" name="l03527"></a><span class="lineno"> 3527</span>        <span class="keywordtype">int</span> adjacent_labs = 0;</div>
@@ -5812,7 +5812,7 @@ $(document).ready(function(){initNavTree('overmap_8cpp_source.html',''); initRes
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="overmap_8cpp.html">overmap.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 15 2022 07:46:44 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Mon Aug 15 2022 07:48:30 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
