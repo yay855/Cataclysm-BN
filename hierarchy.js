@@ -386,6 +386,7 @@ var hierarchy =
     [ "dependency_node", "classdependency__node.html", null ],
     [ "dependency_tree", "classdependency__tree.html", null ],
     [ "desc_freq", "structdesc__freq.html", null ],
+    [ "diagonal_blocks", "structdiagonal__blocks.html", null ],
     [ "Messages::dialog", "classMessages_1_1dialog.html", null ],
     [ "dialogue", "structdialogue.html", null ],
     [ "dialogue_window", "classdialogue__window.html", null ],

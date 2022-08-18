@@ -1,5 +1,15 @@
 var NAVTREEINDEX109 =
 {
+"namespaceMapExtras.html#ad77d49603eceafe76f11a79b79d294e7":[35,0,113,2],
+"namespaceMapExtras.html#ad8c58b77220d9d7e3ea3e3804018ffaf":[35,0,113,18],
+"namespaceMapExtras.html#ae78c51d4e0589fc237eac6163d0c60f2":[35,0,113,13],
+"namespaceMapExtras.html#ae92fe5dc842411974d793ff3c587a048":[35,0,113,21],
+"namespaceMapExtras.html#aeaacc194cef94ac3296d7f788a9e3330":[35,0,113,8],
+"namespaceMapExtras.html#af17faec8749aea26a69de82c7338385f":[35,0,113,30],
+"namespaceMapExtras.html#afb316525883a5c53815d8ec64ec10c8b":[35,0,113,39],
+"namespaceMapExtras.html#afcca19cec84f7a576e9cd687a2b91fd6":[35,0,113,28],
+"namespaceMapExtras.html#afe3fdf9763f6c82ea16d72cf1266da70":[35,0,113,7],
+"namespaceMapExtras.html#afee3c6989f2b385e270199d341d23188":[35,0,113,9],
 "namespaceMessages.html":[35,0,123],
 "namespaceMessages.html#a156ac466eeb7b86befecfd69abc1ab5d":[35,0,123,2],
 "namespaceMessages.html#a55e47000ff46eec461fddbfb67ac3c19":[35,0,123,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX109 =
 "namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759a5bf95244357d6164916bfe6e0ccfbc79":[35,0,3,0,2],
 "namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759af95ea74b65a6ce7cade89d4db5ab5d1b":[35,0,3,0,4],
 "namespaceammo__effects.html":[35,0,4],
-"namespaceammo__effects.html#a266026a76ad1cf3377d0b7c6efc36dd7":[35,0,4,3],
-"namespaceammo__effects.html#a46b4d380a5d6bcd43196d7fad5a35c06":[35,0,4,1],
-"namespaceammo__effects.html#a4d5efb64e5f2478906409402bc8454a3":[35,0,4,0],
-"namespaceammo__effects.html#a560c6af9060cf2ac239095f84f408e1a":[35,0,4,4],
-"namespaceammo__effects.html#ac865017e83604b57024c38c4e93d56bf":[35,0,4,2],
-"namespaceanonymous__namespace_02achievement_8cpp_03.html":[35,0,5],
-"namespaceanonymous__namespace_02achievement_8cpp_03.html#a32c1d3d3a3b3027955df478045239b5a":[35,0,5,0],
-"namespaceanonymous__namespace_02ammo_8cpp_03.html":[35,0,6],
-"namespaceanonymous__namespace_02ammo_8cpp_03.html#a1d064e67562b19b60f871ed2dd6a3d23":[35,0,6,0],
-"namespaceanonymous__namespace_02ammo_8cpp_03.html#ad976e077c2d7a7af5b9a939495ae395c":[35,0,6,1],
-"namespaceanonymous__namespace_02ammo__effect_8cpp_03.html":[35,0,7]
+"namespaceammo__effects.html#a266026a76ad1cf3377d0b7c6efc36dd7":[35,0,4,3]
 };

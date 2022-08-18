@@ -227,7 +227,7 @@ var searchData=
   ['build_5ffloor_5fcaches_224',['build_floor_caches',['../classmap.html#a06e2a939fc28a75aa41e2e4da11af705',1,'map']]],
   ['build_5fitems_5ftype_5fcache_225',['build_items_type_cache',['../classinventory.html#a0cedea8f680c5401c9a6712fa2e6f77a',1,'inventory']]],
   ['build_5flab_226',['build_lab',['../classovermap.html#a4a82479c8ad800d230f56b0df809e301',1,'overmap']]],
-  ['build_5fline_227',['build_line',['../namespacespell__detail.html#a1fb1409a50c4aa40345c01400ea86672',1,'spell_detail']]],
+  ['build_5fline_227',['build_line',['../namespacespell__detail.html#a910a75f244678a01fe858dee5fb338dd',1,'spell_detail']]],
   ['build_5fmap_5fcache_228',['build_map_cache',['../classmap.html#af827e12041decbf5816871c8048cde8e',1,'map']]],
   ['build_5fmine_229',['build_mine',['../classovermap.html#a6b02f00f446061be0946e1f28eb5e358',1,'overmap']]],
   ['build_5fmut_5fdependency_5fmap_230',['build_mut_dependency_map',['../classCharacter.html#a83b09148b1c4ac73a92cf7ccd4f98b39',1,'Character']]],

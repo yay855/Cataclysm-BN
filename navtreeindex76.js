@@ -1,5 +1,15 @@
 var NAVTREEINDEX76 =
 {
+"consumption_8cpp.html#ab0274897870729fe991550cf82d246e9":[37,0,1,119,101],
+"consumption_8cpp.html#ab0ef5d50b9d2e3795b88816ba20982df":[37,0,1,119,15],
+"consumption_8cpp.html#ab1b77b826e76fc26c990435f29f87d50":[37,0,1,119,35],
+"consumption_8cpp.html#ab20d39f7408673b6c72e08685e5dea15":[37,0,1,119,48],
+"consumption_8cpp.html#ab2b26b8a5aaccd80452e343236ffe8e7":[37,0,1,119,102],
+"consumption_8cpp.html#ab3388325c8d9a46ddb7af329e1b247fd":[37,0,1,119,66],
+"consumption_8cpp.html#ab3904a4e01276706855605f3b616734a":[37,0,1,119,3],
+"consumption_8cpp.html#ab52b3b592a42745385edcf8d90c690a1":[37,0,1,119,1],
+"consumption_8cpp.html#ab52b3b592a42745385edcf8d90c690a1a334c4a4c42fdb79d7ebc3e73b517e6f8":[37,0,1,119,1,0],
+"consumption_8cpp.html#ab52b3b592a42745385edcf8d90c690a1a39ab32c5aeb56c9f5ae17f073ce31023":[37,0,1,119,1,1],
 "consumption_8cpp.html#ab52b3b592a42745385edcf8d90c690a1a700c216fb376666eaeda0c892e8bdc09":[37,0,1,119,1,2],
 "consumption_8cpp.html#abb2203fc9372a7f9651ccca81239445a":[37,0,1,119,74],
 "consumption_8cpp.html#abd2ce5a2e5c7ede5e25af994457bd123":[37,0,1,119,77],
@@ -239,15 +249,5 @@ var NAVTREEINDEX76 =
 "crafting_8cpp.html#a297facea6437f9bb596d9a944c1a5728":[37,0,1,126,22],
 "crafting_8cpp.html#a2ba9e40123e7b42ccc2327d637311c5a":[37,0,1,126,50],
 "crafting_8cpp.html#a2bb7b7003f2336b76c22a050e4e54b2a":[37,0,1,126,34],
-"crafting_8cpp.html#a3151d4a613895c95436a5981e382ef80":[37,0,1,126,45],
-"crafting_8cpp.html#a393bbebb3031858ad74c405659e88664":[37,0,1,126,20],
-"crafting_8cpp.html#a3b7414c7d5de377e5aa4b979de9c0904":[37,0,1,126,7],
-"crafting_8cpp.html#a4a3042080a9adfc97115bb84eed671bd":[37,0,1,126,6],
-"crafting_8cpp.html#a5187fdf5cd785e86e7602e4f97f9513c":[37,0,1,126,27],
-"crafting_8cpp.html#a5844edf7e04b20037d08a1215cf62236":[37,0,1,126,13],
-"crafting_8cpp.html#a5d187ba748889447c68918465e3b4300":[37,0,1,126,21],
-"crafting_8cpp.html#a614c2056b7d8fcc6773e3441a3feacc3":[37,0,1,126,19],
-"crafting_8cpp.html#a62b448cbb3f42468e05cc71fd5942e09":[37,0,1,126,25],
-"crafting_8cpp.html#a634161b23e3b5f7f51a8702f44ce0cae":[37,0,1,126,31],
-"crafting_8cpp.html#a653e8b3027cf7e8256c46600bdea2697":[37,0,1,126,3]
+"crafting_8cpp.html#a3151d4a613895c95436a5981e382ef80":[37,0,1,126,45]
 };

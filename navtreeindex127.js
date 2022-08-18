@@ -1,5 +1,15 @@
 var NAVTREEINDEX127 =
 {
+"player__hardcoded__effects_8cpp.html#a2dde49329eef942ec57d25db274942c0":[37,0,1,477,19],
+"player__hardcoded__effects_8cpp.html#a2ebc0d3c09d8f2896a466db2794c2845":[37,0,1,477,18],
+"player__hardcoded__effects_8cpp.html#a308d750c2cc01d70d7622fdee14be3a5":[37,0,1,477,69],
+"player__hardcoded__effects_8cpp.html#a3216260151f9b13e63846ac6bdccd6fe":[37,0,1,477,2],
+"player__hardcoded__effects_8cpp.html#a33d14d146dbc0f416314bdb87d8fca77":[37,0,1,477,39],
+"player__hardcoded__effects_8cpp.html#a354b49d09eec0c4e47b9b2528e816f0d":[37,0,1,477,3],
+"player__hardcoded__effects_8cpp.html#a39b21fc30fecd7d4fb15047600d03522":[37,0,1,477,21],
+"player__hardcoded__effects_8cpp.html#a3e46d556bbb636159b56d90f02a2173a":[37,0,1,477,64],
+"player__hardcoded__effects_8cpp.html#a40331e22a139e13b3b70f387c9fdd390":[37,0,1,477,74],
+"player__hardcoded__effects_8cpp.html#a41e08c32ee980d1dd390b1d031c16696":[37,0,1,477,57],
 "player__hardcoded__effects_8cpp.html#a44c8bccf5238b697cdf9a829442162a2":[37,0,1,477,76],
 "player__hardcoded__effects_8cpp.html#a468a4ea99d05230e46c7e014a68270a7":[37,0,1,477,26],
 "player__hardcoded__effects_8cpp.html#a490ad03dab9bfa0cac3c742ec6b92fa0":[37,0,1,477,67],
@@ -239,15 +249,5 @@ var NAVTREEINDEX127 =
 "ranged_8cpp.html#a72d322a82b6cac799c940f935cbee213":[37,0,1,492,82],
 "ranged_8cpp.html#a738f726f320c7f5b5edca445777a14fa":[37,0,1,492,71],
 "ranged_8cpp.html#a75bb71c29339b16696e3a2eb384bbc3c":[37,0,1,492,7],
-"ranged_8cpp.html#a7a08490346831114f00f3e44cbe454e3":[37,0,1,492,101],
-"ranged_8cpp.html#a7c4d782d03c3f30e5b3332260ded8951":[37,0,1,492,34],
-"ranged_8cpp.html#a7cebe4dcc0fe98d9a37fe19beb640e1f":[37,0,1,492,83],
-"ranged_8cpp.html#a7dcffd38110cb6a93c24f11258461023":[37,0,1,492,12],
-"ranged_8cpp.html#a8003de0be6343d0b891adb019a7b51ea":[37,0,1,492,88],
-"ranged_8cpp.html#a804a5958c8dea5a130b8a5c7fe686ac6":[37,0,1,492,85],
-"ranged_8cpp.html#a86a68d80cad5052d3e456a9fb8b1769d":[37,0,1,492,4],
-"ranged_8cpp.html#a8b90a63ce217d881ddad6a7456c4a98e":[37,0,1,492,10],
-"ranged_8cpp.html#a8c62adc6acdb9a2e731a64f65499bad8":[37,0,1,492,9],
-"ranged_8cpp.html#a8cd1e1b3b0c3c6b1ba13f05f3831279c":[37,0,1,492,92],
-"ranged_8cpp.html#a8f6e1a41d7fec5aac1acdc98363c8cc4":[37,0,1,492,61]
+"ranged_8cpp.html#a7a08490346831114f00f3e44cbe454e3":[37,0,1,492,101]
 };

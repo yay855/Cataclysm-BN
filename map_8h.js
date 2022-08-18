@@ -6,6 +6,7 @@ var map_8h =
     [ "bash_params", "structbash__params.html", "structbash__params" ],
     [ "bash_results", "structbash__results.html", "structbash__results" ],
     [ "drawsq_params", "structdrawsq__params.html", "structdrawsq__params" ],
+    [ "diagonal_blocks", "structdiagonal__blocks.html", "structdiagonal__blocks" ],
     [ "level_cache", "structlevel__cache.html", "structlevel__cache" ],
     [ "map", "classmap.html", "classmap" ],
     [ "map::apparent_light_info", "structmap_1_1apparent__light__info.html", "structmap_1_1apparent__light__info" ],

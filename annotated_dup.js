@@ -617,6 +617,7 @@ var annotated_dup =
     [ "deploy_tent_actor", "classdeploy__tent__actor.html", "classdeploy__tent__actor" ],
     [ "desc_freq", "structdesc__freq.html", "structdesc__freq" ],
     [ "detach_gunmods_actor", "classdetach__gunmods__actor.html", "classdetach__gunmods__actor" ],
+    [ "diagonal_blocks", "structdiagonal__blocks.html", "structdiagonal__blocks" ],
     [ "dialogue", "structdialogue.html", "structdialogue" ],
     [ "dialogue_window", "classdialogue__window.html", "classdialogue__window" ],
     [ "dig_activity_actor", "classdig__activity__actor.html", "classdig__activity__actor" ],
