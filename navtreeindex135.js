@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1telefrags__creature_01_4.html#a45e07cb0936fe0a4331a65d286c772b6":[36,0,14,0,57,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1telefrags__creature_01_4.html#a45e07cb0936fe0a4331a65d286c772b6":[35,0,68,0,57,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1teleglow__teleports_01_4.html":[36,0,14,0,58],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1teleglow__teleports_01_4.html":[35,0,68,0,58],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "structcata__libintl_1_1PlfToken.html":[36,0,15,2],
 "structcata__libintl_1_1PlfToken.html#a0be1946ba20ab3c44f84f0abae19622b":[35,0,71,2,2],
 "structcata__libintl_1_1PlfToken.html#a0be1946ba20ab3c44f84f0abae19622b":[36,0,15,2,2],
-"structcata__libintl_1_1PlfToken.html#a789c7d38170b3989f85ee035d8e1cc7d":[35,0,71,2,1],
-"structcata__libintl_1_1PlfToken.html#a789c7d38170b3989f85ee035d8e1cc7d":[36,0,15,2,1]
+"structcata__libintl_1_1PlfToken.html#a789c7d38170b3989f85ee035d8e1cc7d":[35,0,71,2,1]
 };

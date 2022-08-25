@@ -1,5 +1,6 @@
 var NAVTREEINDEX150 =
 {
+"structnote__color.html#a5b13480ff463948685181426f226bae6":[36,0,662,1],
 "structnote__color.html#a827a10be059585ddd6f93ecf0875e6fb":[36,0,662,0],
 "structnpc__chatbin.html":[36,0,664],
 "structnpc__chatbin.html#a083175cd6d6a4cc4e77135c79dd4f518":[36,0,664,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX150 =
 "structovermap__feature__flag__settings.html":[36,0,697],
 "structovermap__feature__flag__settings.html#a03478b6f5281acf2c514f76d643dccce":[36,0,697,2],
 "structovermap__feature__flag__settings.html#a44c15045900e08c8d59022a6fbbc3ac6":[36,0,697,3],
-"structovermap__feature__flag__settings.html#a6b1074fce0b1452142190c291bfe79cc":[36,0,697,4],
-"structovermap__feature__flag__settings.html#aac6eb175163f4ca766e4e16f88994db0":[36,0,697,0]
+"structovermap__feature__flag__settings.html#a6b1074fce0b1452142190c291bfe79cc":[36,0,697,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"structdetail_1_1null.html":[36,0,20,87],
 "structdetail_1_1precision__adapter.html":[36,0,20,89],
 "structdetail_1_1precision__adapter.html":[35,0,88,90],
 "structdetail_1_1precision__adapter.html#a140604423284070622c8e5dd9ba2b0ad":[36,0,20,89,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "structenum__traits_3_01achievement__comparison_01_4.html":[36,0,242],
 "structenum__traits_3_01achievement__comparison_01_4.html#aba3f435af2da83847a9504ef1428008e":[36,0,242,0],
 "structenum__traits_3_01achievement__completion_01_4.html":[36,0,243],
-"structenum__traits_3_01achievement__completion_01_4.html#a0ceb9830f038fba0f82ece47b0ca3b0a":[36,0,243,0],
-"structenum__traits_3_01add__type_01_4.html":[36,0,244]
+"structenum__traits_3_01achievement__completion_01_4.html#a0ceb9830f038fba0f82ece47b0ca3b0a":[36,0,243,0]
 };

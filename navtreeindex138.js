@@ -1,5 +1,6 @@
 var NAVTREEINDEX138 =
 {
+"structdealt__projectile__attack.html#a466f327979e41691bc19c91e622078b6":[36,0,186,2],
 "structdealt__projectile__attack.html#a7dd960a5108456f89dc1f8ef369a1096":[36,0,186,1],
 "structdealt__projectile__attack.html#a93f05a2866e4dbc8c4d432a67daf8ab6":[36,0,186,4],
 "structdealt__projectile__attack.html#ab874a1233da5daa95ff296cdb1ee1849":[36,0,186,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX138 =
 "structdetail_1_1basic__data.html#a69fe2cc083fbb06c4fc8621d33d8296a":[35,0,88,11,1],
 "structdetail_1_1basic__data.html#a756b986401bb6382b0fe895d73528e72":[36,0,20,10,5],
 "structdetail_1_1basic__data.html#a756b986401bb6382b0fe895d73528e72":[35,0,88,11,5],
-"structdetail_1_1basic__data.html#a8003a8c2f67655b439f27b90de91250b":[35,0,88,11,21],
-"structdetail_1_1basic__data.html#a8003a8c2f67655b439f27b90de91250b":[36,0,20,10,21]
+"structdetail_1_1basic__data.html#a8003a8c2f67655b439f27b90de91250b":[35,0,88,11,21]
 };

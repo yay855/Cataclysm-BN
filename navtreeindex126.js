@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"pathfinding_8cpp.html#ac94a766a92de298b1a4c849533491128a1974d008106838bbba4d2dc3ea02e6e1":[37,0,1,462,2,1],
 "pathfinding_8cpp.html#ac94a766a92de298b1a4c849533491128a2c1b1140a4f54d7d5cfc0d782c9f17f5":[37,0,1,462,2,2],
 "pathfinding_8cpp.html#ac94a766a92de298b1a4c849533491128abc0379508aad3e690190440da0271f7e":[37,0,1,462,2,0],
 "pathfinding_8cpp_source.html":[37,0,1,462],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "player__hardcoded__effects_8cpp.html#a1b24df80fb6fce16dd4527cc4a6fa6ca":[37,0,1,477,16],
 "player__hardcoded__effects_8cpp.html#a1de43fa1f6d16ce87ab7a3a49e47c463":[37,0,1,477,41],
 "player__hardcoded__effects_8cpp.html#a1e2a085a78738d789a7447af81ed3deb":[37,0,1,477,28],
-"player__hardcoded__effects_8cpp.html#a224033af2e0bc90d812b116312d34365":[37,0,1,477,20],
-"player__hardcoded__effects_8cpp.html#a24886ecb2b3812c98899a8ceaf5d29fa":[37,0,1,477,51]
+"player__hardcoded__effects_8cpp.html#a224033af2e0bc90d812b116312d34365":[37,0,1,477,20]
 };
