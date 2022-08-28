@@ -86,11 +86,14 @@ $(document).ready(function(){initNavTree('newcharacter_8h.html',''); initResizab
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a>  </div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">newcharacter.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &lt;string&gt;</code><br />
+<code>#include &quot;<a class="el" href="type__id_8h_source.html">type_id.h</a>&quot;</code><br />
 </div>
 <p><a href="newcharacter_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -99,10 +102,41 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpoints__left.html">points_left</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacenewcharacter"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html">newcharacter</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:afa35d4744274e98c051370f88e1684c8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="newcharacter_8h.html#afa35d4744274e98c051370f88e1684c8">CATA_SRC_NEWCHARACTER_H</a></td></tr>
 <tr class="separator:afa35d4744274e98c051370f88e1684c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:af26bc6eecdfca795bacbc3ac398f4578"><td class="memItemLeft" align="right" valign="top"><a class="el" href="type__id_8h.html#a44aa01c09faf1c1723400eb9075a1f4d">trait_id</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#af26bc6eecdfca795bacbc3ac398f4578">newcharacter::random_good_trait</a> ()</td></tr>
+<tr class="memdesc:af26bc6eecdfca795bacbc3ac398f4578"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the id of a random starting trait that costs &gt;= 0 points.  <a href="namespacenewcharacter.html#af26bc6eecdfca795bacbc3ac398f4578">More...</a><br /></td></tr>
+<tr class="separator:af26bc6eecdfca795bacbc3ac398f4578"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b0639d19bcb26127689efdad21c6835"><td class="memItemLeft" align="right" valign="top"><a class="el" href="type__id_8h.html#a44aa01c09faf1c1723400eb9075a1f4d">trait_id</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#a0b0639d19bcb26127689efdad21c6835">newcharacter::random_bad_trait</a> ()</td></tr>
+<tr class="memdesc:a0b0639d19bcb26127689efdad21c6835"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the id of a random starting trait that costs &lt; 0 points.  <a href="namespacenewcharacter.html#a0b0639d19bcb26127689efdad21c6835">More...</a><br /></td></tr>
+<tr class="separator:a0b0639d19bcb26127689efdad21c6835"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bc90a9564c58aaca110dc192c29054a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#a7bc90a9564c58aaca110dc192c29054a">newcharacter::add_traits</a> (<a class="el" href="classCharacter.html">Character</a> &amp;ch)</td></tr>
+<tr class="memdesc:a7bc90a9564c58aaca110dc192c29054a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds mandatory scenario and profession traits unless character already has them.  <a href="namespacenewcharacter.html#a7bc90a9564c58aaca110dc192c29054a">More...</a><br /></td></tr>
+<tr class="separator:a7bc90a9564c58aaca110dc192c29054a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a101668ddffbc9c60d690f4b9b1ed3e94"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#a101668ddffbc9c60d690f4b9b1ed3e94">newcharacter::add_traits</a> (<a class="el" href="classCharacter.html">Character</a> &amp;ch, <a class="el" href="structpoints__left.html">points_left</a> &amp;points)</td></tr>
+<tr class="separator:a101668ddffbc9c60d690f4b9b1ed3e94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a810a2d39283752da4d95027d34a4cd2b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#a810a2d39283752da4d95027d34a4cd2b">newcharacter::has_conflicting_trait</a> (const <a class="el" href="classCharacter.html">Character</a> &amp;ch, const <a class="el" href="type__id_8h.html#a44aa01c09faf1c1723400eb9075a1f4d">trait_id</a> &amp;t)</td></tr>
+<tr class="memdesc:a810a2d39283752da4d95027d34a4cd2b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if character has a conflicting trait to the entered trait.  <a href="namespacenewcharacter.html#a810a2d39283752da4d95027d34a4cd2b">More...</a><br /></td></tr>
+<tr class="separator:a810a2d39283752da4d95027d34a4cd2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accf415a065ef7ba53e81374dce115e0d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#accf415a065ef7ba53e81374dce115e0d">newcharacter::has_lower_trait</a> (const <a class="el" href="classCharacter.html">Character</a> &amp;ch, const <a class="el" href="type__id_8h.html#a44aa01c09faf1c1723400eb9075a1f4d">trait_id</a> &amp;t)</td></tr>
+<tr class="memdesc:accf415a065ef7ba53e81374dce115e0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if charcater has a trait which upgrades into the entered trait.  <a href="namespacenewcharacter.html#accf415a065ef7ba53e81374dce115e0d">More...</a><br /></td></tr>
+<tr class="separator:accf415a065ef7ba53e81374dce115e0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1920445a59667cfb10d9d38d2dcb0e16"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#a1920445a59667cfb10d9d38d2dcb0e16">newcharacter::has_higher_trait</a> (const <a class="el" href="classCharacter.html">Character</a> &amp;ch, const <a class="el" href="type__id_8h.html#a44aa01c09faf1c1723400eb9075a1f4d">trait_id</a> &amp;t)</td></tr>
+<tr class="memdesc:a1920445a59667cfb10d9d38d2dcb0e16"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if character has a trait which is an upgrade of the entered trait.  <a href="namespacenewcharacter.html#a1920445a59667cfb10d9d38d2dcb0e16">More...</a><br /></td></tr>
+<tr class="separator:a1920445a59667cfb10d9d38d2dcb0e16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb61e70aaafdc82eaa9f84a4afda5609"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacenewcharacter.html#afb61e70aaafdc82eaa9f84a4afda5609">newcharacter::has_same_type_trait</a> (const <a class="el" href="classCharacter.html">Character</a> &amp;ch, const <a class="el" href="type__id_8h.html#a44aa01c09faf1c1723400eb9075a1f4d">trait_id</a> &amp;t)</td></tr>
+<tr class="memdesc:afb61e70aaafdc82eaa9f84a4afda5609"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if character has a trait that shares a type with the entered trait.  <a href="namespacenewcharacter.html#afb61e70aaafdc82eaa9f84a4afda5609">More...</a><br /></td></tr>
+<tr class="separator:afb61e70aaafdc82eaa9f84a4afda5609"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
 <a id="afa35d4744274e98c051370f88e1684c8" name="afa35d4744274e98c051370f88e1684c8"></a>
@@ -127,7 +161,7 @@ Macros</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="newcharacter_8h.html">newcharacter.h</a></li>
-    <li class="footer">Generated on Sun Aug 28 2022 14:01:36 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Aug 28 2022 14:05:18 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

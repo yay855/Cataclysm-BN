@@ -636,7 +636,7 @@ var searchData=
   ['drop_5fitems_5fon_5fdeath_633',['drop_items_on_death',['../classmonster.html#aad05495ac276ab685a7c372092da5d37',1,'monster']]],
   ['drop_5fon_5fmap_634',['drop_on_map',['../activity__item__handling_8cpp.html#a7a8187a46223fffe87a69ae5c289b1c5',1,'drop_on_map(Character &amp;c, item_drop_reason reason, const std::list&lt; item &gt; &amp;items, const tripoint &amp;where):&#160;activity_item_handling.cpp'],['../activity__handlers_8h.html#a7a8187a46223fffe87a69ae5c289b1c5',1,'drop_on_map(Character &amp;c, item_drop_reason reason, const std::list&lt; item &gt; &amp;items, const tripoint &amp;where):&#160;activity_item_handling.cpp']]],
   ['drop_5for_5fembed_5fprojectile_635',['drop_or_embed_projectile',['../ballistics_8cpp.html#a2ed3afd8aecc72079ebd5b8697380e8f',1,'ballistics.cpp']]],
-  ['drop_5for_5fhandle_636',['drop_or_handle',['../crafting_8cpp.html#a8d1c99481ac31b0e5b890fde0b417d95',1,'crafting.cpp']]],
+  ['drop_5for_5fhandle_636',['drop_or_handle',['../crafting_8cpp.html#acc15423c225d2c9290533c63685203a0',1,'crafting.cpp']]],
   ['drop_5fstolen_5fitem_637',['drop_stolen_item',['../namespacetalk__function.html#a1981b746510871e5f60e8637b0db8625',1,'talk_function']]],
   ['drop_5ftoken_5fprovider_638',['drop_token_provider',['../classdrop__token__provider.html#ae646aa46577d79b1d4544e9878268d6a',1,'drop_token_provider']]],
   ['drop_5fvehicle_639',['drop_vehicle',['../classmap.html#a8e0d5676be3d8701b5fadf5201f0f816',1,'map']]],

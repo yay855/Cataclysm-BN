@@ -101,7 +101,6 @@ var player_8cpp =
     [ "trait_PAINRESIST_TROGLO", "player_8cpp.html#a4b2257876364d774f1eb52ef6e585bbb", null ],
     [ "trait_PARAIMMUNE", "player_8cpp.html#a6c2652eceffb663021aeae9d4b7d0429", null ],
     [ "trait_PARKOUR", "player_8cpp.html#add3801e5054573e6c7c0ef0276339fdf", null ],
-    [ "trait_PER_SLIME_OK", "player_8cpp.html#ac54117dbd505336cc0e980684cf77774", null ],
     [ "trait_PROF_SKATER", "player_8cpp.html#af247329e9c32c1496b225d041edf4d49", null ],
     [ "trait_QUILLS", "player_8cpp.html#a444102b4297414117db15957ce171fb6", null ],
     [ "trait_SAVANT", "player_8cpp.html#a510aede332c4a05b18d61c20e2efbf4d", null ],

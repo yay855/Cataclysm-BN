@@ -68,7 +68,7 @@ var searchData=
   ['learn_5fby_5fdisassembly_65',['learn_by_disassembly',['../classrecipe.html#a1e30e83416b78d0cbbb071fc05a81267',1,'recipe']]],
   ['learn_5fdifficulty_66',['learn_difficulty',['../classmartialart.html#a71ee6f7ce4f0e05398fc234174670485',1,'martialart']]],
   ['learn_5fspells_67',['learn_spells',['../classspell__type.html#a54a3704127c6ab03b7314bc998522e04',1,'spell_type']]],
-  ['learned_5frecipes_68',['learned_recipes',['../classplayer.html#ae02e3074363fa28982a0f7e08f4cc8ad',1,'player']]],
+  ['learned_5frecipes_68',['learned_recipes',['../classCharacter.html#a08e837f7a509fac43e564514bb6d4009',1,'Character']]],
   ['learned_5fspells_69',['learned_spells',['../structbionic__data.html#a417279b7446198706253bfafa83c2574',1,'bionic_data']]],
   ['leech_5fplant_70',['LEECH_PLANT',['../monattack_8cpp.html#a8096ac4f98749770688cf8fd2b7de265',1,'monattack.cpp']]],
   ['left_71',['left',['../classcomputer__session.html#aec1fa4290b8dc1886d7084d4d4d6390b',1,'computer_session::left()'],['../structborder__helper_1_1border__connection.html#ae592b37d23636dda1450d1d6abeb783e',1,'border_helper::border_connection::left()'],['../structmvwzstr.html#a494d0f1cb6eb7a18473507b18a2d161a',1,'mvwzstr::left()']]],

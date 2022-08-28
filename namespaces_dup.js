@@ -293,10 +293,16 @@ var namespaces_dup =
       [ "get_thirst_speed_penalty", "namespacecharacter__effects.html#a69e2f87b5391a5aec01672c98cdfb57c", null ]
     ] ],
     [ "character_funcs", "namespacecharacter__funcs.html", [
+      [ "can_see_fine_details", "namespacecharacter__funcs.html#a813a9decd34980fe53f38ba18ffd6374", null ],
+      [ "can_see_fine_details", "namespacecharacter__funcs.html#a68c0c236c653e5217f1436bfadd54664", null ],
       [ "estimate_effect_dur", "namespacecharacter__funcs.html#a470b862a6936cbfbd1e80a46b78f1914", null ],
+      [ "fine_detail_vision_mod", "namespacecharacter__funcs.html#adda4d5fd10b7216c49a0f9b6010de579", null ],
+      [ "fine_detail_vision_mod", "namespacecharacter__funcs.html#a03ea116da570af10c630e0fe3a7ea6fc", null ],
       [ "get_book_fun_for", "namespacecharacter__funcs.html#aaa9f2cc376f03128e0a486a90c7376fa", null ],
       [ "is_fun_to_read", "namespacecharacter__funcs.html#a862df11441bba358b82fa47ce88ebe85", null ],
-      [ "siphon", "namespacecharacter__funcs.html#adaa760a90e1a9cc452c7b756bcde2a60", null ]
+      [ "siphon", "namespacecharacter__funcs.html#adaa760a90e1a9cc452c7b756bcde2a60", null ],
+      [ "FINE_VISION_PERFECT", "namespacecharacter__funcs.html#a4e103652bd1f087acad98fa135eca4a4", null ],
+      [ "FINE_VISION_THRESHOLD", "namespacecharacter__funcs.html#ac767ac632c0c783c8615f5e920cc938e", null ]
     ] ],
     [ "character_weight_category", "namespacecharacter__weight__category.html", [
       [ "emaciated", "namespacecharacter__weight__category.html#ae41f48d3a0de12bbab86abc5d741f978", null ],
@@ -1171,6 +1177,16 @@ var namespaces_dup =
       [ "gender_flags", "namespaceName.html#afff8f2ac4db08d15d53fa5306ac102ad", null ],
       [ "names", "namespaceName.html#a305934c1ed39204d620efdee7dbec154", null ],
       [ "usage_flags", "namespaceName.html#a20d83b639a7fa02d3690c4dd3af1fcfd", null ]
+    ] ],
+    [ "newcharacter", "namespacenewcharacter.html", [
+      [ "add_traits", "namespacenewcharacter.html#a7bc90a9564c58aaca110dc192c29054a", null ],
+      [ "add_traits", "namespacenewcharacter.html#a101668ddffbc9c60d690f4b9b1ed3e94", null ],
+      [ "has_conflicting_trait", "namespacenewcharacter.html#a810a2d39283752da4d95027d34a4cd2b", null ],
+      [ "has_higher_trait", "namespacenewcharacter.html#a1920445a59667cfb10d9d38d2dcb0e16", null ],
+      [ "has_lower_trait", "namespacenewcharacter.html#accf415a065ef7ba53e81374dce115e0d", null ],
+      [ "has_same_type_trait", "namespacenewcharacter.html#afb61e70aaafdc82eaa9f84a4afda5609", null ],
+      [ "random_bad_trait", "namespacenewcharacter.html#a0b0639d19bcb26127689efdad21c6835", null ],
+      [ "random_good_trait", "namespacenewcharacter.html#af26bc6eecdfca795bacbc3ac398f4578", null ]
     ] ],
     [ "npc_factions", "namespacenpc__factions.html", [
       [ "relationship", "namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686", [

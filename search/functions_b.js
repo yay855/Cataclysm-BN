@@ -29,7 +29,7 @@ var searchData=
   ['knock_5fback_5fto_26',['knock_back_to',['../classplayer.html#a9b07f11977446bd749238eb0dc424c61',1,'player::knock_back_to()'],['../classmonster.html#aa6c57b6cbf413727ea33c467f2bc886b',1,'monster::knock_back_to()'],['../classCreature.html#af79c1e1ef891477157860a3e31db8492',1,'Creature::knock_back_to()']]],
   ['knockback_27',['knockback',['../classgame.html#a1d4a739fe4ca380680b2251332b62267',1,'game::knockback(std::vector&lt; tripoint &gt; &amp;traj, int stun, int dam_mult)'],['../classgame.html#a6d09825f060175cd68ed56291817bb09',1,'game::knockback(const tripoint &amp;s, const tripoint &amp;t, int force, int stun, int dam_mult)']]],
   ['known_5fmagic_28',['known_magic',['../classknown__magic.html#a2e9d576a3710bfe2534471e630df5bb7',1,'known_magic']]],
-  ['knows_5frecipe_29',['knows_recipe',['../classplayer.html#abc8b110d8e655cfc6d27b7bdc67fab3b',1,'player']]],
+  ['knows_5frecipe_29',['knows_recipe',['../classCharacter.html#a7950b035ea05fa28a0851b4107377265',1,'Character']]],
   ['knows_5fselected_5fstyle_30',['knows_selected_style',['../classcharacter__martial__arts.html#a94cda5bf6cf234f4e8c7ee2acbe6e84f',1,'character_martial_arts']]],
   ['knows_5fspell_31',['knows_spell',['../classknown__magic.html#a67d5ecb476afb7f4a131ee82f223e44e',1,'known_magic::knows_spell() const'],['../classknown__magic.html#a8921c5cb6ecfcb2ad0f76a54f516070b',1,'known_magic::knows_spell(const spell_id &amp;sp) const'],['../classknown__magic.html#af808c41802489957df2f33a5e3e381c7',1,'known_magic::knows_spell(const std::string &amp;sp) const']]],
   ['knows_5ftranslocator_32',['knows_translocator',['../classteleporter__list.html#aaacf09a873f9e32659be4b38de573db9',1,'teleporter_list']]],

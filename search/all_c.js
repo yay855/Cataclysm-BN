@@ -84,7 +84,7 @@ var searchData=
   ['known_5fto_5fu_81',['known_to_u',['../classnpc.html#add6f65308422586d783412921823ad20',1,'npc']]],
   ['known_5ftraps_82',['known_traps',['../classCharacter.html#a64070428e31eb610ff5fa6b817cbafde',1,'Character']]],
   ['known_5fup_83',['known_up',['../omdata_8h.html#afaf721417ebfe396111f8f48b690ac4ba4037042c01947884e24971f2e1d438ad',1,'omdata.h']]],
-  ['knows_5frecipe_84',['knows_recipe',['../classplayer.html#abc8b110d8e655cfc6d27b7bdc67fab3b',1,'player']]],
+  ['knows_5frecipe_84',['knows_recipe',['../classCharacter.html#a7950b035ea05fa28a0851b4107377265',1,'Character']]],
   ['knows_5fselected_5fstyle_85',['knows_selected_style',['../classcharacter__martial__arts.html#a94cda5bf6cf234f4e8c7ee2acbe6e84f',1,'character_martial_arts']]],
   ['knows_5fspell_86',['knows_spell',['../classknown__magic.html#af808c41802489957df2f33a5e3e381c7',1,'known_magic::knows_spell(const std::string &amp;sp) const'],['../classknown__magic.html#a8921c5cb6ecfcb2ad0f76a54f516070b',1,'known_magic::knows_spell(const spell_id &amp;sp) const'],['../classknown__magic.html#a67d5ecb476afb7f4a131ee82f223e44e',1,'known_magic::knows_spell() const']]],
   ['knows_5ftranslocator_87',['knows_translocator',['../classteleporter__list.html#aaacf09a873f9e32659be4b38de573db9',1,'teleporter_list']]],

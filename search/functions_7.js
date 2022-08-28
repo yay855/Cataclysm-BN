@@ -552,7 +552,7 @@ var searchData=
   ['get_5flayer_549',['get_layer',['../classitem.html#a21481dceb4ee5fb0cf0ce84fbe855e39',1,'item::get_layer()'],['../structpathfinder.html#ad5bb4d967ab8357a8c9b00cc6b6854c4',1,'pathfinder::get_layer()']]],
   ['get_5flayout_5fheight_550',['get_layout_height',['../classinventory__selector.html#ab7aebecbb11801f7b7373bf526bf65aa',1,'inventory_selector']]],
   ['get_5flayout_5fwidth_551',['get_layout_width',['../classinventory__selector.html#a968c4ee8eb2a35bca6d2b0788aee4201',1,'inventory_selector']]],
-  ['get_5flearned_5frecipes_552',['get_learned_recipes',['../classplayer.html#a774d62f7d266fb6816af6f937c94d66f',1,'player']]],
+  ['get_5flearned_5frecipes_552',['get_learned_recipes',['../classCharacter.html#a982ac6331662b9f0d643f7752e0b60da',1,'Character']]],
   ['get_5flevel_553',['get_level',['../classplayer__morale.html#a357c7f7ca8ffd78fe045846ba8ed6332',1,'player_morale::get_level()'],['../classspell.html#a006cfd33c15f732b2463eda1ae0686cc',1,'spell::get_level()']]],
   ['get_5flevx_554',['get_levx',['../classgame.html#ac4ac9a5e0a313934e9095b38a1eb73c9',1,'game']]],
   ['get_5flevy_555',['get_levy',['../classgame.html#ab453a46e537aef2ea2ea37363687fd37',1,'game']]],
