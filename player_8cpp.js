@@ -5,6 +5,7 @@ var player_8cpp =
     [ "flag_RESTRICT_HAND", "player_8cpp.html#a2113157ced26b32206fbc8a85279e861", null ],
     [ "flag_SPLINT", "player_8cpp.html#ac515c71f173b6c81dbc78f60ce2b89d2", null ],
     [ "has_mod", "player_8cpp.html#a2374e8b755cc07d0e74df88271258bf3", null ],
+    [ "is_pet_food", "player_8cpp.html#a94e0f5b38cac71bc255218a99bc9d617", null ],
     [ "query_consume_ownership", "player_8cpp.html#a71152d389acc9d0adfd4c1b32374515e", null ],
     [ "ACT_READ", "player_8cpp.html#ab220ac1d69cb6fcb7c741708f60a064d", null ],
     [ "bio_cloak", "player_8cpp.html#a8d1fcf8d24e911eb69b460cd5cd32f9a", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX146 =
 {
+"structitype.html#a0a5d70cf8c883cd69f606eead503f322":[36,0,469,90],
 "structitype.html#a0b38a905202f2f3ec5a5429c3d3724a8":[36,0,469,14],
 "structitype.html#a11deff59437cdf40848e4fc006237e10":[36,0,469,5],
 "structitype.html#a14fcae616635cf3a66644e0d473a3622":[36,0,469,88],
@@ -248,6 +249,5 @@ var NAVTREEINDEX146 =
 "structlocalized__comparator.html":[36,0,545],
 "structlocalized__comparator.html#a2a8dad37ad543135c22056c3651c4574":[36,0,545,1],
 "structlocalized__comparator.html#a3cbecaf9669c0aacdf13464d6809e53e":[36,0,545,3],
-"structlocalized__comparator.html#a3f6790a3e8b6d7a7c75686e3a30d4f9a":[36,0,545,2],
-"structlocalized__comparator.html#a90f971d0112c93e7aecea1ce0ca70b3f":[36,0,545,0]
+"structlocalized__comparator.html#a3f6790a3e8b6d7a7c75686e3a30d4f9a":[36,0,545,2]
 };
