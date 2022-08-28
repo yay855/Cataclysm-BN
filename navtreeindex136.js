@@ -1,7 +1,5 @@
 var NAVTREEINDEX136 =
 {
-"structcata__libintl_1_1PlfToken.html#a789c7d38170b3989f85ee035d8e1cc7d":[36,0,15,2,1],
-"structcata__libintl_1_1PlfToken.html#adb6c7c3c5ca49f938e4f18e370f4bfd5":[35,0,71,2,0],
 "structcata__libintl_1_1PlfToken.html#adb6c7c3c5ca49f938e4f18e370f4bfd5":[36,0,15,2,0],
 "structcata__libintl_1_1PlfToken.html#af0243587adcdb03faf6ac68fcab42861":[35,0,71,2,3],
 "structcata__libintl_1_1PlfToken.html#af0243587adcdb03faf6ac68fcab42861":[36,0,15,2,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX136 =
 "structcomputer__option.html#a50f28be0bac8a1b4389a209194d5b9ae":[36,0,159,4],
 "structcomputer__option.html#a639cfcea06be1fe2cfa9b9cbeb0456ec":[36,0,159,5],
 "structcomputer__option.html#a94b0426d93a9b31be53830142c706f0c":[36,0,159,2],
-"structcomputer__option.html#a959eeae3d60dde1aaf6e074ad427e4b5":[36,0,159,7]
+"structcomputer__option.html#a959eeae3d60dde1aaf6e074ad427e4b5":[36,0,159,7],
+"structcomputer__option.html#abc1bb83bc973dc5892c293de8d5659e9":[36,0,159,6],
+"structcomputer__option.html#ac267623a5471b975f9ad29354d6ca4ce":[36,0,159,3]
 };

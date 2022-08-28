@@ -1,7 +1,5 @@
 var NAVTREEINDEX132 =
 {
-"structaim__type.html#abab67c2762f5ce5d549988ac7405dcb0":[36,0,63,0],
-"structally__rule__data.html":[36,0,64],
 "structally__rule__data.html#a0324c0060562154bcafa74e497b94f23":[36,0,64,2],
 "structally__rule__data.html#a7ec0b58620cb040e2ee2b597880c8026":[36,0,64,1],
 "structally__rule__data.html#ac8b22cbe0ee370ab452e3918c5e3c9c2":[36,0,64,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX132 =
 "structartifact__weapon__datum.html#acb9a5119ae36013daa212ee5800d4681":[36,0,78,10],
 "structartifact__weapon__datum.html#ad9f925d27ad6b285c9d35efdbcdf2bdb":[36,0,78,2],
 "structartifact__weapon__datum.html#af9bcff534cc08e5acc29ce06765beb60":[36,0,78,7],
-"structauto__navigation__data.html":[36,0,81]
+"structauto__navigation__data.html":[36,0,81],
+"structauto__navigation__data.html#a154fd958c556163e5870ab2a75a37671":[36,0,81,4],
+"structauto__navigation__data.html#a1624d7b2bb951fe71eca03aadddce81b":[36,0,81,9]
 };

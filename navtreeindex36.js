@@ -1,7 +1,5 @@
 var NAVTREEINDEX36 =
 {
-"classemit.html#a64ead1306677782208d53896a3f276b0":[36,0,233,2],
-"classemit.html#a7debe4ce9179017f538fcaaa77e21c2c":[36,0,233,6],
 "classemit.html#a83a3351b99d73dbfaa380001c5d94665":[36,0,233,12],
 "classemit.html#a8a7335b63e93b18d60b7209d92492391":[36,0,233,10],
 "classemit.html#a907ba86167c4a93baefd2993b1d1975e":[36,0,233,4],
@@ -193,12 +191,12 @@ var NAVTREEINDEX36 =
 "classexplosion__handler_1_1explosion__queue.html":[36,0,22,0],
 "classexplosion__handler_1_1explosion__queue.html#a380d0eb70cae94d75275761fb7685544":[36,0,22,0,0],
 "classexplosion__handler_1_1explosion__queue.html#a380d0eb70cae94d75275761fb7685544":[35,0,96,1,0],
-"classexplosion__handler_1_1explosion__queue.html#a63402ce169e30e1be28113893cfbdea9":[36,0,22,0,2],
 "classexplosion__handler_1_1explosion__queue.html#a63402ce169e30e1be28113893cfbdea9":[35,0,96,1,2],
+"classexplosion__handler_1_1explosion__queue.html#a63402ce169e30e1be28113893cfbdea9":[36,0,22,0,2],
 "classexplosion__handler_1_1explosion__queue.html#a66a046dd6be9e1611d6707db7f200079":[35,0,96,1,3],
 "classexplosion__handler_1_1explosion__queue.html#a66a046dd6be9e1611d6707db7f200079":[36,0,22,0,3],
-"classexplosion__handler_1_1explosion__queue.html#a892c99bbadbb5fb2db436cba4dbc355f":[36,0,22,0,1],
 "classexplosion__handler_1_1explosion__queue.html#a892c99bbadbb5fb2db436cba4dbc355f":[35,0,96,1,1],
+"classexplosion__handler_1_1explosion__queue.html#a892c99bbadbb5fb2db436cba4dbc355f":[36,0,22,0,1],
 "classexplosion__iuse.html":[36,0,312],
 "classexplosion__iuse.html#a1430965e7528b72d64cfda3692a503a1":[36,0,312,12],
 "classexplosion__iuse.html#a153b4346eee201f1691ddd3f2c4eb09d":[36,0,312,10],
@@ -249,5 +247,7 @@ var NAVTREEINDEX36 =
 "classfaction__manager.html#af128819b019519851d65e0f0bf24df8e":[36,0,316,8],
 "classfaction__manager.html#afc40a9cbe1eea87b36f36c64bc5d1094":[36,0,316,3],
 "classfaction__template.html":[36,0,317],
-"classfaction__template.html#a02a49a8831a9393a67713992ba559a26":[36,0,317,19]
+"classfaction__template.html#a02a49a8831a9393a67713992ba559a26":[36,0,317,19],
+"classfaction__template.html#a1133871efac0709fda44e805e03c5378":[36,0,317,8],
+"classfaction__template.html#a2394a891e6562b159ba62a7d5ebec83d":[36,0,317,6]
 };

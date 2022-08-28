@@ -74,7 +74,6 @@ var character_8cpp =
     [ "ACT_WAIT_STAMINA", "character_8cpp.html#ad05a7937ccf2adf4932c0aba94d6ba1b", null ],
     [ "afs_bio_linguistic_coprocessor", "character_8cpp.html#a6c042cc19a15c8597af7ab0735c5fdbd", null ],
     [ "bio_ads", "character_8cpp.html#a99bde006d277d411e266b003163d9f05", null ],
-    [ "bio_blaster", "character_8cpp.html#a0890ea610faa3e6918c5dbe33fae3c99", null ],
     [ "bio_blindfold", "character_8cpp.html#a2804fe9f932b6123c1f18c7675244ca1", null ],
     [ "bio_climate", "character_8cpp.html#ac0142ea0e6c541f9065960340b5c669a", null ],
     [ "bio_earplugs", "character_8cpp.html#aaad58adaa21f25c9dcd190166c40480a", null ],

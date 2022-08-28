@@ -1,7 +1,5 @@
 var NAVTREEINDEX60 =
 {
-"classplayer__morale_1_1morale__point.html#a6ef866718bc7fe64a156cb6da468a38e":[36,0,738,1,14],
-"classplayer__morale_1_1morale__point.html#a74e16ced4b22de1de4359528ac24fa06":[36,0,738,1,9],
 "classplayer__morale_1_1morale__point.html#a7b232a7203867729e593dfa03b3b6168":[36,0,738,1,3],
 "classplayer__morale_1_1morale__point.html#a9122249feb7739f785fa7b4ab35dbb8e":[36,0,738,1,1],
 "classplayer__morale_1_1morale__point.html#a99e68a4b48ad3c60b49c93e0e72edc77":[36,0,738,1,18],
@@ -63,8 +61,8 @@ var NAVTREEINDEX60 =
 "classprintf__arg__formatter.html#a852e7a37fef46d579690ea30b8c68861":[36,0,749,8],
 "classprintf__arg__formatter.html#a89c23f2c6801475cb6f7e814b2a8e67e":[36,0,749,10],
 "classprintf__arg__formatter.html#a985529e3e633ce43f7e5261fa11ac3f6":[36,0,749,6],
-"classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,749,11],
 "classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,749,12],
+"classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,749,11],
 "classprintf__arg__formatter.html#ad1eb24ea2b7c065bc176269fb9136ada":[36,0,749,5],
 "classprintf__arg__formatter.html#ae7a8ddae47b8bc0ad3cd0248299e7a4a":[36,0,749,16],
 "classprintf__arg__formatter.html#af0151b330f97bc42c4d97cd36fe4be18":[36,0,749,9],
@@ -249,5 +247,7 @@ var NAVTREEINDEX60 =
 "classrecipe.html#acef4205b638841f8e1980005728fcf90":[36,0,765,25],
 "classrecipe.html#ad47b2208779717bbaa2f43fc1a6408b0":[36,0,765,33],
 "classrecipe.html#ad5b12f4465e80e6a1b43760301c35224":[36,0,765,47],
-"classrecipe.html#ad5ca20850287651ea64cb1a69bd7fdfd":[36,0,765,55]
+"classrecipe.html#ad5ca20850287651ea64cb1a69bd7fdfd":[36,0,765,55],
+"classrecipe.html#ad8db385a7afb5de439c132390110a0af":[36,0,765,2],
+"classrecipe.html#adc2cfd54294a39a4a66194f0e52b466c":[36,0,765,42]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX119 =
 {
-"namespaceteleport.html#a24cbf298b41e9fc23770c73d32e33a47":[35,0,158,0],
-"namespacetemperatures.html":[35,0,159],
 "namespacetemperatures.html#a226cec67fad4075fe2cf6c31c355fbed":[35,0,159,0],
 "namespacetemperatures.html#a63ccaceafd632de17f412dfb5b3725fd":[35,0,159,5],
 "namespacetemperatures.html#a6f72ea34f2d4840f4e3448227eb42b96":[35,0,159,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX119 =
 "newcharacter_8cpp.html#a85081c7aa5bb23f217914efa49017d15":[37,0,1,421,11],
 "newcharacter_8cpp.html#a85bc3733a02891220ecf083c38848096":[37,0,1,421,25],
 "newcharacter_8cpp.html#a85bc3733a02891220ecf083c38848096a5dfd352dd6b7a5d118237fcf1e19fcc1":[37,0,1,421,25,3],
-"newcharacter_8cpp.html#a85bc3733a02891220ecf083c38848096a6377b4908ae38f9a57fe9120cf179eb1":[37,0,1,421,25,2]
+"newcharacter_8cpp.html#a85bc3733a02891220ecf083c38848096a6377b4908ae38f9a57fe9120cf179eb1":[37,0,1,421,25,2],
+"newcharacter_8cpp.html#a85bc3733a02891220ecf083c38848096ab50339a10e1de285ac99d4c3990b8693":[37,0,1,421,25,0],
+"newcharacter_8cpp.html#a85bc3733a02891220ecf083c38848096abfec72bb37910c61f36b6c29a1f7ec31":[37,0,1,421,25,1]
 };

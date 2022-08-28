@@ -1,7 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"monattack_8cpp.html#add198eac2ed74cb6bdcbebddc0eb40d0":[37,0,1,387,66],
-"monattack_8cpp.html#ade10fe42b3e13e92c0bb9f8f9fa1c4d9":[37,0,1,387,102],
 "monattack_8cpp.html#adecd2e943983e697e08cafe5115b8ef6":[37,0,1,387,127],
 "monattack_8cpp.html#ae326c5e4da7f23bc429d04d215dd7c9d":[37,0,1,387,41],
 "monattack_8cpp.html#ae6f9b357342dfd9d5269bb2bb3e4c51b":[37,0,1,387,67],
@@ -249,5 +247,7 @@ var NAVTREEINDEX105 =
 "monexamine_8h.html#a935d4c4eb310af58bb939713d5cd22c9":[37,0,1,394,2],
 "monexamine_8h.html#aa0032e91c5f31a81cc2a8f5bd3db8c38":[37,0,1,394,10],
 "monexamine_8h.html#aae7a3811b8d378a0968e67504f671bdf":[37,0,1,394,1],
-"monexamine_8h.html#ab136709e2d3d094e1935f557142f1f75":[37,0,1,394,6]
+"monexamine_8h.html#ab136709e2d3d094e1935f557142f1f75":[37,0,1,394,6],
+"monexamine_8h.html#ab961b7dd863a93d1b262aae3877a16e3":[37,0,1,394,16],
+"monexamine_8h.html#ac86211288481e9d695fa272c4ab33064":[37,0,1,394,9]
 };

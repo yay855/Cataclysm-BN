@@ -1,7 +1,5 @@
 var NAVTREEINDEX130 =
 {
-"simplexnoise_8h.html#ad85270728a2ed577773483cc42b9eec5":[37,0,1,548,9],
-"simplexnoise_8h.html#ae66c47d3c5ea5e3f9e1a19318432b8b0":[37,0,1,548,13],
 "simplexnoise_8h_source.html":[37,0,1,548],
 "skill_8cpp.html":[37,0,1,549],
 "skill_8cpp.html#a0778e5e47f1d6bae9ace4e300181108f":[37,0,1,549,1],
@@ -199,7 +197,7 @@ var NAVTREEINDEX130 =
 "string__formatter_8h.html#acd43b44c4ed2a8bf0445de6a39990c59":[37,0,1,564,25],
 "string__formatter_8h.html#ad2ac384e14bf09aa47a6e57e29693f2a":[37,0,1,564,1],
 "string__formatter_8h.html#afb28482ebaeeaaacce0dda41d99605b7":[37,0,1,564,9],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,22],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,23],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,14],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,15],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,16],
@@ -207,7 +205,7 @@ var NAVTREEINDEX130 =
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,18],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,20],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,21],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,23],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,564,22],
 "string__formatter_8h_source.html":[37,0,1,564],
 "string__id_8cpp.html":[37,0,1,565],
 "string__id_8cpp.html#a0e0ec287dba7e750bdd14410887a0764":[37,0,1,565,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX130 =
 "string__utils_8cpp.html#a508f5edd373110b56f5a7cec67187aea":[37,0,1,571,21],
 "string__utils_8cpp.html#a5a99cc337f99bf5186366cc4f548d28e":[37,0,1,571,9],
 "string__utils_8cpp.html#a5fee152eaa5ff32f4670f5f34d34e36f":[37,0,1,571,3],
-"string__utils_8cpp.html#a65cc8d8563c7e8eb2482b12270b0014b":[37,0,1,571,12]
+"string__utils_8cpp.html#a65cc8d8563c7e8eb2482b12270b0014b":[37,0,1,571,12],
+"string__utils_8cpp.html#a6a08b78c3ecd66a019d4c7669c546646":[37,0,1,571,4],
+"string__utils_8cpp.html#a6da33ffe40cf01a24fbd75d557db58a4":[37,0,1,571,6]
 };

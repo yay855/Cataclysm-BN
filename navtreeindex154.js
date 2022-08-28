@@ -1,7 +1,5 @@
 var NAVTREEINDEX154 =
 {
-"structrl__vec2d.html#abdf36ab3ac90fa0979c7cebfd8ffdb58":[36,0,786,14],
-"structrl__vec2d.html#acc0292005168ba5d844ab15cfe961d72":[36,0,786,3],
 "structrl__vec2d.html#ad184d161a899c6c8ae56e67b891c9559":[36,0,786,7],
 "structrl__vec2d.html#ae0d36b66bf67a5c89066194e7c1ac8aa":[36,0,786,4],
 "structrl__vec2d.html#ae21889b4e279d331bb54efa6831b5a86":[36,0,786,8],
@@ -249,5 +247,7 @@ var NAVTREEINDEX154 =
 "structtalk__effect__fun__t.html#a14b8e2394c2fe030c52ca0ed8aa136c4":[36,0,873,11],
 "structtalk__effect__fun__t.html#a1a44f5dbc683c369455f9307904677b7":[36,0,873,0],
 "structtalk__effect__fun__t.html#a217687098214914825dd924dbd1664b2":[36,0,873,20],
-"structtalk__effect__fun__t.html#a21c5c2b08972d0ddeaa5f7a629709d1b":[36,0,873,16]
+"structtalk__effect__fun__t.html#a21c5c2b08972d0ddeaa5f7a629709d1b":[36,0,873,16],
+"structtalk__effect__fun__t.html#a22a01e71aceaf6160237af945ecf4923":[36,0,873,33],
+"structtalk__effect__fun__t.html#a2679552ef3ab09b79f3e16d46e2fa382":[36,0,873,22]
 };

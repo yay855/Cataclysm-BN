@@ -1,7 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"character__encumbrance_8h.html":[37,0,1,90],
-"character__encumbrance_8h.html#ac2f91709bd4c84830e9cc05b65a1f0d3":[37,0,1,90,3],
 "character__encumbrance_8h_source.html":[37,0,1,90],
 "character__functions_8cpp.html":[37,0,1,91],
 "character__functions_8cpp.html#a470b862a6936cbfbd1e80a46b78f1914":[37,0,1,91,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX10 =
 "classCharacter.html#a3c475c0bd3f69108309f12f046e97063":[36,0,138,365],
 "classCharacter.html#a3ca75bf8750c2b65ea45c6ac96ea3646":[36,0,138,804],
 "classCharacter.html#a3d0ec2b4e80527bd2daad576c2bbb187":[36,0,138,677],
-"classCharacter.html#a3d3b55d33385a671a2dea6aa47b2abd4":[36,0,138,555]
+"classCharacter.html#a3d3b55d33385a671a2dea6aa47b2abd4":[36,0,138,555],
+"classCharacter.html#a3d69eddc0a03b21378fc68cc08d32c7f":[36,0,138,760],
+"classCharacter.html#a3dd4bbf648738bb70a395bd42e417f58":[36,0,138,726]
 };
