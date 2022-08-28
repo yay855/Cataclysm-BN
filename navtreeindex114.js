@@ -1,6 +1,5 @@
 var NAVTREEINDEX114 =
 {
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998af07b9b682385bfc1a2e0d031400f44b5":[35,0,94,0,20],
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998af0f2dc1d1dbbec831e43ff4552016155":[35,0,94,0,55],
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998af467b377fe2c6dc6aed829c210e22785":[35,0,94,0,47],
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998afeef67170dfb373b3be7582acedfce18":[35,0,94,0,35],
@@ -249,5 +248,6 @@ var NAVTREEINDEX114 =
 "namespaceio.html#aea9f5397c36437173351b5088c1d8f8b":[35,0,105,26],
 "namespaceio.html#aec097cc800f0f4e805e616967bda1afa":[35,0,105,38],
 "namespaceio.html#af319b1be9c74aefa34910a0d3584d88e":[35,0,105,29],
-"namespaceio.html#af6a68900f8cb873109cda661138de800":[35,0,105,41]
+"namespaceio.html#af6a68900f8cb873109cda661138de800":[35,0,105,41],
+"namespaceio.html#af6a8080dc3ddde5c2600a5d8a5552b9a":[35,0,105,33]
 };

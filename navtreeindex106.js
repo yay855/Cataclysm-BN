@@ -1,6 +1,5 @@
 var NAVTREEINDEX106 =
 {
-"monexamine_8h.html#aae7a3811b8d378a0968e67504f671bdf":[37,0,1,394,1],
 "monexamine_8h.html#ab136709e2d3d094e1935f557142f1f75":[37,0,1,394,6],
 "monexamine_8h.html#ab961b7dd863a93d1b262aae3877a16e3":[37,0,1,394,16],
 "monexamine_8h.html#ac86211288481e9d695fa272c4ab33064":[37,0,1,394,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX106 =
 "morale__types_8cpp.html#a66c3c1723add311ae2081a640fe033f1":[37,0,1,408,38],
 "morale__types_8cpp.html#a68694c468b07b54d28a9ba55ad62380d":[37,0,1,408,51],
 "morale__types_8cpp.html#a6c61a955082b6cd2ecee397ec940bc4a":[37,0,1,408,17],
-"morale__types_8cpp.html#a730940702e7e89686ea388ab9402f60a":[37,0,1,408,71]
+"morale__types_8cpp.html#a730940702e7e89686ea388ab9402f60a":[37,0,1,408,71],
+"morale__types_8cpp.html#a74cb853ac917ecb6d7326aed52853f41":[37,0,1,408,32]
 };

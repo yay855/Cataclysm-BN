@@ -1,8 +1,8 @@
 var NAVTREEINDEX29 =
 {
-"classcatacurses_1_1window.html#ab399d7c205c8c6b31063b2b51be67b9b":[36,0,17,0,6],
-"classcatacurses_1_1window.html#ab4ebccdbbf950c1d41d68054e1903de6":[36,0,17,0,0],
+"classcatacurses_1_1window.html#ab399d7c205c8c6b31063b2b51be67b9b":[35,0,73,0,6],
 "classcatacurses_1_1window.html#ab4ebccdbbf950c1d41d68054e1903de6":[35,0,73,0,0],
+"classcatacurses_1_1window.html#ab4ebccdbbf950c1d41d68054e1903de6":[36,0,17,0,0],
 "classcauterize__actor.html":[36,0,134],
 "classcauterize__actor.html#a0634d6d10fb962c452d2164859faf2f0":[36,0,134,5],
 "classcauterize__actor.html#a0ce53407eff11224a8c4f7aaa28d2afa":[36,0,134,2],

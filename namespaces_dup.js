@@ -705,7 +705,6 @@ var namespaces_dup =
       [ "fish_trap", "namespaceiuse.html#aee840b3e8d9e57e43bf850bb4fe1f32f", null ],
       [ "fishing_rod", "namespaceiuse.html#a5cbe783493c4bbb59042ea505639c06d", null ],
       [ "fitness_check", "namespaceiuse.html#ac24c85992b2571424e8eb4c70b579563", null ],
-      [ "flu_vaccine", "namespaceiuse.html#af015e96f2a09b910339eb5ddc09fd64a", null ],
       [ "flumed", "namespaceiuse.html#aa748624edacd9038fb86f038e61bb68a", null ],
       [ "flusleep", "namespaceiuse.html#adbe3744c239129f7b6cdd7b9fdcddb53", null ],
       [ "foodperson", "namespaceiuse.html#ae1a9869a841219f81c39c873d5c08e59", null ],

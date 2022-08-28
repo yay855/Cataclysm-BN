@@ -1,7 +1,5 @@
 var NAVTREEINDEX135 =
 {
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1learns__martial__art_01_4.html#a7d533d50c69f0beba98df835148aab2f":[35,0,68,0,48,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1learns__martial__art_01_4.html#a7d533d50c69f0beba98df835148aab2f":[36,0,14,0,48,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1loses__addiction_01_4.html":[36,0,14,0,49],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1loses__addiction_01_4.html":[35,0,68,0,49],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1loses__addiction_01_4.html#aac408179457887768d09adce4907128f":[36,0,14,0,49,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX135 =
 "structcata__libintl_1_1PlfNode.html#ae4ce93dcac0d4177f27f033261852941":[35,0,71,1,3],
 "structcata__libintl_1_1PlfNode.html#ae95de6a6b67fca6167d3ecf412cd2c18":[35,0,71,1,2],
 "structcata__libintl_1_1PlfNode.html#ae95de6a6b67fca6167d3ecf412cd2c18":[36,0,15,1,2],
-"structcata__libintl_1_1PlfNode.html#aec1a38803be8929abfd1400ac984a056":[35,0,71,1,5]
+"structcata__libintl_1_1PlfNode.html#aec1a38803be8929abfd1400ac984a056":[35,0,71,1,5],
+"structcata__libintl_1_1PlfNode.html#aec1a38803be8929abfd1400ac984a056":[36,0,15,1,5],
+"structcata__libintl_1_1PlfTStream.html":[35,0,71,3]
 };

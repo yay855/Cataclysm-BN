@@ -1,7 +1,5 @@
 var NAVTREEINDEX134 =
 {
-"structbounding__box.html#aa058c8aa6ff42bf7280823e84665cc07":[36,0,120,1],
-"structbuffered__prompt__info.html":[36,0,121],
 "structbuffered__prompt__info.html#a01458c737c5c14e75074259ff7b8e864":[36,0,121,0],
 "structbuffered__prompt__info.html#a0ad2aaf78df1a340b6735f0073af26f8":[36,0,121,3],
 "structbuffered__prompt__info.html#a4f328d538e96872a3f458a7edd27a145":[36,0,121,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX134 =
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1installs__faulty__cbm_01_4.html#a6602b27db6236fdb3e0481f71a001d3f":[35,0,68,0,47,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1installs__faulty__cbm_01_4.html#a6602b27db6236fdb3e0481f71a001d3f":[36,0,14,0,47,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1learns__martial__art_01_4.html":[35,0,68,0,48],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1learns__martial__art_01_4.html":[36,0,14,0,48]
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1learns__martial__art_01_4.html":[36,0,14,0,48],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1learns__martial__art_01_4.html#a7d533d50c69f0beba98df835148aab2f":[35,0,68,0,48,0],
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1learns__martial__art_01_4.html#a7d533d50c69f0beba98df835148aab2f":[36,0,14,0,48,0]
 };

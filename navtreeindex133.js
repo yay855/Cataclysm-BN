@@ -1,7 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"structartifact__shape__datum.html#a90394f2dbb27f91f182403e935e73c51":[36,0,76,2],
-"structartifact__shape__datum.html#ac3045e78f844d2ea8f654ccd5eb862c3":[36,0,76,4],
 "structartifact__shape__datum.html#af5a0e639fc7af6bda362cbb2302aed9a":[36,0,76,0],
 "structartifact__tool__form__datum.html":[36,0,77],
 "structartifact__tool__form__datum.html#a24a75f71ec7f9e431433ec3e5271f0f0":[36,0,77,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX133 =
 "structborder__helper_1_1border__connection.html#ae06d674d141a9650afae4d579f4cdd6d":[36,0,119,0,4],
 "structborder__helper_1_1border__connection.html#ae592b37d23636dda1450d1d6abeb783e":[36,0,119,0,2],
 "structbounding__box.html":[36,0,120],
-"structbounding__box.html#a60cf934bc23024106a6f1d39ecfb5495":[36,0,120,0]
+"structbounding__box.html#a60cf934bc23024106a6f1d39ecfb5495":[36,0,120,0],
+"structbounding__box.html#aa058c8aa6ff42bf7280823e84665cc07":[36,0,120,1],
+"structbuffered__prompt__info.html":[36,0,121]
 };

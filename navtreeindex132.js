@@ -1,7 +1,5 @@
 var NAVTREEINDEX132 =
 {
-"structadvanced__inv__save__state.html#a418cf5aff6d7437cf1325e99113c6136":[36,0,57,8],
-"structadvanced__inv__save__state.html#a5b8734a9d1c2a5e441d4b8a4b0e55c1e":[36,0,57,5],
 "structadvanced__inv__save__state.html#a5c5ab3c2ea7df5df956dd02755dd5b82":[36,0,57,0],
 "structadvanced__inv__save__state.html#a6aff6b07cac501b04863ae2a355c0313":[36,0,57,6],
 "structadvanced__inv__save__state.html#a70ff1ecf490f6de6a0a28162ac2e5abc":[36,0,57,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX132 =
 "structartifact__shape__datum.html":[36,0,76],
 "structartifact__shape__datum.html#a1d6ab0d13843f12c2aa624c2074a5f65":[36,0,76,1],
 "structartifact__shape__datum.html#a53b9bb6f4ee061dec5ad7d0c40f5e0f1":[36,0,76,3],
-"structartifact__shape__datum.html#a8c8f07fb1e44b30342d358c4839304c0":[36,0,76,5]
+"structartifact__shape__datum.html#a8c8f07fb1e44b30342d358c4839304c0":[36,0,76,5],
+"structartifact__shape__datum.html#a90394f2dbb27f91f182403e935e73c51":[36,0,76,2],
+"structartifact__shape__datum.html#ac3045e78f844d2ea8f654ccd5eb862c3":[36,0,76,4]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX96 =
 {
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a85e5e942628af496409d5b273b8d50e2":[37,0,1,315,2,22],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a87a44327183ff95ef91756674f92ae61":[37,0,1,315,2,37],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a8aefc22cf5d57216e1f3f6197fb30fde":[37,0,1,315,2,12],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a9184d4002003eddbf7dc8ee0abeee8e3":[37,0,1,315,2,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX96 =
 "map__extras_8cpp.html#abac8ccc72ef54a9f0122b85200686295":[37,0,1,328,65],
 "map__extras_8cpp.html#abbf5ec4c4ffcbf9a850735dfd9c623c4":[37,0,1,328,56],
 "map__extras_8cpp.html#abcc7ff03f78ad0890e4e19ae2fe62dea":[37,0,1,328,57],
-"map__extras_8cpp.html#ac2265c102c798039e630f8157a0572d1":[37,0,1,328,66]
+"map__extras_8cpp.html#ac2265c102c798039e630f8157a0572d1":[37,0,1,328,66],
+"map__extras_8cpp.html#ac33067b6f85cf23a556dee89c1b91111":[37,0,1,328,90]
 };
