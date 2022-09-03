@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"regional__settings_8h_source.html":[37,0,1,507],
 "relic_8cpp.html":[37,0,1,508],
 "relic_8cpp_source.html":[37,0,1,508],
 "relic_8h.html":[37,0,1,509],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "sdlsound_8h.html":[37,0,1,542],
 "sdlsound_8h.html#a283388f57294fc9cc61dae8b158e4e2c":[37,0,1,542,3],
 "sdlsound_8h.html#a436eccfa069bb4a2afdbfa842fe66f75":[37,0,1,542,0],
-"sdlsound_8h.html#a5a4ee15f0d695efca140adc6aa26204f":[37,0,1,542,2],
-"sdlsound_8h.html#ab8ff984ea9a3835e83ebb4b5b7a43a00":[37,0,1,542,5]
+"sdlsound_8h.html#a5a4ee15f0d695efca140adc6aa26204f":[37,0,1,542,2]
 };

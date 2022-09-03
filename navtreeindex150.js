@@ -1,5 +1,6 @@
 var NAVTREEINDEX150 =
 {
+"structmutation__branch.html#afe6668fe5e71e98a1724f3e6ac2a9445":[36,0,650,99],
 "structmutation__branch.html#afec58f09f17b1b40d350059c1cd27025":[36,0,650,34],
 "structmutation__category__trait.html":[36,0,651],
 "structmutation__category__trait.html#a0a81e1c0facb0c05bcfe6abba4872606":[36,0,651,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX150 =
 "structom__special__sectors.html#aa689421db7aa2b8e7c4df35655b63a4d":[36,0,686,0],
 "structom__vehicle.html":[36,0,687],
 "structom__vehicle.html#a02da3364b2f2e0601f5419bbf04fea33":[36,0,687,0],
-"structom__vehicle.html#a590ee1d45d0307fc28454ab86ea3734f":[36,0,687,1],
-"structomt__find__params.html":[36,0,688]
+"structom__vehicle.html#a590ee1d45d0307fc28454ab86ea3734f":[36,0,687,1]
 };

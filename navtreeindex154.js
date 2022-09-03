@@ -1,5 +1,6 @@
 var NAVTREEINDEX154 =
 {
+"structrepetition__folder.html#a3c710035b2738361ef134f5a65364d4f":[36,0,779,5],
 "structrepetition__folder.html#a61f64f1c58b852ab7e64c2ecf74eb60f":[36,0,779,7],
 "structrepetition__folder.html#a6a47237b51a70e4771e49397f67889a7":[36,0,779,0],
 "structrepetition__folder.html#a7dcc37fdef7632ab648d37705035516f":[36,0,779,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX154 =
 "structstd_1_1hash_3_01cata__variant__type_01_4.html":[35,0,158,2],
 "structstd_1_1hash_3_01cata__variant__type_01_4.html":[36,0,34,1],
 "structstd_1_1hash_3_01cata__variant__type_01_4.html#a0f237231c5dd64bcf66b79c434585a04":[36,0,34,1,0],
-"structstd_1_1hash_3_01cata__variant__type_01_4.html#a0f237231c5dd64bcf66b79c434585a04":[35,0,158,2,0],
-"structstd_1_1hash_3_01coords_1_1coord__point_3_01Point_00_01Origin_00_01Scale_01_4_01_4.html":[36,0,34,2]
+"structstd_1_1hash_3_01cata__variant__type_01_4.html#a0f237231c5dd64bcf66b79c434585a04":[35,0,158,2,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"structlabel.html#abc97d90197b2e0e48e60ad85d7848025":[36,0,532,4],
 "structlabel.html#ac029ec2b6e5a3a1ab969052e2c17aace":[36,0,532,3],
 "structlabel.html#aec70fad926648e649430af776640a235":[36,0,532,2],
 "structlanguage__info.html":[36,0,533],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "structmelee__statistic__data.html#a8961b4b499dafc56b3668edd267ecd5f":[36,0,597,3],
 "structmelee__statistic__data.html#ac43a74f6e5a1af26073cd0d851a6e398":[36,0,597,6],
 "structmelee__statistic__data.html#ade8dd75d5fddfa4f473bf25d2b07e366":[36,0,597,5],
-"structmemorized__terrain__tile.html":[36,0,599],
-"structmemorized__terrain__tile.html#a59396f31bc6c0acf6775ec0460b83825":[36,0,599,3]
+"structmemorized__terrain__tile.html":[36,0,599]
 };

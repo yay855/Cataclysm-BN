@@ -1,5 +1,6 @@
 var NAVTREEINDEX138 =
 {
+"structcoords_1_1quotient__remainder__helper.html#a8ee1192c39c385cb6550410390244851":[35,0,85,4,1],
 "structcoords_1_1quotient__remainder__helper.html#a8ee1192c39c385cb6550410390244851":[36,0,18,4,1],
 "structcoords_1_1quotient__remainder__helper.html#a96e4f41f533f31603363282206ac0e45":[36,0,18,4,4],
 "structcoords_1_1quotient__remainder__helper.html#a96e4f41f533f31603363282206ac0e45":[35,0,85,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX138 =
 "structdetail_1_1arg__mapper.html#a135f53479fdff0f8c1259067970fa189":[36,0,20,7,20],
 "structdetail_1_1arg__mapper.html#a135f53479fdff0f8c1259067970fa189":[35,0,88,8,20],
 "structdetail_1_1arg__mapper.html#a1b983eec278c7719b7d6c6e865b92c9d":[36,0,20,7,12],
-"structdetail_1_1arg__mapper.html#a1b983eec278c7719b7d6c6e865b92c9d":[35,0,88,8,12],
-"structdetail_1_1arg__mapper.html#a1d7396baff2c9e763013f39931e5e8f2":[36,0,20,7,34]
+"structdetail_1_1arg__mapper.html#a1b983eec278c7719b7d6c6e865b92c9d":[35,0,88,8,12]
 };
