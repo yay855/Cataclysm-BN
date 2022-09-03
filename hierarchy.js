@@ -9,6 +9,7 @@ var hierarchy =
     [ "achievement_tracker", "classachievement__tracker.html", null ],
     [ "pickup::act_item", "structpickup_1_1act__item.html", null ],
     [ "action_attributes", "structaction__attributes.html", null ],
+    [ "action_entry", "structaction__entry.html", null ],
     [ "active_item_cache", "classactive__item__cache.html", null ],
     [ "active_tile_data", "classactive__tile__data.html", [
       [ "battery_tile", "classbattery__tile.html", null ],
@@ -31,6 +32,7 @@ var hierarchy =
       [ "open_gate_activity_actor", "classopen__gate__activity__actor.html", null ],
       [ "pickup_activity_actor", "classpickup__activity__actor.html", null ],
       [ "stash_activity_actor", "classstash__activity__actor.html", null ],
+      [ "throw_activity_actor", "classthrow__activity__actor.html", null ],
       [ "wash_activity_actor", "classwash__activity__actor.html", null ]
     ] ],
     [ "activity_reason_info", "structactivity__reason__info.html", null ],

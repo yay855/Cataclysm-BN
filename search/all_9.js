@@ -455,7 +455,7 @@ var searchData=
   ['hilite_452',['hilite',['../color_8cpp.html#a99e42a5de98370aab8662d4423cf4a4d',1,'hilite(const nc_color &amp;c):&#160;color.cpp'],['../color_8h.html#a99e42a5de98370aab8662d4423cf4a4d',1,'hilite(const nc_color &amp;c):&#160;color.cpp']]],
   ['hilite_5fcolor_453',['hilite_color',['../structuilist__entry.html#a5312c95ab8ebebdedcb7956f0a65fc16',1,'uilist_entry']]],
   ['hint_454',['hint',['../classinventory__selector.html#a2c3dc6f3eae3361836db216536a74e35',1,'inventory_selector']]],
-  ['hint_5frating_455',['hint_rating',['../item_8h.html#af6bf8b91fa38e785d6f5ae7fdaa74219',1,'item.h']]],
+  ['hint_5frating_455',['hint_rating',['../namespaceexamine__item__menu.html#afb0565ed1efb7315c7703ceb4fca8399',1,'examine_item_menu']]],
   ['hist_5fuse_5fuilist_456',['hist_use_uilist',['../classstring__input__popup.html#ab448f22be86db8a64206964814a01af9',1,'string_input_popup']]],
   ['history_457',['history',['../classdialogue__window.html#a242e219c5ad9bc1883917a8fca183e16',1,'dialogue_window::history()'],['../classanonymous__namespace_02messages_8cpp_03_1_1messages__impl.html#a1832ec0cca334daa1be88aa6bfc6c255',1,'anonymous_namespace{messages.cpp}::messages_impl::history()']]],
   ['hit_458',['HIT',['../bonuses_8h.html#a8a71e4c938813e7a3a838701482dd3a3a4e5e3542d523b7fb9c61887d5bb7d642',1,'HIT():&#160;bonuses.h'],['../npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1caa4e5e3542d523b7fb9c61887d5bb7d642',1,'HIT():&#160;npc.h']]],

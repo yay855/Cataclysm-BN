@@ -20,7 +20,6 @@ var game_8cpp =
     [ "draw_footsteps", "game_8cpp.html#a3372db675647dc09937c39c7b6bdda1b", null ],
     [ "draw_trail", "game_8cpp.html#a55196f69c27db25b3c2fd63e13f543be", null ],
     [ "ensure_term_size", "game_8cpp.html#ae6dc8c4b5b8391a45ce44928abf4aa82", null ],
-    [ "favorite_ammo_or_select", "game_8cpp.html#a19b5a4302bc792b49fac5c46c1652e4d", null ],
     [ "find_empty_spot_nearby", "game_8cpp.html#a381802aed7549feb7585a7af13924d70", null ],
     [ "generate_butcher_stack_display", "game_8cpp.html#aa852dd192a4d1f7a1f4ee2199a767cea", null ],
     [ "generate_memorial_filename", "game_8cpp.html#a65ddd7508f2edf2ddfff675468007187", null ],

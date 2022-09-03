@@ -550,8 +550,6 @@ var classCharacter =
     [ "query_yn", "classCharacter.html#a01f6bd35e20f16effc7a0016148d3a58", null ],
     [ "ranged_dex_mod", "classCharacter.html#aaef1f2b773b9e659b6b69f813ea4dafb", null ],
     [ "ranged_per_mod", "classCharacter.html#aaca0aa6cf36c88068ac22eb6b50102c2", null ],
-    [ "rate_action_change_side", "classCharacter.html#a09a0171fec2245029f81d7f493201eb6", null ],
-    [ "rate_action_eat", "classCharacter.html#ae622504df55d52dc4a19e7fe1d6a7a95", null ],
     [ "react_to_felt_pain", "classCharacter.html#ae4ec92e564e84508af434393884fd139", null ],
     [ "read_speed", "classCharacter.html#af610bff638dba44235d3613d7c662557", null ],
     [ "rebuild_mutation_cache", "classCharacter.html#af42d5b979b1ccff52b5694aa632e18a7", null ],

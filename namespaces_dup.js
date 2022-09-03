@@ -232,10 +232,16 @@ var namespaces_dup =
       [ "move", "namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304", null ],
       [ "plthrow", "namespaceavatar__action.html#a88a027e47bb814ff61be3e15bd0b8777", null ],
       [ "ramp_move", "namespaceavatar__action.html#abadb3333d387007017d11836c606f1e5", null ],
+      [ "reload", "namespaceavatar__action.html#a03cf09d521b2df8ec4e14523b73804b4", null ],
+      [ "reload_item", "namespaceavatar__action.html#a074ed32b4d421de7f0749e9aef6fe0c9", null ],
+      [ "reload_weapon", "namespaceavatar__action.html#ab640f9426b7ae37fb1fc632cb28e0e30", null ],
+      [ "reload_wielded", "namespaceavatar__action.html#a0263b369eb4d729c1439738f8abcd3f2", null ],
       [ "swim", "namespaceavatar__action.html#a9611563bffc4224b3e724db03688bdd4", null ],
       [ "unload", "namespaceavatar__action.html#afd349bc65fc375556b15241ab68095b1", null ],
       [ "use_item", "namespaceavatar__action.html#ad651718c214e707034374b85d936d671", null ],
-      [ "use_item", "namespaceavatar__action.html#a113bad02e3695c9de0d031d3846ebea9", null ]
+      [ "use_item", "namespaceavatar__action.html#a113bad02e3695c9de0d031d3846ebea9", null ],
+      [ "wield", "namespaceavatar__action.html#a26845c63bf68ad9462172186e3b75cf6", null ],
+      [ "wield", "namespaceavatar__action.html#a4237c55ad7f626915cdb297d52841b8f", null ]
     ] ],
     [ "base_camps", "namespacebase__camps.html", "namespacebase__camps" ],
     [ "behavior", "namespacebehavior.html", "namespacebehavior" ],
@@ -468,6 +474,28 @@ var namespaces_dup =
     [ "enum_traits_detail", "namespaceenum__traits__detail.html", [
       [ "last_type", "namespaceenum__traits__detail.html#a323fc4524d7546ac92565c8440ef1157", null ]
     ] ],
+    [ "examine_item_menu", "namespaceexamine__item__menu.html", [
+      [ "hint_rating", "namespaceexamine__item__menu.html#afb0565ed1efb7315c7703ceb4fca8399", [
+        [ "cant", "namespaceexamine__item__menu.html#afb0565ed1efb7315c7703ceb4fca8399aff706fc361a57a40a41435153397513a", null ],
+        [ "iffy", "namespaceexamine__item__menu.html#afb0565ed1efb7315c7703ceb4fca8399a394188710799de3dcc6cb1582e490004", null ],
+        [ "good", "namespaceexamine__item__menu.html#afb0565ed1efb7315c7703ceb4fca8399a755f85c2723bb39381c7379a604160d8", null ]
+      ] ],
+      [ "menu_pos_t", "namespaceexamine__item__menu.html#a8b68cfe375a1712f8dd0cef484976020", [
+        [ "left", "namespaceexamine__item__menu.html#a8b68cfe375a1712f8dd0cef484976020a811882fecd5c7618d7099ebbd39ea254", null ],
+        [ "right", "namespaceexamine__item__menu.html#a8b68cfe375a1712f8dd0cef484976020a7c4f29407893c334a6cb7a87bf045c0d", null ]
+      ] ],
+      [ "rate_action_change_side", "namespaceexamine__item__menu.html#a955b5994c5b272ead7ea3a04e27dfa76", null ],
+      [ "rate_action_disassemble", "namespaceexamine__item__menu.html#a2928396bf2a244345b04c750b8b82709", null ],
+      [ "rate_action_eat", "namespaceexamine__item__menu.html#a2020b22b148cdb10f8d5a21109d23cb7", null ],
+      [ "rate_action_mend", "namespaceexamine__item__menu.html#a54389d0b494321eaff498cfe32006c9c", null ],
+      [ "rate_action_read", "namespaceexamine__item__menu.html#a0faff404d5d10a49b84d44f297175129", null ],
+      [ "rate_action_reload", "namespaceexamine__item__menu.html#ab24e5f9726586e01af1ca41bf0a97ba7", null ],
+      [ "rate_action_takeoff", "namespaceexamine__item__menu.html#a2558b816209a853bc3d980a8b4bc5eaa", null ],
+      [ "rate_action_unload", "namespaceexamine__item__menu.html#a51ca4ae6b76aafd7b2bfe3bf4e85546d", null ],
+      [ "rate_action_use", "namespaceexamine__item__menu.html#ac5ee2fa36d7a77da1ae9d04202d8066a", null ],
+      [ "rate_action_wear", "namespaceexamine__item__menu.html#a964eb449c6cc21de8a521a3ea8386372", null ],
+      [ "run", "namespaceexamine__item__menu.html#a0ef68cd5b60cc38b1d1655c81dea6b8c", null ]
+    ] ],
     [ "explosion_handler", "namespaceexplosion__handler.html", "namespaceexplosion__handler" ],
     [ "ff", "namespaceff.html", [
       [ "point_flood_fill_4_connected", "namespaceff.html#adaea099ecca20d124ab3a3d2f2bf79f9", null ]
@@ -613,6 +641,9 @@ var namespaces_dup =
       [ "workbench", "namespaceiexamine.html#a1562d040bf1e91a0140086bd6f905802", null ]
     ] ],
     [ "io", "namespaceio.html", "namespaceio" ],
+    [ "item_funcs", "namespaceitem__funcs.html", [
+      [ "can_be_unloaded", "namespaceitem__funcs.html#a59e0738ff81bbd95e725baecf3e23545", null ]
+    ] ],
     [ "item_group", "namespaceitem__group.html", [
       [ "ItemList", "namespaceitem__group.html#a1756cb07c624c3169988316a8615ff69", null ],
       [ "debug_spawn", "namespaceitem__group.html#a7cf722822ed58d63e5b2c1714ae6fc4b", null ],

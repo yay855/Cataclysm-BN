@@ -52,7 +52,6 @@ var classavatar =
     [ "operator=", "classavatar.html#a12cc0eb0c97c0dd3ee017fd3ee2b4221", null ],
     [ "prepare_map_memory_region", "classavatar.html#a026a45ad7bc22b95b4f31fba3e4ffffe", null ],
     [ "randomize", "classavatar.html#a15bf91221566a4243f0521be6f28ac2b", null ],
-    [ "rate_action_read", "classavatar.html#a0c41188bfd5d7be828df7b2cf796c447", null ],
     [ "read", "classavatar.html#a98ecc37a0dc5568f1c2344d5c243cfe2", null ],
     [ "reset_all_misions", "classavatar.html#a0ecc5c7ca74825399b30326edb8c2c9f", null ],
     [ "reset_move_mode", "classavatar.html#afe96b5b38706039d754e6d9e052217bb", null ],

@@ -514,13 +514,13 @@ Functions</h2></td></tr>
 <div class="line"><a id="l00584" name="l00584"></a><span class="lineno">  584</span>                             p.symbol_color() );</div>
 <div class="line"><a id="l00585" name="l00585"></a><span class="lineno">  585</span>    <a class="code hl_function" href="namespaceanonymous__namespace_02animation_8cpp_03.html#a435db1e54f7dcf9fb3043cbc425fb6ad">hit_animation</a>( <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>.u, p.<a class="code hl_function" href="classCharacter.html#ad24859164517ed6e392e21df69527199">pos</a>(), col, p.<a class="code hl_function" href="classCharacter.html#ad19243d81ad7ecca4e08055128f11f70">symbol</a>() );</div>
 <div class="line"><a id="l00586" name="l00586"></a><span class="lineno">  586</span>}</div>
-<div class="ttc" id="aclassCharacter_html_ad00f56641a33efb961a32f1651b83541"><div class="ttname"><a href="classCharacter.html#ad00f56641a33efb961a32f1651b83541">Character::symbol_color</a></div><div class="ttdeci">nc_color symbol_color() const override</div><div class="ttdoc">Color's character's tile's background.</div><div class="ttdef"><b>Definition:</b> <a href="character_8cpp_source.html#l06121">character.cpp:6121</a></div></div>
+<div class="ttc" id="aclassCharacter_html_ad00f56641a33efb961a32f1651b83541"><div class="ttname"><a href="classCharacter.html#ad00f56641a33efb961a32f1651b83541">Character::symbol_color</a></div><div class="ttdeci">nc_color symbol_color() const override</div><div class="ttdoc">Color's character's tile's background.</div><div class="ttdef"><b>Definition:</b> <a href="character_8cpp_source.html#l06108">character.cpp:6108</a></div></div>
 <div class="ttc" id="aclassCharacter_html_ad19243d81ad7ecca4e08055128f11f70"><div class="ttname"><a href="classCharacter.html#ad19243d81ad7ecca4e08055128f11f70">Character::symbol</a></div><div class="ttdeci">const std::string &amp; symbol() const override</div><div class="ttdef"><b>Definition:</b> <a href="character_8cpp_source.html#l00514">character.cpp:514</a></div></div>
 <div class="ttc" id="aclassCharacter_html_ad24859164517ed6e392e21df69527199"><div class="ttname"><a href="classCharacter.html#ad24859164517ed6e392e21df69527199">Character::pos</a></div><div class="ttdeci">const tripoint &amp; pos() const override</div><div class="ttdef"><b>Definition:</b> <a href="character_8cpp_source.html#l00714">character.cpp:714</a></div></div>
 <div class="ttc" id="aclassnc__color_html"><div class="ttname"><a href="classnc__color.html">nc_color</a></div><div class="ttdef"><b>Definition:</b> <a href="color_8h_source.html#l00348">color.h:349</a></div></div>
 <div class="ttc" id="acolor_8cpp_html_ae0ee2377027b6a971db8f3341ab8be76"><div class="ttname"><a href="color_8cpp.html#ae0ee2377027b6a971db8f3341ab8be76">yellow_background</a></div><div class="ttdeci">nc_color yellow_background(const nc_color &amp;c)</div><div class="ttdef"><b>Definition:</b> <a href="color_8cpp_source.html#l00533">color.cpp:533</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="game_8cpp_source.html#l00270">g</a>, <a class="el" href="animation_8cpp_source.html#l00521">hit_animation()</a>, <a class="el" href="character_8cpp_source.html#l00714">Character::pos()</a>, <a class="el" href="color_8cpp_source.html#l00515">red_background()</a>, <a class="el" href="character_8cpp_source.html#l00514">Character::symbol()</a>, <a class="el" href="character_8cpp_source.html#l06121">Character::symbol_color()</a>, and <a class="el" href="color_8cpp_source.html#l00533">yellow_background()</a>.</p>
+<p class="reference">References <a class="el" href="game_8cpp_source.html#l00270">g</a>, <a class="el" href="animation_8cpp_source.html#l00521">hit_animation()</a>, <a class="el" href="character_8cpp_source.html#l00714">Character::pos()</a>, <a class="el" href="color_8cpp_source.html#l00515">red_background()</a>, <a class="el" href="character_8cpp_source.html#l00514">Character::symbol()</a>, <a class="el" href="character_8cpp_source.html#l06108">Character::symbol_color()</a>, and <a class="el" href="color_8cpp_source.html#l00533">yellow_background()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="animation_8cpp_source.html#l00618">game::draw_hit_player()</a>.</p>
 
@@ -1141,7 +1141,7 @@ Functions</h2></td></tr>
 <div class="fragment"><div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>{</div>
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>    <span class="keywordflow">return</span> p - ( u.<a class="code hl_function" href="classCharacter.html#ad24859164517ed6e392e21df69527199">pos</a>() + u.<a class="code hl_variable" href="classplayer.html#a625b6dd5247589902251e845d07a2154">view_offset</a> ) + <a class="code hl_struct" href="structpoint.html">point</a>( <a class="code hl_variable" href="output_8cpp.html#a852bcaf15ef9b08c80dfa899078baa3d">POSX</a>, <a class="code hl_variable" href="output_8cpp.html#ab911c8aec787739bcd40d1d3d620ad44">POSY</a> );</div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>}</div>
-<div class="ttc" id="aclassplayer_html_a625b6dd5247589902251e845d07a2154"><div class="ttname"><a href="classplayer.html#a625b6dd5247589902251e845d07a2154">player::view_offset</a></div><div class="ttdeci">tripoint view_offset</div><div class="ttdef"><b>Definition:</b> <a href="player_8h_source.html#l00609">player.h:609</a></div></div>
+<div class="ttc" id="aclassplayer_html_a625b6dd5247589902251e845d07a2154"><div class="ttname"><a href="classplayer.html#a625b6dd5247589902251e845d07a2154">player::view_offset</a></div><div class="ttdeci">tripoint view_offset</div><div class="ttdef"><b>Definition:</b> <a href="player_8h_source.html#l00599">player.h:599</a></div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="output_8cpp_source.html#l00049">POSX</a>, and <a class="el" href="output_8cpp_source.html#l00050">POSY</a>.</p>
 
@@ -1153,7 +1153,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceanonymous__namespace_02animation_8cpp_03.html">anonymous_namespace{animation.cpp}</a></li>
-    <li class="footer">Generated on Sat Sep 3 2022 11:28:43 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Sep 3 2022 11:29:51 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

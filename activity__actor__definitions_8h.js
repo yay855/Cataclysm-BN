@@ -12,6 +12,7 @@ var activity__actor__definitions_8h =
     [ "open_gate_activity_actor", "classopen__gate__activity__actor.html", "classopen__gate__activity__actor" ],
     [ "pickup_activity_actor", "classpickup__activity__actor.html", "classpickup__activity__actor" ],
     [ "stash_activity_actor", "classstash__activity__actor.html", "classstash__activity__actor" ],
+    [ "throw_activity_actor", "classthrow__activity__actor.html", "classthrow__activity__actor" ],
     [ "wash_activity_actor", "classwash__activity__actor.html", "classwash__activity__actor" ],
     [ "CATA_SRC_ACTIVITY_ACTOR_DEFINITIONS_H", "activity__actor__definitions_8h.html#ad29d10a92dc03dddd6add906749eed4a", null ]
 ];
