@@ -142,7 +142,7 @@ $(document).ready(function(){initNavTree('cata__utility_8cpp_source.html',''); i
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="comment">// but this is supposed to be mathematical modulo: 0 &lt;= v%m &lt; m,</span></div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    <span class="keyword">const</span> <span class="keywordtype">int</span> r = v % m;</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    <span class="comment">// Adding m in that (and only that) case.</span></div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    <span class="keywordflow">return</span> r &gt;= 0 ? r : r + m;</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    <span class="keywordflow">return</span> r &gt;= 0 ? r : r + ( m * ( 1 - r / m ) );</div>
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>}</div>
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
 <div class="line"><a id="l00059" name="l00059"></a><span class="lineno"><a class="line" href="cata__utility_8cpp.html#aacdf27156d98b65ffe95503a510df4f5">   59</a></span><span class="keywordtype">bool</span> <a class="code hl_function" href="cata__utility_8cpp.html#aacdf27156d98b65ffe95503a510df4f5">isBetween</a>( <span class="keywordtype">int</span> test, <span class="keywordtype">int</span> down, <span class="keywordtype">int</span> up )</div>
@@ -862,7 +862,7 @@ $(document).ready(function(){initNavTree('cata__utility_8cpp_source.html',''); i
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="cata__utility_8cpp.html">cata_utility.cpp</a></li>
-    <li class="footer">Generated on Sat Sep 3 2022 11:29:08 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Sep 3 2022 11:33:22 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
