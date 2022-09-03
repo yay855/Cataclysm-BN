@@ -4874,7 +4874,7 @@ $(document).ready(function(){initNavTree('activity__handlers_8cpp_source.html','
 <div class="line"><a id="l04785" name="l04785"></a><span class="lineno"> 4785</span> </div>
 <div class="line"><a id="l04786" name="l04786"></a><span class="lineno"><a class="line" href="namespaceactivity__handlers.html#ad1b4e380c730fb4f87ee03d90dd66fac"> 4786</a></span><span class="keywordtype">void</span> <a class="code hl_function" href="namespaceactivity__handlers.html#ad1b4e380c730fb4f87ee03d90dd66fac">activity_handlers::study_spell_do_turn</a>( <a class="code hl_class" href="classplayer__activity.html">player_activity</a> *<a class="code hl_variable" href="sounds_8cpp.html#ad9fe7b616a93a8209da903eba756237e">act</a>, <a class="code hl_class" href="classplayer.html">player</a> *p )</div>
 <div class="line"><a id="l04787" name="l04787"></a><span class="lineno"> 4787</span>{</div>
-<div class="line"><a id="l04788" name="l04788"></a><span class="lineno"> 4788</span>    <span class="keywordflow">if</span>( <a class="code hl_function" href="namespacecharacter__funcs.html#a813a9decd34980fe53f38ba18ffd6374">character_funcs::can_see_fine_details</a>( *p ) ) {</div>
+<div class="line"><a id="l04788" name="l04788"></a><span class="lineno"> 4788</span>    <span class="keywordflow">if</span>( !<a class="code hl_function" href="namespacecharacter__funcs.html#a813a9decd34980fe53f38ba18ffd6374">character_funcs::can_see_fine_details</a>( *p ) ) {</div>
 <div class="line"><a id="l04789" name="l04789"></a><span class="lineno"> 4789</span>        <a class="code hl_variable" href="sounds_8cpp.html#ad9fe7b616a93a8209da903eba756237e">act</a>-&gt;values[2] = -1;</div>
 <div class="line"><a id="l04790" name="l04790"></a><span class="lineno"> 4790</span>        <a class="code hl_variable" href="sounds_8cpp.html#ad9fe7b616a93a8209da903eba756237e">act</a>-&gt;moves_left = 0;</div>
 <div class="line"><a id="l04791" name="l04791"></a><span class="lineno"> 4791</span>        <span class="keywordflow">return</span>;</div>
@@ -6011,7 +6011,7 @@ $(document).ready(function(){initNavTree('activity__handlers_8cpp_source.html','
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="activity__handlers_8cpp.html">activity_handlers.cpp</a></li>
-    <li class="footer">Generated on Sat Sep 3 2022 11:24:26 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Sep 3 2022 11:25:59 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
