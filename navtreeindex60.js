@@ -1,5 +1,6 @@
 var NAVTREEINDEX60 =
 {
+"classplayer__morale_1_1morale__subtype.html":[36,0,739,2],
 "classplayer__morale_1_1morale__subtype.html#a0a12cf331824cc31307c5fc27ca5f62e":[36,0,739,2,11],
 "classplayer__morale_1_1morale__subtype.html#a1607cf19e53d1061c119be29e69cf89c":[36,0,739,2,2],
 "classplayer__morale_1_1morale__subtype.html#a3c9527f1daba4a0ef613c11dcbe05cc8":[36,0,739,2,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX60 =
 "classrecipe__dictionary.html#a23e924cce688d42d2c540f135b01987a":[36,0,767,6],
 "classrecipe__dictionary.html#a3212bd9bc89e6fd471e914a615b3b1aa":[36,0,767,14],
 "classrecipe__dictionary.html#a3ba3163fa7098ae76be6b22f19b9d1ba":[36,0,767,0],
-"classrecipe__dictionary.html#a4ef6b881ec69698511cab4bec344d7bd":[36,0,767,2],
-"classrecipe__dictionary.html#a59217bb3c16430212409a23282f3666a":[36,0,767,17]
+"classrecipe__dictionary.html#a4ef6b881ec69698511cab4bec344d7bd":[36,0,767,2]
 };

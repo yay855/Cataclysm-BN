@@ -1,5 +1,6 @@
 var NAVTREEINDEX70 =
 {
+"classvehicle.html#a905234356e91951db1fe65d212a0d89d":[36,0,939,60],
 "classvehicle.html#a905db1f8c84d0754a8e0a121392a2b3a":[36,0,939,452],
 "classvehicle.html#a908223c2d250ba23fdbff51379cf2213":[36,0,939,431],
 "classvehicle.html#a90b6f438b5ae343dab2b131c64293584":[36,0,939,425],
@@ -248,6 +249,5 @@ var NAVTREEINDEX70 =
 "classvehicle_1_1autodrive__controller.html#a839026ac0bae5c9e93f55a70c588d8bb":[36,0,939,0,17],
 "classvehicle_1_1autodrive__controller.html#ac0412c5c1b665fd36de7a22845d10e3c":[36,0,939,0,18],
 "classvehicle_1_1autodrive__controller.html#ad0324c23ceb05823a66da3f2f68c1cd4":[36,0,939,0,4],
-"classvehicle_1_1autodrive__controller.html#ae088af7c74976dadac709cc0ffe8c8f3":[36,0,939,0,9],
-"classvehicle_1_1autodrive__controller.html#ae12a0f5df6bf83f9eaeffd0df998b5d0":[36,0,939,0,8]
+"classvehicle_1_1autodrive__controller.html#ae088af7c74976dadac709cc0ffe8c8f3":[36,0,939,0,9]
 };

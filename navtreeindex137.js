@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"structcity__reference.html":[36,0,145],
 "structcity__reference.html#a06f6091ffc8f470dd36d1f62f5028456":[36,0,145,0],
 "structcity__reference.html#a2534f52ac6b809b5ae0667bf86b27894":[36,0,145,2],
 "structcity__reference.html#a446aaeb7b39e4fd5c8f51f624e8cd528":[36,0,145,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "structcoords_1_1quotient__remainder__helper.html":[36,0,18,4],
 "structcoords_1_1quotient__remainder__helper.html#a08872f8bcb637345723149629d35c3cc":[35,0,85,4,0],
 "structcoords_1_1quotient__remainder__helper.html#a08872f8bcb637345723149629d35c3cc":[36,0,18,4,0],
-"structcoords_1_1quotient__remainder__helper.html#a1b500ab8e072eb4e3878f80120d4c404":[36,0,18,4,2],
-"structcoords_1_1quotient__remainder__helper.html#a1b500ab8e072eb4e3878f80120d4c404":[35,0,85,4,2]
+"structcoords_1_1quotient__remainder__helper.html#a1b500ab8e072eb4e3878f80120d4c404":[36,0,18,4,2]
 };

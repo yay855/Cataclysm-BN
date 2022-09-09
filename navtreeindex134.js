@@ -1,5 +1,6 @@
 var NAVTREEINDEX134 =
 {
+"structbionic__data.html#a7c26e50de571229aa41ded269a2aab3a":[36,0,109,19],
 "structbionic__data.html#a7fbd91c61e6ffee8d81d2001e4558398":[36,0,109,43],
 "structbionic__data.html#a8138c18ab3e2346f1404295246389393":[36,0,109,30],
 "structbionic__data.html#a842a1345ca93d72c33b5d63cb416f827":[36,0,109,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX134 =
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1destroys__triffid__grove_01_4.html":[36,0,14,0,26],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1destroys__triffid__grove_01_4.html":[35,0,68,0,26],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__asthma__attack_01_4.html":[36,0,14,0,27],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__asthma__attack_01_4.html":[35,0,68,0,27],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__drug__overdose_01_4.html":[36,0,14,0,28]
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__asthma__attack_01_4.html":[35,0,68,0,27]
 };

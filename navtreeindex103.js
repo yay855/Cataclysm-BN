@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"melee_8cpp.html#a037bbc3757ef2973e9d84c68ebbad9a9":[37,0,1,368,30],
 "melee_8cpp.html#a08481f62adb6937636ea44b855311037":[37,0,1,368,16],
 "melee_8cpp.html#a0b49aa7d4b07c448f7546ba24fb6b233":[37,0,1,368,17],
 "melee_8cpp.html#a0ca3c45189cc16ae9501f8d77ef97050":[37,0,1,368,49],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "mission__companion_8h.html#aa4bb9807a55d14bffb66b330d98c0ccb":[37,0,1,379,9],
 "mission__companion_8h.html#aae77a276223f99136a715e68a11117bd":[37,0,1,379,12],
 "mission__companion_8h.html#aaf6c69bd9ecf7e46042fd7f0c2acf919":[37,0,1,379,19],
-"mission__companion_8h.html#ab07d16739ee74a3a56e06a0d590c1770":[37,0,1,379,7],
-"mission__companion_8h.html#ab444ddeead59973e3bc7f3dfb0039d43":[37,0,1,379,37]
+"mission__companion_8h.html#ab07d16739ee74a3a56e06a0d590c1770":[37,0,1,379,7]
 };

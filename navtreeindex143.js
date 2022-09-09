@@ -1,5 +1,6 @@
 var NAVTREEINDEX143 =
 {
+"structevent__statistic__minimum_1_1state.html#aa5bf9c992cbf698873d59595482c56c8":[36,0,303,0,0],
 "structevent__statistic__minimum_1_1state.html#ac5a45b8ed4c470907347f76043e90910":[36,0,303,0,4],
 "structevent__statistic__total.html":[36,0,304],
 "structevent__statistic__total.html#a173bb8c52d737ccd304a65c59fa98541":[36,0,304,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX143 =
 "structfire__data.html#a4f57ab1304bc0324eacced26e8b3ab92":[36,0,328,0],
 "structfire__data.html#a534803a1b5139df57bfad4bd186de812":[36,0,328,4],
 "structfire__data.html#a766c1e9448a11a83188b5e97e3276004":[36,0,328,5],
-"structfire__data.html#a87eeeef62c5793c2fcdf27de8efd85d8":[36,0,328,6],
-"structfire__data.html#a9c5c2a6dc6f4efe05e65885660bb3893":[36,0,328,3]
+"structfire__data.html#a87eeeef62c5793c2fcdf27de8efd85d8":[36,0,328,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX148 =
 {
+"structmemorized__terrain__tile.html":[36,0,599],
 "structmemorized__terrain__tile.html#a59396f31bc6c0acf6775ec0460b83825":[36,0,599,3],
 "structmemorized__terrain__tile.html#a5adf8c3a3c01bd27e5920129ea3861a8":[36,0,599,0],
 "structmemorized__terrain__tile.html#a5f037971696a50ef42503da03a7f68ca":[36,0,599,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX148 =
 "structmtype.html#a1c38a3e844d79e2a12fcd34e4f6283be":[36,0,642,58],
 "structmtype.html#a1f50d2fd15b7fcc75a4b2911e4916ddb":[36,0,642,26],
 "structmtype.html#a208b05355d08ec7d628606f18e2d53be":[36,0,642,16],
-"structmtype.html#a21ad5eaae49806ad68fbfdd243db5f5c":[36,0,642,111],
-"structmtype.html#a228db8f2c45aee4865f92ca5a561889f":[36,0,642,110]
+"structmtype.html#a21ad5eaae49806ad68fbfdd243db5f5c":[36,0,642,111]
 };

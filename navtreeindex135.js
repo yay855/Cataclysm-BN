@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__drug__overdose_01_4.html":[36,0,14,0,28],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__drug__overdose_01_4.html":[35,0,68,0,28],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__drug__overdose_01_4.html#abb33fde6dace370f5b18f5a65684d2f0":[35,0,68,0,28,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1dies__from__drug__overdose_01_4.html#abb33fde6dace370f5b18f5a65684d2f0":[36,0,14,0,28,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "structcata_1_1list_1_1sort__dereferencer.html#afe73a46e0a664cd352750da218b91283":[36,0,14,13,16,0],
 "structcata_1_1list_1_1sort__dereferencer.html#afe73a46e0a664cd352750da218b91283":[35,0,68,14,16,0],
 "structcata_1_1nullopt__t.html":[35,0,68,15],
-"structcata_1_1nullopt__t.html":[36,0,14,14],
-"structcata_1_1nullopt__t.html#a124f3ac490aa5c27d3ea69c8cfe50749":[35,0,68,15,0]
+"structcata_1_1nullopt__t.html":[36,0,14,14]
 };
