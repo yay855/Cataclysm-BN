@@ -108,7 +108,7 @@ var searchData=
   ['unimpaired_5frange_105',['unimpaired_range',['../classCharacter.html#a4015f6dcb9046648701ae3a368fd3ccd',1,'Character']]],
   ['uninstall_5fbionic_106',['uninstall_bionic',['../classCharacter.html#a29791a7bd9cb9ea581111dd70bff2d49',1,'Character::uninstall_bionic()'],['../namespacegame__menus_1_1inv.html#afa10471cb9da38879b1ff7b59ca3b2e8',1,'game_menus::inv::uninstall_bionic()'],['../classCharacter.html#ab4dcace988fbe414cff778b4b1a56356',1,'Character::uninstall_bionic()']]],
   ['unique_107',['unique',['../classcata_1_1list.html#ad7bd8c8e6c5867297a7e059c7c426601',1,'cata::list::unique(comparison_function compare)'],['../classcata_1_1list.html#a09c532c7dfa30e6fff4a2a1425aead72',1,'cata::list::unique()']]],
-  ['unique_5fmons_108',['unique_mons',['../structmonster__visible__info.html#a1f6b4cb2fda42b2d64c7a1d373f14d0b',1,'monster_visible_info']]],
+  ['unique_5fmons_108',['unique_mons',['../structmonster__visible__info.html#a34226c200f829671f6e08831000a8ea4',1,'monster_visible_info']]],
   ['unique_5fname_109',['unique_name',['../classmonster.html#a5e50554c4210ec2a15d9ed44e61bcf3a',1,'monster']]],
   ['unique_5ftypes_110',['unique_types',['../structmonster__visible__info.html#aeca42c9bb1d4c3fbb8675120317c2e70',1,'monster_visible_info']]],
   ['unit_5freader_111',['unit_reader',['../classunit__reader.html',1,'unit_reader&lt; T &gt;'],['../classunit__reader.html#a2b140abfb4bcfe58fba32f24b97a47c1',1,'unit_reader::unit_reader()']]],
