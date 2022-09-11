@@ -1,5 +1,9 @@
 var NAVTREEINDEX105 =
 {
+"monattack_8cpp.html#a857db39dc5d2b93a4b62769c0309e809":[37,0,1,391,126],
+"monattack_8cpp.html#a869db8713f4b9684575dee5358311b48":[37,0,1,391,10],
+"monattack_8cpp.html#a8bbfe91713ddfaa4c647fa68f9734e34":[37,0,1,391,30],
+"monattack_8cpp.html#a8cf6770a8414cda450c55b1d640084c4":[37,0,1,391,1],
 "monattack_8cpp.html#a8f09f88f12d06451c8aa83b57011a685":[37,0,1,391,5],
 "monattack_8cpp.html#a8f0b88c954254f70e976bb0fabe2287f":[37,0,1,391,2],
 "monattack_8cpp.html#a8f6887393d4085f03584ef53b2c63d2f":[37,0,1,391,39],
@@ -245,9 +249,5 @@ var NAVTREEINDEX105 =
 "mondefense_8cpp.html#afc8900d83dd4d83ef6ea32b9661faba7":[37,0,1,395,1],
 "mondefense_8cpp_source.html":[37,0,1,395],
 "mondefense_8h.html":[37,0,1,396],
-"mondefense_8h.html#a0ce11f1e81a0b35fdb623a8cd6a56abe":[37,0,1,396,1],
-"mondefense_8h.html#a56407971c4c5d1bbab1360d5252452ae":[37,0,1,396,2],
-"mondefense_8h.html#a5973669a3b7a8289b8149fd111329dea":[37,0,1,396,3],
-"mondefense_8h.html#ab6cedba84e8aed8494aa011c914895af":[37,0,1,396,4],
-"mondefense_8h.html#af47abfed1c2b6deeefacb60ce2dcf925":[37,0,1,396,0]
+"mondefense_8h.html#a0ce11f1e81a0b35fdb623a8cd6a56abe":[37,0,1,396,1]
 };

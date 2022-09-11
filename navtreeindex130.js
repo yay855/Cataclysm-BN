@@ -1,5 +1,9 @@
 var NAVTREEINDEX130 =
 {
+"sdlsound_8cpp_source.html":[37,0,1,541],
+"sdlsound_8h.html":[37,0,1,542],
+"sdlsound_8h.html#a283388f57294fc9cc61dae8b158e4e2c":[37,0,1,542,3],
+"sdlsound_8h.html#a436eccfa069bb4a2afdbfa842fe66f75":[37,0,1,542,0],
 "sdlsound_8h.html#a5a4ee15f0d695efca140adc6aa26204f":[37,0,1,542,2],
 "sdlsound_8h.html#ab8ff984ea9a3835e83ebb4b5b7a43a00":[37,0,1,542,5],
 "sdlsound_8h.html#abb18c69ad5ecf06e94403acf86e74cdc":[37,0,1,542,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX130 =
 "speech_8h.html":[37,0,1,560],
 "speech_8h.html#a0727b8d901c79d29d317404cc3d2f11b":[37,0,1,560,4],
 "speech_8h.html#a576ec6cec2f290b1c65170befdd4b66d":[37,0,1,560,2],
-"speech_8h.html#a91a3d1bde9b3820e927755b1fe97c181":[37,0,1,560,1],
-"speech_8h.html#afdf9b2111bfe911374649f4b500d3161":[37,0,1,560,3],
-"speech_8h_source.html":[37,0,1,560],
-"start__location_8cpp.html":[37,0,1,561],
-"start__location_8cpp.html#a151e6b162a8a2cdbdb11c407013076eb":[37,0,1,561,5]
+"speech_8h.html#a91a3d1bde9b3820e927755b1fe97c181":[37,0,1,560,1]
 };

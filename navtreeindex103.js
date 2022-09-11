@@ -1,5 +1,9 @@
 var NAVTREEINDEX103 =
 {
+"mattack__common_8h_source.html":[37,0,1,367],
+"melee_8cpp.html":[37,0,1,368],
+"melee_8cpp.html#a018a5823d7e1524b702156d66788c335":[37,0,1,368,9],
+"melee_8cpp.html#a0249e91c5f1399ef955789ad6b67c235":[37,0,1,368,6],
 "melee_8cpp.html#a037bbc3757ef2973e9d84c68ebbad9a9":[37,0,1,368,30],
 "melee_8cpp.html#a08481f62adb6937636ea44b855311037":[37,0,1,368,16],
 "melee_8cpp.html#a0b49aa7d4b07c448f7546ba24fb6b233":[37,0,1,368,17],
@@ -245,9 +249,5 @@ var NAVTREEINDEX103 =
 "mission__companion_8h.html#a8bf0aee54b114afe32e5165230a39558":[37,0,1,379,24],
 "mission__companion_8h.html#a8e1ed54bf603e650b01e86c146cd630d":[37,0,1,379,5],
 "mission__companion_8h.html#a982b3d353e6071114d36ce561f3d8d81":[37,0,1,379,3],
-"mission__companion_8h.html#aa2838647b026e305ac396622371b828e":[37,0,1,379,4],
-"mission__companion_8h.html#aa4bb9807a55d14bffb66b330d98c0ccb":[37,0,1,379,9],
-"mission__companion_8h.html#aae77a276223f99136a715e68a11117bd":[37,0,1,379,12],
-"mission__companion_8h.html#aaf6c69bd9ecf7e46042fd7f0c2acf919":[37,0,1,379,19],
-"mission__companion_8h.html#ab07d16739ee74a3a56e06a0d590c1770":[37,0,1,379,7]
+"mission__companion_8h.html#aa2838647b026e305ac396622371b828e":[37,0,1,379,4]
 };

@@ -259,14 +259,15 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="mapgen_8cpp_source.html#l00340">340</a> of file <a class="el" href="mapgen_8cpp_source.html">mapgen.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00340" name="l00340"></a><span class="lineno">  340</span>                                                                                                     {</div>
-<div class="line"><a id="l00341" name="l00341"></a><span class="lineno">  341</span>            <span class="keyword">const</span> <span class="keyword">auto</span> iter = <a class="code hl_variable" href="classmapgen__factory.html#ae79bfab95206bbe448e6786aa4061aef">mapgens_</a>.find( key );</div>
+<div class="line"><a id="l00341" name="l00341"></a><span class="lineno">  341</span>            <span class="keyword">const</span> <span class="keyword">auto</span> iter = <a class="code hl_variable" href="classmapgen__factory.html#ae79bfab95206bbe448e6786aa4061aef">mapgens_</a>.find( <a class="code hl_variable" href="map_8cpp.html#ae6af50176f3458f8541902c00ce67666">disable_mapgen</a> ? <span class="stringliteral">&quot;test&quot;</span> : key );</div>
 <div class="line"><a id="l00342" name="l00342"></a><span class="lineno">  342</span>            <span class="keywordflow">if</span>( iter == <a class="code hl_variable" href="classmapgen__factory.html#ae79bfab95206bbe448e6786aa4061aef">mapgens_</a>.end() ) {</div>
 <div class="line"><a id="l00343" name="l00343"></a><span class="lineno">  343</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00344" name="l00344"></a><span class="lineno">  344</span>            }</div>
 <div class="line"><a id="l00345" name="l00345"></a><span class="lineno">  345</span>            <span class="keywordflow">return</span> iter-&gt;second.generate( dat, hardcoded_weight );</div>
 <div class="line"><a id="l00346" name="l00346"></a><span class="lineno">  346</span>        }</div>
+<div class="ttc" id="amap_8cpp_html_ae6af50176f3458f8541902c00ce67666"><div class="ttname"><a href="map_8cpp.html#ae6af50176f3458f8541902c00ce67666">disable_mapgen</a></div><div class="ttdeci">bool disable_mapgen</div><div class="ttdoc">Causes all generated maps to be empty grass and prevents saved maps from being loaded,...</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l00142">map.cpp:142</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="mapgen_8cpp_source.html#l00282">mapgens_</a>.</p>
+<p class="reference">References <a class="el" href="map_8cpp_source.html#l00142">disable_mapgen</a>, and <a class="el" href="mapgen_8cpp_source.html#l00282">mapgens_</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="mapgen_8cpp_source.html#l03515">map::draw_lab()</a>, and <a class="el" href="mapgen_8cpp_source.html#l06687">run_mapgen_func()</a>.</p>
 
@@ -477,7 +478,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classmapgen__factory.html">mapgen_factory</a></li>
-    <li class="footer">Generated on Fri Sep 9 2022 22:28:50 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Sep 11 2022 00:05:10 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

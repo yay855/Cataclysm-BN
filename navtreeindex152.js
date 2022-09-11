@@ -1,5 +1,9 @@
 var NAVTREEINDEX152 =
 {
+"structpathfinder.html#ae4022c0a90aef5de1430e41dae3c8391":[36,0,720,5],
+"structpathfinding__cache.html":[36,0,721],
+"structpathfinding__cache.html#a082c46dee17769a54322638a5126714e":[36,0,721,0],
+"structpathfinding__cache.html#a09e1cfcc2eabe28fd24eb2273256fa70":[36,0,721,3],
 "structpathfinding__cache.html#a3f107b581cb56721cb84bc586692f248":[36,0,721,2],
 "structpathfinding__cache.html#ae3e76cb89362312395572e26b584e58f":[36,0,721,1],
 "structpathfinding__settings.html":[36,0,722],
@@ -245,9 +249,5 @@ var NAVTREEINDEX152 =
 "structpoints__left.html#a3237221e9fd197cbeb0080e907287143":[36,0,747,9],
 "structpoints__left.html#a4ea8c23ce2142ad69e2d6c5b547914c4":[36,0,747,12],
 "structpoints__left.html#a524755fe3613b27268030f4c4d1c32c8":[36,0,747,3],
-"structpoints__left.html#a5498edd2238d11a8f1f5081b63533c4f":[36,0,747,6],
-"structpoints__left.html#a83aa5e881283e1176ff56c4d6e038cc0":[36,0,747,2],
-"structpoints__left.html#a89ae15c6aa2ac674135569094de42677":[36,0,747,5],
-"structpoints__left.html#a988a4d0f033b5992a53f265d44ff1d74":[36,0,747,10],
-"structpoints__left.html#ab75600e756b02407392cd8b6c3406423":[36,0,747,0]
+"structpoints__left.html#a5498edd2238d11a8f1f5081b63533c4f":[36,0,747,6]
 };
