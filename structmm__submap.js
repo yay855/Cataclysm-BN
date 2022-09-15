@@ -10,6 +10,7 @@ var structmm__submap =
     [ "set_tile", "structmm__submap.html#a2183aa151f21c3f91af5e07bac7239c9", null ],
     [ "symbol", "structmm__submap.html#a8a84a54e1baf390af1e86ccaaa61a901", null ],
     [ "tile", "structmm__submap.html#a15eb50ad5ff4ac2e94b5f6fcc5438636", null ],
+    [ "map_memory", "structmm__submap.html#a4d46255ed520b9f2170444aa4791d6c7", null ],
     [ "default_symbol", "structmm__submap.html#ad0804f8db3bf56ed5ffe3a71b64bc2a1", null ],
     [ "default_tile", "structmm__submap.html#adab4d8db426156488246e87e6bd3d487", null ],
     [ "symbols", "structmm__submap.html#a11d2b7ff9ccf6f5e3bc407ec4e903650", null ],

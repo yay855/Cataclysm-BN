@@ -238,7 +238,7 @@ var classvehicle =
     [ "part_epower_w", "classvehicle.html#a27cec1366be7bf296d9c483a40833120", null ],
     [ "part_flag", "classvehicle.html#a396e319b27729d4c423b3d096e657bf9", null ],
     [ "part_flag", "classvehicle.html#a22ccc7dfff6c973a0f33151c75b455a9", null ],
-    [ "part_id_string", "classvehicle.html#abc549123dad32242312ada68c18ef0ce", null ],
+    [ "part_id_string", "classvehicle.html#a460afda37811612cc4a626fba9a2059e", null ],
     [ "part_info", "classvehicle.html#aab4917d0f78fe4df1c8f5303fdf2b86d", null ],
     [ "part_removal_cleanup", "classvehicle.html#a256bff136536ed8e38b84521c1450a6a", null ],
     [ "part_sym", "classvehicle.html#a55aa2e0015efe2254f39fc2309257b2b", null ],

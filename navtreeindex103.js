@@ -1,5 +1,9 @@
 var NAVTREEINDEX103 =
 {
+"mattack__actors_8cpp.html":[37,0,1,365],
+"mattack__actors_8cpp.html#a08ab6b755cf474393b8c8c3d0967b4d0":[37,0,1,365,10],
+"mattack__actors_8cpp.html#a0f3a25eb2b398fd705348436a034da00":[37,0,1,365,1],
+"mattack__actors_8cpp.html#a1de43fa1f6d16ce87ab7a3a49e47c463":[37,0,1,365,4],
 "mattack__actors_8cpp.html#a39b21fc30fecd7d4fb15047600d03522":[37,0,1,365,2],
 "mattack__actors_8cpp.html#a6bf1394e103efe8661fc75163e3482c3":[37,0,1,365,5],
 "mattack__actors_8cpp.html#a7a08490346831114f00f3e44cbe454e3":[37,0,1,365,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX103 =
 "mission__companion_8cpp.html#af872d8363b3a2e1f799e6fadaf07ceae":[37,0,1,378,6],
 "mission__companion_8cpp_source.html":[37,0,1,378],
 "mission__companion_8h.html":[37,0,1,379],
-"mission__companion_8h.html#a06c7fbf05b3d5974cfa47046b239fddf":[37,0,1,379,29],
-"mission__companion_8h.html#a0709f7e3f8903a9add96a3fdce9ba38d":[37,0,1,379,36],
-"mission__companion_8h.html#a12ad6f95f322f8a3fc14d4181baf576d":[37,0,1,379,39],
-"mission__companion_8h.html#a1778d61cb730e7d9d7a0e584be5015b3":[37,0,1,379,23],
-"mission__companion_8h.html#a1c8e25ecfcfca815b62606fc59665989":[37,0,1,379,2]
+"mission__companion_8h.html#a06c7fbf05b3d5974cfa47046b239fddf":[37,0,1,379,29]
 };

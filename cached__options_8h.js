@@ -12,6 +12,7 @@ var cached__options_8h =
     [ "message_ttl", "cached__options_8h.html#a3f29bf026ed39a38c2472d4df9262b65", null ],
     [ "PICKUP_RANGE", "cached__options_8h.html#a1467e25ae6a1c8f9d4489be4a8e014a3", null ],
     [ "pixel_minimap_option", "cached__options_8h.html#a9e2cd97e08a19bf2f5d8e8348dac0425", null ],
+    [ "static_z_effect", "cached__options_8h.html#ad3763c9c79dd4b21282fa160cadb6404", null ],
     [ "test_mode", "cached__options_8h.html#a07c66893ce868671f9998dad80094cb1", null ],
     [ "tile_iso", "cached__options_8h.html#a406fb460d3cd96ac0e1cc3ccdef6340a", null ],
     [ "trigdist", "cached__options_8h.html#a40b9d88f6d95e646490329d0071ec931", null ],

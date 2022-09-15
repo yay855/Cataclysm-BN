@@ -183,7 +183,7 @@ var searchData=
   ['refresh_5fposition_180',['refresh_position',['../classvehicle.html#a47ddad9fe942e7a2eb1c8c6069b7046b',1,'vehicle']]],
   ['refresh_5fresponse_5fdisplay_181',['refresh_response_display',['../classdialogue__window.html#a2abf029ae7295938f2922538c9f781ed',1,'dialogue_window']]],
   ['refresh_5fsetup_182',['refresh_setup',['../structdefense__game.html#ad0f7d4d374588b5bd77ba08e2be4fb4e',1,'defense_game']]],
-  ['refresh_5ftiles_183',['refresh_tiles',['../options_8cpp.html#a97a6a8b9ffb3c2dfd462af1a9353f8dc',1,'options.cpp']]],
+  ['refresh_5ftiles_183',['refresh_tiles',['../options_8cpp.html#a8600ac715df3f79d8221e0438f85c0ee',1,'options.cpp']]],
   ['refresh_5fwindow_184',['refresh_window',['../classinventory__selector.html#a01ed562537aaf6d291f8d5567dc4c640',1,'inventory_selector']]],
   ['refresh_5fzones_185',['refresh_zones',['../classvehicle.html#abfc6fa64a046f2c7ceedcddd0cccef9e',1,'vehicle']]],
   ['reg_5fcoord_5fpair_186',['reg_coord_pair',['../structreg__coord__pair.html#a8bcd8304aaec5edddb9f7d5aa0db23d0',1,'reg_coord_pair']]],

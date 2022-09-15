@@ -1,5 +1,10 @@
 var NAVTREEINDEX146 =
 {
+"structislot__magazine.html#aee164cd4bbb906d4700375860e47763a":[36,0,445,0],
+"structislot__mod.html":[36,0,447],
+"structislot__mod.html#a0c8e7128d40c08fe0f60695e3c9cb872":[36,0,447,3],
+"structislot__mod.html#ac3cd7bcf9a6092f5b363ffecf3cdce8b":[36,0,447,2],
+"structislot__mod.html#ac62eecc66c02b919489a98831deee8d0":[36,0,447,0],
 "structislot__mod.html#aebafe50c80e3e1f74b2f27b2597fa162":[36,0,447,1],
 "structislot__pet__armor.html":[36,0,448],
 "structislot__pet__armor.html#a07f4aee7ab982c02789d251c37fb5d27":[36,0,448,2],
@@ -70,10 +75,10 @@ var NAVTREEINDEX146 =
 "structitem__info__data.html#aebc34b872c27347457cc489fc5d4c15f":[36,0,463,20],
 "structitem__internal_1_1scoped__goes__bad__cache.html":[35,0,109,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html":[36,0,24,0],
-"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[36,0,24,0,1],
 "structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,109,0,1],
-"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[35,0,109,0,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[36,0,24,0,1],
 "structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,24,0,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[35,0,109,0,0],
 "structitem__reference.html":[36,0,468],
 "structitem__reference.html#a39088ef0fffbac57621a06913246eab1":[36,0,468,0],
 "structitem__reference.html#aa5f61b515d64cb6b440911cd9f181518":[36,0,468,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX146 =
 "structjmapgen__setmap.html#a7a62c5cb6bc491650d76959f55ff4a39":[36,0,499,12],
 "structjmapgen__setmap.html#a894bcca66840d5e3918997abf1e39502":[36,0,499,8],
 "structjmapgen__setmap.html#ac9d3a111a91e8f062045cd78442fb445":[36,0,499,3],
-"structjmapgen__setmap.html#ad9c6445133620989a8f7d179e64f09ac":[36,0,499,4],
-"structjmapgen__setmap.html#ae3a87b8d7a021d7af250623cf14980f4":[36,0,499,13],
-"structjmapgen__setmap.html#af5ba488e8bcb236da269c277fdc24567":[36,0,499,7],
-"structjmapgen__setmap.html#afb5d752aa2bd6cb140b23135045c3fba":[36,0,499,9],
-"structjmapgen__setmap.html#afe1f9f6f16569ac174201864d98d14d0":[36,0,499,2],
-"structjmapgen__setmap.html#aff2bd642a611b272fe4a41450a3e663d":[36,0,499,11]
+"structjmapgen__setmap.html#ad9c6445133620989a8f7d179e64f09ac":[36,0,499,4]
 };

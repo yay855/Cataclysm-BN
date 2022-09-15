@@ -1,5 +1,10 @@
 var NAVTREEINDEX147 =
 {
+"structjmapgen__setmap.html#ae3a87b8d7a021d7af250623cf14980f4":[36,0,499,13],
+"structjmapgen__setmap.html#af5ba488e8bcb236da269c277fdc24567":[36,0,499,7],
+"structjmapgen__setmap.html#afb5d752aa2bd6cb140b23135045c3fba":[36,0,499,9],
+"structjmapgen__setmap.html#afe1f9f6f16569ac174201864d98d14d0":[36,0,499,2],
+"structjmapgen__setmap.html#aff2bd642a611b272fe4a41450a3e663d":[36,0,499,11],
 "structjson__item__substitution_1_1substitution.html":[36,0,513,0],
 "structjson__item__substitution_1_1substitution.html#a163c775ce20e615d2e4a62adb0a9e00e":[36,0,513,0,2],
 "structjson__item__substitution_1_1substitution.html#a2ceed8cc229a4e444a11a64ef52381d3":[36,0,513,0,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX147 =
 "structmaptile.html#a93e125b91c77b00f653a12800b24dbc9":[36,0,588,18],
 "structmaptile.html#a977cfc47c0271e9c593158e8df9e8ad4":[36,0,588,7],
 "structmaptile.html#a9c9e15a1b6db4e935fc1230519e45249":[36,0,588,6],
-"structmaptile.html#a9ea19f651f4ce0a70d044fac9caf6f90":[36,0,588,9],
-"structmaptile.html#aad3a88be9212f3a75c31ca6d07863653":[36,0,588,16],
-"structmaptile.html#ab994efd992447ec5685a47e68518579e":[36,0,588,0],
-"structmaptile.html#ac457d93598440f370cb86702caddfdd7":[36,0,588,4],
-"structmaptile.html#ac97edb7a058025aff0f7921d88b92e3a":[36,0,588,12],
-"structmaptile.html#ad952a69376efc35d1e4782ca90718626":[36,0,588,19]
+"structmaptile.html#a9ea19f651f4ce0a70d044fac9caf6f90":[36,0,588,9]
 };
