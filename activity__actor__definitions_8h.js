@@ -4,6 +4,7 @@ var activity__actor__definitions_8h =
     [ "autodrive_activity_actor", "classautodrive__activity__actor.html", "classautodrive__activity__actor" ],
     [ "dig_activity_actor", "classdig__activity__actor.html", "classdig__activity__actor" ],
     [ "dig_channel_activity_actor", "classdig__channel__activity__actor.html", "classdig__channel__activity__actor" ],
+    [ "disassemble_activity_actor", "classdisassemble__activity__actor.html", "classdisassemble__activity__actor" ],
     [ "drop_activity_actor", "classdrop__activity__actor.html", "classdrop__activity__actor" ],
     [ "hacking_activity_actor", "classhacking__activity__actor.html", "classhacking__activity__actor" ],
     [ "hacking_activity_actor::use_bionic", "structhacking__activity__actor_1_1use__bionic.html", null ],

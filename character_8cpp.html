@@ -830,10 +830,10 @@ Variables</h2></td></tr>
 <div class="line"><a id="l04019" name="l04019"></a><span class="lineno"> 4019</span>}</div>
 <div class="ttc" id="aclassbody__part__set_html_a450fb1707f17ac6ba5147ea73c3957c2"><div class="ttname"><a href="classbody__part__set.html#a450fb1707f17ac6ba5147ea73c3957c2">body_part_set::test</a></div><div class="ttdeci">bool test(const body_part &amp;bp) const</div><div class="ttdef"><b>Definition:</b> <a href="bodypart_8h_source.html#l00237">bodypart.h:237</a></div></div>
 <div class="ttc" id="astructchar__encumbrance__data_html_a36652b66b7d902cba69f0f4bb4454c63"><div class="ttname"><a href="structchar__encumbrance__data.html#a36652b66b7d902cba69f0f4bb4454c63">char_encumbrance_data::elems</a></div><div class="ttdeci">std::array&lt; encumbrance_data, num_bp &gt; elems</div><div class="ttdef"><b>Definition:</b> <a href="character__encumbrance_8h_source.html#l00052">character_encumbrance.h:52</a></div></div>
-<div class="ttc" id="astructmutation__branch_html_a4ad1db3b5501401bfb7100a139c2e28b"><div class="ttname"><a href="structmutation__branch.html#a4ad1db3b5501401bfb7100a139c2e28b">mutation_branch::encumbrance_covered</a></div><div class="ttdeci">std::map&lt; body_part, int &gt; encumbrance_covered</div><div class="ttdef"><b>Definition:</b> <a href="mutation_8h_source.html#l00268">mutation.h:268</a></div></div>
-<div class="ttc" id="astructmutation__branch_html_a97ba70029584a166e9273e80861e2538"><div class="ttname"><a href="structmutation__branch.html#a97ba70029584a166e9273e80861e2538">mutation_branch::encumbrance_always</a></div><div class="ttdeci">std::map&lt; body_part, int &gt; encumbrance_always</div><div class="ttdef"><b>Definition:</b> <a href="mutation_8h_source.html#l00266">mutation.h:266</a></div></div>
+<div class="ttc" id="astructmutation__branch_html_a4ad1db3b5501401bfb7100a139c2e28b"><div class="ttname"><a href="structmutation__branch.html#a4ad1db3b5501401bfb7100a139c2e28b">mutation_branch::encumbrance_covered</a></div><div class="ttdeci">std::map&lt; body_part, int &gt; encumbrance_covered</div><div class="ttdef"><b>Definition:</b> <a href="mutation_8h_source.html#l00270">mutation.h:270</a></div></div>
+<div class="ttc" id="astructmutation__branch_html_a97ba70029584a166e9273e80861e2538"><div class="ttname"><a href="structmutation__branch.html#a97ba70029584a166e9273e80861e2538">mutation_branch::encumbrance_always</a></div><div class="ttdeci">std::map&lt; body_part, int &gt; encumbrance_always</div><div class="ttdef"><b>Definition:</b> <a href="mutation_8h_source.html#l00268">mutation.h:268</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="character__encumbrance_8h_source.html#l00052">char_encumbrance_data::elems</a>, <a class="el" href="mutation_8h_source.html#l00266">mutation_branch::encumbrance_always</a>, <a class="el" href="mutation_8h_source.html#l00268">mutation_branch::encumbrance_covered</a>, and <a class="el" href="bodypart_8h_source.html#l00237">body_part_set::test()</a>.</p>
+<p class="reference">References <a class="el" href="character__encumbrance_8h_source.html#l00052">char_encumbrance_data::elems</a>, <a class="el" href="mutation_8h_source.html#l00268">mutation_branch::encumbrance_always</a>, <a class="el" href="mutation_8h_source.html#l00270">mutation_branch::encumbrance_covered</a>, and <a class="el" href="bodypart_8h_source.html#l00237">body_part_set::test()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04021">Character::mut_cbm_encumb()</a>.</p>
 
@@ -873,42 +873,42 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l08113">8113</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l08114" name="l08114"></a><span class="lineno"> 8114</span>{</div>
-<div class="line"><a id="l08115" name="l08115"></a><span class="lineno"> 8115</span>    <span class="keywordflow">switch</span>( du.<a class="code hl_variable" href="structdamage__unit.html#a6fb9768fbc374c9c24960cdef9bee2f3">type</a> ) {</div>
-<div class="line"><a id="l08116" name="l08116"></a><span class="lineno"> 8116</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8fce673f2bfbb3fdb52be44a8e638c90">DT_ACID</a>:</div>
-<div class="line"><a id="l08117" name="l08117"></a><span class="lineno"> 8117</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a6217a3784475193ccd831b45c59cb4b6">enchant_vals::mod::ARMOR_ACID</a> );</div>
-<div class="line"><a id="l08118" name="l08118"></a><span class="lineno"> 8118</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08119" name="l08119"></a><span class="lineno"> 8119</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa5f8b46c6c239266403858fa2ae90ef23">DT_BASH</a>:</div>
-<div class="line"><a id="l08120" name="l08120"></a><span class="lineno"> 8120</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aeb563eb9612ee0f5b373581cb1b920f4">enchant_vals::mod::ARMOR_BASH</a> );</div>
-<div class="line"><a id="l08121" name="l08121"></a><span class="lineno"> 8121</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08122" name="l08122"></a><span class="lineno"> 8122</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aadc0cf68a04ad822c9169fc69791c0d43">DT_BIOLOGICAL</a>:</div>
-<div class="line"><a id="l08123" name="l08123"></a><span class="lineno"> 8123</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998acbc365d800888a52f622212733462dfb">enchant_vals::mod::ARMOR_BIO</a> );</div>
-<div class="line"><a id="l08124" name="l08124"></a><span class="lineno"> 8124</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08125" name="l08125"></a><span class="lineno"> 8125</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa1d827b8c2d8d7d5008cb94273dd20517">DT_COLD</a>:</div>
-<div class="line"><a id="l08126" name="l08126"></a><span class="lineno"> 8126</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a5468922f935ac08eca22bbc8bef8901e">enchant_vals::mod::ARMOR_COLD</a> );</div>
-<div class="line"><a id="l08127" name="l08127"></a><span class="lineno"> 8127</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08128" name="l08128"></a><span class="lineno"> 8128</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8ff698c0509e78ff65c7c7ec899b4f51">DT_CUT</a>:</div>
-<div class="line"><a id="l08129" name="l08129"></a><span class="lineno"> 8129</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a923b6c8e64530a7f97a176e6b2455430">enchant_vals::mod::ARMOR_CUT</a> );</div>
-<div class="line"><a id="l08130" name="l08130"></a><span class="lineno"> 8130</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08131" name="l08131"></a><span class="lineno"> 8131</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa31df3b2996d2d10b2ca3e275899fdddb">DT_ELECTRIC</a>:</div>
-<div class="line"><a id="l08132" name="l08132"></a><span class="lineno"> 8132</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a87a44327183ff95ef91756674f92ae61">enchant_vals::mod::ARMOR_ELEC</a> );</div>
-<div class="line"><a id="l08133" name="l08133"></a><span class="lineno"> 8133</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08134" name="l08134"></a><span class="lineno"> 8134</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aae6af44cd6e0e8cafcc63cea198f627c9">DT_HEAT</a>:</div>
-<div class="line"><a id="l08135" name="l08135"></a><span class="lineno"> 8135</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998afeef67170dfb373b3be7582acedfce18">enchant_vals::mod::ARMOR_HEAT</a> );</div>
-<div class="line"><a id="l08136" name="l08136"></a><span class="lineno"> 8136</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08137" name="l08137"></a><span class="lineno"> 8137</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa12e559f29e023db673e9251b9337d8dd">DT_STAB</a>:</div>
-<div class="line"><a id="l08138" name="l08138"></a><span class="lineno"> 8138</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998adb643d44e575e6aa811beecf485320c6">enchant_vals::mod::ARMOR_STAB</a> );</div>
-<div class="line"><a id="l08139" name="l08139"></a><span class="lineno"> 8139</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08140" name="l08140"></a><span class="lineno"> 8140</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aaad8d2bf05b729b401070cf08e163e0c6">DT_BULLET</a>:</div>
-<div class="line"><a id="l08141" name="l08141"></a><span class="lineno"> 8141</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a08c272fb1dc033de497667eeac817610">enchant_vals::mod::ARMOR_BULLET</a> );</div>
-<div class="line"><a id="l08142" name="l08142"></a><span class="lineno"> 8142</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08143" name="l08143"></a><span class="lineno"> 8143</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><a id="l08144" name="l08144"></a><span class="lineno"> 8144</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><a id="l08145" name="l08145"></a><span class="lineno"> 8145</span>    }</div>
-<div class="line"><a id="l08146" name="l08146"></a><span class="lineno"> 8146</span>    du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> = std::max( 0.0f, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> );</div>
-<div class="line"><a id="l08147" name="l08147"></a><span class="lineno"> 8147</span>}</div>
-<div class="ttc" id="aclassCharacter_html_adc248f444bde56349dc619c48a549c04"><div class="ttname"><a href="classCharacter.html#adc248f444bde56349dc619c48a549c04">Character::bonus_from_enchantments</a></div><div class="ttdeci">double bonus_from_enchantments(double base, enchant_vals::mod value, bool round=false) const</div><div class="ttdoc">Calculate bonus from enchantments for given base value.</div><div class="ttdef"><b>Definition:</b> <a href="character_8cpp_source.html#l08036">character.cpp:8036</a></div></div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l08115">8115</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l08116" name="l08116"></a><span class="lineno"> 8116</span>{</div>
+<div class="line"><a id="l08117" name="l08117"></a><span class="lineno"> 8117</span>    <span class="keywordflow">switch</span>( du.<a class="code hl_variable" href="structdamage__unit.html#a6fb9768fbc374c9c24960cdef9bee2f3">type</a> ) {</div>
+<div class="line"><a id="l08118" name="l08118"></a><span class="lineno"> 8118</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8fce673f2bfbb3fdb52be44a8e638c90">DT_ACID</a>:</div>
+<div class="line"><a id="l08119" name="l08119"></a><span class="lineno"> 8119</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a6217a3784475193ccd831b45c59cb4b6">enchant_vals::mod::ARMOR_ACID</a> );</div>
+<div class="line"><a id="l08120" name="l08120"></a><span class="lineno"> 8120</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08121" name="l08121"></a><span class="lineno"> 8121</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa5f8b46c6c239266403858fa2ae90ef23">DT_BASH</a>:</div>
+<div class="line"><a id="l08122" name="l08122"></a><span class="lineno"> 8122</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aeb563eb9612ee0f5b373581cb1b920f4">enchant_vals::mod::ARMOR_BASH</a> );</div>
+<div class="line"><a id="l08123" name="l08123"></a><span class="lineno"> 8123</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08124" name="l08124"></a><span class="lineno"> 8124</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aadc0cf68a04ad822c9169fc69791c0d43">DT_BIOLOGICAL</a>:</div>
+<div class="line"><a id="l08125" name="l08125"></a><span class="lineno"> 8125</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998acbc365d800888a52f622212733462dfb">enchant_vals::mod::ARMOR_BIO</a> );</div>
+<div class="line"><a id="l08126" name="l08126"></a><span class="lineno"> 8126</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08127" name="l08127"></a><span class="lineno"> 8127</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa1d827b8c2d8d7d5008cb94273dd20517">DT_COLD</a>:</div>
+<div class="line"><a id="l08128" name="l08128"></a><span class="lineno"> 8128</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a5468922f935ac08eca22bbc8bef8901e">enchant_vals::mod::ARMOR_COLD</a> );</div>
+<div class="line"><a id="l08129" name="l08129"></a><span class="lineno"> 8129</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08130" name="l08130"></a><span class="lineno"> 8130</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8ff698c0509e78ff65c7c7ec899b4f51">DT_CUT</a>:</div>
+<div class="line"><a id="l08131" name="l08131"></a><span class="lineno"> 8131</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a923b6c8e64530a7f97a176e6b2455430">enchant_vals::mod::ARMOR_CUT</a> );</div>
+<div class="line"><a id="l08132" name="l08132"></a><span class="lineno"> 8132</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08133" name="l08133"></a><span class="lineno"> 8133</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa31df3b2996d2d10b2ca3e275899fdddb">DT_ELECTRIC</a>:</div>
+<div class="line"><a id="l08134" name="l08134"></a><span class="lineno"> 8134</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a87a44327183ff95ef91756674f92ae61">enchant_vals::mod::ARMOR_ELEC</a> );</div>
+<div class="line"><a id="l08135" name="l08135"></a><span class="lineno"> 8135</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08136" name="l08136"></a><span class="lineno"> 8136</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aae6af44cd6e0e8cafcc63cea198f627c9">DT_HEAT</a>:</div>
+<div class="line"><a id="l08137" name="l08137"></a><span class="lineno"> 8137</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998afeef67170dfb373b3be7582acedfce18">enchant_vals::mod::ARMOR_HEAT</a> );</div>
+<div class="line"><a id="l08138" name="l08138"></a><span class="lineno"> 8138</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08139" name="l08139"></a><span class="lineno"> 8139</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa12e559f29e023db673e9251b9337d8dd">DT_STAB</a>:</div>
+<div class="line"><a id="l08140" name="l08140"></a><span class="lineno"> 8140</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998adb643d44e575e6aa811beecf485320c6">enchant_vals::mod::ARMOR_STAB</a> );</div>
+<div class="line"><a id="l08141" name="l08141"></a><span class="lineno"> 8141</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08142" name="l08142"></a><span class="lineno"> 8142</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aaad8d2bf05b729b401070cf08e163e0c6">DT_BULLET</a>:</div>
+<div class="line"><a id="l08143" name="l08143"></a><span class="lineno"> 8143</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += guy.<a class="code hl_function" href="classCharacter.html#adc248f444bde56349dc619c48a549c04">bonus_from_enchantments</a>( du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a08c272fb1dc033de497667eeac817610">enchant_vals::mod::ARMOR_BULLET</a> );</div>
+<div class="line"><a id="l08144" name="l08144"></a><span class="lineno"> 8144</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08145" name="l08145"></a><span class="lineno"> 8145</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><a id="l08146" name="l08146"></a><span class="lineno"> 8146</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><a id="l08147" name="l08147"></a><span class="lineno"> 8147</span>    }</div>
+<div class="line"><a id="l08148" name="l08148"></a><span class="lineno"> 8148</span>    du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> = std::max( 0.0f, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> );</div>
+<div class="line"><a id="l08149" name="l08149"></a><span class="lineno"> 8149</span>}</div>
+<div class="ttc" id="aclassCharacter_html_adc248f444bde56349dc619c48a549c04"><div class="ttname"><a href="classCharacter.html#adc248f444bde56349dc619c48a549c04">Character::bonus_from_enchantments</a></div><div class="ttdeci">double bonus_from_enchantments(double base, enchant_vals::mod value, bool round=false) const</div><div class="ttdoc">Calculate bonus from enchantments for given base value.</div><div class="ttdef"><b>Definition:</b> <a href="character_8cpp_source.html#l08038">character.cpp:8038</a></div></div>
 <div class="ttc" id="adamage_8h_html_ae63a2cf8429f9edf77b547d34ffe4e7aa12e559f29e023db673e9251b9337d8dd"><div class="ttname"><a href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa12e559f29e023db673e9251b9337d8dd">DT_STAB</a></div><div class="ttdeci">@ DT_STAB</div><div class="ttdef"><b>Definition:</b> <a href="damage_8h_source.html#l00027">damage.h:27</a></div></div>
 <div class="ttc" id="adamage_8h_html_ae63a2cf8429f9edf77b547d34ffe4e7aa1d827b8c2d8d7d5008cb94273dd20517"><div class="ttname"><a href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa1d827b8c2d8d7d5008cb94273dd20517">DT_COLD</a></div><div class="ttdeci">@ DT_COLD</div><div class="ttdef"><b>Definition:</b> <a href="damage_8h_source.html#l00029">damage.h:29</a></div></div>
 <div class="ttc" id="adamage_8h_html_ae63a2cf8429f9edf77b547d34ffe4e7aa31df3b2996d2d10b2ca3e275899fdddb"><div class="ttname"><a href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa31df3b2996d2d10b2ca3e275899fdddb">DT_ELECTRIC</a></div><div class="ttdeci">@ DT_ELECTRIC</div><div class="ttdef"><b>Definition:</b> <a href="damage_8h_source.html#l00030">damage.h:30</a></div></div>
@@ -930,9 +930,9 @@ Variables</h2></td></tr>
 <div class="ttc" id="astructdamage__unit_html_a5937d5d78a6db9efaefb0bf9517377d3"><div class="ttname"><a href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">damage_unit::amount</a></div><div class="ttdeci">float amount</div><div class="ttdef"><b>Definition:</b> <a href="damage_8h_source.html#l00037">damage.h:37</a></div></div>
 <div class="ttc" id="astructdamage__unit_html_a6fb9768fbc374c9c24960cdef9bee2f3"><div class="ttname"><a href="structdamage__unit.html#a6fb9768fbc374c9c24960cdef9bee2f3">damage_unit::type</a></div><div class="ttdeci">damage_type type</div><div class="ttdef"><b>Definition:</b> <a href="damage_8h_source.html#l00036">damage.h:36</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="damage_8h_source.html#l00037">damage_unit::amount</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a6217a3784475193ccd831b45c59cb4b6">enchant_vals::ARMOR_ACID</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aeb563eb9612ee0f5b373581cb1b920f4">enchant_vals::ARMOR_BASH</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998acbc365d800888a52f622212733462dfb">enchant_vals::ARMOR_BIO</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a08c272fb1dc033de497667eeac817610">enchant_vals::ARMOR_BULLET</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a5468922f935ac08eca22bbc8bef8901e">enchant_vals::ARMOR_COLD</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a923b6c8e64530a7f97a176e6b2455430">enchant_vals::ARMOR_CUT</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a87a44327183ff95ef91756674f92ae61">enchant_vals::ARMOR_ELEC</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998afeef67170dfb373b3be7582acedfce18">enchant_vals::ARMOR_HEAT</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998adb643d44e575e6aa811beecf485320c6">enchant_vals::ARMOR_STAB</a>, <a class="el" href="character_8cpp_source.html#l08036">Character::bonus_from_enchantments()</a>, <a class="el" href="damage_8h_source.html#l00026">DT_ACID</a>, <a class="el" href="damage_8h_source.html#l00024">DT_BASH</a>, <a class="el" href="damage_8h_source.html#l00023">DT_BIOLOGICAL</a>, <a class="el" href="damage_8h_source.html#l00031">DT_BULLET</a>, <a class="el" href="damage_8h_source.html#l00029">DT_COLD</a>, <a class="el" href="damage_8h_source.html#l00025">DT_CUT</a>, <a class="el" href="damage_8h_source.html#l00030">DT_ELECTRIC</a>, <a class="el" href="damage_8h_source.html#l00028">DT_HEAT</a>, <a class="el" href="damage_8h_source.html#l00027">DT_STAB</a>, and <a class="el" href="damage_8h_source.html#l00036">damage_unit::type</a>.</p>
+<p class="reference">References <a class="el" href="damage_8h_source.html#l00037">damage_unit::amount</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a6217a3784475193ccd831b45c59cb4b6">enchant_vals::ARMOR_ACID</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aeb563eb9612ee0f5b373581cb1b920f4">enchant_vals::ARMOR_BASH</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998acbc365d800888a52f622212733462dfb">enchant_vals::ARMOR_BIO</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a08c272fb1dc033de497667eeac817610">enchant_vals::ARMOR_BULLET</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a5468922f935ac08eca22bbc8bef8901e">enchant_vals::ARMOR_COLD</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a923b6c8e64530a7f97a176e6b2455430">enchant_vals::ARMOR_CUT</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a87a44327183ff95ef91756674f92ae61">enchant_vals::ARMOR_ELEC</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998afeef67170dfb373b3be7582acedfce18">enchant_vals::ARMOR_HEAT</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998adb643d44e575e6aa811beecf485320c6">enchant_vals::ARMOR_STAB</a>, <a class="el" href="character_8cpp_source.html#l08038">Character::bonus_from_enchantments()</a>, <a class="el" href="damage_8h_source.html#l00026">DT_ACID</a>, <a class="el" href="damage_8h_source.html#l00024">DT_BASH</a>, <a class="el" href="damage_8h_source.html#l00023">DT_BIOLOGICAL</a>, <a class="el" href="damage_8h_source.html#l00031">DT_BULLET</a>, <a class="el" href="damage_8h_source.html#l00029">DT_COLD</a>, <a class="el" href="damage_8h_source.html#l00025">DT_CUT</a>, <a class="el" href="damage_8h_source.html#l00030">DT_ELECTRIC</a>, <a class="el" href="damage_8h_source.html#l00028">DT_HEAT</a>, <a class="el" href="damage_8h_source.html#l00027">DT_STAB</a>, and <a class="el" href="damage_8h_source.html#l00036">damage_unit::type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08149">Character::absorb_hit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08151">Character::absorb_hit()</a>.</p>
 
 </div>
 </div>
@@ -954,18 +954,18 @@ template&lt;float mutation_branch::* member&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06678">6678</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l06679" name="l06679"></a><span class="lineno"> 6679</span>{</div>
-<div class="line"><a id="l06680" name="l06680"></a><span class="lineno"> 6680</span>    <span class="keywordtype">float</span> lowest = 0.0f;</div>
-<div class="line"><a id="l06681" name="l06681"></a><span class="lineno"> 6681</span>    <span class="keywordtype">float</span> highest = 0.0f;</div>
-<div class="line"><a id="l06682" name="l06682"></a><span class="lineno"> 6682</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a> *mut : mutations ) {</div>
-<div class="line"><a id="l06683" name="l06683"></a><span class="lineno"> 6683</span>        <span class="keywordtype">float</span> val = mut-&gt;*<a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a>;</div>
-<div class="line"><a id="l06684" name="l06684"></a><span class="lineno"> 6684</span>        lowest = std::min( lowest, val );</div>
-<div class="line"><a id="l06685" name="l06685"></a><span class="lineno"> 6685</span>        highest = std::max( highest, val );</div>
-<div class="line"><a id="l06686" name="l06686"></a><span class="lineno"> 6686</span>    }</div>
-<div class="line"><a id="l06687" name="l06687"></a><span class="lineno"> 6687</span> </div>
-<div class="line"><a id="l06688" name="l06688"></a><span class="lineno"> 6688</span>    <span class="keywordflow">return</span> std::min( 0.0f, lowest ) + std::max( 0.0f, highest );</div>
-<div class="line"><a id="l06689" name="l06689"></a><span class="lineno"> 6689</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06679">6679</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l06680" name="l06680"></a><span class="lineno"> 6680</span>{</div>
+<div class="line"><a id="l06681" name="l06681"></a><span class="lineno"> 6681</span>    <span class="keywordtype">float</span> lowest = 0.0f;</div>
+<div class="line"><a id="l06682" name="l06682"></a><span class="lineno"> 6682</span>    <span class="keywordtype">float</span> highest = 0.0f;</div>
+<div class="line"><a id="l06683" name="l06683"></a><span class="lineno"> 6683</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a> *mut : mutations ) {</div>
+<div class="line"><a id="l06684" name="l06684"></a><span class="lineno"> 6684</span>        <span class="keywordtype">float</span> val = mut-&gt;*<a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a>;</div>
+<div class="line"><a id="l06685" name="l06685"></a><span class="lineno"> 6685</span>        lowest = std::min( lowest, val );</div>
+<div class="line"><a id="l06686" name="l06686"></a><span class="lineno"> 6686</span>        highest = std::max( highest, val );</div>
+<div class="line"><a id="l06687" name="l06687"></a><span class="lineno"> 6687</span>    }</div>
+<div class="line"><a id="l06688" name="l06688"></a><span class="lineno"> 6688</span> </div>
+<div class="line"><a id="l06689" name="l06689"></a><span class="lineno"> 6689</span>    <span class="keywordflow">return</span> std::min( 0.0f, lowest ) + std::max( 0.0f, highest );</div>
+<div class="line"><a id="l06690" name="l06690"></a><span class="lineno"> 6690</span>}</div>
 <div class="ttc" id="anamespacemapgen__defer_html_a640e58e4d234e3f1e2ddbfff8fd665ce"><div class="ttname"><a href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">mapgen_defer::member</a></div><div class="ttdeci">std::string member</div><div class="ttdef"><b>Definition:</b> <a href="mapgen_8cpp_source.html#l00402">mapgen.cpp:402</a></div></div>
 <div class="ttc" id="astructmutation__branch_html"><div class="ttname"><a href="structmutation__branch.html">mutation_branch</a></div><div class="ttdef"><b>Definition:</b> <a href="mutation_8h_source.html#l00075">mutation.h:75</a></div></div>
 </div><!-- fragment -->
@@ -991,14 +991,14 @@ template&lt;float mutation_branch::* member&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06692">6692</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l06693" name="l06693"></a><span class="lineno"> 6693</span>{</div>
-<div class="line"><a id="l06694" name="l06694"></a><span class="lineno"> 6694</span>    <span class="keywordtype">float</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> = 0.0f;</div>
-<div class="line"><a id="l06695" name="l06695"></a><span class="lineno"> 6695</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a> *mut : mutations ) {</div>
-<div class="line"><a id="l06696" name="l06696"></a><span class="lineno"> 6696</span>        <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> += mut-&gt;*<a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a>;</div>
-<div class="line"><a id="l06697" name="l06697"></a><span class="lineno"> 6697</span>    }</div>
-<div class="line"><a id="l06698" name="l06698"></a><span class="lineno"> 6698</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a>;</div>
-<div class="line"><a id="l06699" name="l06699"></a><span class="lineno"> 6699</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06693">6693</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l06694" name="l06694"></a><span class="lineno"> 6694</span>{</div>
+<div class="line"><a id="l06695" name="l06695"></a><span class="lineno"> 6695</span>    <span class="keywordtype">float</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> = 0.0f;</div>
+<div class="line"><a id="l06696" name="l06696"></a><span class="lineno"> 6696</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a> *mut : mutations ) {</div>
+<div class="line"><a id="l06697" name="l06697"></a><span class="lineno"> 6697</span>        <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> += mut-&gt;*<a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a>;</div>
+<div class="line"><a id="l06698" name="l06698"></a><span class="lineno"> 6698</span>    }</div>
+<div class="line"><a id="l06699" name="l06699"></a><span class="lineno"> 6699</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a>;</div>
+<div class="line"><a id="l06700" name="l06700"></a><span class="lineno"> 6700</span>}</div>
 <div class="ttc" id="anamespacecata_1_1hash64__detail_html_a5ca825db6fd06946302c60daa97333e4"><div class="ttname"><a href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">cata::hash64_detail::ret</a></div><div class="ttdeci">T ret</div><div class="ttdef"><b>Definition:</b> <a href="hash__utils_8h_source.html#l00097">hash_utils.h:97</a></div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="mapgen_8cpp_source.html#l00402">mapgen_defer::member</a>, and <a class="el" href="hash__utils_8h_source.html#l00097">cata::hash64_detail::ret</a>.</p>
@@ -1023,14 +1023,14 @@ template&lt;float mutation_branch::* member&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06702">6702</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l06703" name="l06703"></a><span class="lineno"> 6703</span>{</div>
-<div class="line"><a id="l06704" name="l06704"></a><span class="lineno"> 6704</span>    <span class="keywordtype">float</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> = 1.0f;</div>
-<div class="line"><a id="l06705" name="l06705"></a><span class="lineno"> 6705</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a> *mut : mutations ) {</div>
-<div class="line"><a id="l06706" name="l06706"></a><span class="lineno"> 6706</span>        <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> *= mut-&gt;*<a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a>;</div>
-<div class="line"><a id="l06707" name="l06707"></a><span class="lineno"> 6707</span>    }</div>
-<div class="line"><a id="l06708" name="l06708"></a><span class="lineno"> 6708</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a>;</div>
-<div class="line"><a id="l06709" name="l06709"></a><span class="lineno"> 6709</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06703">6703</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l06704" name="l06704"></a><span class="lineno"> 6704</span>{</div>
+<div class="line"><a id="l06705" name="l06705"></a><span class="lineno"> 6705</span>    <span class="keywordtype">float</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> = 1.0f;</div>
+<div class="line"><a id="l06706" name="l06706"></a><span class="lineno"> 6706</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a> *mut : mutations ) {</div>
+<div class="line"><a id="l06707" name="l06707"></a><span class="lineno"> 6707</span>        <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a> *= mut-&gt;*<a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a>;</div>
+<div class="line"><a id="l06708" name="l06708"></a><span class="lineno"> 6708</span>    }</div>
+<div class="line"><a id="l06709" name="l06709"></a><span class="lineno"> 6709</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a>;</div>
+<div class="line"><a id="l06710" name="l06710"></a><span class="lineno"> 6710</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="mapgen_8cpp_source.html#l00402">mapgen_defer::member</a>, and <a class="el" href="hash__utils_8h_source.html#l00097">cata::hash64_detail::ret</a>.</p>
 
@@ -1070,29 +1070,29 @@ template&lt;float mutation_branch::* member&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l08061">8061</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l08062" name="l08062"></a><span class="lineno"> 8062</span>{</div>
-<div class="line"><a id="l08063" name="l08063"></a><span class="lineno"> 8063</span>    <span class="keywordflow">if</span>( who.<a class="code hl_function" href="classCreature.html#ac209d32cbfd3774af3d5c0500e2fae52">is_avatar</a>() ) {</div>
-<div class="line"><a id="l08064" name="l08064"></a><span class="lineno"> 8064</span>        <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;memorial().add(</div>
-<div class="line"><a id="l08065" name="l08065"></a><span class="lineno"> 8065</span>            <span class="comment">//~ %s is armor name</span></div>
-<div class="line"><a id="l08066" name="l08066"></a><span class="lineno"> 8066</span>            <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;memorial_male&quot;</span>, <span class="stringliteral">&quot;Worn %s was completely destroyed.&quot;</span> ),</div>
-<div class="line"><a id="l08067" name="l08067"></a><span class="lineno"> 8067</span>            <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;memorial_female&quot;</span>, <span class="stringliteral">&quot;Worn %s was completely destroyed.&quot;</span> ),</div>
-<div class="line"><a id="l08068" name="l08068"></a><span class="lineno"> 8068</span>            pre_damage_name );</div>
-<div class="line"><a id="l08069" name="l08069"></a><span class="lineno"> 8069</span>    }</div>
-<div class="line"><a id="l08070" name="l08070"></a><span class="lineno"> 8070</span>    who.<a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea72e7b82d57a6df0d4263c2043139b1b1">m_bad</a>, <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;Your %s is completely destroyed!&quot;</span> ),</div>
-<div class="line"><a id="l08071" name="l08071"></a><span class="lineno"> 8071</span>                               <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;&lt;npcname&gt;&#39;s %s is completely destroyed!&quot;</span> ),</div>
-<div class="line"><a id="l08072" name="l08072"></a><span class="lineno"> 8072</span>                               pre_damage_name );</div>
-<div class="line"><a id="l08073" name="l08073"></a><span class="lineno"> 8073</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l08063">8063</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l08064" name="l08064"></a><span class="lineno"> 8064</span>{</div>
+<div class="line"><a id="l08065" name="l08065"></a><span class="lineno"> 8065</span>    <span class="keywordflow">if</span>( who.<a class="code hl_function" href="classCreature.html#ac209d32cbfd3774af3d5c0500e2fae52">is_avatar</a>() ) {</div>
+<div class="line"><a id="l08066" name="l08066"></a><span class="lineno"> 8066</span>        <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;memorial().add(</div>
+<div class="line"><a id="l08067" name="l08067"></a><span class="lineno"> 8067</span>            <span class="comment">//~ %s is armor name</span></div>
+<div class="line"><a id="l08068" name="l08068"></a><span class="lineno"> 8068</span>            <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;memorial_male&quot;</span>, <span class="stringliteral">&quot;Worn %s was completely destroyed.&quot;</span> ),</div>
+<div class="line"><a id="l08069" name="l08069"></a><span class="lineno"> 8069</span>            <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;memorial_female&quot;</span>, <span class="stringliteral">&quot;Worn %s was completely destroyed.&quot;</span> ),</div>
+<div class="line"><a id="l08070" name="l08070"></a><span class="lineno"> 8070</span>            pre_damage_name );</div>
+<div class="line"><a id="l08071" name="l08071"></a><span class="lineno"> 8071</span>    }</div>
+<div class="line"><a id="l08072" name="l08072"></a><span class="lineno"> 8072</span>    who.<a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea72e7b82d57a6df0d4263c2043139b1b1">m_bad</a>, <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;Your %s is completely destroyed!&quot;</span> ),</div>
+<div class="line"><a id="l08073" name="l08073"></a><span class="lineno"> 8073</span>                               <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;&lt;npcname&gt;&#39;s %s is completely destroyed!&quot;</span> ),</div>
+<div class="line"><a id="l08074" name="l08074"></a><span class="lineno"> 8074</span>                               pre_damage_name );</div>
+<div class="line"><a id="l08075" name="l08075"></a><span class="lineno"> 8075</span>}</div>
 <div class="ttc" id="aclassCreature_html_a7cf71d2bd6c350f2ceda3f1d64046e63"><div class="ttname"><a href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">Creature::add_msg_player_or_npc</a></div><div class="ttdeci">virtual void add_msg_player_or_npc(const std::string &amp;, const std::string &amp;) const</div><div class="ttdef"><b>Definition:</b> <a href="creature_8h_source.html#l00677">creature.h:677</a></div></div>
 <div class="ttc" id="aclassCreature_html_ac209d32cbfd3774af3d5c0500e2fae52"><div class="ttname"><a href="classCreature.html#ac209d32cbfd3774af3d5c0500e2fae52">Creature::is_avatar</a></div><div class="ttdeci">virtual bool is_avatar() const</div><div class="ttdef"><b>Definition:</b> <a href="creature_8h_source.html#l00095">creature.h:95</a></div></div>
 <div class="ttc" id="aenums_8h_html_a3baf36d700701401b6baf94db93d096ea72e7b82d57a6df0d4263c2043139b1b1"><div class="ttname"><a href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea72e7b82d57a6df0d4263c2043139b1b1">m_bad</a></div><div class="ttdeci">@ m_bad</div><div class="ttdef"><b>Definition:</b> <a href="enums_8h_source.html#l00254">enums.h:254</a></div></div>
-<div class="ttc" id="agame_8cpp_html_abeb98e93502d73818b4a73fabe191bc1"><div class="ttname"><a href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a></div><div class="ttdeci">std::unique_ptr&lt; game &gt; g</div><div class="ttdef"><b>Definition:</b> <a href="game_8cpp_source.html#l00270">game.cpp:270</a></div></div>
+<div class="ttc" id="agame_8cpp_html_abeb98e93502d73818b4a73fabe191bc1"><div class="ttname"><a href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a></div><div class="ttdeci">std::unique_ptr&lt; game &gt; g</div><div class="ttdef"><b>Definition:</b> <a href="game_8cpp_source.html#l00271">game.cpp:271</a></div></div>
 <div class="ttc" id="atranslations_8cpp_html_af0c79b5c75a7cf2df78663485b03ed9a"><div class="ttname"><a href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a></div><div class="ttdeci">const char * pgettext(const char *context, const char *msgid)</div><div class="ttdef"><b>Definition:</b> <a href="translations_8cpp_source.html#l00041">translations.cpp:41</a></div></div>
 <div class="ttc" id="atranslations_8h_html_aa829053017e23ef22d44dccecba63a34"><div class="ttname"><a href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a></div><div class="ttdeci">#define _(msg)</div><div class="ttdef"><b>Definition:</b> <a href="translations_8h_source.html#l00116">translations.h:116</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="creature_8h_source.html#l00677">Creature::add_msg_player_or_npc()</a>, <a class="el" href="game_8cpp_source.html#l00270">g</a>, <a class="el" href="creature_8h_source.html#l00095">Creature::is_avatar()</a>, <a class="el" href="enums_8h_source.html#l00254">m_bad</a>, and <a class="el" href="translations_8cpp_source.html#l00041">pgettext()</a>.</p>
+<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="creature_8h_source.html#l00677">Creature::add_msg_player_or_npc()</a>, <a class="el" href="game_8cpp_source.html#l00271">g</a>, <a class="el" href="creature_8h_source.html#l00095">Creature::is_avatar()</a>, <a class="el" href="enums_8h_source.html#l00254">m_bad</a>, and <a class="el" href="translations_8cpp_source.html#l00041">pgettext()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08149">Character::absorb_hit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08151">Character::absorb_hit()</a>.</p>
 
 </div>
 </div>
@@ -1306,7 +1306,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>.</p>
 
 </div>
 </div>
@@ -1334,7 +1334,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>, <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08896">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08867">Character::is_wearing_shoes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>, <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08898">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08869">Character::is_wearing_shoes()</a>.</p>
 
 </div>
 </div>
@@ -1362,7 +1362,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, and <a class="el" href="character_8cpp_source.html#l08867">Character::is_wearing_shoes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, and <a class="el" href="character_8cpp_source.html#l08869">Character::is_wearing_shoes()</a>.</p>
 
 </div>
 </div>
@@ -1390,7 +1390,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06341">Character::is_blind()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06342">Character::is_blind()</a>.</p>
 
 </div>
 </div>
@@ -1418,7 +1418,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, and <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, and <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -1474,7 +1474,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06348">Character::is_invisible()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06349">Character::is_invisible()</a>.</p>
 
 </div>
 </div>
@@ -1558,7 +1558,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>, <a class="el" href="character_8cpp_source.html#l03828">Character::in_climate_control()</a>, and <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>, <a class="el" href="character_8cpp_source.html#l03828">Character::in_climate_control()</a>, and <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>.</p>
 
 </div>
 </div>
@@ -1614,7 +1614,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08908">Character::head_cloth_encumbrance()</a>, and <a class="el" href="character_8cpp_source.html#l08896">Character::is_wearing_helmet()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08910">Character::head_cloth_encumbrance()</a>, and <a class="el" href="character_8cpp_source.html#l08898">Character::is_wearing_helmet()</a>.</p>
 
 </div>
 </div>
@@ -1726,7 +1726,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08896">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l04021">Character::mut_cbm_encumb()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08898">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l04021">Character::mut_cbm_encumb()</a>.</p>
 
 </div>
 </div>
@@ -1754,7 +1754,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -1810,7 +1810,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>, <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08896">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08867">Character::is_wearing_shoes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>, <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08898">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08869">Character::is_wearing_shoes()</a>.</p>
 
 </div>
 </div>
@@ -1838,7 +1838,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08840">Character::rooted()</a>, and <a class="el" href="character_8cpp_source.html#l08830">Character::rooted_message()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08842">Character::rooted()</a>, and <a class="el" href="character_8cpp_source.html#l08832">Character::rooted_message()</a>.</p>
 
 </div>
 </div>
@@ -2006,7 +2006,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>, <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08908">Character::head_cloth_encumbrance()</a>, <a class="el" href="character_8cpp_source.html#l08896">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08867">Character::is_wearing_shoes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>, <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08910">Character::head_cloth_encumbrance()</a>, <a class="el" href="character_8cpp_source.html#l08898">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08869">Character::is_wearing_shoes()</a>.</p>
 
 </div>
 </div>
@@ -2034,7 +2034,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08908">Character::head_cloth_encumbrance()</a>, <a class="el" href="character_8cpp_source.html#l08896">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08867">Character::is_wearing_shoes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, <a class="el" href="character_8cpp_source.html#l08910">Character::head_cloth_encumbrance()</a>, <a class="el" href="character_8cpp_source.html#l08898">Character::is_wearing_helmet()</a>, and <a class="el" href="character_8cpp_source.html#l08869">Character::is_wearing_shoes()</a>.</p>
 
 </div>
 </div>
@@ -2090,7 +2090,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05847">Character::body_window()</a>, and <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05848">Character::body_window()</a>, and <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>.</p>
 
 </div>
 </div>
@@ -2146,7 +2146,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08292">Character::armor_absorb()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08294">Character::armor_absorb()</a>.</p>
 
 </div>
 </div>
@@ -2202,7 +2202,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>.</p>
 
 </div>
 </div>
@@ -2258,7 +2258,7 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07513">Character::consume_charges()</a>, <a class="el" href="character_8cpp_source.html#l07459">Character::has_enough_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07515">Character::consume_charges()</a>, <a class="el" href="character_8cpp_source.html#l07461">Character::has_enough_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -2282,7 +2282,7 @@ template&lt;typename T , typename Output &gt; </div>
 <div class="line"><a id="l00389" name="l00389"></a><span class="lineno">  389</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;u;</div>
 <div class="line"><a id="l00390" name="l00390"></a><span class="lineno">  390</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="vehicle__move_8cpp_source.html#l01245">vehicle::act_on_map()</a>, <a class="el" href="computer__session_8cpp_source.html#l00529">computer_session::action_map_sewer()</a>, <a class="el" href="computer__session_8cpp_source.html#l00548">computer_session::action_map_subway()</a>, <a class="el" href="computer__session_8cpp_source.html#l00517">computer_session::action_maps()</a>, <a class="el" href="map_8cpp_source.html#l05388">map::add_field()</a>, <a class="el" href="npcmove_8cpp_source.html#l01787">npc::address_needs()</a>, <a class="el" href="npcmove_8cpp_source.html#l01931">npc::address_player()</a>, <a class="el" href="npcmove_8cpp_source.html#l00367">npc::assess_danger()</a>, <a class="el" href="item_8cpp_source.html#l02841">item::book_info()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00705">talk_function::buy_100_logs()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00678">talk_function::buy_10_logs()</a>, <a class="el" href="action_8cpp_source.html#l00584">can_examine_at()</a>, <a class="el" href="mission__companion_8cpp_source.html#l00767">talk_function::caravan_dist()</a>, <a class="el" href="bionics_8cpp_source.html#l00462">npc::check_or_use_weapon_cbm()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02181">ui::omap::choose_point()</a>, <a class="el" href="npcmove_8cpp_source.html#l04479">npc::complain()</a>, <a class="el" href="npcmove_8cpp_source.html#l04448">npc::complain_about()</a>, <a class="el" href="npcmove_8cpp_source.html#l03843">npc::consume_food_from_camp()</a>, <a class="el" href="mission__start_8cpp_source.html#l00689">mission_start::create_hidden_lab_console()</a>, <a class="el" href="mission__start_8cpp_source.html#l00707">mission_start::create_ice_lab_console()</a>, <a class="el" href="mission__start_8cpp_source.html#l00673">mission_start::create_lab_console()</a>, <a class="el" href="debug__menu_8cpp_source.html#l00306">debug_menu::debug_menu_uilist()</a>, <a class="el" href="descriptions_8cpp_source.html#l00035">debug_vision()</a>, <a class="el" href="iuse__actor_8cpp_source.html#l03373">repair_item_actor::default_action()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02118">ui::omap::display()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02165">ui::omap::display_editor()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02123">ui::omap::display_hordes()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02151">ui::omap::display_scents()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02141">ui::omap::display_visible_weather()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02131">ui::omap::display_weather()</a>, <a class="el" href="explosion_8cpp_source.html#l00346">explosion_handler::do_blast_new()</a>, <a class="el" href="npcmove_8cpp_source.html#l04564">npc::do_reload()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l00778">overmap_ui::draw_ascii()</a>, <a class="el" href="npcmove_8cpp_source.html#l03137">npc::drop_items()</a>, <a class="el" href="npctalk_8cpp_source.html#l00895">dialogue::dynamic_line()</a>, <a class="el" href="explosion_8cpp_source.html#l00922">explosion_handler::emp_blast()</a>, <a class="el" href="npcmove_8cpp_source.html#l00960">npc::execute_action()</a>, <a class="el" href="faction_8cpp_source.html#l00461">basecamp::faction_display()</a>, <a class="el" href="faction_8cpp_source.html#l00494">npc::faction_display()</a>, <a class="el" href="computer__session_8cpp_source.html#l01328">computer_session::failure_manhacks()</a>, <a class="el" href="computer__session_8cpp_source.html#l01340">computer_session::failure_secubots()</a>, <a class="el" href="mission__companion_8cpp_source.html#l00941">talk_function::field_build_1()</a>, <a class="el" href="mission__companion_8cpp_source.html#l00967">talk_function::field_build_2()</a>, <a class="el" href="mission__companion_8cpp_source.html#l01086">talk_function::field_harvest()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l01295">overmapbuffer::find_all_radio_stations()</a>, <a class="el" href="npcmove_8cpp_source.html#l03248">npc::find_corpse_to_pulp()</a>, <a class="el" href="npcmove_8cpp_source.html#l02784">npc::find_item()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l01280">overmapbuffer::find_radio_station()</a>, <a class="el" href="mission__start_8cpp_source.html#l00302">mission_start::find_safety()</a>, <a class="el" href="iuse__actor_8cpp_source.html#l03742">heal_actor::finish_using()</a>, <a class="el" href="npc_8cpp_source.html#l01213">npc::form_opinion()</a>, <a class="el" href="monattack_8cpp_source.html#l01925">mattack::fungus_sprout()</a>, <a class="el" href="lightmap_8cpp_source.html#l00371">map::generate_lightmap()</a>, <a class="el" href="sounds_8cpp_source.html#l01656">sfx::get_heard_angle()</a>, <a class="el" href="mission__util_8cpp_source.html#l00244">get_mission_om_origin()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l01171">overmapbuffer::get_npcs_near_player()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l00239">overmap_ui::get_overmap_neighbors()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l01831">overmap_ui::get_overmap_path_to()</a>, <a class="el" href="activity__actor_8cpp_source.html#l00229">aim_activity_actor::get_weapon()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00574">talk_function::give_aid()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00586">talk_function::give_all_aid()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00298">talk_function::goto_location()</a>, <a class="el" href="ranged_8cpp_source.html#l03695">ranged::gunmode_checks_weapon()</a>, <a class="el" href="vehicle__use_8cpp_source.html#l00145">handbrake()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l00846">vehicle::handle_trap()</a>, <a class="el" href="npcmove_8cpp_source.html#l03659">npc::heal_player()</a>, <a class="el" href="npcmove_8cpp_source.html#l03701">npc::heal_self()</a>, <a class="el" href="creature_8cpp_source.html#l00615">ranged::hit_with_aoe()</a>, <a class="el" href="iuse__actor_8cpp_source.html#l03988">heal_actor::info()</a>, <a class="el" href="gamemode__tutorial_8cpp_source.html#l00106">tutorial_game::init()</a>, <a class="el" href="gamemode__defense_8cpp_source.html#l00222">defense_game::init_map()</a>, <a class="el" href="weather_8cpp_source.html#l00069">is_player_outside()</a>, <a class="el" href="martialarts_8cpp_source.html#l01412">ma_style_callback::key()</a>, <a class="el" href="monexamine_8cpp_source.html#l00445">monexamine::mfriend_menu()</a>, <a class="el" href="npcmove_8cpp_source.html#l00713">npc::move()</a>, <a class="el" href="npcmove_8cpp_source.html#l02530">npc::move_away_from()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l00496">overmapbuffer::move_hordes()</a>, <a class="el" href="map_8cpp_source.html#l00518">map::move_vehicle()</a>, <a class="el" href="npcmove_8cpp_source.html#l03920">npc::mug_player()</a>, <a class="el" href="npcmove_8cpp_source.html#l03484">npc_throw()</a>, <a class="el" href="morale_8cpp_source.html#l00951">player_morale::on_worn_item_washed()</a>, <a class="el" href="vehicle__use_8cpp_source.html#l01533">vehicle::open_or_close()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l00471">vehicle::part_collision()</a>, <a class="el" href="monexamine_8cpp_source.html#l00064">monexamine::pet_menu()</a>, <a class="el" href="npcmove_8cpp_source.html#l02970">npc::pick_up_item()</a>, <a class="el" href="ranged_8cpp_source.html#l01517">pl_sees()</a>, <a class="el" href="avatar__action_8cpp_source.html#l00854">avatar_action::plthrow()</a>, <a class="el" href="npcmove_8cpp_source.html#l03691">npc::pretend_heal()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l00485">overmapbuffer::process_mongroups()</a>, <a class="el" href="mission__util_8cpp_source.html#l00119">mission_util::random_house_in_closest_city()</a>, <a class="el" href="npcmove_8cpp_source.html#l04052">npc::reach_omt_destination()</a>, <a class="el" href="npcmove_8cpp_source.html#l00661">npc::regen_ai_cache()</a>, <a class="el" href="mission__util_8cpp_source.html#l00033">reveal_destination()</a>, <a class="el" href="mission__start_8cpp_source.html#l00723">mission_start::reveal_lab_train_depot()</a>, <a class="el" href="mission__util_8cpp_source.html#l00088">mission_util::reveal_om_ter()</a>, <a class="el" href="mission__start_8cpp_source.html#l00614">mission_start::reveal_refugee_center()</a>, <a class="el" href="morale_8cpp_source.html#l01000">player_morale::set_worn()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l01631">map::shake_vehicle()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l00130">vehicle::thrust()</a>, <a class="el" href="distribution__grid_8cpp_source.html#l00344">distribution_grid_tracker::update()</a>, <a class="el" href="editmap_8cpp_source.html#l00694">editmap::update_view_with_help()</a>, and <a class="el" href="npcmove_8cpp_source.html#l03738">npc::use_painkiller()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="vehicle__move_8cpp_source.html#l01245">vehicle::act_on_map()</a>, <a class="el" href="computer__session_8cpp_source.html#l00529">computer_session::action_map_sewer()</a>, <a class="el" href="computer__session_8cpp_source.html#l00548">computer_session::action_map_subway()</a>, <a class="el" href="computer__session_8cpp_source.html#l00517">computer_session::action_maps()</a>, <a class="el" href="map_8cpp_source.html#l05388">map::add_field()</a>, <a class="el" href="npcmove_8cpp_source.html#l01787">npc::address_needs()</a>, <a class="el" href="npcmove_8cpp_source.html#l01931">npc::address_player()</a>, <a class="el" href="npcmove_8cpp_source.html#l00367">npc::assess_danger()</a>, <a class="el" href="item_8cpp_source.html#l02841">item::book_info()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00705">talk_function::buy_100_logs()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00678">talk_function::buy_10_logs()</a>, <a class="el" href="action_8cpp_source.html#l00584">can_examine_at()</a>, <a class="el" href="mission__companion_8cpp_source.html#l00767">talk_function::caravan_dist()</a>, <a class="el" href="bionics_8cpp_source.html#l00462">npc::check_or_use_weapon_cbm()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02181">ui::omap::choose_point()</a>, <a class="el" href="npcmove_8cpp_source.html#l04479">npc::complain()</a>, <a class="el" href="npcmove_8cpp_source.html#l04448">npc::complain_about()</a>, <a class="el" href="npcmove_8cpp_source.html#l03843">npc::consume_food_from_camp()</a>, <a class="el" href="mission__start_8cpp_source.html#l00689">mission_start::create_hidden_lab_console()</a>, <a class="el" href="mission__start_8cpp_source.html#l00707">mission_start::create_ice_lab_console()</a>, <a class="el" href="mission__start_8cpp_source.html#l00673">mission_start::create_lab_console()</a>, <a class="el" href="debug__menu_8cpp_source.html#l00306">debug_menu::debug_menu_uilist()</a>, <a class="el" href="descriptions_8cpp_source.html#l00035">debug_vision()</a>, <a class="el" href="iuse__actor_8cpp_source.html#l03373">repair_item_actor::default_action()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02118">ui::omap::display()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02165">ui::omap::display_editor()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02123">ui::omap::display_hordes()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02151">ui::omap::display_scents()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02141">ui::omap::display_visible_weather()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l02131">ui::omap::display_weather()</a>, <a class="el" href="explosion_8cpp_source.html#l00346">explosion_handler::do_blast_new()</a>, <a class="el" href="npcmove_8cpp_source.html#l04564">npc::do_reload()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l00778">overmap_ui::draw_ascii()</a>, <a class="el" href="npcmove_8cpp_source.html#l03137">npc::drop_items()</a>, <a class="el" href="npctalk_8cpp_source.html#l00895">dialogue::dynamic_line()</a>, <a class="el" href="explosion_8cpp_source.html#l00922">explosion_handler::emp_blast()</a>, <a class="el" href="npcmove_8cpp_source.html#l00960">npc::execute_action()</a>, <a class="el" href="faction_8cpp_source.html#l00461">basecamp::faction_display()</a>, <a class="el" href="faction_8cpp_source.html#l00494">npc::faction_display()</a>, <a class="el" href="computer__session_8cpp_source.html#l01328">computer_session::failure_manhacks()</a>, <a class="el" href="computer__session_8cpp_source.html#l01340">computer_session::failure_secubots()</a>, <a class="el" href="mission__companion_8cpp_source.html#l00941">talk_function::field_build_1()</a>, <a class="el" href="mission__companion_8cpp_source.html#l00967">talk_function::field_build_2()</a>, <a class="el" href="mission__companion_8cpp_source.html#l01086">talk_function::field_harvest()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l01295">overmapbuffer::find_all_radio_stations()</a>, <a class="el" href="npcmove_8cpp_source.html#l03248">npc::find_corpse_to_pulp()</a>, <a class="el" href="npcmove_8cpp_source.html#l02784">npc::find_item()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l01280">overmapbuffer::find_radio_station()</a>, <a class="el" href="mission__start_8cpp_source.html#l00302">mission_start::find_safety()</a>, <a class="el" href="iuse__actor_8cpp_source.html#l03742">heal_actor::finish_using()</a>, <a class="el" href="npc_8cpp_source.html#l01213">npc::form_opinion()</a>, <a class="el" href="monattack_8cpp_source.html#l01925">mattack::fungus_sprout()</a>, <a class="el" href="lightmap_8cpp_source.html#l00371">map::generate_lightmap()</a>, <a class="el" href="sounds_8cpp_source.html#l01656">sfx::get_heard_angle()</a>, <a class="el" href="mission__util_8cpp_source.html#l00244">get_mission_om_origin()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l01171">overmapbuffer::get_npcs_near_player()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l00239">overmap_ui::get_overmap_neighbors()</a>, <a class="el" href="overmap__ui_8cpp_source.html#l01831">overmap_ui::get_overmap_path_to()</a>, <a class="el" href="activity__actor_8cpp_source.html#l00231">aim_activity_actor::get_weapon()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00574">talk_function::give_aid()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00586">talk_function::give_all_aid()</a>, <a class="el" href="npctalk__funcs_8cpp_source.html#l00298">talk_function::goto_location()</a>, <a class="el" href="ranged_8cpp_source.html#l03695">ranged::gunmode_checks_weapon()</a>, <a class="el" href="vehicle__use_8cpp_source.html#l00145">handbrake()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l00846">vehicle::handle_trap()</a>, <a class="el" href="npcmove_8cpp_source.html#l03659">npc::heal_player()</a>, <a class="el" href="npcmove_8cpp_source.html#l03701">npc::heal_self()</a>, <a class="el" href="creature_8cpp_source.html#l00615">ranged::hit_with_aoe()</a>, <a class="el" href="iuse__actor_8cpp_source.html#l03988">heal_actor::info()</a>, <a class="el" href="gamemode__tutorial_8cpp_source.html#l00106">tutorial_game::init()</a>, <a class="el" href="gamemode__defense_8cpp_source.html#l00222">defense_game::init_map()</a>, <a class="el" href="weather_8cpp_source.html#l00069">is_player_outside()</a>, <a class="el" href="martialarts_8cpp_source.html#l01412">ma_style_callback::key()</a>, <a class="el" href="monexamine_8cpp_source.html#l00445">monexamine::mfriend_menu()</a>, <a class="el" href="npcmove_8cpp_source.html#l00713">npc::move()</a>, <a class="el" href="npcmove_8cpp_source.html#l02530">npc::move_away_from()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l00496">overmapbuffer::move_hordes()</a>, <a class="el" href="map_8cpp_source.html#l00518">map::move_vehicle()</a>, <a class="el" href="npcmove_8cpp_source.html#l03920">npc::mug_player()</a>, <a class="el" href="npcmove_8cpp_source.html#l03484">npc_throw()</a>, <a class="el" href="morale_8cpp_source.html#l00951">player_morale::on_worn_item_washed()</a>, <a class="el" href="vehicle__use_8cpp_source.html#l01533">vehicle::open_or_close()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l00471">vehicle::part_collision()</a>, <a class="el" href="monexamine_8cpp_source.html#l00064">monexamine::pet_menu()</a>, <a class="el" href="npcmove_8cpp_source.html#l02970">npc::pick_up_item()</a>, <a class="el" href="ranged_8cpp_source.html#l01517">pl_sees()</a>, <a class="el" href="avatar__action_8cpp_source.html#l00854">avatar_action::plthrow()</a>, <a class="el" href="npcmove_8cpp_source.html#l03691">npc::pretend_heal()</a>, <a class="el" href="overmapbuffer_8cpp_source.html#l00485">overmapbuffer::process_mongroups()</a>, <a class="el" href="mission__util_8cpp_source.html#l00119">mission_util::random_house_in_closest_city()</a>, <a class="el" href="npcmove_8cpp_source.html#l04052">npc::reach_omt_destination()</a>, <a class="el" href="npcmove_8cpp_source.html#l00661">npc::regen_ai_cache()</a>, <a class="el" href="mission__util_8cpp_source.html#l00033">reveal_destination()</a>, <a class="el" href="mission__start_8cpp_source.html#l00723">mission_start::reveal_lab_train_depot()</a>, <a class="el" href="mission__util_8cpp_source.html#l00088">mission_util::reveal_om_ter()</a>, <a class="el" href="mission__start_8cpp_source.html#l00614">mission_start::reveal_refugee_center()</a>, <a class="el" href="morale_8cpp_source.html#l01000">player_morale::set_worn()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l01631">map::shake_vehicle()</a>, <a class="el" href="vehicle__move_8cpp_source.html#l00130">vehicle::thrust()</a>, <a class="el" href="distribution__grid_8cpp_source.html#l00344">distribution_grid_tracker::update()</a>, <a class="el" href="editmap_8cpp_source.html#l00694">editmap::update_view_with_help()</a>, and <a class="el" href="npcmove_8cpp_source.html#l03738">npc::use_painkiller()</a>.</p>
 
 </div>
 </div>
@@ -2341,22 +2341,22 @@ template&lt;typename T , typename Output &gt; </div>
 
 <p>Get translated name of a stat. </p>
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l07882">7882</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l07883" name="l07883"></a><span class="lineno"> 7883</span>{</div>
-<div class="line"><a id="l07884" name="l07884"></a><span class="lineno"> 7884</span>    <span class="keywordflow">switch</span>( Stat ) {</div>
-<div class="line"><a id="l07885" name="l07885"></a><span class="lineno"> 7885</span>        <span class="comment">// *INDENT-OFF*</span></div>
-<div class="line"><a id="l07886" name="l07886"></a><span class="lineno"> 7886</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc">character_stat::STRENGTH</a>:     <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;strength stat&quot;</span>, <span class="stringliteral">&quot;STR&quot;</span> );</div>
-<div class="line"><a id="l07887" name="l07887"></a><span class="lineno"> 7887</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203">character_stat::DEXTERITY</a>:    <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;dexterity stat&quot;</span>, <span class="stringliteral">&quot;DEX&quot;</span> );</div>
-<div class="line"><a id="l07888" name="l07888"></a><span class="lineno"> 7888</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755acbc4a7ccc74fbcbda6a01632c5e4656e">character_stat::INTELLIGENCE</a>: <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;intelligence stat&quot;</span>, <span class="stringliteral">&quot;INT&quot;</span> );</div>
-<div class="line"><a id="l07889" name="l07889"></a><span class="lineno"> 7889</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a7301a4f338e31867e8ef6d3f0a148319">character_stat::PERCEPTION</a>:   <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;perception stat&quot;</span>, <span class="stringliteral">&quot;PER&quot;</span> );</div>
-<div class="line"><a id="l07890" name="l07890"></a><span class="lineno"> 7890</span>        <span class="comment">// *INDENT-ON*</span></div>
-<div class="line"><a id="l07891" name="l07891"></a><span class="lineno"> 7891</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><a id="l07892" name="l07892"></a><span class="lineno"> 7892</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;fake stat there&#39;s an error&quot;</span>, <span class="stringliteral">&quot;ERR&quot;</span> );</div>
-<div class="line"><a id="l07893" name="l07893"></a><span class="lineno"> 7893</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l07894" name="l07894"></a><span class="lineno"> 7894</span> </div>
-<div class="line"><a id="l07895" name="l07895"></a><span class="lineno"> 7895</span>    }</div>
-<div class="line"><a id="l07896" name="l07896"></a><span class="lineno"> 7896</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;fake stat there&#39;s an error&quot;</span>, <span class="stringliteral">&quot;ERR&quot;</span> );</div>
-<div class="line"><a id="l07897" name="l07897"></a><span class="lineno"> 7897</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l07884">7884</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l07885" name="l07885"></a><span class="lineno"> 7885</span>{</div>
+<div class="line"><a id="l07886" name="l07886"></a><span class="lineno"> 7886</span>    <span class="keywordflow">switch</span>( Stat ) {</div>
+<div class="line"><a id="l07887" name="l07887"></a><span class="lineno"> 7887</span>        <span class="comment">// *INDENT-OFF*</span></div>
+<div class="line"><a id="l07888" name="l07888"></a><span class="lineno"> 7888</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc">character_stat::STRENGTH</a>:     <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;strength stat&quot;</span>, <span class="stringliteral">&quot;STR&quot;</span> );</div>
+<div class="line"><a id="l07889" name="l07889"></a><span class="lineno"> 7889</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203">character_stat::DEXTERITY</a>:    <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;dexterity stat&quot;</span>, <span class="stringliteral">&quot;DEX&quot;</span> );</div>
+<div class="line"><a id="l07890" name="l07890"></a><span class="lineno"> 7890</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755acbc4a7ccc74fbcbda6a01632c5e4656e">character_stat::INTELLIGENCE</a>: <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;intelligence stat&quot;</span>, <span class="stringliteral">&quot;INT&quot;</span> );</div>
+<div class="line"><a id="l07891" name="l07891"></a><span class="lineno"> 7891</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a7301a4f338e31867e8ef6d3f0a148319">character_stat::PERCEPTION</a>:   <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;perception stat&quot;</span>, <span class="stringliteral">&quot;PER&quot;</span> );</div>
+<div class="line"><a id="l07892" name="l07892"></a><span class="lineno"> 7892</span>        <span class="comment">// *INDENT-ON*</span></div>
+<div class="line"><a id="l07893" name="l07893"></a><span class="lineno"> 7893</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><a id="l07894" name="l07894"></a><span class="lineno"> 7894</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;fake stat there&#39;s an error&quot;</span>, <span class="stringliteral">&quot;ERR&quot;</span> );</div>
+<div class="line"><a id="l07895" name="l07895"></a><span class="lineno"> 7895</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l07896" name="l07896"></a><span class="lineno"> 7896</span> </div>
+<div class="line"><a id="l07897" name="l07897"></a><span class="lineno"> 7897</span>    }</div>
+<div class="line"><a id="l07898" name="l07898"></a><span class="lineno"> 7898</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a>( <span class="stringliteral">&quot;fake stat there&#39;s an error&quot;</span>, <span class="stringliteral">&quot;ERR&quot;</span> );</div>
+<div class="line"><a id="l07899" name="l07899"></a><span class="lineno"> 7899</span>}</div>
 <div class="ttc" id="acharacter__stat_8h_html_a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc"><div class="ttname"><a href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a3963049b60ddd6534b219d3767af0dfc">character_stat::STRENGTH</a></div><div class="ttdeci">@ STRENGTH</div></div>
 <div class="ttc" id="acharacter__stat_8h_html_a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203"><div class="ttname"><a href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a66212c9f367544fe9bffff62900c6203">character_stat::DEXTERITY</a></div><div class="ttdeci">@ DEXTERITY</div></div>
 <div class="ttc" id="acharacter__stat_8h_html_a27f8e52e2e5afc1c4a709dd65ab84755a7301a4f338e31867e8ef6d3f0a148319"><div class="ttname"><a href="character__stat_8h.html#a27f8e52e2e5afc1c4a709dd65ab84755a7301a4f338e31867e8ef6d3f0a148319">character_stat::PERCEPTION</a></div><div class="ttdeci">@ PERCEPTION</div></div>
@@ -2408,41 +2408,41 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l08075">8075</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l08076" name="l08076"></a><span class="lineno"> 8076</span>{</div>
-<div class="line"><a id="l08077" name="l08077"></a><span class="lineno"> 8077</span>    <span class="keywordflow">switch</span>( du.<a class="code hl_variable" href="structdamage__unit.html#a6fb9768fbc374c9c24960cdef9bee2f3">type</a> ) {</div>
-<div class="line"><a id="l08078" name="l08078"></a><span class="lineno"> 8078</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8fce673f2bfbb3fdb52be44a8e638c90">DT_ACID</a>:</div>
-<div class="line"><a id="l08079" name="l08079"></a><span class="lineno"> 8079</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a279a9ad2f903cb3c0e4939b5a2e784b8">enchant_vals::mod::ITEM_ARMOR_ACID</a> );</div>
-<div class="line"><a id="l08080" name="l08080"></a><span class="lineno"> 8080</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08081" name="l08081"></a><span class="lineno"> 8081</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa5f8b46c6c239266403858fa2ae90ef23">DT_BASH</a>:</div>
-<div class="line"><a id="l08082" name="l08082"></a><span class="lineno"> 8082</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a17a65bfecb293db945815728a07f8e86">enchant_vals::mod::ITEM_ARMOR_BASH</a> );</div>
-<div class="line"><a id="l08083" name="l08083"></a><span class="lineno"> 8083</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08084" name="l08084"></a><span class="lineno"> 8084</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aadc0cf68a04ad822c9169fc69791c0d43">DT_BIOLOGICAL</a>:</div>
-<div class="line"><a id="l08085" name="l08085"></a><span class="lineno"> 8085</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998ab07e2b909efbc808adfbd6bfb72beb85">enchant_vals::mod::ITEM_ARMOR_BIO</a> );</div>
-<div class="line"><a id="l08086" name="l08086"></a><span class="lineno"> 8086</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08087" name="l08087"></a><span class="lineno"> 8087</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa1d827b8c2d8d7d5008cb94273dd20517">DT_COLD</a>:</div>
-<div class="line"><a id="l08088" name="l08088"></a><span class="lineno"> 8088</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998af0f2dc1d1dbbec831e43ff4552016155">enchant_vals::mod::ITEM_ARMOR_COLD</a> );</div>
-<div class="line"><a id="l08089" name="l08089"></a><span class="lineno"> 8089</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08090" name="l08090"></a><span class="lineno"> 8090</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8ff698c0509e78ff65c7c7ec899b4f51">DT_CUT</a>:</div>
-<div class="line"><a id="l08091" name="l08091"></a><span class="lineno"> 8091</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a85bd19be307ddfa19ab5e5b3db189e58">enchant_vals::mod::ITEM_ARMOR_CUT</a> );</div>
-<div class="line"><a id="l08092" name="l08092"></a><span class="lineno"> 8092</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08093" name="l08093"></a><span class="lineno"> 8093</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa31df3b2996d2d10b2ca3e275899fdddb">DT_ELECTRIC</a>:</div>
-<div class="line"><a id="l08094" name="l08094"></a><span class="lineno"> 8094</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a79e971fc6cf7a641ef0988d5542c91a1">enchant_vals::mod::ITEM_ARMOR_ELEC</a> );</div>
-<div class="line"><a id="l08095" name="l08095"></a><span class="lineno"> 8095</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08096" name="l08096"></a><span class="lineno"> 8096</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aae6af44cd6e0e8cafcc63cea198f627c9">DT_HEAT</a>:</div>
-<div class="line"><a id="l08097" name="l08097"></a><span class="lineno"> 8097</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a11d3e4e6deef911911d506ad38ff01ad">enchant_vals::mod::ITEM_ARMOR_HEAT</a> );</div>
-<div class="line"><a id="l08098" name="l08098"></a><span class="lineno"> 8098</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08099" name="l08099"></a><span class="lineno"> 8099</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa12e559f29e023db673e9251b9337d8dd">DT_STAB</a>:</div>
-<div class="line"><a id="l08100" name="l08100"></a><span class="lineno"> 8100</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aa502a6e68d8bed964902bb149bb89534">enchant_vals::mod::ITEM_ARMOR_STAB</a> );</div>
-<div class="line"><a id="l08101" name="l08101"></a><span class="lineno"> 8101</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08102" name="l08102"></a><span class="lineno"> 8102</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aaad8d2bf05b729b401070cf08e163e0c6">DT_BULLET</a>:</div>
-<div class="line"><a id="l08103" name="l08103"></a><span class="lineno"> 8103</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a20d8a1bbceb4e92584d70b66220f597e">enchant_vals::mod::ITEM_ARMOR_BULLET</a> );</div>
-<div class="line"><a id="l08104" name="l08104"></a><span class="lineno"> 8104</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><a id="l08105" name="l08105"></a><span class="lineno"> 8105</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><a id="l08106" name="l08106"></a><span class="lineno"> 8106</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><a id="l08107" name="l08107"></a><span class="lineno"> 8107</span>    }</div>
-<div class="line"><a id="l08108" name="l08108"></a><span class="lineno"> 8108</span>    du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> = std::max( 0.0f, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> );</div>
-<div class="line"><a id="l08109" name="l08109"></a><span class="lineno"> 8109</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l08077">8077</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l08078" name="l08078"></a><span class="lineno"> 8078</span>{</div>
+<div class="line"><a id="l08079" name="l08079"></a><span class="lineno"> 8079</span>    <span class="keywordflow">switch</span>( du.<a class="code hl_variable" href="structdamage__unit.html#a6fb9768fbc374c9c24960cdef9bee2f3">type</a> ) {</div>
+<div class="line"><a id="l08080" name="l08080"></a><span class="lineno"> 8080</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8fce673f2bfbb3fdb52be44a8e638c90">DT_ACID</a>:</div>
+<div class="line"><a id="l08081" name="l08081"></a><span class="lineno"> 8081</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a279a9ad2f903cb3c0e4939b5a2e784b8">enchant_vals::mod::ITEM_ARMOR_ACID</a> );</div>
+<div class="line"><a id="l08082" name="l08082"></a><span class="lineno"> 8082</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08083" name="l08083"></a><span class="lineno"> 8083</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa5f8b46c6c239266403858fa2ae90ef23">DT_BASH</a>:</div>
+<div class="line"><a id="l08084" name="l08084"></a><span class="lineno"> 8084</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a17a65bfecb293db945815728a07f8e86">enchant_vals::mod::ITEM_ARMOR_BASH</a> );</div>
+<div class="line"><a id="l08085" name="l08085"></a><span class="lineno"> 8085</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08086" name="l08086"></a><span class="lineno"> 8086</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aadc0cf68a04ad822c9169fc69791c0d43">DT_BIOLOGICAL</a>:</div>
+<div class="line"><a id="l08087" name="l08087"></a><span class="lineno"> 8087</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998ab07e2b909efbc808adfbd6bfb72beb85">enchant_vals::mod::ITEM_ARMOR_BIO</a> );</div>
+<div class="line"><a id="l08088" name="l08088"></a><span class="lineno"> 8088</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08089" name="l08089"></a><span class="lineno"> 8089</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa1d827b8c2d8d7d5008cb94273dd20517">DT_COLD</a>:</div>
+<div class="line"><a id="l08090" name="l08090"></a><span class="lineno"> 8090</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998af0f2dc1d1dbbec831e43ff4552016155">enchant_vals::mod::ITEM_ARMOR_COLD</a> );</div>
+<div class="line"><a id="l08091" name="l08091"></a><span class="lineno"> 8091</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08092" name="l08092"></a><span class="lineno"> 8092</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa8ff698c0509e78ff65c7c7ec899b4f51">DT_CUT</a>:</div>
+<div class="line"><a id="l08093" name="l08093"></a><span class="lineno"> 8093</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a85bd19be307ddfa19ab5e5b3db189e58">enchant_vals::mod::ITEM_ARMOR_CUT</a> );</div>
+<div class="line"><a id="l08094" name="l08094"></a><span class="lineno"> 8094</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08095" name="l08095"></a><span class="lineno"> 8095</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa31df3b2996d2d10b2ca3e275899fdddb">DT_ELECTRIC</a>:</div>
+<div class="line"><a id="l08096" name="l08096"></a><span class="lineno"> 8096</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a79e971fc6cf7a641ef0988d5542c91a1">enchant_vals::mod::ITEM_ARMOR_ELEC</a> );</div>
+<div class="line"><a id="l08097" name="l08097"></a><span class="lineno"> 8097</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08098" name="l08098"></a><span class="lineno"> 8098</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aae6af44cd6e0e8cafcc63cea198f627c9">DT_HEAT</a>:</div>
+<div class="line"><a id="l08099" name="l08099"></a><span class="lineno"> 8099</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a11d3e4e6deef911911d506ad38ff01ad">enchant_vals::mod::ITEM_ARMOR_HEAT</a> );</div>
+<div class="line"><a id="l08100" name="l08100"></a><span class="lineno"> 8100</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08101" name="l08101"></a><span class="lineno"> 8101</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aa12e559f29e023db673e9251b9337d8dd">DT_STAB</a>:</div>
+<div class="line"><a id="l08102" name="l08102"></a><span class="lineno"> 8102</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aa502a6e68d8bed964902bb149bb89534">enchant_vals::mod::ITEM_ARMOR_STAB</a> );</div>
+<div class="line"><a id="l08103" name="l08103"></a><span class="lineno"> 8103</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08104" name="l08104"></a><span class="lineno"> 8104</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="damage_8h.html#ae63a2cf8429f9edf77b547d34ffe4e7aaad8d2bf05b729b401070cf08e163e0c6">DT_BULLET</a>:</div>
+<div class="line"><a id="l08105" name="l08105"></a><span class="lineno"> 8105</span>            du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> += armor.<a class="code hl_function" href="classitem.html#aa6814057c8b903697652ab87e8a708d2">bonus_from_enchantments</a>( guy, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a>, <a class="code hl_enumvalue" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a20d8a1bbceb4e92584d70b66220f597e">enchant_vals::mod::ITEM_ARMOR_BULLET</a> );</div>
+<div class="line"><a id="l08106" name="l08106"></a><span class="lineno"> 8106</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l08107" name="l08107"></a><span class="lineno"> 8107</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><a id="l08108" name="l08108"></a><span class="lineno"> 8108</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><a id="l08109" name="l08109"></a><span class="lineno"> 8109</span>    }</div>
+<div class="line"><a id="l08110" name="l08110"></a><span class="lineno"> 8110</span>    du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> = std::max( 0.0f, du.<a class="code hl_variable" href="structdamage__unit.html#a5937d5d78a6db9efaefb0bf9517377d3">amount</a> );</div>
+<div class="line"><a id="l08111" name="l08111"></a><span class="lineno"> 8111</span>}</div>
 <div class="ttc" id="aclassitem_html_aa6814057c8b903697652ab87e8a708d2"><div class="ttname"><a href="classitem.html#aa6814057c8b903697652ab87e8a708d2">item::bonus_from_enchantments</a></div><div class="ttdeci">double bonus_from_enchantments(const Character &amp;owner, double base, enchant_vals::mod value, bool round=false) const</div><div class="ttdoc">Calculate bonus from enchantments that affect this item only.</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l06825">item.cpp:6825</a></div></div>
 <div class="ttc" id="anamespaceenchant__vals_html_acd6a6ebb27f9ecb82b3bce1d3aef2998a11d3e4e6deef911911d506ad38ff01ad"><div class="ttname"><a href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a11d3e4e6deef911911d506ad38ff01ad">enchant_vals::mod::ITEM_ARMOR_HEAT</a></div><div class="ttdeci">@ ITEM_ARMOR_HEAT</div></div>
 <div class="ttc" id="anamespaceenchant__vals_html_acd6a6ebb27f9ecb82b3bce1d3aef2998a17a65bfecb293db945815728a07f8e86"><div class="ttname"><a href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a17a65bfecb293db945815728a07f8e86">enchant_vals::mod::ITEM_ARMOR_BASH</a></div><div class="ttdeci">@ ITEM_ARMOR_BASH</div></div>
@@ -2456,7 +2456,7 @@ template&lt;typename T , typename Output &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="damage_8h_source.html#l00037">damage_unit::amount</a>, <a class="el" href="item_8cpp_source.html#l06825">item::bonus_from_enchantments()</a>, <a class="el" href="damage_8h_source.html#l00026">DT_ACID</a>, <a class="el" href="damage_8h_source.html#l00024">DT_BASH</a>, <a class="el" href="damage_8h_source.html#l00023">DT_BIOLOGICAL</a>, <a class="el" href="damage_8h_source.html#l00031">DT_BULLET</a>, <a class="el" href="damage_8h_source.html#l00029">DT_COLD</a>, <a class="el" href="damage_8h_source.html#l00025">DT_CUT</a>, <a class="el" href="damage_8h_source.html#l00030">DT_ELECTRIC</a>, <a class="el" href="damage_8h_source.html#l00028">DT_HEAT</a>, <a class="el" href="damage_8h_source.html#l00027">DT_STAB</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a279a9ad2f903cb3c0e4939b5a2e784b8">enchant_vals::ITEM_ARMOR_ACID</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a17a65bfecb293db945815728a07f8e86">enchant_vals::ITEM_ARMOR_BASH</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998ab07e2b909efbc808adfbd6bfb72beb85">enchant_vals::ITEM_ARMOR_BIO</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a20d8a1bbceb4e92584d70b66220f597e">enchant_vals::ITEM_ARMOR_BULLET</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998af0f2dc1d1dbbec831e43ff4552016155">enchant_vals::ITEM_ARMOR_COLD</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a85bd19be307ddfa19ab5e5b3db189e58">enchant_vals::ITEM_ARMOR_CUT</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a79e971fc6cf7a641ef0988d5542c91a1">enchant_vals::ITEM_ARMOR_ELEC</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a11d3e4e6deef911911d506ad38ff01ad">enchant_vals::ITEM_ARMOR_HEAT</a>, <a class="el" href="namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aa502a6e68d8bed964902bb149bb89534">enchant_vals::ITEM_ARMOR_STAB</a>, and <a class="el" href="damage_8h_source.html#l00036">damage_unit::type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08149">Character::absorb_hit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08151">Character::absorb_hit()</a>.</p>
 
 </div>
 </div>
@@ -2599,13 +2599,13 @@ template&lt;typename T , typename Output &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l04657">4657</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l04659" name="l04659"></a><span class="lineno"> 4659</span>{</div>
-<div class="line"><a id="l04660" name="l04660"></a><span class="lineno"> 4660</span>    <span class="keywordflow">return</span> ( to_turn&lt;int&gt;( to ) / to_turns&lt;int&gt;( tick_length ) ) - ( to_turn&lt;int&gt;</div>
-<div class="line"><a id="l04661" name="l04661"></a><span class="lineno"> 4661</span>            ( from ) / to_turns&lt;int&gt;( tick_length ) );</div>
-<div class="line"><a id="l04662" name="l04662"></a><span class="lineno"> 4662</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l04658">4658</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l04660" name="l04660"></a><span class="lineno"> 4660</span>{</div>
+<div class="line"><a id="l04661" name="l04661"></a><span class="lineno"> 4661</span>    <span class="keywordflow">return</span> ( to_turn&lt;int&gt;( to ) / to_turns&lt;int&gt;( tick_length ) ) - ( to_turn&lt;int&gt;</div>
+<div class="line"><a id="l04662" name="l04662"></a><span class="lineno"> 4662</span>            ( from ) / to_turns&lt;int&gt;( tick_length ) );</div>
+<div class="line"><a id="l04663" name="l04663"></a><span class="lineno"> 4663</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04669">Character::update_body()</a>, and <a class="el" href="character_8cpp_source.html#l04732">Character::update_stomach()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04670">Character::update_body()</a>, and <a class="el" href="character_8cpp_source.html#l04733">Character::update_stomach()</a>.</p>
 
 </div>
 </div>
@@ -2865,7 +2865,7 @@ Strength increases chance to escape grab
 <div class="ttc" id="arng_8cpp_html_a7ba03e7147e43d808dc29c54bce9e57f"><div class="ttname"><a href="rng_8cpp.html#a7ba03e7147e43d808dc29c54bce9e57f">dice</a></div><div class="ttdeci">int dice(int number, int sides)</div><div class="ttdef"><b>Definition:</b> <a href="rng_8cpp_source.html#l00085">rng.cpp:85</a></div></div>
 <div class="ttc" id="arng_8cpp_html_aad28bdad07401a34ecf9912708f8b750"><div class="ttname"><a href="rng_8cpp.html#aad28bdad07401a34ecf9912708f8b750">one_in</a></div><div class="ttdeci">bool one_in(int chance)</div><div class="ttdef"><b>Definition:</b> <a href="rng_8cpp_source.html#l00065">rng.cpp:65</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="messages_8cpp_source.html#l00884">add_msg()</a>, <a class="el" href="bodypart_8h_source.html#l00040">bp_torso</a>, <a class="el" href="magic_8cpp_source.html#l01032">c</a>, <a class="el" href="rng_8cpp_source.html#l00085">dice()</a>, <a class="el" href="character_8cpp.html#ae326c5e4da7f23bc429d04d215dd7c9d">effect_grabbed</a>, <a class="el" href="character_8cpp.html#a66f79823ab25161f7aabf43445a580a4">effect_grabbing</a>, <a class="el" href="game_8cpp_source.html#l00270">g</a>, <a class="el" href="monster_8cpp_source.html#l01986">monster::get_grab_strength()</a>, <a class="el" href="map_8cpp_source.html#l00144">get_map()</a>, <a class="el" href="creature_8cpp_source.html#l01179">Creature::has_effect()</a>, <a class="el" href="enums_8h_source.html#l00254">m_bad</a>, <a class="el" href="enums_8h_source.html#l00253">m_good</a>, <a class="el" href="rng_8cpp_source.html#l00065">one_in()</a>, <a class="el" href="map_8cpp_source.html#l08561">map::points_in_radius()</a>, <a class="el" href="creature_8cpp_source.html#l01136">Creature::remove_effect()</a>, and <a class="el" href="artifact_8cpp_source.html#l00032">rng()</a>.</p>
+<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="messages_8cpp_source.html#l00884">add_msg()</a>, <a class="el" href="bodypart_8h_source.html#l00040">bp_torso</a>, <a class="el" href="magic_8cpp_source.html#l01032">c</a>, <a class="el" href="rng_8cpp_source.html#l00085">dice()</a>, <a class="el" href="character_8cpp.html#ae326c5e4da7f23bc429d04d215dd7c9d">effect_grabbed</a>, <a class="el" href="character_8cpp.html#a66f79823ab25161f7aabf43445a580a4">effect_grabbing</a>, <a class="el" href="game_8cpp_source.html#l00271">g</a>, <a class="el" href="monster_8cpp_source.html#l01986">monster::get_grab_strength()</a>, <a class="el" href="map_8cpp_source.html#l00144">get_map()</a>, <a class="el" href="creature_8cpp_source.html#l01179">Creature::has_effect()</a>, <a class="el" href="enums_8h_source.html#l00254">m_bad</a>, <a class="el" href="enums_8h_source.html#l00253">m_good</a>, <a class="el" href="rng_8cpp_source.html#l00065">one_in()</a>, <a class="el" href="map_8cpp_source.html#l08561">map::points_in_radius()</a>, <a class="el" href="creature_8cpp_source.html#l01136">Creature::remove_effect()</a>, and <a class="el" href="artifact_8cpp_source.html#l00032">rng()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l01535">Character::move_effects()</a>, and <a class="el" href="character_8cpp_source.html#l01586">Character::wait_effects()</a>.</p>
 
@@ -3118,7 +3118,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09230">Character::cancel_activity()</a>, and <a class="el" href="character_8cpp_source.html#l09173">Character::stop_hauling()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09232">Character::cancel_activity()</a>, and <a class="el" href="character_8cpp_source.html#l09175">Character::stop_hauling()</a>.</p>
 
 </div>
 </div>
@@ -3146,7 +3146,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10476">Character::has_distant_destination()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10478">Character::has_distant_destination()</a>.</p>
 
 </div>
 </div>
@@ -3174,7 +3174,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04892">Character::calc_needs_rates()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04893">Character::calc_needs_rates()</a>.</p>
 
 </div>
 </div>
@@ -3202,7 +3202,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09230">Character::cancel_activity()</a>, <a class="el" href="character_8cpp_source.html#l09306">Character::fall_asleep()</a>, <a class="el" href="character_8cpp_source.html#l09318">Character::in_sleep_state()</a>, and <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09232">Character::cancel_activity()</a>, <a class="el" href="character_8cpp_source.html#l09308">Character::fall_asleep()</a>, <a class="el" href="character_8cpp_source.html#l09320">Character::in_sleep_state()</a>, and <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>.</p>
 
 </div>
 </div>
@@ -3230,7 +3230,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09230">Character::cancel_activity()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09232">Character::cancel_activity()</a>.</p>
 
 </div>
 </div>
@@ -3286,7 +3286,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08149">Character::absorb_hit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08151">Character::absorb_hit()</a>.</p>
 
 </div>
 </div>
@@ -3314,7 +3314,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06341">Character::is_blind()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06342">Character::is_blind()</a>.</p>
 
 </div>
 </div>
@@ -3370,7 +3370,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10271">Character::hearing_ability()</a>, and <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10273">Character::hearing_ability()</a>, and <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>.</p>
 
 </div>
 </div>
@@ -3398,7 +3398,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10271">Character::hearing_ability()</a>, <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, and <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10273">Character::hearing_ability()</a>, <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, and <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -3454,7 +3454,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06217">Character::is_immune_damage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06218">Character::is_immune_damage()</a>.</p>
 
 </div>
 </div>
@@ -3482,7 +3482,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>.</p>
 
 </div>
 </div>
@@ -3510,7 +3510,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07270">Character::update_stamina()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07272">Character::update_stamina()</a>.</p>
 
 </div>
 </div>
@@ -3538,7 +3538,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06424">Character::sees_with_specials()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06425">Character::sees_with_specials()</a>.</p>
 
 </div>
 </div>
@@ -3566,7 +3566,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06149">Character::is_immune_field()</a>, and <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06150">Character::is_immune_field()</a>, and <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -3650,7 +3650,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10013">Character::run_cost()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10015">Character::run_cost()</a>.</p>
 
 </div>
 </div>
@@ -3678,7 +3678,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09743">Character::has_fire()</a>, and <a class="el" href="character_8cpp_source.html#l09807">Character::use_fire()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09745">Character::has_fire()</a>, and <a class="el" href="character_8cpp_source.html#l09809">Character::use_fire()</a>.</p>
 
 </div>
 </div>
@@ -3706,7 +3706,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04620">Character::update_health()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04621">Character::update_health()</a>.</p>
 
 </div>
 </div>
@@ -3734,7 +3734,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09743">Character::has_fire()</a>, and <a class="el" href="character_8cpp_source.html#l09807">Character::use_fire()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09745">Character::has_fire()</a>, and <a class="el" href="character_8cpp_source.html#l09809">Character::use_fire()</a>.</p>
 
 </div>
 </div>
@@ -3790,7 +3790,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09926">Character::adjust_for_focus()</a>, and <a class="el" href="character_8cpp_source.html#l03532">Character::do_skill_rust()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09928">Character::adjust_for_focus()</a>, and <a class="el" href="character_8cpp_source.html#l03532">Character::do_skill_rust()</a>.</p>
 
 </div>
 </div>
@@ -3846,7 +3846,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06266">Character::throw_range()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06267">Character::throw_range()</a>.</p>
 
 </div>
 </div>
@@ -3874,7 +3874,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04892">Character::calc_needs_rates()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04893">Character::calc_needs_rates()</a>.</p>
 
 </div>
 </div>
@@ -3958,7 +3958,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>.</p>
 
 </div>
 </div>
@@ -3986,7 +3986,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>.</p>
 
 </div>
 </div>
@@ -4014,7 +4014,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09743">Character::has_fire()</a>, and <a class="el" href="character_8cpp_source.html#l09807">Character::use_fire()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09745">Character::has_fire()</a>, and <a class="el" href="character_8cpp_source.html#l09809">Character::use_fire()</a>.</p>
 
 </div>
 </div>
@@ -4042,7 +4042,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -4098,7 +4098,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04963">Character::check_needs_extremes()</a>, <a class="el" href="character_8cpp_source.html#l09875">Character::on_effect_int_change()</a>, and <a class="el" href="character_8cpp_source.html#l08686">Character::on_hurt()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04964">Character::check_needs_extremes()</a>, <a class="el" href="character_8cpp_source.html#l09877">Character::on_effect_int_change()</a>, and <a class="el" href="character_8cpp_source.html#l08688">Character::on_hurt()</a>.</p>
 
 </div>
 </div>
@@ -4154,7 +4154,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07671">Character::wake_up()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07673">Character::wake_up()</a>.</p>
 
 </div>
 </div>
@@ -4182,7 +4182,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08405">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l05847">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l06804">Character::healing_rate_medicine()</a>, <a class="el" href="character_8cpp_source.html#l08613">Character::reduce_healing_effect()</a>, and <a class="el" href="character_8cpp_source.html#l04548">Character::regen()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08407">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l05848">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l06806">Character::healing_rate_medicine()</a>, <a class="el" href="character_8cpp_source.html#l08615">Character::reduce_healing_effect()</a>, and <a class="el" href="character_8cpp_source.html#l04548">Character::regen()</a>.</p>
 
 </div>
 </div>
@@ -4238,7 +4238,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05847">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l06056">Character::limb_color()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05848">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l06057">Character::limb_color()</a>.</p>
 
 </div>
 </div>
@@ -4266,7 +4266,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05847">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>, and <a class="el" href="character_8cpp_source.html#l06056">Character::limb_color()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05848">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>, and <a class="el" href="character_8cpp_source.html#l06057">Character::limb_color()</a>.</p>
 
 </div>
 </div>
@@ -4294,7 +4294,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l06341">Character::is_blind()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l06342">Character::is_blind()</a>.</p>
 
 </div>
 </div>
@@ -4322,7 +4322,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -4350,7 +4350,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -4406,7 +4406,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -4462,7 +4462,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -4490,7 +4490,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07645">Character::cough()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07647">Character::cough()</a>.</p>
 
 </div>
 </div>
@@ -4574,7 +4574,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10271">Character::hearing_ability()</a>, <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, and <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10273">Character::hearing_ability()</a>, <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, and <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -4602,7 +4602,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08405">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l05847">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l06804">Character::healing_rate_medicine()</a>, <a class="el" href="character_8cpp_source.html#l08613">Character::reduce_healing_effect()</a>, and <a class="el" href="character_8cpp_source.html#l04548">Character::regen()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08407">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l05848">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l06806">Character::healing_rate_medicine()</a>, <a class="el" href="character_8cpp_source.html#l08615">Character::reduce_healing_effect()</a>, and <a class="el" href="character_8cpp_source.html#l04548">Character::regen()</a>.</p>
 
 </div>
 </div>
@@ -4630,7 +4630,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l01148">Character::forced_dismount()</a>, <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>, <a class="el" href="character_8cpp_source.html#l00962">Character::is_on_ground()</a>, <a class="el" href="character_8cpp_source.html#l01535">Character::move_effects()</a>, <a class="el" href="character_8cpp_source.html#l06108">Character::symbol_color()</a>, <a class="el" href="character_8cpp_source.html#l01334">try_remove_downed()</a>, and <a class="el" href="character_8cpp_source.html#l01586">Character::wait_effects()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l01148">Character::forced_dismount()</a>, <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>, <a class="el" href="character_8cpp_source.html#l00962">Character::is_on_ground()</a>, <a class="el" href="character_8cpp_source.html#l01535">Character::move_effects()</a>, <a class="el" href="character_8cpp_source.html#l06109">Character::symbol_color()</a>, <a class="el" href="character_8cpp_source.html#l01334">try_remove_downed()</a>, and <a class="el" href="character_8cpp_source.html#l01586">Character::wait_effects()</a>.</p>
 
 </div>
 </div>
@@ -4658,7 +4658,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04963">Character::check_needs_extremes()</a>, and <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04964">Character::check_needs_extremes()</a>, and <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -4686,7 +4686,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10271">Character::hearing_ability()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10273">Character::hearing_ability()</a>.</p>
 
 </div>
 </div>
@@ -4714,7 +4714,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -4742,7 +4742,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -4770,7 +4770,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -4798,7 +4798,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -4826,7 +4826,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>.</p>
 
 </div>
 </div>
@@ -4854,7 +4854,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06376">Character::active_light()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06377">Character::active_light()</a>.</p>
 
 </div>
 </div>
@@ -4910,7 +4910,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>, <a class="el" href="character_8cpp_source.html#l07570">Character::item_handling_cost()</a>, <a class="el" href="character_8cpp_source.html#l01535">Character::move_effects()</a>, <a class="el" href="character_8cpp_source.html#l06108">Character::symbol_color()</a>, <a class="el" href="character_8cpp_source.html#l01459">try_remove_grab()</a>, and <a class="el" href="character_8cpp_source.html#l01586">Character::wait_effects()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>, <a class="el" href="character_8cpp_source.html#l07572">Character::item_handling_cost()</a>, <a class="el" href="character_8cpp_source.html#l01535">Character::move_effects()</a>, <a class="el" href="character_8cpp_source.html#l06109">Character::symbol_color()</a>, <a class="el" href="character_8cpp_source.html#l01459">try_remove_grab()</a>, and <a class="el" href="character_8cpp_source.html#l01586">Character::wait_effects()</a>.</p>
 
 </div>
 </div>
@@ -4938,7 +4938,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l01459">try_remove_grab()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l01459">try_remove_grab()</a>.</p>
 
 </div>
 </div>
@@ -4994,7 +4994,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09427">warmth::from_effects()</a>, and <a class="el" href="character_8cpp_source.html#l09370">Character::warmth()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09429">warmth::from_effects()</a>, and <a class="el" href="character_8cpp_source.html#l09372">Character::warmth()</a>.</p>
 
 </div>
 </div>
@@ -5050,7 +5050,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -5078,7 +5078,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -5134,7 +5134,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05847">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l06056">Character::limb_color()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05848">Character::body_window()</a>, <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>, and <a class="el" href="character_8cpp_source.html#l06057">Character::limb_color()</a>.</p>
 
 </div>
 </div>
@@ -5162,7 +5162,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04963">Character::check_needs_extremes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04964">Character::check_needs_extremes()</a>.</p>
 
 </div>
 </div>
@@ -5190,7 +5190,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04963">Character::check_needs_extremes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04964">Character::check_needs_extremes()</a>.</p>
 
 </div>
 </div>
@@ -5246,7 +5246,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>, and <a class="el" href="character_8cpp_source.html#l07671">Character::wake_up()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>, and <a class="el" href="character_8cpp_source.html#l07673">Character::wake_up()</a>.</p>
 
 </div>
 </div>
@@ -5274,7 +5274,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08762">Character::restore_scent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08764">Character::restore_scent()</a>.</p>
 
 </div>
 </div>
@@ -5302,7 +5302,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>.</p>
 
 </div>
 </div>
@@ -5330,7 +5330,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08405">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l05847">Character::body_window()</a>, and <a class="el" href="panels_8cpp_source.html#l00868">draw_limb_health()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08407">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l05848">Character::body_window()</a>, and <a class="el" href="panels_8cpp_source.html#l00868">draw_limb_health()</a>.</p>
 
 </div>
 </div>
@@ -5358,7 +5358,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04963">Character::check_needs_extremes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04964">Character::check_needs_extremes()</a>.</p>
 
 </div>
 </div>
@@ -5386,7 +5386,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08686">Character::on_hurt()</a>, <a class="el" href="character_8cpp_source.html#l00853">Character::react_to_felt_pain()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08688">Character::on_hurt()</a>, <a class="el" href="character_8cpp_source.html#l00853">Character::react_to_felt_pain()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>.</p>
 
 </div>
 </div>
@@ -5414,7 +5414,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>, and <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>, and <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -5470,7 +5470,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08149">Character::absorb_hit()</a>, and <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08151">Character::absorb_hit()</a>, and <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -5498,7 +5498,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -5526,7 +5526,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -5554,7 +5554,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07792">Character::vomit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07794">Character::vomit()</a>.</p>
 
 </div>
 </div>
@@ -5582,7 +5582,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07645">Character::cough()</a>, and <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07647">Character::cough()</a>, and <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>.</p>
 
 </div>
 </div>
@@ -5694,7 +5694,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04892">Character::calc_needs_rates()</a>, <a class="el" href="character_8cpp_source.html#l09306">Character::fall_asleep()</a>, <a class="el" href="character_8cpp_source.html#l05142">Character::is_hibernating()</a>, <a class="el" href="character_8cpp_source.html#l08686">Character::on_hurt()</a>, <a class="el" href="character_8cpp_source.html#l00853">Character::react_to_felt_pain()</a>, <a class="el" href="character_8cpp_source.html#l06555">Character::rest_quality()</a>, <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>, and <a class="el" href="character_8cpp_source.html#l07671">Character::wake_up()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04893">Character::calc_needs_rates()</a>, <a class="el" href="character_8cpp_source.html#l09308">Character::fall_asleep()</a>, <a class="el" href="character_8cpp_source.html#l05143">Character::is_hibernating()</a>, <a class="el" href="character_8cpp_source.html#l08688">Character::on_hurt()</a>, <a class="el" href="character_8cpp_source.html#l00853">Character::react_to_felt_pain()</a>, <a class="el" href="character_8cpp_source.html#l06556">Character::rest_quality()</a>, <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>, and <a class="el" href="character_8cpp_source.html#l07673">Character::wake_up()</a>.</p>
 
 </div>
 </div>
@@ -5722,7 +5722,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07671">Character::wake_up()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07673">Character::wake_up()</a>.</p>
 
 </div>
 </div>
@@ -5778,7 +5778,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09004">Character::apply_persistent_morale()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09006">Character::apply_persistent_morale()</a>.</p>
 
 </div>
 </div>
@@ -5806,7 +5806,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09004">Character::apply_persistent_morale()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09006">Character::apply_persistent_morale()</a>.</p>
 
 </div>
 </div>
@@ -5862,7 +5862,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10120">Character::place_corpse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10122">Character::place_corpse()</a>.</p>
 
 </div>
 </div>
@@ -5890,7 +5890,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09596">Character::has_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09598">Character::has_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -5946,7 +5946,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -5974,7 +5974,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -6002,7 +6002,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -6058,7 +6058,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -6086,7 +6086,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09596">Character::has_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09598">Character::has_charges()</a>.</p>
 
 </div>
 </div>
@@ -6142,7 +6142,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07513">Character::consume_charges()</a>, <a class="el" href="character_8cpp_source.html#l09596">Character::has_charges()</a>, <a class="el" href="character_8cpp_source.html#l07459">Character::has_enough_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07515">Character::consume_charges()</a>, <a class="el" href="character_8cpp_source.html#l09598">Character::has_charges()</a>, <a class="el" href="character_8cpp_source.html#l07461">Character::has_enough_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -6170,7 +6170,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07570">Character::item_handling_cost()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07572">Character::item_handling_cost()</a>.</p>
 
 </div>
 </div>
@@ -6198,7 +6198,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09596">Character::has_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09598">Character::has_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -6226,7 +6226,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10120">Character::place_corpse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10122">Character::place_corpse()</a>.</p>
 
 </div>
 </div>
@@ -6254,7 +6254,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10120">Character::place_corpse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10122">Character::place_corpse()</a>.</p>
 
 </div>
 </div>
@@ -6282,7 +6282,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>, <a class="el" href="character_8cpp_source.html#l06149">Character::is_immune_field()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>, <a class="el" href="character_8cpp_source.html#l06150">Character::is_immune_field()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -6394,7 +6394,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -6422,7 +6422,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06514">Character::ammo_count_for()</a>, <a class="el" href="character_8cpp_source.html#l07513">Character::consume_charges()</a>, <a class="el" href="character_8cpp_source.html#l09596">Character::has_charges()</a>, <a class="el" href="character_8cpp_source.html#l07459">Character::has_enough_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06515">Character::ammo_count_for()</a>, <a class="el" href="character_8cpp_source.html#l07515">Character::consume_charges()</a>, <a class="el" href="character_8cpp_source.html#l09598">Character::has_charges()</a>, <a class="el" href="character_8cpp_source.html#l07461">Character::has_enough_charges()</a>, and <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -6450,7 +6450,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09656">Character::use_charges()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09658">Character::use_charges()</a>.</p>
 
 </div>
 </div>
@@ -6478,7 +6478,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>.</p>
 
 </div>
 </div>
@@ -6506,7 +6506,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>.</p>
 
 </div>
 </div>
@@ -6530,9 +6530,9 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06712">6712</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l06713">6713</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06749">Character::mutation_value()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06751">Character::mutation_value()</a>.</p>
 
 </div>
 </div>
@@ -6560,7 +6560,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06424">Character::sees_with_specials()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06425">Character::sees_with_specials()</a>.</p>
 
 </div>
 </div>
@@ -6616,7 +6616,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05835">Character::get_dodge_base()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05836">Character::get_dodge_base()</a>.</p>
 
 </div>
 </div>
@@ -6784,7 +6784,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06266">Character::throw_range()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06267">Character::throw_range()</a>.</p>
 
 </div>
 </div>
@@ -6812,7 +6812,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l00482">Character::bloodType()</a>, and <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l00482">Character::bloodType()</a>, and <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>.</p>
 
 </div>
 </div>
@@ -6840,7 +6840,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06217">Character::is_immune_damage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06218">Character::is_immune_damage()</a>.</p>
 
 </div>
 </div>
@@ -6868,7 +6868,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08686">Character::on_hurt()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08688">Character::on_hurt()</a>.</p>
 
 </div>
 </div>
@@ -6896,7 +6896,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, and <a class="el" href="character_8cpp_source.html#l10426">Character::sees()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l02942">Character::can_wear()</a>, and <a class="el" href="character_8cpp_source.html#l10428">Character::sees()</a>.</p>
 
 </div>
 </div>
@@ -6952,7 +6952,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07221">Character::burn_move_stamina()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07223">Character::burn_move_stamina()</a>.</p>
 
 </div>
 </div>
@@ -6980,7 +6980,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -7064,7 +7064,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>.</p>
 
 </div>
 </div>
@@ -7120,7 +7120,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06348">Character::is_invisible()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06349">Character::is_invisible()</a>.</p>
 
 </div>
 </div>
@@ -7148,7 +7148,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>, and <a class="el" href="character_8cpp_source.html#l04732">Character::update_stomach()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>, and <a class="el" href="character_8cpp_source.html#l04733">Character::update_stomach()</a>.</p>
 
 </div>
 </div>
@@ -7204,7 +7204,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08405">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>, <a class="el" href="character_8cpp_source.html#l08655">Character::hurtall()</a>, and <a class="el" href="character_8cpp_source.html#l06149">Character::is_immune_field()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08407">Character::apply_damage()</a>, <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>, <a class="el" href="character_8cpp_source.html#l08657">Character::hurtall()</a>, and <a class="el" href="character_8cpp_source.html#l06150">Character::is_immune_field()</a>.</p>
 
 </div>
 </div>
@@ -7232,7 +7232,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -7316,7 +7316,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09524">Character::floor_warmth()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09526">Character::floor_warmth()</a>.</p>
 
 </div>
 </div>
@@ -7344,7 +7344,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06424">Character::sees_with_specials()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06425">Character::sees_with_specials()</a>.</p>
 
 </div>
 </div>
@@ -7372,7 +7372,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09926">Character::adjust_for_focus()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09928">Character::adjust_for_focus()</a>.</p>
 
 </div>
 </div>
@@ -7400,7 +7400,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07727">Character::shout()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07729">Character::shout()</a>.</p>
 
 </div>
 </div>
@@ -7428,7 +7428,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07727">Character::shout()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07729">Character::shout()</a>.</p>
 
 </div>
 </div>
@@ -7512,7 +7512,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09270">Character::fall_asleep()</a>, and <a class="el" href="character_8cpp_source.html#l05142">Character::is_hibernating()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09272">Character::fall_asleep()</a>, and <a class="el" href="character_8cpp_source.html#l05143">Character::is_hibernating()</a>.</p>
 
 </div>
 </div>
@@ -7540,7 +7540,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09004">Character::apply_persistent_morale()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09006">Character::apply_persistent_morale()</a>.</p>
 
 </div>
 </div>
@@ -7568,7 +7568,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08149">Character::absorb_hit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08151">Character::absorb_hit()</a>.</p>
 
 </div>
 </div>
@@ -7652,7 +7652,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -7680,7 +7680,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08149">Character::absorb_hit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08151">Character::absorb_hit()</a>.</p>
 
 </div>
 </div>
@@ -7736,7 +7736,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04732">Character::update_stomach()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04733">Character::update_stomach()</a>.</p>
 
 </div>
 </div>
@@ -7764,7 +7764,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10013">Character::run_cost()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10015">Character::run_cost()</a>.</p>
 
 </div>
 </div>
@@ -7792,7 +7792,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06217">Character::is_immune_damage()</a>, and <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06218">Character::is_immune_damage()</a>, and <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -7820,7 +7820,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>, <a class="el" href="character_8cpp_source.html#l03828">Character::in_climate_control()</a>, <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, <a class="el" href="character_8cpp_source.html#l06217">Character::is_immune_damage()</a>, and <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>, <a class="el" href="character_8cpp_source.html#l03828">Character::in_climate_control()</a>, <a class="el" href="character_8cpp_source.html#l04486">Character::is_deaf()</a>, <a class="el" href="character_8cpp_source.html#l06218">Character::is_immune_damage()</a>, and <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -7904,7 +7904,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04732">Character::update_stomach()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04733">Character::update_stomach()</a>.</p>
 
 </div>
 </div>
@@ -7932,7 +7932,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09004">Character::apply_persistent_morale()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09006">Character::apply_persistent_morale()</a>.</p>
 
 </div>
 </div>
@@ -7960,7 +7960,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09004">Character::apply_persistent_morale()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09006">Character::apply_persistent_morale()</a>.</p>
 
 </div>
 </div>
@@ -7988,7 +7988,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09004">Character::apply_persistent_morale()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09006">Character::apply_persistent_morale()</a>.</p>
 
 </div>
 </div>
@@ -8016,7 +8016,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04963">Character::check_needs_extremes()</a>, and <a class="el" href="character_8cpp_source.html#l04775">Character::update_needs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04964">Character::check_needs_extremes()</a>, and <a class="el" href="character_8cpp_source.html#l04776">Character::update_needs()</a>.</p>
 
 </div>
 </div>
@@ -8072,7 +8072,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10013">Character::run_cost()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10015">Character::run_cost()</a>.</p>
 
 </div>
 </div>
@@ -8156,7 +8156,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10271">Character::hearing_ability()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l00820">Character::sight_impaired()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l10273">Character::hearing_ability()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l00820">Character::sight_impaired()</a>.</p>
 
 </div>
 </div>
@@ -8212,7 +8212,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09004">Character::apply_persistent_morale()</a>, <a class="el" href="character_8cpp_source.html#l07684">Character::get_shout_volume()</a>, and <a class="el" href="character_8cpp_source.html#l07727">Character::shout()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09006">Character::apply_persistent_morale()</a>, <a class="el" href="character_8cpp_source.html#l07686">Character::get_shout_volume()</a>, and <a class="el" href="character_8cpp_source.html#l07729">Character::shout()</a>.</p>
 
 </div>
 </div>
@@ -8240,7 +8240,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>.</p>
 
 </div>
 </div>
@@ -8268,7 +8268,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04669">Character::update_body()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04670">Character::update_body()</a>.</p>
 
 </div>
 </div>
@@ -8296,7 +8296,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04892">Character::calc_needs_rates()</a>, <a class="el" href="character_8cpp_source.html#l08840">Character::rooted()</a>, and <a class="el" href="character_8cpp_source.html#l08830">Character::rooted_message()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04893">Character::calc_needs_rates()</a>, <a class="el" href="character_8cpp_source.html#l08842">Character::rooted()</a>, and <a class="el" href="character_8cpp_source.html#l08832">Character::rooted_message()</a>.</p>
 
 </div>
 </div>
@@ -8324,7 +8324,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04892">Character::calc_needs_rates()</a>, <a class="el" href="character_8cpp_source.html#l08840">Character::rooted()</a>, <a class="el" href="character_8cpp_source.html#l08830">Character::rooted_message()</a>, and <a class="el" href="character_8cpp_source.html#l10013">Character::run_cost()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04893">Character::calc_needs_rates()</a>, <a class="el" href="character_8cpp_source.html#l08842">Character::rooted()</a>, <a class="el" href="character_8cpp_source.html#l08832">Character::rooted_message()</a>, and <a class="el" href="character_8cpp_source.html#l10015">Character::run_cost()</a>.</p>
 
 </div>
 </div>
@@ -8352,7 +8352,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07131">Character::get_env_resist()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l00820">Character::sight_impaired()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07133">Character::get_env_resist()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, and <a class="el" href="character_8cpp_source.html#l00820">Character::sight_impaired()</a>.</p>
 
 </div>
 </div>
@@ -8436,7 +8436,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>, <a class="el" href="character_8cpp_source.html#l01287">Character::get_working_arm_count()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, <a class="el" href="character_8cpp_source.html#l05182">Character::update_bodytemp()</a>, and <a class="el" href="character_8cpp_source.html#l02856">Character::volume_capacity_reduced_by()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>, <a class="el" href="character_8cpp_source.html#l01287">Character::get_working_arm_count()</a>, <a class="el" href="character_8cpp_source.html#l01703">Character::recalc_sight_limits()</a>, <a class="el" href="character_8cpp_source.html#l05183">Character::update_bodytemp()</a>, and <a class="el" href="character_8cpp_source.html#l02856">Character::volume_capacity_reduced_by()</a>.</p>
 
 </div>
 </div>
@@ -8464,7 +8464,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07684">Character::get_shout_volume()</a>, and <a class="el" href="character_8cpp_source.html#l07727">Character::shout()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07686">Character::get_shout_volume()</a>, and <a class="el" href="character_8cpp_source.html#l07729">Character::shout()</a>.</p>
 
 </div>
 </div>
@@ -8492,7 +8492,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07684">Character::get_shout_volume()</a>, and <a class="el" href="character_8cpp_source.html#l07727">Character::shout()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l07686">Character::get_shout_volume()</a>, and <a class="el" href="character_8cpp_source.html#l07729">Character::shout()</a>.</p>
 
 </div>
 </div>
@@ -8520,7 +8520,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08457">Character::deal_damage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l08459">Character::deal_damage()</a>.</p>
 
 </div>
 </div>
@@ -8548,7 +8548,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -8576,7 +8576,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09926">Character::adjust_for_focus()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l09928">Character::adjust_for_focus()</a>.</p>
 
 </div>
 </div>
@@ -8632,7 +8632,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -8744,7 +8744,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>, and <a class="el" href="character_8cpp_source.html#l00482">Character::bloodType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>, and <a class="el" href="character_8cpp_source.html#l00482">Character::bloodType()</a>.</p>
 
 </div>
 </div>
@@ -8772,7 +8772,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04892">Character::calc_needs_rates()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l04893">Character::calc_needs_rates()</a>.</p>
 
 </div>
 </div>
@@ -8828,7 +8828,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06195">Character::is_immune_effect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l06196">Character::is_immune_effect()</a>.</p>
 
 </div>
 </div>
@@ -8856,7 +8856,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>.</p>
 
 </div>
 </div>
@@ -8884,7 +8884,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>.</p>
 
 </div>
 </div>
@@ -8912,7 +8912,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>.</p>
 
 </div>
 </div>
@@ -8940,7 +8940,7 @@ Strength increases chance to escape webs
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05686">Character::base_comfort_value()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l05687">Character::base_comfort_value()</a>.</p>
 
 </div>
 </div>
@@ -9006,7 +9006,7 @@ Strength increases chance to escape webs
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="character_8cpp.html">character.cpp</a></li>
-    <li class="footer">Generated on Sun Sep 11 2022 00:07:48 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Thu Sep 15 2022 20:17:14 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

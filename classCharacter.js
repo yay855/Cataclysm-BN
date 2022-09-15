@@ -649,7 +649,6 @@ var classCharacter =
     [ "suffer_from_bad_bionics", "classCharacter.html#ac0d05049934725a74028f2adad8928dc", null ],
     [ "suffer_from_chemimbalance", "classCharacter.html#a00d95d8f5ffeeff3364b86fabad3e7b9", null ],
     [ "suffer_from_other_mutations", "classCharacter.html#a95cf3394ff5c27d9adf943bf34091d80", null ],
-    [ "suffer_from_pain", "classCharacter.html#a6ad378af87a8deea772116dc8d1e7623", null ],
     [ "suffer_from_radiation", "classCharacter.html#ad54a6f4d100208dd5b73f5ee3d51bfe5", null ],
     [ "suffer_from_schizophrenia", "classCharacter.html#a48b2e1adc8d859ba5d80ef739ca2d75d", null ],
     [ "suffer_from_stimulants", "classCharacter.html#a2d71aad90679cedccc0938b654be088e", null ],

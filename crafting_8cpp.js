@@ -1,6 +1,7 @@
 var crafting_8cpp =
 [
     [ "avail_tool_comp", "structavail__tool__comp.html", "structavail__tool__comp" ],
+    [ "disass_prompt_result", "structdisass__prompt__result.html", "structdisass__prompt__result" ],
     [ "best_bench_here", "crafting_8cpp.html#a6ef89b8a3dd653ead46ace741f2a272b", null ],
     [ "charges_for_complete", "crafting_8cpp.html#a66f83eefe72e71cf1a8831fde5afe0aa", null ],
     [ "charges_for_continuing", "crafting_8cpp.html#a653e8b3027cf7e8256c46600bdea2697", null ],
@@ -27,7 +28,6 @@ var crafting_8cpp =
     [ "flag_NO_UNLOAD", "crafting_8cpp.html#af6fc94d4d94bc89e8148933ce346e43a", null ],
     [ "flag_NUTRIENT_OVERRIDE", "crafting_8cpp.html#a62b448cbb3f42468e05cc71fd5942e09", null ],
     [ "flag_UNCRAFT_LIQUIDS_CONTAINED", "crafting_8cpp.html#aa00701e4370166ae577bf173fd05672f", null ],
-    [ "flag_UNCRAFT_SINGLE_CHARGE", "crafting_8cpp.html#a5187fdf5cd785e86e7602e4f97f9513c", null ],
     [ "flag_VARSIZE", "crafting_8cpp.html#ad66d76d379c8d5dcdbb69ceac398607b", null ],
     [ "get_books_for_recipe", "crafting_8cpp.html#a0d310e1d954941b884e3806116ae6f7b", null ],
     [ "get_books_for_recipe", "crafting_8cpp.html#a22e3c95d08749d4a4a07b9aaf64db9e8", null ],
@@ -35,6 +35,8 @@ var crafting_8cpp =
     [ "lerped_multiplier", "crafting_8cpp.html#a8f2e21510d11358e0bcee077b65a82fa", null ],
     [ "lighting_crafting_speed_multiplier", "crafting_8cpp.html#a6582cc1f2797909d958c3123c33cf414", null ],
     [ "morale_crafting_speed_multiplier", "crafting_8cpp.html#abf0d69303949f94ba7e0d2fc49d8eb1f", null ],
+    [ "prompt_disassemble_in_seq", "crafting_8cpp.html#a4f5ff686ffa5ec735f3c33caed08db7c", null ],
+    [ "prompt_disassemble_single", "crafting_8cpp.html#a947980450761ae0e0c1282c03d57b60d", null ],
     [ "query_tool_selection", "crafting_8cpp.html#af4dc51f886647b644d25e4e7d45de094", null ],
     [ "remove_ammo", "crafting_8cpp.html#a96bf8850f0518ff087cfef81965c45e4", null ],
     [ "remove_ammo", "crafting_8cpp.html#a64975cca8f4337f6e791f11ba44c0bfd", null ],
@@ -46,7 +48,6 @@ var crafting_8cpp =
     [ "set_item_map_or_vehicle", "crafting_8cpp.html#a0f0a8a1eeb3bc0980512ce77e917dda3", null ],
     [ "workbench_crafting_speed_multiplier", "crafting_8cpp.html#a0a4980f8517a4d5d4f65621c3355d1d9", null ],
     [ "ACT_CRAFT", "crafting_8cpp.html#a998c1f0ad926f40dc54ed31ef34e105e", null ],
-    [ "ACT_DISASSEMBLE", "crafting_8cpp.html#ae7f77e71891baa6223925bdf3dafe601", null ],
     [ "effect_contacts", "crafting_8cpp.html#a3151d4a613895c95436a5981e382ef80", null ],
     [ "itype_plut_cell", "crafting_8cpp.html#ae0a6efc65dd587028e5fbf37af06bdfc", null ],
     [ "skill_electronics", "crafting_8cpp.html#af557f83ca09615da5b2ff84b924e01c0", null ],
