@@ -1561,7 +1561,7 @@ $(document).ready(function(){initNavTree('cata__tiles_8cpp_source.html',''); ini
 <div class="line"><a id="l01472" name="l01472"></a><span class="lineno"> 1472</span>                    <span class="keywordflow">break</span>;</div>
 <div class="line"><a id="l01473" name="l01473"></a><span class="lineno"> 1473</span>                }</div>
 <div class="line"><a id="l01474" name="l01474"></a><span class="lineno"> 1474</span>                <span class="keyword">const</span> <span class="keyword">auto</span> &amp;ch = here.<a class="code hl_function" href="classmap.html#a41fa0e03c8ccfc8fb013a6ab5459d06e">access_cache</a>( z );</div>
-<div class="line"><a id="l01475" name="l01475"></a><span class="lineno"> 1475</span>                <span class="keywordflow">if</span>( here.<a class="code hl_function" href="classmap.html#a46608709f68358365d0734b1063fed73">inbounds</a>( p.pos ) ) {</div>
+<div class="line"><a id="l01475" name="l01475"></a><span class="lineno"> 1475</span>                <span class="keywordflow">if</span>( here.<a class="code hl_function" href="classmap.html#a46608709f68358365d0734b1063fed73">inbounds</a>( p.pos ) &amp;&amp; z != p.pos.z ) {</div>
 <div class="line"><a id="l01476" name="l01476"></a><span class="lineno"> 1476</span>                    <span class="keywordflow">if</span>( !f.hide_unseen || ch.visibility_cache[p.pos.x][p.pos.y] != <a class="code hl_enumvalue" href="lightmap_8h.html#aeb9bbbd65db85e3561729666fb6c7b38a56f031dd03707d695f76c63ddbf40bd7">lit_level::BLANK</a> ) {</div>
 <div class="line"><a id="l01477" name="l01477"></a><span class="lineno"> 1477</span>                        <span class="keyword">const</span> bool ( invis )[5] = {<span class="keyword">false</span>, <span class="keyword">false</span>, <span class="keyword">false</span>, <span class="keyword">false</span>, <span class="keyword">false</span>};</div>
 <div class="line"><a id="l01478" name="l01478"></a><span class="lineno"> 1478</span>                        ( this-&gt;*( f.function ) )( {p.pos.xy(), z}, p.ll, p.height_3d, invis, <a class="code hl_enumvalue" href="cata__tiles_8h.html#affa90804269b044a43867f93746f8f8eaadb115059e28d960fa8badfac5516667">center</a>.z - z );</div>
@@ -4535,7 +4535,7 @@ $(document).ready(function(){initNavTree('cata__tiles_8cpp_source.html',''); ini
 <div class="ttc" id="aiexamine_8cpp_html_a4ea2c47870b82e831292a9239b2e6ff2"><div class="ttname"><a href="iexamine_8cpp.html#a4ea2c47870b82e831292a9239b2e6ff2">itype_corpse</a></div><div class="ttdeci">static const itype_id itype_corpse(&quot;corpse&quot;)</div></div>
 <div class="ttc" id="aint__id_8h_html"><div class="ttname"><a href="int__id_8h.html">int_id.h</a></div></div>
 <div class="ttc" id="aitem_8h_html"><div class="ttname"><a href="item_8h.html">item.h</a></div></div>
-<div class="ttc" id="aitem__factory_8cpp_html_a62fc9d4e4ca8f0e62b4556f5f65b666c"><div class="ttname"><a href="item__factory_8cpp.html#a62fc9d4e4ca8f0e62b4556f5f65b666c">item_controller</a></div><div class="ttdeci">std::unique_ptr&lt; Item_factory &gt; item_controller</div><div class="ttdef"><b>Definition:</b> <a href="item__factory_8cpp_source.html#l00085">item_factory.cpp:85</a></div></div>
+<div class="ttc" id="aitem__factory_8cpp_html_a62fc9d4e4ca8f0e62b4556f5f65b666c"><div class="ttname"><a href="item__factory_8cpp.html#a62fc9d4e4ca8f0e62b4556f5f65b666c">item_controller</a></div><div class="ttdeci">std::unique_ptr&lt; Item_factory &gt; item_controller</div><div class="ttdef"><b>Definition:</b> <a href="item__factory_8cpp_source.html#l00084">item_factory.cpp:84</a></div></div>
 <div class="ttc" id="aitem__factory_8h_html"><div class="ttname"><a href="item__factory_8h.html">item_factory.h</a></div></div>
 <div class="ttc" id="aitype_8h_html"><div class="ttname"><a href="itype_8h.html">itype.h</a></div></div>
 <div class="ttc" id="ajson_8h_html"><div class="ttname"><a href="json_8h.html">json.h</a></div></div>
@@ -4789,7 +4789,7 @@ $(document).ready(function(){initNavTree('cata__tiles_8cpp_source.html',''); ini
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="cata__tiles_8cpp.html">cata_tiles.cpp</a></li>
-    <li class="footer">Generated on Sun Sep 18 2022 19:00:09 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Sep 18 2022 19:03:24 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

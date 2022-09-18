@@ -1,6 +1,5 @@
 var NAVTREEINDEX146 =
 {
-"structislot__magazine.html#ad3557cba493592b984da678f15b8c0c4":[36,0,445,6],
 "structislot__magazine.html#aee164cd4bbb906d4700375860e47763a":[36,0,445,0],
 "structislot__mod.html":[36,0,447],
 "structislot__mod.html#a0c8e7128d40c08fe0f60695e3c9cb872":[36,0,447,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX146 =
 "structjmapgen__setmap.html#a69c934d5bfac91224336b6b4a124949c":[36,0,499,10],
 "structjmapgen__setmap.html#a7a62c5cb6bc491650d76959f55ff4a39":[36,0,499,12],
 "structjmapgen__setmap.html#a894bcca66840d5e3918997abf1e39502":[36,0,499,8],
-"structjmapgen__setmap.html#ac9d3a111a91e8f062045cd78442fb445":[36,0,499,3]
+"structjmapgen__setmap.html#ac9d3a111a91e8f062045cd78442fb445":[36,0,499,3],
+"structjmapgen__setmap.html#ad9c6445133620989a8f7d179e64f09ac":[36,0,499,4]
 };
