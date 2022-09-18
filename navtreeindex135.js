@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__kills__monster_01_4.html#a643f28c024fab6f2b8945197e170caf9":[35,0,68,0,15,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__loses__effect_01_4.html":[36,0,14,0,16],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__loses__effect_01_4.html":[35,0,68,0,16],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__loses__effect_01_4.html#a124cfb219b71e0064a3b56fa6c70f449":[36,0,14,0,16,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "structcata_1_1list_1_1less.html#aed1897f01debfcf501b78d159897aa08":[35,0,68,14,9,0],
 "structcata_1_1list_1_1node.html":[35,0,68,14,12],
 "structcata_1_1list_1_1node.html":[36,0,14,13,12],
-"structcata_1_1list_1_1node.html#a786fff2fada051c5d4b9460a9e6e2ab6":[35,0,68,14,12,0],
-"structcata_1_1list_1_1node.html#a786fff2fada051c5d4b9460a9e6e2ab6":[36,0,14,13,12,0]
+"structcata_1_1list_1_1node.html#a786fff2fada051c5d4b9460a9e6e2ab6":[35,0,68,14,12,0]
 };

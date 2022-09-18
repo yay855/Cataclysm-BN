@@ -1,5 +1,6 @@
 var NAVTREEINDEX78 =
 {
+"damage_8cpp_source.html":[37,0,1,140],
 "damage_8h.html":[37,0,1,141],
 "damage_8h.html#a10a3750de355f3b6ae5269d73bae6c59":[37,0,1,141,9],
 "damage_8h.html#a137a94f0b744f736d7269cbc7873c076":[37,0,1,141,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX78 =
 "dialogue_8h.html#ae482c06259a0a624d6c85e7ba79e07c4":[37,0,1,149,18],
 "dialogue_8h_source.html":[37,0,1,149],
 "dialogue__win_8cpp.html":[37,0,1,150],
-"dialogue__win_8cpp.html#a0b01794b19da8c252ff74067073f8c44":[37,0,1,150,4],
-"dialogue__win_8cpp.html#a0cca3f61b22ea498b2d02d07b7def357":[37,0,1,150,2]
+"dialogue__win_8cpp.html#a0b01794b19da8c252ff74067073f8c44":[37,0,1,150,4]
 };

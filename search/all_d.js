@@ -563,7 +563,7 @@ var searchData=
   ['load_5ftile_560',['load_tile',['../classtileset__loader.html#a8ec7f0b3532c4b47e664caf30a1a2b67',1,'tileset_loader']]],
   ['load_5ftile_5fspritelists_561',['load_tile_spritelists',['../classtileset__loader.html#a0272176e3a128bdbcf91b2d42b65f500',1,'tileset_loader']]],
   ['load_5ftilejson_5ffrom_5ffile_562',['load_tilejson_from_file',['../classtileset__loader.html#a2e4616d6aa048353b759fb6b622c1906',1,'tileset_loader']]],
-  ['load_5ftileset_563',['load_tileset',['../classtileset__loader.html#ad43522d298514c8cf3167693e703f580',1,'tileset_loader::load_tileset()'],['../classcata__tiles.html#ac628968b0732c5472d2a08da2d642f43',1,'cata_tiles::load_tileset()']]],
+  ['load_5ftileset_563',['load_tileset',['../classtileset__loader.html#ad43522d298514c8cf3167693e703f580',1,'tileset_loader::load_tileset()'],['../classcata__tiles.html#af2a6674c9f17c70e8df6904d66806648',1,'cata_tiles::load_tileset()']]],
   ['load_5ftilesets_5ffrom_564',['load_tilesets_from',['../classoptions__manager.html#a988a64dbfc8f2d827c24223617bbb084',1,'options_manager']]],
   ['load_5ftool_565',['load_tool',['../classItem__factory.html#ac5dfadf99cb6b3dc5c41722cc51a3745',1,'Item_factory']]],
   ['load_5ftool_5farmor_566',['load_tool_armor',['../classItem__factory.html#abe743c41bb52871c5a2d347450f7b3ce',1,'Item_factory']]],

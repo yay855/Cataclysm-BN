@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"classspell.html#afe669e2e24cdf747a0133eb892eb1aa1":[36,0,846,74],
 "classspell__events.html":[36,0,847],
 "classspell__events.html#a8ef5f1becd9e0cf9621dbbf3bcc53530":[36,0,847,0],
 "classspell__type.html":[36,0,848],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "classstring__id.html#af972b158af9740e5c1c637be1d077e7d":[36,0,865,60],
 "classstring__id__reader.html":[36,0,869],
 "classstring__id__reader.html#a9cc1697adf6fd385e4009d99131eb2ed":[36,0,869,0],
-"classstring__identity__dynamic.html":[36,0,870],
-"classstring__identity__dynamic.html#a314d491440d416e4bea9f00dbd4d1a48":[36,0,870,4]
+"classstring__identity__dynamic.html":[36,0,870]
 };

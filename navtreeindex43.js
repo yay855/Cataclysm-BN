@@ -1,5 +1,6 @@
 var NAVTREEINDEX43 =
 {
+"classislot__milling.html":[36,0,446],
 "classislot__milling.html#aa8ae9e815c2a51ce3d78ee40b95c18d7":[36,0,446,1],
 "classislot__milling.html#af210f6fffa11c0a99e20a3c38f981877":[36,0,446,0],
 "classit__artifact__armor.html":[36,0,452],
@@ -248,6 +249,5 @@ var NAVTREEINDEX43 =
 "classitem.html#a75359b32b9e0bb99e69b17380e78150f":[36,0,454,421],
 "classitem.html#a754699dc5d14f040334c5e442914c024":[36,0,454,67],
 "classitem.html#a75782e53cda8e615cfe48972a29eedaa":[36,0,454,344],
-"classitem.html#a75b85410499e6e47e3fd85326a8e7ce4":[36,0,454,334],
-"classitem.html#a75dd0b9b631f012c245f51e1f894305b":[36,0,454,400]
+"classitem.html#a75b85410499e6e47e3fd85326a8e7ce4":[36,0,454,334]
 };

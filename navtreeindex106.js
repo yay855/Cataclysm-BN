@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"mondeath_8h.html#ac27195b77b85342701b88d9b2ce64386":[37,0,1,394,12],
 "mondeath_8h.html#ac3b7735dafe42530bc40c4b29c3144b7":[37,0,1,394,34],
 "mondeath_8h.html#acc5e43f0467033d339103a5884f04432":[37,0,1,394,30],
 "mondeath_8h.html#acce6b6a497584dfe478fc500eca796c7":[37,0,1,394,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "morale_8cpp.html#a274598613975233d47fea947150a5f2a":[37,0,1,410,23],
 "morale_8cpp.html#a480a7d118a43474765d10b4933878c3b":[37,0,1,410,2],
 "morale_8cpp.html#a4c80f98459b07d9175c344914b1525dd":[37,0,1,410,8],
-"morale_8cpp.html#a5961100b2e7ed63c10b71b32858e6792":[37,0,1,410,20],
-"morale_8cpp.html#a616d0e5327b11b758d0c93a7c78aa9b0":[37,0,1,410,12]
+"morale_8cpp.html#a5961100b2e7ed63c10b71b32858e6792":[37,0,1,410,20]
 };

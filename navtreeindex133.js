@@ -1,5 +1,6 @@
 var NAVTREEINDEX133 =
 {
+"structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#aaeda3a4414f18c6cab37dbf50a5346dd":[36,0,7,0,10],
 "structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#aaeda3a4414f18c6cab37dbf50a5346dd":[35,0,41,0,10],
 "structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#abaa6ef4dace8834fadfdfb85ac52d8d1":[35,0,41,0,0],
 "structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#abaa6ef4dace8834fadfdfb85ac52d8d1":[36,0,7,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX133 =
 "structbionic.html#a4e99cc883a91088a7f1a3ece49478a85":[36,0,108,7],
 "structbionic.html#a66fc20bc3ee64b64edce99959aedd453":[36,0,108,6],
 "structbionic.html#a67cd9d56d6d14116522bdf1dd2bd2b4e":[36,0,108,0],
-"structbionic.html#a69c27d34e4a5014ae73135e80dd304b0":[36,0,108,22],
-"structbionic.html#a6c1ea38486361f355547214c0c73ab21":[36,0,108,14]
+"structbionic.html#a69c27d34e4a5014ae73135e80dd304b0":[36,0,108,22]
 };

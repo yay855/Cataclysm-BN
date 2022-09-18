@@ -1,5 +1,6 @@
 var NAVTREEINDEX134 =
 {
+"structbionic.html#a6c1ea38486361f355547214c0c73ab21":[36,0,108,14],
 "structbionic.html#a9ba6a347620bc748a13a909909effd3e":[36,0,108,20],
 "structbionic.html#a9ffb74340fe471788746f0a0247bf772":[36,0,108,21],
 "structbionic.html#aaa23ac1a042d1a4380449d483d57d249":[36,0,108,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX134 =
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__kills__character_01_4.html#abefa1281bd386858990087ed64031e76":[35,0,68,0,14,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__kills__monster_01_4.html":[36,0,14,0,15],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__kills__monster_01_4.html":[35,0,68,0,15],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__kills__monster_01_4.html#a643f28c024fab6f2b8945197e170caf9":[36,0,14,0,15,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__kills__monster_01_4.html#a643f28c024fab6f2b8945197e170caf9":[35,0,68,0,15,0]
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__kills__monster_01_4.html#a643f28c024fab6f2b8945197e170caf9":[36,0,14,0,15,0]
 };
