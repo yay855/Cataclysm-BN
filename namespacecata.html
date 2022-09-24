@@ -1219,13 +1219,13 @@ template&lt;class T , class U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="optional_8h_source.html#l00250">250</a> of file <a class="el" href="optional_8h_source.html">optional.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00251" name="l00251"></a><span class="lineno">  251</span>{</div>
-<div class="line"><a id="l00252" name="l00252"></a><span class="lineno">  252</span>    <span class="keywordflow">return</span> !<a class="code hl_function" href="namespacecata.html#a616769558d8c2d006544ba7afb76d860">operator==</a>( lhs, rhs );</div>
-<div class="line"><a id="l00253" name="l00253"></a><span class="lineno">  253</span>}</div>
-<div class="ttc" id="anamespacecata_html_a616769558d8c2d006544ba7afb76d860"><div class="ttname"><a href="namespacecata.html#a616769558d8c2d006544ba7afb76d860">cata::operator==</a></div><div class="ttdeci">constexpr bool operator==(const optional&lt; T &gt; &amp;lhs, const optional&lt; U &gt; &amp;rhs)</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00238">optional.h:238</a></div></div>
+<p class="definition">Definition at line <a class="el" href="optional_8h_source.html#l00253">253</a> of file <a class="el" href="optional_8h_source.html">optional.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00254" name="l00254"></a><span class="lineno">  254</span>{</div>
+<div class="line"><a id="l00255" name="l00255"></a><span class="lineno">  255</span>    <span class="keywordflow">return</span> !<a class="code hl_function" href="namespacecata.html#a616769558d8c2d006544ba7afb76d860">operator==</a>( lhs, rhs );</div>
+<div class="line"><a id="l00256" name="l00256"></a><span class="lineno">  256</span>}</div>
+<div class="ttc" id="anamespacecata_html_a616769558d8c2d006544ba7afb76d860"><div class="ttname"><a href="namespacecata.html#a616769558d8c2d006544ba7afb76d860">cata::operator==</a></div><div class="ttdeci">constexpr bool operator==(const optional&lt; T &gt; &amp;lhs, const optional&lt; U &gt; &amp;rhs)</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00241">optional.h:241</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="optional_8h_source.html#l00238">operator==()</a>.</p>
+<p class="reference">References <a class="el" href="optional_8h_source.html#l00241">operator==()</a>.</p>
 
 </div>
 </div>
@@ -1265,21 +1265,21 @@ template&lt;class T , class U &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="optional_8h_source.html#l00238">238</a> of file <a class="el" href="optional_8h_source.html">optional.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00239" name="l00239"></a><span class="lineno">  239</span>{</div>
-<div class="line"><a id="l00240" name="l00240"></a><span class="lineno">  240</span>    <span class="keywordflow">if</span>( lhs.<a class="code hl_function" href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">has_value</a>() != rhs.<a class="code hl_function" href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">has_value</a>() ) {</div>
-<div class="line"><a id="l00241" name="l00241"></a><span class="lineno">  241</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00242" name="l00242"></a><span class="lineno">  242</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( !lhs ) {</div>
-<div class="line"><a id="l00243" name="l00243"></a><span class="lineno">  243</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00244" name="l00244"></a><span class="lineno">  244</span>    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a id="l00245" name="l00245"></a><span class="lineno">  245</span>        <span class="keywordflow">return</span> *lhs == *rhs;</div>
-<div class="line"><a id="l00246" name="l00246"></a><span class="lineno">  246</span>    }</div>
-<div class="line"><a id="l00247" name="l00247"></a><span class="lineno">  247</span>}</div>
-<div class="ttc" id="aclasscata_1_1optional_html_ad5b847e0e2f1db1387a10bac3751ccf4"><div class="ttname"><a href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">cata::optional::has_value</a></div><div class="ttdeci">constexpr bool has_value() const noexcept</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00120">optional.h:120</a></div></div>
+<p class="definition">Definition at line <a class="el" href="optional_8h_source.html#l00241">241</a> of file <a class="el" href="optional_8h_source.html">optional.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00242" name="l00242"></a><span class="lineno">  242</span>{</div>
+<div class="line"><a id="l00243" name="l00243"></a><span class="lineno">  243</span>    <span class="keywordflow">if</span>( lhs.<a class="code hl_function" href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">has_value</a>() != rhs.<a class="code hl_function" href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">has_value</a>() ) {</div>
+<div class="line"><a id="l00244" name="l00244"></a><span class="lineno">  244</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00245" name="l00245"></a><span class="lineno">  245</span>    } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( !lhs ) {</div>
+<div class="line"><a id="l00246" name="l00246"></a><span class="lineno">  246</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00247" name="l00247"></a><span class="lineno">  247</span>    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a id="l00248" name="l00248"></a><span class="lineno">  248</span>        <span class="keywordflow">return</span> *lhs == *rhs;</div>
+<div class="line"><a id="l00249" name="l00249"></a><span class="lineno">  249</span>    }</div>
+<div class="line"><a id="l00250" name="l00250"></a><span class="lineno">  250</span>}</div>
+<div class="ttc" id="aclasscata_1_1optional_html_ad5b847e0e2f1db1387a10bac3751ccf4"><div class="ttname"><a href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">cata::optional::has_value</a></div><div class="ttdeci">constexpr bool has_value() const noexcept</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00123">optional.h:123</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="optional_8h_source.html#l00120">cata::optional&lt; T &gt;::has_value()</a>.</p>
+<p class="reference">References <a class="el" href="optional_8h_source.html#l00123">cata::optional&lt; T &gt;::has_value()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="optional_8h_source.html#l00250">operator!=()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="optional_8h_source.html#l00253">operator!=()</a>.</p>
 
 </div>
 </div>
@@ -1441,7 +1441,7 @@ template&lt;class element_type , class element_allocator_type , typename element
 <div class="ttc" id="amagic_8cpp_html_a188caae18b60b66f9f44214c7e28ac1f"><div class="ttname"><a href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a></div><div class="ttdeci">constexpr double a</div><div class="ttdef"><b>Definition:</b> <a href="magic_8cpp_source.html#l01030">magic.cpp:1030</a></div></div>
 <div class="ttc" id="amagic_8cpp_html_aa93a189fb7bbbf87be54bcc7bd11bb6f"><div class="ttname"><a href="magic_8cpp.html#aa93a189fb7bbbf87be54bcc7bd11bb6f">b</a></div><div class="ttdeci">constexpr double b</div><div class="ttdef"><b>Definition:</b> <a href="magic_8cpp_source.html#l01031">magic.cpp:1031</a></div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="vehicle__autodrive_8cpp_source.html#l00484">approx_orientation()</a>, <a class="el" href="assign_8h_source.html#l00122">assign()</a>, <a class="el" href="point_8cpp_source.html#l00057">closest_points_first()</a>, <a class="el" href="requirements_8cpp_source.html#l01173">consolidate()</a>, <a class="el" href="vehicle_8cpp_source.html#l03063">vehicle::coord_translate()</a>, <a class="el" href="vehicle_8cpp_source.html#l03087">vehicle::coord_translate_reverse()</a>, <a class="el" href="vehicle_8cpp_source.html#l06442">vehicle::damage_all()</a>, <a class="el" href="character__display_8cpp_source.html#l00760">draw_speed_tab()</a>, <a class="el" href="drawing__primitives_8cpp_source.html#l00021">draw_square()</a>, <a class="el" href="fmtlib__format_8h_source.html#l00319">detail::fallback_uintptr::fallback_uintptr()</a>, <a class="el" href="item__factory_8cpp_source.html#l00164">Item_factory::finalize_pre()</a>, <a class="el" href="cellular__automata_8h_source.html#l00057">CellularAutomata::generate_cellular_automaton()</a>, <a class="el" href="savegame__json_8cpp_source.html#l02167">item::io()</a>, <a class="el" href="mutation__data_8cpp_source.html#l00307">mutation_branch::load()</a>, <a class="el" href="editmap_8cpp_source.html#l01776">editmap::mapgen_preview()</a>, <a class="el" href="monexamine_8cpp_source.html#l00445">monexamine::mfriend_menu()</a>, <a class="el" href="monexamine_8cpp_source.html#l00064">monexamine::pet_menu()</a>, <a class="el" href="bionics__ui_8cpp_source.html#l00528">player::power_bionics()</a>, <a class="el" href="mutation__ui_8cpp_source.html#l00113">player::power_mutations_ui()</a>, <a class="el" href="rng_8cpp_source.html#l00019">rng()</a>, <a class="el" href="rng_8cpp_source.html#l00028">rng_float()</a>, <a class="el" href="rng_8cpp_source.html#l00122">rng_normal()</a>, <a class="el" href="mapgen_8cpp_source.html#l05798">map::rotate()</a>, <a class="el" href="auto__pickup_8cpp_source.html#l00044">auto_pickup::user_interface::show()</a>, <a class="el" href="messages_8cpp_source.html#l00544">Messages::dialog::show()</a>, <a class="el" href="safemode__ui_8cpp_source.html#l00050">safemode::show()</a>, <a class="el" href="panels_8cpp_source.html#l02406">panel_manager::show_adm()</a>, <a class="el" href="list_8h_source.html#l02158">cata::list&lt; element_type, element_allocator_type &gt;::splice()</a>, <a class="el" href="optional_8h_source.html#l00222">cata::optional&lt; T &gt;::swap()</a>, <a class="el" href="clzones_8cpp_source.html#l01041">zone_manager::swap()</a>, <a class="el" href="advanced__inv_8cpp_source.html#l01902">advanced_inventory::swap_panes()</a>, <a class="el" href="submap_8cpp_source.html#l00017">maptile_soa&lt; sx, sy &gt;::swap_soa_tile()</a>, and <a class="el" href="character_8cpp_source.html#l02122">Character::update_fuel_storage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="vehicle__autodrive_8cpp_source.html#l00484">approx_orientation()</a>, <a class="el" href="assign_8h_source.html#l00122">assign()</a>, <a class="el" href="point_8cpp_source.html#l00057">closest_points_first()</a>, <a class="el" href="requirements_8cpp_source.html#l01173">consolidate()</a>, <a class="el" href="vehicle_8cpp_source.html#l03063">vehicle::coord_translate()</a>, <a class="el" href="vehicle_8cpp_source.html#l03087">vehicle::coord_translate_reverse()</a>, <a class="el" href="vehicle_8cpp_source.html#l06442">vehicle::damage_all()</a>, <a class="el" href="character__display_8cpp_source.html#l00760">draw_speed_tab()</a>, <a class="el" href="drawing__primitives_8cpp_source.html#l00021">draw_square()</a>, <a class="el" href="fmtlib__format_8h_source.html#l00319">detail::fallback_uintptr::fallback_uintptr()</a>, <a class="el" href="item__factory_8cpp_source.html#l00164">Item_factory::finalize_pre()</a>, <a class="el" href="cellular__automata_8h_source.html#l00057">CellularAutomata::generate_cellular_automaton()</a>, <a class="el" href="savegame__json_8cpp_source.html#l02167">item::io()</a>, <a class="el" href="mutation__data_8cpp_source.html#l00307">mutation_branch::load()</a>, <a class="el" href="editmap_8cpp_source.html#l01776">editmap::mapgen_preview()</a>, <a class="el" href="monexamine_8cpp_source.html#l00445">monexamine::mfriend_menu()</a>, <a class="el" href="monexamine_8cpp_source.html#l00064">monexamine::pet_menu()</a>, <a class="el" href="bionics__ui_8cpp_source.html#l00528">player::power_bionics()</a>, <a class="el" href="mutation__ui_8cpp_source.html#l00113">player::power_mutations_ui()</a>, <a class="el" href="rng_8cpp_source.html#l00019">rng()</a>, <a class="el" href="rng_8cpp_source.html#l00028">rng_float()</a>, <a class="el" href="rng_8cpp_source.html#l00122">rng_normal()</a>, <a class="el" href="mapgen_8cpp_source.html#l05798">map::rotate()</a>, <a class="el" href="auto__pickup_8cpp_source.html#l00044">auto_pickup::user_interface::show()</a>, <a class="el" href="messages_8cpp_source.html#l00544">Messages::dialog::show()</a>, <a class="el" href="safemode__ui_8cpp_source.html#l00050">safemode::show()</a>, <a class="el" href="panels_8cpp_source.html#l02406">panel_manager::show_adm()</a>, <a class="el" href="list_8h_source.html#l02158">cata::list&lt; element_type, element_allocator_type &gt;::splice()</a>, <a class="el" href="optional_8h_source.html#l00225">cata::optional&lt; T &gt;::swap()</a>, <a class="el" href="clzones_8cpp_source.html#l01041">zone_manager::swap()</a>, <a class="el" href="advanced__inv_8cpp_source.html#l01902">advanced_inventory::swap_panes()</a>, <a class="el" href="submap_8cpp_source.html#l00017">maptile_soa&lt; sx, sy &gt;::swap_soa_tile()</a>, and <a class="el" href="character_8cpp_source.html#l02122">Character::update_fuel_storage()</a>.</p>
 
 </div>
 </div>
@@ -1618,7 +1618,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacecata.html">cata</a></li>
-    <li class="footer">Generated on Sat Sep 24 2022 10:31:18 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Sep 24 2022 10:33:19 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

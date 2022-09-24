@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"structVehicleFacings.html#a98625704bb5a6f88dc1152f7cd30bcee":[36,0,955,2],
+"structVehicleFacings.html#a9ccd6e0cf765622c656ec6114763d324":[36,0,955,0],
 "structVehicleFacings.html#aaa5eb8dc3c439da48f7ce768ba5c92e5":[36,0,955,1],
 "structVehicleLocation.html":[36,0,960],
 "structVehicleLocation.html#a1651c4dfd1d03a1c27d8c85f63664602":[36,0,960,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#a95bbbf5291d041ad1fb14c0a51a96cd6":[35,0,41,0,11],
 "structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#a9fd49282d1064c42b19f97a8f32a4cdc":[35,0,41,0,4],
 "structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#a9fd49282d1064c42b19f97a8f32a4cdc":[36,0,7,0,4],
-"structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#aa4d3050822580d70946fd167d8424c2c":[36,0,7,0,14],
-"structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#aa4d3050822580d70946fd167d8424c2c":[35,0,41,0,14],
-"structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#aaeda3a4414f18c6cab37dbf50a5346dd":[35,0,41,0,10]
+"structanonymous__namespace_02messages_8cpp_03_1_1game__message.html#aa4d3050822580d70946fd167d8424c2c":[36,0,7,0,14]
 };

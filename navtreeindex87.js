@@ -1,5 +1,7 @@
 var NAVTREEINDEX87 =
 {
+"gates_8cpp_source.html":[37,0,1,229],
+"gates_8h.html":[37,0,1,230],
 "gates_8h.html#a0eeda5c9b391c2d30f63a1dad75b043b":[37,0,1,230,3],
 "gates_8h.html#a21a6ac9535199473360da4ccbda76f22":[37,0,1,230,5],
 "gates_8h.html#a3ef5351e05e4b2d492562205261db96c":[37,0,1,230,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX87 =
 "group__Weather.html#ga91e01ef6a71f6495015d3a14131952f2":[34,2,12],
 "group__Weather.html#ga956008349f0006ba8d76360e8b2d5283":[34,2,17],
 "group__Weather.html#ga9ddaa9d8c10baad01cc0ef885a3e65f4":[34,2,19],
-"group__Weather.html#gaa3cd7d1232c28c6ccb1e136737ba2c11":[34,2,23],
-"group__Weather.html#gaa7b33196bf530c8b26654a0adf355165":[34,2,20],
-"group__Weather.html#gaaa234adc23b8eaf838b0109bf51e38c0":[34,2,35]
+"group__Weather.html#gaa3cd7d1232c28c6ccb1e136737ba2c11":[34,2,23]
 };

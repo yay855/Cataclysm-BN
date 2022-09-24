@@ -1,5 +1,7 @@
 var NAVTREEINDEX153 =
 {
+"structpoint__traits.html#a3d0bc0fd145de82414b6cb92eaa13ef5":[36,0,745,1],
+"structpoint__traits.html#a438ba948e43cf4b11c3d2f26912b180c":[36,0,745,3],
 "structpoint__traits.html#ab9a69d2415c9838e2dc7d743464efd8b":[36,0,745,4],
 "structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01point528353c3cee28f3149e3be39b58e8b4a.html":[36,0,746],
 "structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01point528353c3cee28f3149e3be39b58e8b4a.html#a1b520e7ce82f144f90f8e2fad54168ee":[36,0,746,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX153 =
 "structreal__coords.html#a57901c0966a396c63436b915d01853da":[36,0,768,9],
 "structreal__coords.html#a62221f6d25f3b28c48370f6e96a6e2e3":[36,0,768,0],
 "structreal__coords.html#a7b2748671239a0eaf995a891608e1d0a":[36,0,768,16],
-"structreal__coords.html#a7cff5ef6100518fd3d858fd9563f75a8":[36,0,768,8],
-"structreal__coords.html#ab596924e37b3d5bf910c4d5536ac2713":[36,0,768,1],
-"structreal__coords.html#ad40e887302584f91b11d99954f45b478":[36,0,768,13]
+"structreal__coords.html#a7cff5ef6100518fd3d858fd9563f75a8":[36,0,768,8]
 };
