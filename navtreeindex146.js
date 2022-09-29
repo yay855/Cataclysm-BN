@@ -1,6 +1,5 @@
 var NAVTREEINDEX146 =
 {
-"structislot__magazine.html#ac3606277253fb022dd15350f26aab5ae":[36,0,445,5],
 "structislot__magazine.html#ad3557cba493592b984da678f15b8c0c4":[36,0,445,6],
 "structislot__magazine.html#aee164cd4bbb906d4700375860e47763a":[36,0,445,0],
 "structislot__mod.html":[36,0,447],
@@ -75,12 +74,12 @@ var NAVTREEINDEX146 =
 "structitem__info__data.html#adafcbaae8c911bf3d4fd7fff306a49a4":[36,0,463,16],
 "structitem__info__data.html#ae21c7618dbb6387bdc604ad7cf552dc9":[36,0,463,9],
 "structitem__info__data.html#aebc34b872c27347457cc489fc5d4c15f":[36,0,463,20],
-"structitem__internal_1_1scoped__goes__bad__cache.html":[35,0,109,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html":[36,0,24,0],
-"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,109,0,1],
+"structitem__internal_1_1scoped__goes__bad__cache.html":[35,0,109,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[36,0,24,0,1],
-"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,24,0,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,109,0,1],
 "structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[35,0,109,0,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,24,0,0],
 "structitem__reference.html":[36,0,468],
 "structitem__reference.html#a39088ef0fffbac57621a06913246eab1":[36,0,468,0],
 "structitem__reference.html#aa5f61b515d64cb6b440911cd9f181518":[36,0,468,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX146 =
 "structjmapgen__setmap.html#a669bae04b0376f4d93386ff9a065cc77":[36,0,499,5],
 "structjmapgen__setmap.html#a69c934d5bfac91224336b6b4a124949c":[36,0,499,10],
 "structjmapgen__setmap.html#a7a62c5cb6bc491650d76959f55ff4a39":[36,0,499,12],
-"structjmapgen__setmap.html#a894bcca66840d5e3918997abf1e39502":[36,0,499,8]
+"structjmapgen__setmap.html#a894bcca66840d5e3918997abf1e39502":[36,0,499,8],
+"structjmapgen__setmap.html#ac9d3a111a91e8f062045cd78442fb445":[36,0,499,3]
 };

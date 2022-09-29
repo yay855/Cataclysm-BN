@@ -1,6 +1,5 @@
 var NAVTREEINDEX147 =
 {
-"structjmapgen__setmap.html#ac9d3a111a91e8f062045cd78442fb445":[36,0,499,3],
 "structjmapgen__setmap.html#ad9c6445133620989a8f7d179e64f09ac":[36,0,499,4],
 "structjmapgen__setmap.html#ae3a87b8d7a021d7af250623cf14980f4":[36,0,499,13],
 "structjmapgen__setmap.html#af5ba488e8bcb236da269c277fdc24567":[36,0,499,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX147 =
 "structmaptile.html#a8716413c361496ec5d8cd4f2260a58a7":[36,0,588,11],
 "structmaptile.html#a938297885d93f2c7d4f283363ca2f606":[36,0,588,1],
 "structmaptile.html#a93e125b91c77b00f653a12800b24dbc9":[36,0,588,18],
-"structmaptile.html#a977cfc47c0271e9c593158e8df9e8ad4":[36,0,588,7]
+"structmaptile.html#a977cfc47c0271e9c593158e8df9e8ad4":[36,0,588,7],
+"structmaptile.html#a9c9e15a1b6db4e935fc1230519e45249":[36,0,588,6]
 };

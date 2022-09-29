@@ -1,6 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"matrix__math_8h.html#ac5ace50f490bf03f0f78776eba59417f":[37,0,1,364,3],
 "matrix__math_8h_source.html":[37,0,1,364],
 "mattack__actors_8cpp.html":[37,0,1,365],
 "mattack__actors_8cpp.html#a08ab6b755cf474393b8c8c3d0967b4d0":[37,0,1,365,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX103 =
 "mission__companion_8cpp.html#ae7312e2b4429536329e3c807537e63fa":[37,0,1,378,12],
 "mission__companion_8cpp.html#aee6c93932498810b03a6418e3ba3438e":[37,0,1,378,13],
 "mission__companion_8cpp.html#af872d8363b3a2e1f799e6fadaf07ceae":[37,0,1,378,6],
-"mission__companion_8cpp_source.html":[37,0,1,378]
+"mission__companion_8cpp_source.html":[37,0,1,378],
+"mission__companion_8h.html":[37,0,1,379]
 };

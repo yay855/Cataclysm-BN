@@ -1,6 +1,5 @@
 var NAVTREEINDEX143 =
 {
-"structevent__statistic__count.html#a73b0fa73f400f4d04d8eb36fecb784e6":[36,0,304,2],
 "structevent__statistic__count.html#ad3e6f1cbccbf3aef04fd45af6edd5093":[36,0,304,7],
 "structevent__statistic__count.html#ad59dfe031d6fa22ab78f9cf58a90700d":[36,0,304,6],
 "structevent__statistic__count.html#ae5050435ec9a5a13ff266042a01c67ad":[36,0,304,8],
@@ -140,12 +139,12 @@ var NAVTREEINDEX143 =
 "structexplosion__handler_1_1queued__explosion.html":[35,0,97,2],
 "structexplosion__handler_1_1queued__explosion.html#a00d683aa1637f73596384b6d9ab1e747":[36,0,22,1,4],
 "structexplosion__handler_1_1queued__explosion.html#a00d683aa1637f73596384b6d9ab1e747":[35,0,97,2,4],
-"structexplosion__handler_1_1queued__explosion.html#a509af4eb88d5466c64bd244b13ef83fa":[35,0,97,2,5],
 "structexplosion__handler_1_1queued__explosion.html#a509af4eb88d5466c64bd244b13ef83fa":[36,0,22,1,5],
+"structexplosion__handler_1_1queued__explosion.html#a509af4eb88d5466c64bd244b13ef83fa":[35,0,97,2,5],
 "structexplosion__handler_1_1queued__explosion.html#a69ce8c3f7f160d5ef7b1fcbf939424bf":[36,0,22,1,6],
 "structexplosion__handler_1_1queued__explosion.html#a69ce8c3f7f160d5ef7b1fcbf939424bf":[35,0,97,2,6],
-"structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[35,0,97,2,0],
 "structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[36,0,22,1,0],
+"structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[35,0,97,2,0],
 "structexplosion__handler_1_1queued__explosion.html#a88b8f9fb1519b3e8f8a8bdfd9c654981":[35,0,97,2,2],
 "structexplosion__handler_1_1queued__explosion.html#a88b8f9fb1519b3e8f8a8bdfd9c654981":[36,0,22,1,2],
 "structexplosion__handler_1_1queued__explosion.html#acb2c67d77fbd506b5291d4fce940a7d0":[35,0,97,2,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX143 =
 "structfield__type.html#a5fb79ce2363759ad2da0f0df6e071b94":[36,0,330,36],
 "structfield__type.html#a66dc0bda39304885aeabbd4f3712ae92":[36,0,330,25],
 "structfield__type.html#a6858d9c79de54cf8d952241c2ed579f0":[36,0,330,55],
-"structfield__type.html#a68d80a6f6e7c184524a792fb8fdc822a":[36,0,330,15]
+"structfield__type.html#a68d80a6f6e7c184524a792fb8fdc822a":[36,0,330,15],
+"structfield__type.html#a6d76122030f481431af6b7bca0203340":[36,0,330,19]
 };

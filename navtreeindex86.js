@@ -1,5 +1,6 @@
 var NAVTREEINDEX86 =
 {
+"game__constants_8h.html#a76c20caf52716b964b13acb64ac492cb":[37,0,1,218,34],
 "game__constants_8h.html#a76d1381ae078717aa7a3737d19df1a01":[37,0,1,218,2],
 "game__constants_8h.html#a7ca773657c862460eb9f4fb2daf33335":[37,0,1,218,42],
 "game__constants_8h.html#a7f19032f99d37a39826a1e3cecb549be":[37,0,1,218,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX86 =
 "gamemode__tutorial_8h_source.html":[37,0,1,228],
 "gates_8cpp.html":[37,0,1,229],
 "gates_8cpp.html#a0b0ef71c59e4f2574505a15e0d02853d":[37,0,1,229,2],
-"gates_8cpp.html#a62213fe2f53bd7076df7272451a41e1d":[37,0,1,229,3],
-"gates_8cpp.html#a63b9a34372e97c33bc7cd8ed239b4682":[37,0,1,229,1]
+"gates_8cpp.html#a62213fe2f53bd7076df7272451a41e1d":[37,0,1,229,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX67 =
 {
+"classtinymap.html#ae76363b427f6ff89d9eb7b765e09a8c7":[36,0,906,1],
 "classtowing__data.html":[36,0,908],
 "classtowing__data.html#a24211ff3f27b4d2a969e9bdbdc9789e3":[36,0,908,0],
 "classtowing__data.html#a3161f0dbadbd562d62b54f72592603ee":[36,0,908,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX67 =
 "classuistatedata.html#a025f68edc75b8c35b6ac781ec9d10d19":[36,0,931,1],
 "classuistatedata.html#a02d98ac2e93fab7c76964d670eccfa01":[36,0,931,39],
 "classuistatedata.html#a25843c745eb4d8bf305a060f8b1804b1":[36,0,931,12],
-"classuistatedata.html#a2e59236e70385fa48ae1f6a2fcfd00b8":[36,0,931,40],
-"classuistatedata.html#a2f76afe9d13de210eb9265748cc5a32b":[36,0,931,20]
+"classuistatedata.html#a2e59236e70385fa48ae1f6a2fcfd00b8":[36,0,931,40]
 };
