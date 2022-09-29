@@ -154,7 +154,7 @@ var NAVTREEINDEX =
 "classjmapgen__spawn__item.html#a9448c9baf3700e33ed3f6312e4d76df7",
 "classloading__ui.html#ad23052af7eaa69908002910a8ae94931",
 "classmap.html#a1e2d0ee9656a17039576cad540e73dff",
-"classmap.html#aa75dcd17be7ec93c02c5a5a77814b1a5",
+"classmap.html#aa7ba9a828d41772f23b9559ca25cda2d",
 "classmap__stack.html#abc143c9a61bbaa4f45b164029f857b61",
 "classmaterial__type.html#a8e871a5fa16561f7cd5837426cd88ee3",
 "classmon__spellcasting__actor.html",
