@@ -1,5 +1,6 @@
 var NAVTREEINDEX143 =
 {
+"structenum__traits_3_01character__stat_01_4.html#abeb70c3440ea7fa6758957885c688b22":[36,0,259,0],
 "structenum__traits_3_01clothing__mod__type_01_4.html":[36,0,260],
 "structenum__traits_3_01clothing__mod__type_01_4.html#a1882085c74d2e96760d04075aaabe41e":[36,0,260,0],
 "structenum__traits_3_01computer__action_01_4.html":[36,0,261],
@@ -248,6 +249,5 @@ var NAVTREEINDEX143 =
 "structexplosion__handler_1_1queued__explosion.html#af289e1457f8cb11635569bf3a8e1405a":[36,0,22,1,7],
 "structexplosion__handler_1_1queued__explosion.html#afd8ffbc8b33f0cb6d347ed5e8393dfe5":[36,0,22,1,3],
 "structexplosion__handler_1_1queued__explosion.html#afd8ffbc8b33f0cb6d347ed5e8393dfe5":[35,0,103,2,3],
-"structexplosion__tile.html":[36,0,319],
-"structexplosion__tile.html#a3913e01b48d9560ff9646892d3a52bc4":[36,0,319,0]
+"structexplosion__tile.html":[36,0,319]
 };

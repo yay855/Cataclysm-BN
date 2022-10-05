@@ -1,5 +1,6 @@
 var NAVTREEINDEX85 =
 {
+"functions_func_z.html":[36,3,1,25],
 "functions_func_~.html":[36,3,1,26],
 "functions_g.html":[36,3,0,7],
 "functions_h.html":[36,3,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX85 =
 "game__constants_8h.html#a2005e711d16bee2a9d79d6be48195262":[37,0,1,223,47],
 "game__constants_8h.html#a2267b9dd834d2f79fb40c0e71949a928":[37,0,1,223,25],
 "game__constants_8h.html#a226cec67fad4075fe2cf6c31c355fbed":[37,0,1,223,12],
-"game__constants_8h.html#a271801f57dbbc5e91afd1fbbe0615a03":[37,0,1,223,43],
-"game__constants_8h.html#a282f307f5d51bf229c829518b5ab9232":[37,0,1,223,57]
+"game__constants_8h.html#a271801f57dbbc5e91afd1fbbe0615a03":[37,0,1,223,43]
 };

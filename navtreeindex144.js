@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"structexplosion__tile.html#a3913e01b48d9560ff9646892d3a52bc4":[36,0,319,0],
 "structexplosion__tile.html#a8e5e952903f0261c909f4dc1768e948e":[36,0,319,1],
 "structextended__photo__def.html":[36,0,320],
 "structextended__photo__def.html#a195f7d385d119177c8c6df94dfc8541b":[36,0,320,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "structfour__quadrants.html#afcc336d76641c7dfb2cd38e0d2c94a4e":[36,0,359,6],
 "structfuel__explosion.html":[36,0,360],
 "structfuel__explosion.html#a0f2b4cba3125d69012b4ef15d8936515":[36,0,360,4],
-"structfuel__explosion.html#a98a2472758ae57ec83d9a0232d444474":[36,0,360,1],
-"structfuel__explosion.html#aa919d40c33bd8f1021043c4e5b6fcad1":[36,0,360,3]
+"structfuel__explosion.html#a98a2472758ae57ec83d9a0232d444474":[36,0,360,1]
 };

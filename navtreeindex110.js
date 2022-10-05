@@ -1,5 +1,6 @@
 var NAVTREEINDEX110 =
 {
+"namespaceactivity__handlers.html#a57ca1fcc1901af68d1fc4311debb1dd7":[35,0,2,109],
 "namespaceactivity__handlers.html#a57d7a373a69d6690c58986f424c43d06":[35,0,2,40],
 "namespaceactivity__handlers.html#a5926ba73ca7214e64f0e64f23de78b80":[35,0,2,27],
 "namespaceactivity__handlers.html#a5adf166d265eea7e82c6220fa2efeca7":[35,0,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX110 =
 "namespaceanonymous__namespace_02mapdata_8cpp_03.html#ad3f71ef4c1c1e4a29e7124826b1055e3":[35,0,41,1],
 "namespaceanonymous__namespace_02martialarts_8cpp_03.html":[35,0,42],
 "namespaceanonymous__namespace_02martialarts_8cpp_03.html#aae3f3de3b7baac697dfacb78ad4a80ea":[35,0,42,1],
-"namespaceanonymous__namespace_02martialarts_8cpp_03.html#ad4fb4a84fae57a9c40c693ca2701b45c":[35,0,42,0],
-"namespaceanonymous__namespace_02martialarts_8cpp_03.html#adf8fd9cfd1bea36da26edfc99075b372":[35,0,42,2]
+"namespaceanonymous__namespace_02martialarts_8cpp_03.html#ad4fb4a84fae57a9c40c693ca2701b45c":[35,0,42,0]
 };

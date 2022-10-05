@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"ranged_8h.html#a4c8c85e0249f67213d9994612315aa3e":[37,0,1,502,6],
 "ranged_8h.html#a51e6279a2008714e5596da4f5fa1b00e":[37,0,1,502,10],
 "ranged_8h.html#a5332ed56c9f0b3702e72aecdcaa1e7be":[37,0,1,502,2],
 "ranged_8h.html#a54895869f69a00b4a74df15057a9a780":[37,0,1,502,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "savegame_8cpp.html#ad92349523462977f97edd9afbed2a996":[37,0,1,528,6],
 "savegame_8cpp.html#af38c7f9ffcc0e857dbf50081c2607ca2":[37,0,1,528,3],
 "savegame_8cpp_source.html":[37,0,1,528],
-"savegame__json_8cpp.html":[37,0,1,529],
-"savegame__json_8cpp.html#a03016c603a04201964cb25250db7d075":[37,0,1,529,1]
+"savegame__json_8cpp.html":[37,0,1,529]
 };

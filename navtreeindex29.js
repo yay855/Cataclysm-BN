@@ -1,11 +1,12 @@
 var NAVTREEINDEX29 =
 {
+"classcatacurses_1_1window.html#a37f2ca0cc9f7bf0852e76aba4ba99bb5":[35,0,76,0,3],
 "classcatacurses_1_1window.html#a54ddd79d27421b1da357757c3a5fa8a8":[35,0,76,0,5],
 "classcatacurses_1_1window.html#a54ddd79d27421b1da357757c3a5fa8a8":[36,0,17,0,5],
 "classcatacurses_1_1window.html#a8afbd1925d293cb03e3a913075249887":[36,0,17,0,1],
 "classcatacurses_1_1window.html#a8afbd1925d293cb03e3a913075249887":[35,0,76,0,1],
-"classcatacurses_1_1window.html#a9411dcd946165d408ea51644b0fb3f99":[35,0,76,0,4],
 "classcatacurses_1_1window.html#a9411dcd946165d408ea51644b0fb3f99":[36,0,17,0,4],
+"classcatacurses_1_1window.html#a9411dcd946165d408ea51644b0fb3f99":[35,0,76,0,4],
 "classcatacurses_1_1window.html#ab399d7c205c8c6b31063b2b51be67b9b":[36,0,17,0,6],
 "classcatacurses_1_1window.html#ab399d7c205c8c6b31063b2b51be67b9b":[35,0,76,0,6],
 "classcatacurses_1_1window.html#ab4ebccdbbf950c1d41d68054e1903de6":[35,0,76,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX29 =
 "classcomputer__session.html#acbadadcd89b37b4ddb1c2e47fbc1affe":[36,0,162,51],
 "classcomputer__session.html#ad3910891554b2cea3c2993caee432472":[36,0,162,74],
 "classcomputer__session.html#ad48b17bf7fd42addae85fa5ace73cc10":[36,0,162,53],
-"classcomputer__session.html#ad8df29f1388352c72d35244414a54f34":[36,0,162,14],
-"classcomputer__session.html#add187b2415d8b58591d61f28b2ba45e1":[36,0,162,19]
+"classcomputer__session.html#ad8df29f1388352c72d35244414a54f34":[36,0,162,14]
 };

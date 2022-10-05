@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"classitem__pricing.html":[36,0,468],
 "classitem__pricing.html#a0e45354b3b9f9bb472fd168e9659f769":[36,0,468,15],
 "classitem__pricing.html#a0fa8db09bcff4a86817aa81873e0bfb5":[36,0,468,1],
 "classitem__pricing.html#a14b1af298694b448db9aa5a5325f9540":[36,0,468,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "classjmapgen__sign.html#aefa173616901db8f64d7932eb5cdd3bb":[36,0,502,0],
 "classjmapgen__spawn__item.html":[36,0,503],
 "classjmapgen__spawn__item.html#a376534c4bc7bbf226a70c84ff0342cfb":[36,0,503,1],
-"classjmapgen__spawn__item.html#a6499f11494c86cae436eb0844a987834":[36,0,503,3],
-"classjmapgen__spawn__item.html#a74a768ee3cc809a1a37eabc756207fb9":[36,0,503,4]
+"classjmapgen__spawn__item.html#a6499f11494c86cae436eb0844a987834":[36,0,503,3]
 };

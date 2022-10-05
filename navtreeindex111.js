@@ -1,5 +1,6 @@
 var NAVTREEINDEX111 =
 {
+"namespaceanonymous__namespace_02martialarts_8cpp_03.html#adf8fd9cfd1bea36da26edfc99075b372":[35,0,42,2],
 "namespaceanonymous__namespace_02material_8cpp_03.html":[35,0,43],
 "namespaceanonymous__namespace_02material_8cpp_03.html#a7ca756e3448d6202a95086c3d2fa0005":[35,0,43,0],
 "namespaceanonymous__namespace_02messages_8cpp_03.html":[35,0,44],
@@ -248,6 +249,5 @@ var NAVTREEINDEX111 =
 "namespacecatacurses.html#a51707e12b1a95f6c69b1e128c4ba2601":[35,0,76,37],
 "namespacecatacurses.html#a536ff8079e7903cfeb4fd1e44dea2f8f":[35,0,76,25],
 "namespacecatacurses.html#a576fd20080b8f49e27acf97af45b374b":[35,0,76,22],
-"namespacecatacurses.html#a5e3d87563c99055c3a89fae235b305a4":[35,0,76,24],
-"namespacecatacurses.html#a6b1752cd3ddf8789d193e23b540d6354":[35,0,76,21]
+"namespacecatacurses.html#a5e3d87563c99055c3a89fae235b305a4":[35,0,76,24]
 };

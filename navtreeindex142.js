@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"structdetail_1_1stringifier.html":[35,0,94,99],
 "structdetail_1_1stringifier.html":[36,0,20,98],
 "structdetail_1_1stringifier.html#a0764fe0805dc7c3acdd52f05ad242698":[35,0,94,99,0],
 "structdetail_1_1stringifier.html#a0764fe0805dc7c3acdd52f05ad242698":[36,0,20,98,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "structenum__traits_3_01cata__variant__type_01_4.html#abd87a470bfbbc11014a087b6da97c04e":[36,0,257,0],
 "structenum__traits_3_01character__movemode_01_4.html":[36,0,258],
 "structenum__traits_3_01character__movemode_01_4.html#a68447aa5ab83cb0fbf6bd38c16266a55":[36,0,258,0],
-"structenum__traits_3_01character__stat_01_4.html":[36,0,259],
-"structenum__traits_3_01character__stat_01_4.html#abeb70c3440ea7fa6758957885c688b22":[36,0,259,0]
+"structenum__traits_3_01character__stat_01_4.html":[36,0,259]
 };

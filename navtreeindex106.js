@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"mondeath_8cpp.html#ac2aa877afbc90f2a8dccb91704af5973":[37,0,1,398,11],
 "mondeath_8cpp.html#ae04f21c0fdc4e48f92280d493ad65b82":[37,0,1,398,0],
 "mondeath_8cpp.html#ae65a9a8c5e0591a5f9b530b68c704235":[37,0,1,398,5],
 "mondeath_8cpp.html#aed84cc428d3176b893fe131e4eda45c3":[37,0,1,398,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "monster_8h.html#aac044bb92427fa3cd80c3c945ba7ecd4a0ce480509deec9f88856c498d12ee1e1":[37,0,1,410,3,7],
 "monster_8h.html#aac044bb92427fa3cd80c3c945ba7ecd4a1c6426f1f830743448b46e8e2aa068b4":[37,0,1,410,3,3],
 "monster_8h.html#aac044bb92427fa3cd80c3c945ba7ecd4a52a7ccec96082d0ed012c09ec10b10f2":[37,0,1,410,3,8],
-"monster_8h.html#aac044bb92427fa3cd80c3c945ba7ecd4a7284d60cdedff9ecfaaf33b10ba4986b":[37,0,1,410,3,1],
-"monster_8h.html#aac044bb92427fa3cd80c3c945ba7ecd4a850d5624fd1d54192310ab8b13f228ee":[37,0,1,410,3,5]
+"monster_8h.html#aac044bb92427fa3cd80c3c945ba7ecd4a7284d60cdedff9ecfaaf33b10ba4986b":[37,0,1,410,3,1]
 };

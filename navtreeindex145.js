@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"structfuel__explosion.html#aa919d40c33bd8f1021043c4e5b6fcad1":[36,0,360,3],
 "structfuel__explosion.html#ac753c9614f85226b83eba0a04b398394":[36,0,360,2],
 "structfuel__explosion.html#adc2ad7f2f7acfc0a66e874a774cfc627":[36,0,360,0],
 "structfurn__t.html":[36,0,362],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "structislot__book_1_1recipe__with__description__t.html#a81128db90cd0174d3500d4cb1bbf002e":[36,0,439,0,4],
 "structislot__book_1_1recipe__with__description__t.html#a99fc8e6be1db40f6b4dfbd0b4d2866e5":[36,0,439,0,1],
 "structislot__book_1_1recipe__with__description__t.html#ab1754e8717fef2508852ad9cf8576bff":[36,0,439,0,0],
-"structislot__book_1_1recipe__with__description__t.html#aef4536c534e6eb32a5077303e57bbb31":[36,0,439,0,2],
-"structislot__brewable.html":[36,0,440]
+"structislot__book_1_1recipe__with__description__t.html#aef4536c534e6eb32a5077303e57bbb31":[36,0,439,0,2]
 };
