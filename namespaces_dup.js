@@ -1200,6 +1200,7 @@ var namespaces_dup =
     ] ],
     [ "monexamine", "namespacemonexamine.html", [
       [ "add_armor", "namespacemonexamine.html#aae7a3811b8d378a0968e67504f671bdf", null ],
+      [ "add_leash", "namespacemonexamine.html#ac213a1f089bcc2602a6c6c9d58d1d7b4", null ],
       [ "attach_bag_to", "namespacemonexamine.html#a935d4c4eb310af58bb939713d5cd22c9", null ],
       [ "attach_or_remove_saddle", "namespacemonexamine.html#a4396430d7db63915584d98c8180ea646", null ],
       [ "dump_items", "namespacemonexamine.html#a684505599f42f0f8c335365a2e0cd73c", null ],
@@ -1218,10 +1219,14 @@ var namespaces_dup =
       [ "remove_bag_from", "namespacemonexamine.html#a2f302aad60309cfa27768eaa40a1b40d", null ],
       [ "remove_battery", "namespacemonexamine.html#ae632756df3737235336f084961b8df6c", null ],
       [ "remove_harness", "namespacemonexamine.html#aec6fc547baa6fbcade434b0c8b38c905", null ],
+      [ "remove_leash", "namespacemonexamine.html#aa21165a63662ca525d1d9eea0a5b0d74", null ],
       [ "rename_pet", "namespacemonexamine.html#ae3ae4dbba4b470de0cb54e316337d6fb", null ],
       [ "shear_animal", "namespacemonexamine.html#af7c79c1c022f82da8a1cedeceb969aeb", null ],
+      [ "start_leading", "namespacemonexamine.html#a1c203b2eee53d0bcd927c4271e410c87", null ],
+      [ "stop_leading", "namespacemonexamine.html#a663586e54746514203b84f302e5b7faf", null ],
       [ "swap", "namespacemonexamine.html#af4ee634a5921005409a5f3aa79e4a8a3", null ],
-      [ "tie_or_untie", "namespacemonexamine.html#a48eed9a72d82e4a9258fbfbe7996aaf1", null ]
+      [ "tie_pet", "namespacemonexamine.html#ae76b120af015a9112d4ae33380b28164", null ],
+      [ "untie_pet", "namespacemonexamine.html#a3500f4f80a6dc864dac50a5af744be0a", null ]
     ] ],
     [ "monfactions", "namespacemonfactions.html", [
       [ "finalize", "namespacemonfactions.html#a420bb089e53354a988195b3f136347ec", null ],
