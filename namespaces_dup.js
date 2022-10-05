@@ -68,8 +68,20 @@ var namespaces_dup =
     [ "anonymous_namespace{clzones.cpp}", "namespaceanonymous__namespace_02clzones_8cpp_03.html", [
       [ "zone_type_factory", "namespaceanonymous__namespace_02clzones_8cpp_03.html#a406c1737dfc42cacbea5c69e6fa78a15", null ]
     ] ],
+    [ "anonymous_namespace{construction.cpp}", "namespaceanonymous__namespace_02construction_8cpp_03.html", [
+      [ "all_constructions", "namespaceanonymous__namespace_02construction_8cpp_03.html#a5da2e229b1546f7772edc48fa79116e6", null ],
+      [ "constructions_sorted", "namespaceanonymous__namespace_02construction_8cpp_03.html#ad6f88bc31464db11fe2f957ce8abfe3d", null ]
+    ] ],
     [ "anonymous_namespace{construction_category.cpp}", "namespaceanonymous__namespace_02construction__category_8cpp_03.html", [
       [ "all_construction_categories", "namespaceanonymous__namespace_02construction__category_8cpp_03.html#a62dfe7e8a222a935c47fbe43044973b1", null ]
+    ] ],
+    [ "anonymous_namespace{construction_group.cpp}", "namespaceanonymous__namespace_02construction__group_8cpp_03.html", [
+      [ "all_construction_groups", "namespaceanonymous__namespace_02construction__group_8cpp_03.html#a1abe9358fbbbb232d9e3a1d6b06d8ca8", null ]
+    ] ],
+    [ "anonymous_namespace{construction_sequence.cpp}", "namespaceanonymous__namespace_02construction__sequence_8cpp_03.html", [
+      [ "all_sequences", "namespaceanonymous__namespace_02construction__sequence_8cpp_03.html#ad2faffcffdd5b5e821cd1b7deeeea75a", null ],
+      [ "sequences_for_furn", "namespaceanonymous__namespace_02construction__sequence_8cpp_03.html#aeb9da88db26bdb23b47113689c9d7193", null ],
+      [ "sequences_for_ter", "namespaceanonymous__namespace_02construction__sequence_8cpp_03.html#ae49fae693fc8c1c1f9a279f9482d202d", null ]
     ] ],
     [ "anonymous_namespace{debug.cpp}", "namespaceanonymous__namespace_02debug_8cpp_03.html", [
       [ "ignored_messages", "namespaceanonymous__namespace_02debug_8cpp_03.html#aac5ec8bb66a16096a2fd9ae0e87fcdf6", null ]
@@ -342,7 +354,7 @@ var namespaces_dup =
       [ "check_empty", "namespaceconstruct.html#a5c7bfa81b1b783dbe606e8e1ae270cb2", null ],
       [ "check_empty_up_OK", "namespaceconstruct.html#a8e2634d318be5dc50bdb38f4b30f726f", null ],
       [ "check_no_trap", "namespaceconstruct.html#a067fa17ebfe14fea8e561056651e010f", null ],
-      [ "check_nothing", "namespaceconstruct.html#a993b2191890a54b54730c413070ea577", null ],
+      [ "check_nothing", "namespaceconstruct.html#ac4566ee40eb51023fc15b0f21a120524", null ],
       [ "check_ramp_high", "namespaceconstruct.html#a6b8cdaae5a7bd8bcae16e4670b729896", null ],
       [ "check_ramp_low", "namespaceconstruct.html#aeb00f0d89830aff9fd97f91ada1300b3", null ],
       [ "check_support", "namespaceconstruct.html#adf73ee06612e17a7462faf763b99340b", null ],
@@ -370,6 +382,30 @@ var namespaces_dup =
       [ "get_all", "namespaceconstruction__categories.html#a287119b0bac61689752c8171770d7711", null ],
       [ "load", "namespaceconstruction__categories.html#a7f83111651080465e41ffe8d71b044b8", null ],
       [ "reset", "namespaceconstruction__categories.html#a626e729f7a1ffbe907bab878ccb61a2d", null ]
+    ] ],
+    [ "construction_groups", "namespaceconstruction__groups.html", [
+      [ "get_all", "namespaceconstruction__groups.html#aa39b5e6512ad85bc06a16c92d758cc2a", null ],
+      [ "load", "namespaceconstruction__groups.html#aa2c993aeb54fad42759995256dc506f4", null ],
+      [ "reset", "namespaceconstruction__groups.html#a818b6b3bcdd82c5a18a7866adca57ee3", null ]
+    ] ],
+    [ "construction_sequences", "namespaceconstruction__sequences.html", [
+      [ "check_consistency", "namespaceconstruction__sequences.html#ae3dd77cfb59719ab0ce5f04905eb40c1", null ],
+      [ "finalize", "namespaceconstruction__sequences.html#a9d09cc131d46de4a5c993f90dd9407b7", null ],
+      [ "has_valid_category", "namespaceconstruction__sequences.html#abe055de70abaec3f4870b1bbdc0eaf2a", null ],
+      [ "has_valid_result", "namespaceconstruction__sequences.html#ab87dcf409cee13a4410f85cf2e92bfb7", null ],
+      [ "is_valid_first_step", "namespaceconstruction__sequences.html#a63bbedcb693b9cd0f74a7fc5e6b5b864", null ],
+      [ "load", "namespaceconstruction__sequences.html#a931e4647d20ea9a3f0f2f1a3368a87b7", null ],
+      [ "lookup_sequence", "namespaceconstruction__sequences.html#aaaf5d2418465c08d386c8f81c6fe041f", null ],
+      [ "lookup_sequence", "namespaceconstruction__sequences.html#aaea5fc5d3181e2de94c3f0907a6504d9", null ],
+      [ "reset", "namespaceconstruction__sequences.html#abf7e7f9130e3548ede8580c0e8ceb01e", null ]
+    ] ],
+    [ "constructions", "namespaceconstructions.html", [
+      [ "check_consistency", "namespaceconstructions.html#a012e345f9cc8d1b1caaeee08acbea958", null ],
+      [ "finalize", "namespaceconstructions.html#aff7bc057c801d3b2deef09e83cf3e7d7", null ],
+      [ "get_all_sorted", "namespaceconstructions.html#ac95b3bf969c90f634ef207f68584fda3", null ],
+      [ "load", "namespaceconstructions.html#acd2f385d7fcf3afb87b0407e1c8bfb91", null ],
+      [ "override_build_times", "namespaceconstructions.html#a13ebf7d49064b926b2911dadef16bf03", null ],
+      [ "reset", "namespaceconstructions.html#a5dd444bbaaedcd39c8e8208e6b646378", null ]
     ] ],
     [ "coords", "namespacecoords.html", "namespacecoords" ],
     [ "crafting", "namespacecrafting.html", [

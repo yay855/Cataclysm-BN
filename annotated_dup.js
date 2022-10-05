@@ -587,6 +587,8 @@ var annotated_dup =
     [ "consistency_report", "classconsistency__report.html", "classconsistency__report" ],
     [ "construction", "structconstruction.html", "structconstruction" ],
     [ "construction_category", "structconstruction__category.html", "structconstruction__category" ],
+    [ "construction_group", "structconstruction__group.html", "structconstruction__group" ],
+    [ "construction_sequence", "structconstruction__sequence.html", "structconstruction__sequence" ],
     [ "consume_drug_iuse", "classconsume__drug__iuse.html", "classconsume__drug__iuse" ],
     [ "consumption_event", "structconsumption__event.html", "structconsumption__event" ],
     [ "consumption_history_t", "structconsumption__history__t.html", "structconsumption__history__t" ],
