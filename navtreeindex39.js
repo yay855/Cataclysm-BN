@@ -1,5 +1,8 @@
 var NAVTREEINDEX39 =
 {
+"classgame.html#ab26b0ec29870ba5cfec12999f57926eb":[36,0,364,178],
+"classgame.html#ab453a46e537aef2ea2ea37363687fd37":[36,0,364,110],
+"classgame.html#ab58668f2541944a17bb0121e4c9e23b2":[36,0,364,372],
 "classgame.html#ab58bd12ec0c4a0b5be2c35107a5a24b9":[36,0,364,46],
 "classgame.html#ab6a1689fcb99f28cb9bee5b831a21450":[36,0,364,328],
 "classgame.html#ab7fae03801dfe466b9a2dea1d4ec6442":[36,0,364,34],
@@ -200,12 +203,15 @@ var NAVTREEINDEX39 =
 "classgeneric__factory_1_1Version.html#ad66d4e595006dc7e3019c9c6ab1ca512":[36,0,366,0,4],
 "classgeneric__factory_1_1Version.html#af613a1e42def5b45f0eefba3d1090595":[36,0,366,0,2],
 "classgeneric__typed__reader.html":[36,0,367],
-"classgeneric__typed__reader.html#a40b9fcf59bb4042b9b5fbd558f86537d":[36,0,367,1],
-"classgeneric__typed__reader.html#a757f25520108f740858c0937b609d5c6":[36,0,367,5],
-"classgeneric__typed__reader.html#a84dae809e1785fe10b828ac65d8eba43":[36,0,367,4],
-"classgeneric__typed__reader.html#a9f8879302abdfc6c4734776710f63d3b":[36,0,367,3],
-"classgeneric__typed__reader.html#ac65dc681056a777da3dd1732448a0af6":[36,0,367,2],
-"classgeneric__typed__reader.html#af700506046da840fe051c9007038730c":[36,0,367,0],
+"classgeneric__typed__reader.html#a40b9fcf59bb4042b9b5fbd558f86537d":[36,0,367,3],
+"classgeneric__typed__reader.html#a757f25520108f740858c0937b609d5c6":[36,0,367,7],
+"classgeneric__typed__reader.html#a84dae809e1785fe10b828ac65d8eba43":[36,0,367,6],
+"classgeneric__typed__reader.html#a9f8879302abdfc6c4734776710f63d3b":[36,0,367,5],
+"classgeneric__typed__reader.html#ab4b83f8ea9e2cc8bbccf5066b0b08aca":[36,0,367,8],
+"classgeneric__typed__reader.html#ac65dc681056a777da3dd1732448a0af6":[36,0,367,4],
+"classgeneric__typed__reader.html#ad5cfffc685b127008ffa97f03c10489c":[36,0,367,1],
+"classgeneric__typed__reader.html#af67607ae19c511edb56c5d3f17bb9dab":[36,0,367,0],
+"classgeneric__typed__reader.html#af700506046da840fe051c9007038730c":[36,0,367,2],
 "classgeneric__vehicle__part__range.html":[36,0,368],
 "classgeneric__vehicle__part__range.html#a0ca60e279d69f8bf39176c662f9f6615":[36,0,368,9],
 "classgeneric__vehicle__part__range.html#a0f37a23ff46645a95312de49655bf6fa":[36,0,368,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX39 =
 "classgun__actor.html#a3e6eb6736a7e91a375e01cc0a6760dff":[36,0,372,15],
 "classgun__actor.html#a4d974bd7f92ce69799e53602af86270c":[36,0,372,26],
 "classgun__actor.html#a5221d464f2ea89c177e0b4dbc8a67dea":[36,0,372,8],
-"classgun__actor.html#a555c1f1fae690ffb3f2de83758a13464":[36,0,372,21],
-"classgun__actor.html#a56c43c74c06c035f895de9a93d57fa6b":[36,0,372,10],
-"classgun__actor.html#a6712305c7f797f98e713d46132bf3160":[36,0,372,23],
-"classgun__actor.html#a7bc74ea463561eef5a33b6391e3f7160":[36,0,372,14],
-"classgun__actor.html#a8d37856ff5aa0b3a02ea1590f6038643":[36,0,372,25],
-"classgun__actor.html#a91a6d3fd47e5b2e6bff40441d0c21e6f":[36,0,372,6],
-"classgun__actor.html#aaa8250938390d7900af7d3a82429e63d":[36,0,372,17]
+"classgun__actor.html#a555c1f1fae690ffb3f2de83758a13464":[36,0,372,21]
 };

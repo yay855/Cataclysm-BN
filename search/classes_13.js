@@ -169,5 +169,12 @@ var searchData=
   ['submap_166',['submap',['../classsubmap.html',1,'']]],
   ['substitution_167',['substitution',['../structjson__item__substitution_1_1substitution.html',1,'json_item_substitution']]],
   ['subtype_168',['subtype',['../classovermap__connection_1_1subtype.html',1,'overmap_connection']]],
-  ['system_5ferror_169',['system_error',['../classsystem__error.html',1,'']]]
+  ['supports_5fproportional_169',['supports_proportional',['../structsupports__proportional.html',1,'']]],
+  ['supports_5fproportional_3c_20bool_20_3e_170',['supports_proportional&lt; bool &gt;',['../structsupports__proportional_3_01bool_01_4.html',1,'']]],
+  ['supports_5fproportional_3c_20t_2c_20cata_3a_3avoid_5ft_3c_20decltype_28std_3a_3adeclval_3c_20t_20_26_20_3e_28_29_20_2a_3dstd_3a_3adeclval_3c_20float_20_3e_28_29_29_3e_20_3e_171',['supports_proportional&lt; T, cata::void_t&lt; decltype(std::declval&lt; T &amp; &gt;() *=std::declval&lt; float &gt;())&gt; &gt;',['../structsupports__proportional_3_01T_00_01cata_1_1void__t_3_01decltype_07std_1_1declval_3_01T_01_65a900226014ad1185c6b766ea4e24245.html',1,'']]],
+  ['supports_5frelative_172',['supports_relative',['../structsupports__relative.html',1,'']]],
+  ['supports_5frelative_3c_20bool_20_3e_173',['supports_relative&lt; bool &gt;',['../structsupports__relative_3_01bool_01_4.html',1,'']]],
+  ['supports_5frelative_3c_20std_3a_3astring_20_3e_174',['supports_relative&lt; std::string &gt;',['../structsupports__relative_3_01std_1_1string_01_4.html',1,'']]],
+  ['supports_5frelative_3c_20t_2c_20cata_3a_3avoid_5ft_3c_20decltype_28std_3a_3adeclval_3c_20t_20_26_20_3e_28_29_2b_3dstd_3a_3adeclval_3c_20t_20_26_20_3e_28_29_29_3e_20_3e_175',['supports_relative&lt; T, cata::void_t&lt; decltype(std::declval&lt; T &amp; &gt;()+=std::declval&lt; T &amp; &gt;())&gt; &gt;',['../structsupports__relative_3_01T_00_01cata_1_1void__t_3_01decltype_07std_1_1declval_3_01T_01_6_01_50ce8d93c8242fc4603fa58eb9774b45.html',1,'']]],
+  ['system_5ferror_176',['system_error',['../classsystem__error.html',1,'']]]
 ];
