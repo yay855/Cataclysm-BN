@@ -1,5 +1,7 @@
 var NAVTREEINDEX140 =
 {
+"structdetail_1_1basic__data.html#aa7a65384d7ac9de20ad6450d6aabcda4":[35,0,94,11,23],
+"structdetail_1_1basic__data.html#aa87d193632b663559777ad25d80dc1f7":[35,0,94,11,16],
 "structdetail_1_1basic__data.html#aa87d193632b663559777ad25d80dc1f7":[36,0,20,10,16],
 "structdetail_1_1basic__data.html#aaf050e78e365a76c6960a8453a98ab77":[36,0,20,10,6],
 "structdetail_1_1basic__data.html#aaf050e78e365a76c6960a8453a98ab77":[35,0,94,11,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX140 =
 "structdetail_1_1dynamic__arg__list_1_1node.html#a696c09fe0167fc08b332f67012e6bff8":[36,0,20,33,0,0],
 "structdetail_1_1dynamic__arg__list_1_1node.html#ab50c11788f19bbcdb90f3336de440de5":[35,0,94,34,0,1],
 "structdetail_1_1dynamic__arg__list_1_1node.html#ab50c11788f19bbcdb90f3336de440de5":[36,0,20,33,0,1],
-"structdetail_1_1dynamic__arg__list_1_1typed__node.html":[35,0,94,34,1],
-"structdetail_1_1dynamic__arg__list_1_1typed__node.html":[36,0,20,33,1],
-"structdetail_1_1dynamic__arg__list_1_1typed__node.html#a5d6dbb89dde0864aedf89d01148676a5":[35,0,94,34,1,0]
+"structdetail_1_1dynamic__arg__list_1_1typed__node.html":[35,0,94,34,1]
 };

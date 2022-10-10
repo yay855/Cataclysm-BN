@@ -1,5 +1,7 @@
 var NAVTREEINDEX138 =
 {
+"structconditional__t.html#a3dbcd797884f19e74316a6260659a43e":[36,0,164,31],
+"structconditional__t.html#a41f47ac9fa5d7756f4cb99ea9d581868":[36,0,164,16],
 "structconditional__t.html#a444b1e153404dc48ec70e4182e94610d":[36,0,164,5],
 "structconditional__t.html#a4a3c48e07323e6114cd7a29e135d3ccb":[36,0,164,1],
 "structconditional__t.html#a4b21f41e54dc164bade157c81a0880ee":[36,0,164,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX138 =
 "structdealt__projectile__attack.html#a93f05a2866e4dbc8c4d432a67daf8ab6":[36,0,190,4],
 "structdealt__projectile__attack.html#ab874a1233da5daa95ff296cdb1ee1849":[36,0,190,3],
 "structdealt__projectile__attack.html#aca4d2ea74ab244bb1defe86449a45c39":[36,0,190,0],
-"structdebug__log__class.html":[36,0,191],
-"structdebug__log__class.html#a0ce9b2646043e8c6dff5d37e53010614":[36,0,191,0],
-"structdebug__log__class.html#ab01c2b3125586be7138746ee96b31955":[36,0,191,1]
+"structdebug__log__class.html":[36,0,191]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX142 =
 {
+"structdetail_1_1precision__adapter.html#a24587fc3e6e50c7f495a316869d624a0":[35,0,94,90,1],
+"structdetail_1_1precision__adapter.html#a37275f47b90794c7649808607dcf9168":[35,0,94,90,0],
 "structdetail_1_1precision__adapter.html#a37275f47b90794c7649808607dcf9168":[36,0,20,89,0],
 "structdetail_1_1precision__adapter.html#a5f91a622c57b45b6bfc07aae6396abc4":[36,0,20,89,3],
 "structdetail_1_1precision__adapter.html#a5f91a622c57b45b6bfc07aae6396abc4":[35,0,94,90,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX142 =
 "structenum__traits_3_01achievement__completion_01_4.html":[36,0,249],
 "structenum__traits_3_01achievement__completion_01_4.html#a0ceb9830f038fba0f82ece47b0ca3b0a":[36,0,249,0],
 "structenum__traits_3_01add__type_01_4.html":[36,0,250],
-"structenum__traits_3_01add__type_01_4.html#ab05dba45f712e2ffd837f75bfce84ea2":[36,0,250,0],
-"structenum__traits_3_01art__charge_01_4.html":[36,0,251],
-"structenum__traits_3_01art__charge_01_4.html#a319d3d1892a36f4d05614239fb4873b2":[36,0,251,0]
+"structenum__traits_3_01add__type_01_4.html#ab05dba45f712e2ffd837f75bfce84ea2":[36,0,250,0]
 };

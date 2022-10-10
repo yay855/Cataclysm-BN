@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"structformatter_3_01void_01_5_00_01Char_01_4.html":[36,0,358],
+"structformatter_3_01void_01_5_00_01Char_01_4.html#ad65a1d23126765982b101ee86da7e5b8":[36,0,358,0],
 "structfour__quadrants.html":[36,0,359],
 "structfour__quadrants.html#a085963fb395433c0805b9395f2c7f0d1":[36,0,359,0],
 "structfour__quadrants.html#a12e2585a184311d6d9d1f3880b951c0f":[36,0,359,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "structislot__battery.html#a76027fae51228598d6ddbd6946b0998e":[36,0,439,0],
 "structislot__bionic.html":[36,0,440],
 "structislot__bionic.html#a2181146d61a333d94ec990f6a017e2e8":[36,0,440,1],
-"structislot__bionic.html#a93e7f9bf0f6de84ce4ef1a7a44b5137b":[36,0,440,2],
-"structislot__bionic.html#ad605efa5433b2babd68377b854514496":[36,0,440,0],
-"structislot__bionic.html#ad9a120bc689e66669157f1503b5ac1c7":[36,0,440,3]
+"structislot__bionic.html#a93e7f9bf0f6de84ce4ef1a7a44b5137b":[36,0,440,2]
 };

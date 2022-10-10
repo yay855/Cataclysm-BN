@@ -5,6 +5,7 @@ var monexamine_8h =
     [ "add_leash", "monexamine_8h.html#ac213a1f089bcc2602a6c6c9d58d1d7b4", null ],
     [ "attach_bag_to", "monexamine_8h.html#a935d4c4eb310af58bb939713d5cd22c9", null ],
     [ "attach_or_remove_saddle", "monexamine_8h.html#a4396430d7db63915584d98c8180ea646", null ],
+    [ "deactivate_pet", "monexamine_8h.html#ad401ef970ed982d7b51fe916e02429b7", null ],
     [ "dump_items", "monexamine_8h.html#a684505599f42f0f8c335365a2e0cd73c", null ],
     [ "give_items_to", "monexamine_8h.html#a89f3eb85572610e64aa683902e43687e", null ],
     [ "insert_battery", "monexamine_8h.html#ab136709e2d3d094e1935f557142f1f75", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"units__angle_8h_source.html":[37,0,1,613],
+"units__def_8h.html":[37,0,1,614],
 "units__def_8h.html#a02cd314e028c7c9b30313c8de875ab63":[37,0,1,614,5],
 "units__def_8h.html#a0b9218914b883c6c31f5af68deaafc2e":[37,0,1,614,3],
 "units__def_8h.html#a17c1b0beb2eae062157f05809396884e":[37,0,1,614,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX161 =
 "veh__type_8h.html#aa3ff66a8c100c3deb40dfa70f1eb307eacc3ad83b0715d19607620b2c4eb8b3c6":[37,0,1,628,10,14],
 "veh__type_8h.html#aa3ff66a8c100c3deb40dfa70f1eb307eace7ffd17e8edd10723a941fc08e07936":[37,0,1,628,10,43],
 "veh__type_8h.html#aa3ff66a8c100c3deb40dfa70f1eb307ead1724a47fcf2214f046c849f742b1304":[37,0,1,628,10,44],
-"veh__type_8h.html#aa3ff66a8c100c3deb40dfa70f1eb307ead1fb8cdaa5d9f3fbd6295b9c6302e6fe":[37,0,1,628,10,28],
-"veh__type_8h.html#aa3ff66a8c100c3deb40dfa70f1eb307ead210283ee2009648782a2e5f41a8adbe":[37,0,1,628,10,25],
-"veh__type_8h.html#aa3ff66a8c100c3deb40dfa70f1eb307ead7b9198b8e954dd64a49dc33bac87520":[37,0,1,628,10,15]
+"veh__type_8h.html#aa3ff66a8c100c3deb40dfa70f1eb307ead1fb8cdaa5d9f3fbd6295b9c6302e6fe":[37,0,1,628,10,28]
 };
