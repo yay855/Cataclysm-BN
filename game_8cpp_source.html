@@ -7100,10 +7100,10 @@ $(document).ready(function(){initNavTree('game_8cpp_source.html',''); initResiza
 <div class="line"><a id="l07011" name="l07011"></a><span class="lineno"> 7011</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4">ret</a>;</div>
 <div class="line"><a id="l07012" name="l07012"></a><span class="lineno"> 7012</span>    }</div>
 <div class="line"><a id="l07013" name="l07013"></a><span class="lineno"> 7013</span> </div>
-<div class="line"><a id="l07014" name="l07014"></a><span class="lineno"> 7014</span>    <span class="keywordtype">int</span> range = <a class="code hl_variable" href="cached__options_8cpp.html#a1eedced6e405cd87cabd19fdd193de43">fov_3d</a> ? <a class="code hl_variable" href="cached__options_8cpp.html#a0cb65464a3fa34c1ed5474f5d2d853a7">fov_3d_z_range</a> : 0;</div>
+<div class="line"><a id="l07014" name="l07014"></a><span class="lineno"> 7014</span>    <span class="keywordtype">int</span> range = <a class="code hl_variable" href="cached__options_8cpp.html#a1eedced6e405cd87cabd19fdd193de43">fov_3d</a> ? ( <a class="code hl_variable" href="cached__options_8cpp.html#a0cb65464a3fa34c1ed5474f5d2d853a7">fov_3d_z_range</a> * 2 ) + 1 : 1;</div>
 <div class="line"><a id="l07015" name="l07015"></a><span class="lineno"> 7015</span>    <span class="keywordtype">int</span> center_z = <a class="code hl_variable" href="classgame.html#ab9c32601ae80bf3d1c86a3fdf0236202">u</a>.<a class="code hl_function" href="classCharacter.html#ad24859164517ed6e392e21df69527199">pos</a>().<a class="code hl_variable" href="structtripoint.html#ac944c0e329b5eba2602f7a52f66bbbb9">z</a>;</div>
 <div class="line"><a id="l07016" name="l07016"></a><span class="lineno"> 7016</span> </div>
-<div class="line"><a id="l07017" name="l07017"></a><span class="lineno"> 7017</span>    <span class="keywordflow">for</span>( <span class="keywordtype">int</span> i = 0; i &lt;= range * 2; i++ ) {</div>
+<div class="line"><a id="l07017" name="l07017"></a><span class="lineno"> 7017</span>    <span class="keywordflow">for</span>( <span class="keywordtype">int</span> i = 1; i &lt;= range; i++ ) {</div>
 <div class="line"><a id="l07018" name="l07018"></a><span class="lineno"> 7018</span>        <span class="keywordtype">int</span> z = i % 2 ? center_z - i / 2 : center_z + i / 2;</div>
 <div class="line"><a id="l07019" name="l07019"></a><span class="lineno"> 7019</span>        <span class="keywordflow">for</span>( <span class="keyword">auto</span> &amp;points_p_it : <a class="code hl_function" href="coordinates_8h.html#a13a12943d34d5f17e6c3b4e730659fc6">closest_points_first</a>( {<a class="code hl_variable" href="classgame.html#ab9c32601ae80bf3d1c86a3fdf0236202">u</a>.<a class="code hl_function" href="classCharacter.html#ad24859164517ed6e392e21df69527199">pos</a>().xy(), z}, iRadius ) ) {</div>
 <div class="line"><a id="l07020" name="l07020"></a><span class="lineno"> 7020</span>            <span class="keywordflow">if</span>( points_p_it.y &gt;= <a class="code hl_variable" href="classgame.html#ab9c32601ae80bf3d1c86a3fdf0236202">u</a>.<a class="code hl_function" href="classCharacter.html#a4b4d2e6bf4190c6470b282ce60183c0f">posy</a>() - iRadius &amp;&amp; points_p_it.y &lt;= <a class="code hl_variable" href="classgame.html#ab9c32601ae80bf3d1c86a3fdf0236202">u</a>.<a class="code hl_function" href="classCharacter.html#a4b4d2e6bf4190c6470b282ce60183c0f">posy</a>() + iRadius &amp;&amp;</div>
@@ -14279,7 +14279,7 @@ $(document).ready(function(){initNavTree('game_8cpp_source.html',''); initResiza
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="game_8cpp.html">game.cpp</a></li>
-    <li class="footer">Generated on Sat Oct 15 2022 20:02:08 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Oct 15 2022 20:04:06 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
