@@ -49,6 +49,7 @@ var debug__menu_8cpp =
       [ "DEBUG_QUIT_NOSAVE", "debug__menu_8cpp.html#a7457e58c3bc9fcf28b9c23cdab4df970ad7dfbaf8e855b57e90b022bc0728470c", null ],
       [ "DEBUG_TEST_WEATHER", "debug__menu_8cpp.html#a7457e58c3bc9fcf28b9c23cdab4df970a98457336f30d07ea9d1f363610c62fd2", null ],
       [ "DEBUG_SAVE_SCREENSHOT", "debug__menu_8cpp.html#a7457e58c3bc9fcf28b9c23cdab4df970af89c0ba34ced12aa3216085b8a0b4557", null ],
+      [ "DEBUG_BUG_REPORT", "debug__menu_8cpp.html#a7457e58c3bc9fcf28b9c23cdab4df970a14c3e3bf15581326b080bd8a4a1ac06a", null ],
       [ "DEBUG_GAME_REPORT", "debug__menu_8cpp.html#a7457e58c3bc9fcf28b9c23cdab4df970a4e0c1a7e62212a566f524ba4641a86fb", null ],
       [ "DEBUG_DISPLAY_SCENTS_LOCAL", "debug__menu_8cpp.html#a7457e58c3bc9fcf28b9c23cdab4df970aca1ae4e2804eefd71b05275708f953a9", null ],
       [ "DEBUG_DISPLAY_SCENTS_TYPE_LOCAL", "debug__menu_8cpp.html#a7457e58c3bc9fcf28b9c23cdab4df970ac96808b20cd8c021c65353af8ce542dd", null ],

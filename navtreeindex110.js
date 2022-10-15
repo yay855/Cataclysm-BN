@@ -1,5 +1,6 @@
 var NAVTREEINDEX110 =
 {
+"namespaceactivity__handlers.html#a31b2c35c9c3c968ddb57f08f42ee2aef":[35,0,2,49],
 "namespaceactivity__handlers.html#a3256ce8c70aa022e77b2acffe184a805":[35,0,2,45],
 "namespaceactivity__handlers.html#a3368882d01c71d746f0a44c00d355829":[35,0,2,73],
 "namespaceactivity__handlers.html#a340ba24c83ed5360fc3373591c3e1532":[35,0,2,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX110 =
 "namespaceanonymous__namespace_02magic_8cpp_03.html#adb68c1ae0d163ec93e1820c9a3374a6d":[35,0,36,0],
 "namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html":[35,0,37],
 "namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#a5fcc56ba11bba20034a45fa200fb9db8":[35,0,37,1],
-"namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#aabd90917ed74421ca18812b8922c41a8":[35,0,37,0],
-"namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#ad87b7bcda1e52a08d07509bcaa2274db":[35,0,37,2]
+"namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#aabd90917ed74421ca18812b8922c41a8":[35,0,37,0]
 };

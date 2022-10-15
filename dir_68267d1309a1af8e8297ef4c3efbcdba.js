@@ -638,6 +638,8 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "units_utility.cpp", "units__utility_8cpp.html", "units__utility_8cpp" ],
     [ "units_utility.h", "units__utility_8h.html", "units__utility_8h" ],
     [ "units_volume.h", "units__volume_8h.html", "units__volume_8h" ],
+    [ "url_utility.cpp", "url__utility_8cpp.html", "url__utility_8cpp" ],
+    [ "url_utility.h", "url__utility_8h.html", "url__utility_8h" ],
     [ "value_ptr.h", "value__ptr_8h.html", "value__ptr_8h" ],
     [ "veh_interact.cpp", "veh__interact_8cpp.html", "veh__interact_8cpp" ],
     [ "veh_interact.h", "veh__interact_8h.html", "veh__interact_8h" ],

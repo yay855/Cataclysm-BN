@@ -1,5 +1,7 @@
 var NAVTREEINDEX160 =
 {
+"trap_8h.html#a5fef901bfa2669cf1ae7c4d84c6c2a05":[37,0,1,601,57],
+"trap_8h.html#a6264c9fcb7d0787868dcc5e90e8d5cd6":[37,0,1,601,59],
 "trap_8h.html#a67ad178ac2d49b42b4b440427c073b0d":[37,0,1,601,38],
 "trap_8h.html#a6de3585e6278dffff659b71090ed4818":[37,0,1,601,32],
 "trap_8h.html#a702a7a92969010dfc54558a686f4c576":[37,0,1,601,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX160 =
 "units__angle_8h.html#a9ad75019bc8f9e959d7b35208f703812":[37,0,1,613,10],
 "units__angle_8h.html#a9c92bd154caa6182d686cab22405b92e":[37,0,1,613,4],
 "units__angle_8h.html#a9ce2bc1618fa4acf9f9e98effd9f1ae0":[37,0,1,613,19],
-"units__angle_8h.html#ac1de43f246169912ddda3d27cdf7920a":[37,0,1,613,14],
-"units__angle_8h.html#ac45a21446b78caffdd4240ef2b160eb6":[37,0,1,613,12],
-"units__angle_8h.html#ae5b6f66eb26226de4aac1ae267683c1d":[37,0,1,613,15]
+"units__angle_8h.html#ac1de43f246169912ddda3d27cdf7920a":[37,0,1,613,14]
 };
