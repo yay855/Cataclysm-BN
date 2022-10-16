@@ -108,7 +108,7 @@ var searchData=
   ['place_5frandomly_105',['place_randomly',['../classplace__monster__iuse.html#aaa27cb7405d5d018b381b1855562efcf',1,'place_monster_iuse::place_randomly()'],['../classplace__npc__iuse.html#a39eac4a1e2e0af00c8948f9c5d6475e1',1,'place_npc_iuse::place_randomly()']]],
   ['place_5fspecial_106',['place_special',['../classuistatedata.html#a432325cca49c585966b1aa07113586b1',1,'uistatedata']]],
   ['place_5fterrain_107',['place_terrain',['../classuistatedata.html#af3fa4f89a6723702ee6af1d9fce5ba8d',1,'uistatedata']]],
-  ['placement_108',['placement',['../classVehicleFunction__json.html#aca9454d12f69909144802d499d7ffad2',1,'VehicleFunction_json::placement()'],['../classplayer__activity.html#ad8add7819b06dcfa95ca4871447159f2',1,'player_activity::placement()'],['../classopen__gate__activity__actor.html#a6f19b2f788b0caec625a4dc1cb64cbec',1,'open_gate_activity_actor::placement()']]],
+  ['placement_108',['placement',['../classVehicleFunction__json.html#aca9454d12f69909144802d499d7ffad2',1,'VehicleFunction_json::placement()'],['../classplayer__activity.html#ad8add7819b06dcfa95ca4871447159f2',1,'player_activity::placement()'],['../classtoggle__gate__activity__actor.html#afe92adfce6c27b698678b41f46493cfc',1,'toggle_gate_activity_actor::placement()']]],
   ['placements_109',['placements',['../classovermap__special__batch.html#a072a2de95ce7201de4501cf4c3306b28',1,'overmap_special_batch']]],
   ['plant_110',['plant',['../structfurn__t.html#ac3845e974a411f26a4481f8c21e579e7',1,'furn_t']]],
   ['plant_111',['PLANT',['../game_8cpp.html#ab67cc19f9d134c6f2dec33102096df9d',1,'game.cpp']]],

@@ -31,10 +31,10 @@ var hierarchy =
       [ "hacking_activity_actor", "classhacking__activity__actor.html", null ],
       [ "migration_cancel_activity_actor", "classmigration__cancel__activity__actor.html", null ],
       [ "move_items_activity_actor", "classmove__items__activity__actor.html", null ],
-      [ "open_gate_activity_actor", "classopen__gate__activity__actor.html", null ],
       [ "pickup_activity_actor", "classpickup__activity__actor.html", null ],
       [ "stash_activity_actor", "classstash__activity__actor.html", null ],
       [ "throw_activity_actor", "classthrow__activity__actor.html", null ],
+      [ "toggle_gate_activity_actor", "classtoggle__gate__activity__actor.html", null ],
       [ "wash_activity_actor", "classwash__activity__actor.html", null ]
     ] ],
     [ "activity_reason_info", "structactivity__reason__info.html", null ],

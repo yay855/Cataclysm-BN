@@ -248,6 +248,6 @@ var NAVTREEINDEX37 =
 "classfungal__effects.html#af20c43b3b075705a45a9cbf87aa39df4":[36,0,361,3],
 "classfungal__effects.html#af6540db5c5fc36e0c09273ee6580821e":[36,0,361,1],
 "classgame.html":[36,0,364],
-"classgame.html#a00f95f8a5de3dd5799bd3969f27ca06c":[36,0,364,196],
-"classgame.html#a0239d5d51158da63d2d2e566e11fe0a3":[36,0,364,249]
+"classgame.html#a00f95f8a5de3dd5799bd3969f27ca06c":[36,0,364,195],
+"classgame.html#a0239d5d51158da63d2d2e566e11fe0a3":[36,0,364,248]
 };

@@ -573,9 +573,9 @@ var namespaces_dup =
     [ "gates", "namespacegates.html", [
       [ "check", "namespacegates.html#a3ef5351e05e4b2d492562205261db96c", null ],
       [ "load", "namespacegates.html#a0eeda5c9b391c2d30f63a1dad75b043b", null ],
-      [ "open_gate", "namespacegates.html#ae998ffa52a73418a8a0801c102648f75", null ],
-      [ "open_gate", "namespacegates.html#a21a6ac9535199473360da4ccbda76f22", null ],
-      [ "reset", "namespacegates.html#ac8730a42296c6b07c8effd83106ddb08", null ]
+      [ "reset", "namespacegates.html#ac8730a42296c6b07c8effd83106ddb08", null ],
+      [ "toggle_gate", "namespacegates.html#ac6c523200a835b37be9b28bf9fc539b2", null ],
+      [ "toggle_gate", "namespacegates.html#a84015d35b252bacce5c6ee9ae9f6fde2", null ]
     ] ],
     [ "iexamine", "namespaceiexamine.html", [
       [ "aggie_plant", "namespaceiexamine.html#a01429a76cc9d3d1563fb501ae6a1dd3a", null ],

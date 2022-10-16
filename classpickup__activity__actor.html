@@ -154,7 +154,7 @@ Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00409">409</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00410">410</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a7380924cf65b962cef2fdc1894fceddc" name="a7380924cf65b962cef2fdc1894fceddc"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7380924cf65b962cef2fdc1894fceddc">&#9670;&nbsp;</a></span>pickup_activity_actor()</h2>
@@ -190,11 +190,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00424">424</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00426" name="l00426"></a><span class="lineno">  426</span>            : <a class="code hl_variable" href="classpickup__activity__actor.html#a858d58cf744548c5dea176dc69a2536e">target_items</a>( <a class="code hl_variable" href="classpickup__activity__actor.html#a858d58cf744548c5dea176dc69a2536e">target_items</a> )</div>
-<div class="line"><a id="l00427" name="l00427"></a><span class="lineno">  427</span>            , <a class="code hl_variable" href="classpickup__activity__actor.html#a6afea683f4d8f77e40db4d0e4762b2e5">starting_pos</a>( <a class="code hl_variable" href="classpickup__activity__actor.html#a6afea683f4d8f77e40db4d0e4762b2e5">starting_pos</a> ) {}</div>
-<div class="ttc" id="aclasspickup__activity__actor_html_a6afea683f4d8f77e40db4d0e4762b2e5"><div class="ttname"><a href="classpickup__activity__actor.html#a6afea683f4d8f77e40db4d0e4762b2e5">pickup_activity_actor::starting_pos</a></div><div class="ttdeci">cata::optional&lt; tripoint &gt; starting_pos</div><div class="ttdoc">Position of the character when the activity is started.</div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00421">activity_actor_definitions.h:421</a></div></div>
-<div class="ttc" id="aclasspickup__activity__actor_html_a858d58cf744548c5dea176dc69a2536e"><div class="ttname"><a href="classpickup__activity__actor.html#a858d58cf744548c5dea176dc69a2536e">pickup_activity_actor::target_items</a></div><div class="ttdeci">std::vector&lt; pickup::pick_drop_selection &gt; target_items</div><div class="ttdoc">Target items and the quantities thereof.</div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00413">activity_actor_definitions.h:413</a></div></div>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00425">425</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00427" name="l00427"></a><span class="lineno">  427</span>            : <a class="code hl_variable" href="classpickup__activity__actor.html#a858d58cf744548c5dea176dc69a2536e">target_items</a>( <a class="code hl_variable" href="classpickup__activity__actor.html#a858d58cf744548c5dea176dc69a2536e">target_items</a> )</div>
+<div class="line"><a id="l00428" name="l00428"></a><span class="lineno">  428</span>            , <a class="code hl_variable" href="classpickup__activity__actor.html#a6afea683f4d8f77e40db4d0e4762b2e5">starting_pos</a>( <a class="code hl_variable" href="classpickup__activity__actor.html#a6afea683f4d8f77e40db4d0e4762b2e5">starting_pos</a> ) {}</div>
+<div class="ttc" id="aclasspickup__activity__actor_html_a6afea683f4d8f77e40db4d0e4762b2e5"><div class="ttname"><a href="classpickup__activity__actor.html#a6afea683f4d8f77e40db4d0e4762b2e5">pickup_activity_actor::starting_pos</a></div><div class="ttdeci">cata::optional&lt; tripoint &gt; starting_pos</div><div class="ttdoc">Position of the character when the activity is started.</div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00422">activity_actor_definitions.h:422</a></div></div>
+<div class="ttc" id="aclasspickup__activity__actor_html_a858d58cf744548c5dea176dc69a2536e"><div class="ttname"><a href="classpickup__activity__actor.html#a858d58cf744548c5dea176dc69a2536e">pickup_activity_actor::target_items</a></div><div class="ttdeci">std::vector&lt; pickup::pick_drop_selection &gt; target_items</div><div class="ttdoc">Target items and the quantities thereof.</div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00414">activity_actor_definitions.h:414</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -228,15 +228,15 @@ Private Attributes</h2></td></tr>
 <div class="line">        <span class="keywordflow">return</span> std::make_unique&lt;my_activity_actor&gt;( *<span class="keyword">this</span> );</div>
 <div class="line">    }</div>
 <div class="line">};</div>
-<div class="ttc" id="aclasspickup__activity__actor_html_ac05b1358a9b90f1c9dd01381748d490a"><div class="ttname"><a href="classpickup__activity__actor.html#ac05b1358a9b90f1c9dd01381748d490a">pickup_activity_actor::clone</a></div><div class="ttdeci">std::unique_ptr&lt; activity_actor &gt; clone() const override</div><div class="ttdoc">Returns a deep copy of this object.</div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00437">activity_actor_definitions.h:437</a></div></div>
+<div class="ttc" id="aclasspickup__activity__actor_html_ac05b1358a9b90f1c9dd01381748d490a"><div class="ttname"><a href="classpickup__activity__actor.html#ac05b1358a9b90f1c9dd01381748d490a">pickup_activity_actor::clone</a></div><div class="ttdeci">std::unique_ptr&lt; activity_actor &gt; clone() const override</div><div class="ttdoc">Returns a deep copy of this object.</div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00438">activity_actor_definitions.h:438</a></div></div>
 </div><!-- fragment --><p> The returned value should behave like the original item and must have the same type. </p>
 
 <p>Implements <a class="el" href="classactivity__actor.html#a3ec9b06fa1f7109ef5262538ac047b9b">activity_actor</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00437">437</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00437" name="l00437"></a><span class="lineno">  437</span>                                                             {</div>
-<div class="line"><a id="l00438" name="l00438"></a><span class="lineno">  438</span>            <span class="keywordflow">return</span> std::make_unique&lt;pickup_activity_actor&gt;( *<span class="keyword">this</span> );</div>
-<div class="line"><a id="l00439" name="l00439"></a><span class="lineno">  439</span>        }</div>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00438">438</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00438" name="l00438"></a><span class="lineno">  438</span>                                                             {</div>
+<div class="line"><a id="l00439" name="l00439"></a><span class="lineno">  439</span>            <span class="keywordflow">return</span> std::make_unique&lt;pickup_activity_actor&gt;( *<span class="keyword">this</span> );</div>
+<div class="line"><a id="l00440" name="l00440"></a><span class="lineno">  440</span>        }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -278,7 +278,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassJsonIn_html_af988f122efed0696d9d05f649e57c9b2"><div class="ttname"><a href="classJsonIn.html#af988f122efed0696d9d05f649e57c9b2">JsonIn::get_object</a></div><div class="ttdeci">JsonObject get_object()</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l01364">json.cpp:1364</a></div></div>
 <div class="ttc" id="aclassJsonObject_html"><div class="ttname"><a href="classJsonObject.html">JsonObject</a></div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00831">json.h:832</a></div></div>
 <div class="ttc" id="aclassJsonObject_html_ae66d47f9cb4993dfaf79819ec2aff2f8"><div class="ttname"><a href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">JsonObject::read</a></div><div class="ttdeci">bool read(const std::string &amp;name, T &amp;t, bool throw_on_error=true) const</div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00944">json.h:944</a></div></div>
-<div class="ttc" id="aclasspickup__activity__actor_html"><div class="ttname"><a href="classpickup__activity__actor.html">pickup_activity_actor</a></div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00409">activity_actor_definitions.h:410</a></div></div>
+<div class="ttc" id="aclasspickup__activity__actor_html"><div class="ttname"><a href="classpickup__activity__actor.html">pickup_activity_actor</a></div><div class="ttdef"><b>Definition:</b> <a href="activity__actor__definitions_8h_source.html#l00410">activity_actor_definitions.h:411</a></div></div>
 <div class="ttc" id="anamespacecata_html_ad05314667ac5d05f984aeeef26b9a87f"><div class="ttname"><a href="namespacecata.html#ad05314667ac5d05f984aeeef26b9a87f">cata::nullopt</a></div><div class="ttdeci">static constexpr nullopt_t nullopt</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00022">optional.h:22</a></div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="json_8cpp_source.html#l01364">JsonIn::get_object()</a>, <a class="el" href="optional_8h_source.html#l00022">cata::nullopt</a>, and <a class="el" href="json_8h_source.html#l00944">JsonObject::read()</a>.</p>
@@ -397,7 +397,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="asounds_8cpp_html_ad9fe7b616a93a8209da903eba756237e"><div class="ttname"><a href="sounds_8cpp.html#ad9fe7b616a93a8209da903eba756237e">act</a></div><div class="ttdeci">activity_id act</div><div class="ttdef"><b>Definition:</b> <a href="sounds_8cpp_source.html#l00075">sounds.cpp:75</a></div></div>
 <div class="ttc" id="atranslations_8h_html_aa829053017e23ef22d44dccecba63a34"><div class="ttname"><a href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a></div><div class="ttdeci">#define _(msg)</div><div class="ttdef"><b>Definition:</b> <a href="translations_8h_source.html#l00116">translations.h:116</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="sounds_8cpp_source.html#l00075">act</a>, <a class="el" href="character_8h_source.html#l01516">Character::activity</a>, <a class="el" href="creature_8h_source.html#l00593">Creature::add_msg_if_player()</a>, <a class="el" href="player__activity_8h_source.html#l00069">player_activity::auto_resume</a>, <a class="el" href="path__info_8cpp_source.html#l00134">PATH_INFO::autopickup()</a>, <a class="el" href="character_8cpp_source.html#l09232">Character::cancel_activity()</a>, <a class="el" href="advanced__inv_8cpp_source.html#l01928">cancel_aim_processing()</a>, <a class="el" href="pickup_8cpp_source.html#l00404">pickup::do_pickup()</a>, <a class="el" href="game_8cpp_source.html#l00272">g</a>, <a class="el" href="creature_8cpp_source.html#l01341">Creature::get_value()</a>, <a class="el" href="activity__actor_8cpp.html#ab8899bbebde3df0befd57a9ff35765e7">has_thievery_witness()</a>, <a class="el" href="npc_8h_source.html#l00100">NPCATT_RECOVER_GOODS</a>, <a class="el" href="character_8cpp_source.html#l00714">Character::pos()</a>, <a class="el" href="creature_8cpp_source.html#l01331">Creature::set_value()</a>, <a class="el" href="activity__actor__definitions_8h_source.html#l00421">starting_pos</a>, <a class="el" href="npctalk_8cpp_source.html#l00731">npc::talk_to_u()</a>, and <a class="el" href="activity__actor__definitions_8h_source.html#l00413">target_items</a>.</p>
+<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="sounds_8cpp_source.html#l00075">act</a>, <a class="el" href="character_8h_source.html#l01516">Character::activity</a>, <a class="el" href="creature_8h_source.html#l00593">Creature::add_msg_if_player()</a>, <a class="el" href="player__activity_8h_source.html#l00069">player_activity::auto_resume</a>, <a class="el" href="path__info_8cpp_source.html#l00134">PATH_INFO::autopickup()</a>, <a class="el" href="character_8cpp_source.html#l09232">Character::cancel_activity()</a>, <a class="el" href="advanced__inv_8cpp_source.html#l01928">cancel_aim_processing()</a>, <a class="el" href="pickup_8cpp_source.html#l00404">pickup::do_pickup()</a>, <a class="el" href="game_8cpp_source.html#l00272">g</a>, <a class="el" href="creature_8cpp_source.html#l01341">Creature::get_value()</a>, <a class="el" href="activity__actor_8cpp.html#ab8899bbebde3df0befd57a9ff35765e7">has_thievery_witness()</a>, <a class="el" href="npc_8h_source.html#l00100">NPCATT_RECOVER_GOODS</a>, <a class="el" href="character_8cpp_source.html#l00714">Character::pos()</a>, <a class="el" href="creature_8cpp_source.html#l01331">Creature::set_value()</a>, <a class="el" href="activity__actor__definitions_8h_source.html#l00422">starting_pos</a>, <a class="el" href="npctalk_8cpp_source.html#l00731">npc::talk_to_u()</a>, and <a class="el" href="activity__actor__definitions_8h_source.html#l00414">target_items</a>.</p>
 
 </div>
 </div>
@@ -439,8 +439,8 @@ Private Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="classactivity__actor.html#af48795a3ce174ab25b58db059de179b5">activity_actor</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00435">435</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00435" name="l00435"></a><span class="lineno">  435</span>{};</div>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00436">436</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00436" name="l00436"></a><span class="lineno">  436</span>{};</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -471,10 +471,10 @@ Private Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="classactivity__actor.html#ac085520515863c449d3326a55bdd66d9">activity_actor</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00429">429</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00429" name="l00429"></a><span class="lineno">  429</span>                                              {</div>
-<div class="line"><a id="l00430" name="l00430"></a><span class="lineno">  430</span>            <span class="keywordflow">return</span> <a class="code hl_typedef" href="activity__type_8h.html#a61b219d1f1a69a8d5e8af6b500f09354">activity_id</a>( <span class="stringliteral">&quot;ACT_PICKUP&quot;</span> );</div>
-<div class="line"><a id="l00431" name="l00431"></a><span class="lineno">  431</span>        }</div>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00430">430</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00430" name="l00430"></a><span class="lineno">  430</span>                                              {</div>
+<div class="line"><a id="l00431" name="l00431"></a><span class="lineno">  431</span>            <span class="keywordflow">return</span> <a class="code hl_typedef" href="activity__type_8h.html#a61b219d1f1a69a8d5e8af6b500f09354">activity_id</a>( <span class="stringliteral">&quot;ACT_PICKUP&quot;</span> );</div>
+<div class="line"><a id="l00432" name="l00432"></a><span class="lineno">  432</span>        }</div>
 <div class="ttc" id="aactivity__type_8h_html_a61b219d1f1a69a8d5e8af6b500f09354"><div class="ttname"><a href="activity__type_8h.html#a61b219d1f1a69a8d5e8af6b500f09354">activity_id</a></div><div class="ttdeci">string_id&lt; activity_type &gt; activity_id</div><div class="ttdef"><b>Definition:</b> <a href="activity__type_8h_source.html#l00015">activity_type.h:15</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -520,7 +520,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassJsonOut_html_aa38d37840ed6ba168b78a43570e98681"><div class="ttname"><a href="classJsonOut.html#aa38d37840ed6ba168b78a43570e98681">JsonOut::end_object</a></div><div class="ttdeci">void end_object()</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l01942">json.cpp:1942</a></div></div>
 <div class="ttc" id="aclassJsonOut_html_adb3c899f0ad7fc4f25cd3357c51a2c42"><div class="ttname"><a href="classJsonOut.html#adb3c899f0ad7fc4f25cd3357c51a2c42">JsonOut::member</a></div><div class="ttdeci">void member(const std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l02046">json.cpp:2046</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="json_8cpp_source.html#l01942">JsonOut::end_object()</a>, <a class="el" href="json_8cpp_source.html#l02046">JsonOut::member()</a>, <a class="el" href="json_8cpp_source.html#l01931">JsonOut::start_object()</a>, <a class="el" href="activity__actor__definitions_8h_source.html#l00421">starting_pos</a>, and <a class="el" href="activity__actor__definitions_8h_source.html#l00413">target_items</a>.</p>
+<p class="reference">References <a class="el" href="json_8cpp_source.html#l01942">JsonOut::end_object()</a>, <a class="el" href="json_8cpp_source.html#l02046">JsonOut::member()</a>, <a class="el" href="json_8cpp_source.html#l01931">JsonOut::start_object()</a>, <a class="el" href="activity__actor__definitions_8h_source.html#l00422">starting_pos</a>, and <a class="el" href="activity__actor__definitions_8h_source.html#l00414">target_items</a>.</p>
 
 </div>
 </div>
@@ -563,8 +563,8 @@ Private Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="classactivity__actor.html#a7a6d2b0ca0560dfca09ff8919cd9f44a">activity_actor</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00433">433</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00433" name="l00433"></a><span class="lineno">  433</span>{};</div>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00434">434</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00434" name="l00434"></a><span class="lineno">  434</span>{};</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -592,7 +592,7 @@ Private Attributes</h2></td></tr>
 <p>Position of the character when the activity is started. </p>
 <p >This is stored so that we can cancel the activity if the player moves (e.g. if the player is in a moving vehicle). This should be null if not grabbing from the ground. </p>
 
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00421">421</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00422">422</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="activity__actor_8cpp_source.html#l00976">do_turn()</a>, and <a class="el" href="activity__actor_8cpp_source.html#l01033">serialize()</a>.</p>
 
@@ -620,7 +620,7 @@ Private Attributes</h2></td></tr>
 
 <p>Target items and the quantities thereof. </p>
 
-<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00413">413</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="activity__actor__definitions_8h_source.html#l00414">414</a> of file <a class="el" href="activity__actor__definitions_8h_source.html">activity_actor_definitions.h</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="activity__actor_8cpp_source.html#l00976">do_turn()</a>, and <a class="el" href="activity__actor_8cpp_source.html#l01033">serialize()</a>.</p>
 
@@ -636,7 +636,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classpickup__activity__actor.html">pickup_activity_actor</a></li>
-    <li class="footer">Generated on Sat Oct 15 2022 20:06:51 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Oct 16 2022 13:55:11 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
