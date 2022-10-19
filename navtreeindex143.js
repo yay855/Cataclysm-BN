@@ -1,5 +1,10 @@
 var NAVTREEINDEX143 =
 {
+"structenum__traits_3_01achievement_1_1time__bound_1_1epoch_01_4.html#af1c9779957757c2fb4a2200cefd45011":[36,0,247,0],
+"structenum__traits_3_01achievement__comparison_01_4.html":[36,0,248],
+"structenum__traits_3_01achievement__comparison_01_4.html#aba3f435af2da83847a9504ef1428008e":[36,0,248,0],
+"structenum__traits_3_01achievement__completion_01_4.html":[36,0,249],
+"structenum__traits_3_01achievement__completion_01_4.html#a0ceb9830f038fba0f82ece47b0ca3b0a":[36,0,249,0],
 "structenum__traits_3_01add__type_01_4.html":[36,0,250],
 "structenum__traits_3_01add__type_01_4.html#ab05dba45f712e2ffd837f75bfce84ea2":[36,0,250,0],
 "structenum__traits_3_01art__charge_01_4.html":[36,0,251],
@@ -244,10 +249,5 @@ var NAVTREEINDEX143 =
 "structexpansion__data.html#abbbbbfd04949438d881dcb929af979c5":[36,0,316,1],
 "structexpansion__data.html#ac992b028d47f0f65f44501349f348e71":[36,0,316,0],
 "structexplosion__data.html":[36,0,317],
-"structexplosion__data.html#a01d1dc7609c885fff0930a5a7fc39a5a":[36,0,317,5],
-"structexplosion__data.html#a227838f8868e1f945f7ebfefaf966dd2":[36,0,317,3],
-"structexplosion__data.html#a39e54d0aa5682744c07db25d451cca5b":[36,0,317,0],
-"structexplosion__data.html#a41e8db58a26672fb26266f9693bd8044":[36,0,317,2],
-"structexplosion__data.html#a467512e7e34c64ddb98ec737368b81cb":[36,0,317,1],
-"structexplosion__data.html#aab30acfa0f7f4574a640174cdc04ac6e":[36,0,317,4]
+"structexplosion__data.html#a01d1dc7609c885fff0930a5a7fc39a5a":[36,0,317,5]
 };

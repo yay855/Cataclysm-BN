@@ -641,6 +641,7 @@ var namespaces_dup =
       [ "ledge", "namespaceiexamine.html#af44785c44ed5b238072e392c7805a6fe", null ],
       [ "locked_object", "namespaceiexamine.html#ade298007b9644bd1dd31a165c84c273f", null ],
       [ "locked_object_pickable", "namespaceiexamine.html#a06c1947e94ea34ddc4aee4f584c5fc8b", null ],
+      [ "migo_nerve_cluster", "namespaceiexamine.html#a5e019567c1f8ce2c1f580160ea21185c", null ],
       [ "mill_finalize", "namespaceiexamine.html#a639d89c065849a9b4c19a27ac234ce2d", null ],
       [ "nanofab", "namespaceiexamine.html#a04569e7ba85955feff7bf4488d81d0f1", null ],
       [ "none", "namespaceiexamine.html#a45c131e909371e96743dfe0a21ba75a6", null ],
@@ -916,7 +917,8 @@ var namespaces_dup =
       [ "perform_liquid_transfer", "namespaceliquid__handler.html#a8c1765bcc2eb292f1a8cc24f0ca2b8b9", null ]
     ] ],
     [ "map_funcs", "namespacemap__funcs.html", [
-      [ "climbing_cost", "namespacemap__funcs.html#a3d04b9be6f6d41f70f82070ae568e7b2", null ]
+      [ "climbing_cost", "namespacemap__funcs.html#a3d04b9be6f6d41f70f82070ae568e7b2", null ],
+      [ "migo_nerve_cage_removal", "namespacemap__funcs.html#a60f9a4c25252a0b8cffa456f6bc25887", null ]
     ] ],
     [ "MAP_SHARING", "namespaceMAP__SHARING.html", [
       [ "addAdmin", "namespaceMAP__SHARING.html#a77a25d8b951390c8f157e594e1e2993c", null ],

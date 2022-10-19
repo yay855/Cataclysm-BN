@@ -1,5 +1,10 @@
 var NAVTREEINDEX155 =
 {
+"structrl__vec2d.html#a11c1f04c3043f27e309fc647020eb490":[36,0,793,0],
+"structrl__vec2d.html#a253c4e80ae0f9ca24a722ad92b9fc049":[36,0,793,11],
+"structrl__vec2d.html#a5279c897c6e90917d118768d6e5dcc23":[36,0,793,9],
+"structrl__vec2d.html#a5783913ac440ee86fe8df5ac43cf2882":[36,0,793,10],
+"structrl__vec2d.html#a62d8205780ac3cee3cc8279399ddf0b1":[36,0,793,12],
 "structrl__vec2d.html#a73fe1335da7807cc03081a4cf5d0c257":[36,0,793,13],
 "structrl__vec2d.html#a7ef2f423698e00ab26db431095b4e810":[36,0,793,1],
 "structrl__vec2d.html#a9c2811f2618e3dd460a7c2dccee7910e":[36,0,793,5],
@@ -128,8 +133,8 @@ var NAVTREEINDEX155 =
 "structspell__detail_1_1line__iterable.html#a1093b33445dd6b915b5cad6da009b060":[35,0,161,0,5],
 "structspell__detail_1_1line__iterable.html#a2dddccc73a2a1b655000040032641852":[36,0,33,0,7],
 "structspell__detail_1_1line__iterable.html#a2dddccc73a2a1b655000040032641852":[35,0,161,0,7],
-"structspell__detail_1_1line__iterable.html#a644e4a722d7afd98d61b780af84098e3":[36,0,33,0,4],
 "structspell__detail_1_1line__iterable.html#a644e4a722d7afd98d61b780af84098e3":[35,0,161,0,4],
+"structspell__detail_1_1line__iterable.html#a644e4a722d7afd98d61b780af84098e3":[36,0,33,0,4],
 "structspell__detail_1_1line__iterable.html#aa956cec79769de2d3202d53033935c74":[36,0,33,0,3],
 "structspell__detail_1_1line__iterable.html#aa956cec79769de2d3202d53033935c74":[35,0,161,0,3],
 "structspell__detail_1_1line__iterable.html#ab10b4cf17c2801c922ae95e0281a66dc":[36,0,33,0,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX155 =
 "structsubmap_1_1cosmetic__t.html#af0b43b5998946b56b5251c12fc843084":[36,0,876,0,1],
 "structsupports__proportional.html":[36,0,877],
 "structsupports__proportional_3_01T_00_01cata_1_1void__t_3_01decltype_07std_1_1declval_3_01T_01_65a900226014ad1185c6b766ea4e24245.html":[36,0,879],
-"structsupports__proportional_3_01bool_01_4.html":[36,0,878],
-"structsupports__relative.html":[36,0,880],
-"structsupports__relative_3_01T_00_01cata_1_1void__t_3_01decltype_07std_1_1declval_3_01T_01_6_01_50ce8d93c8242fc4603fa58eb9774b45.html":[36,0,883],
-"structsupports__relative_3_01bool_01_4.html":[36,0,881],
-"structsupports__relative_3_01std_1_1string_01_4.html":[36,0,882],
-"structtalk__data.html":[36,0,886]
+"structsupports__proportional_3_01bool_01_4.html":[36,0,878]
 };
