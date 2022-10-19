@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"structcata_1_1colony_1_1ebco__pair2.html":[36,0,14,7,6],
 "structcata_1_1colony_1_1ebco__pair2.html#a43261b5015df4f4ba16eb4765f7306e2":[36,0,14,7,6,0],
 "structcata_1_1colony_1_1ebco__pair2.html#a43261b5015df4f4ba16eb4765f7306e2":[35,0,71,8,6,0],
 "structcata_1_1colony_1_1ebco__pair2.html#abb22508beac9148a54d54061c644458b":[36,0,14,7,6,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "structcata_1_1event__detail_1_1event__spec__character.html":[36,0,14,0,63],
 "structcata_1_1event__detail_1_1event__spec__character.html#a878c3548260b8390a614df0daaf872be":[35,0,71,0,63,0],
 "structcata_1_1event__detail_1_1event__spec__character.html#a878c3548260b8390a614df0daaf872be":[36,0,14,0,63,0],
-"structcata_1_1event__detail_1_1event__spec__empty.html":[35,0,71,0,64],
-"structcata_1_1event__detail_1_1event__spec__empty.html":[36,0,14,0,64]
+"structcata_1_1event__detail_1_1event__spec__empty.html":[35,0,71,0,64]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"string__utils_8h.html#a801218a57ea2bc3a601afb05046827ab":[37,0,1,583,24],
 "string__utils_8h.html#a813ac4bd0ac2745dfe41d13adf98996f":[37,0,1,583,10],
 "string__utils_8h.html#a836373abd77ef65988abf2bcbff6929a":[37,0,1,583,14],
 "string__utils_8h.html#a973155e8fe854d3b3c1c2a310a906f86":[37,0,1,583,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "structammo__effect.html#a6f4c296475af6cbe10dd9f60a3dcee09":[36,0,67,17],
 "structammo__effect.html#a71c62af43f26e8b94b48053e1bd21256":[36,0,67,2],
 "structammo__effect.html#a7921e123ac0046f4bc8a291f78d393d3":[36,0,67,15],
-"structammo__effect.html#aa3b93a23ca8f49bc25af34b2de7792a3":[36,0,67,1],
-"structammo__effect.html#aa742d891a36393ae08b81948a27ea428":[36,0,67,24]
+"structammo__effect.html#aa3b93a23ca8f49bc25af34b2de7792a3":[36,0,67,1]
 };

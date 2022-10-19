@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"structrl__vec2d.html#a095071c665b72df5ed458b2c07dbbb59":[36,0,793,2],
 "structrl__vec2d.html#a11c1f04c3043f27e309fc647020eb490":[36,0,793,0],
 "structrl__vec2d.html#a253c4e80ae0f9ca24a722ad92b9fc049":[36,0,793,11],
 "structrl__vec2d.html#a5279c897c6e90917d118768d6e5dcc23":[36,0,793,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "structsubmap_1_1cosmetic__t.html#a441c59ad980d00c525b7e9e56cdf69cd":[36,0,876,0,0],
 "structsubmap_1_1cosmetic__t.html#af0b43b5998946b56b5251c12fc843084":[36,0,876,0,1],
 "structsupports__proportional.html":[36,0,877],
-"structsupports__proportional_3_01T_00_01cata_1_1void__t_3_01decltype_07std_1_1declval_3_01T_01_65a900226014ad1185c6b766ea4e24245.html":[36,0,879],
-"structsupports__proportional_3_01bool_01_4.html":[36,0,878]
+"structsupports__proportional_3_01T_00_01cata_1_1void__t_3_01decltype_07std_1_1declval_3_01T_01_65a900226014ad1185c6b766ea4e24245.html":[36,0,879]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX139 =
 {
+"structdealt__damage__instance.html#ad39dc827923ad7b203f2061134ed1db1":[36,0,189,4],
 "structdealt__projectile__attack.html":[36,0,190],
 "structdealt__projectile__attack.html#a466f327979e41691bc19c91e622078b6":[36,0,190,2],
 "structdealt__projectile__attack.html#a7dd960a5108456f89dc1f8ef369a1096":[36,0,190,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX139 =
 "structdetail_1_1basic__data.html#a6657fabeb25a62c40f5961e24e74be92":[35,0,94,11,12],
 "structdetail_1_1basic__data.html#a69fe2cc083fbb06c4fc8621d33d8296a":[36,0,20,10,1],
 "structdetail_1_1basic__data.html#a69fe2cc083fbb06c4fc8621d33d8296a":[35,0,94,11,1],
-"structdetail_1_1basic__data.html#a756b986401bb6382b0fe895d73528e72":[36,0,20,10,5],
-"structdetail_1_1basic__data.html#a756b986401bb6382b0fe895d73528e72":[35,0,94,11,5]
+"structdetail_1_1basic__data.html#a756b986401bb6382b0fe895d73528e72":[36,0,20,10,5]
 };

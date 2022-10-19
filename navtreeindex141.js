@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"structdetail_1_1dragonbox_1_1float__info_3_01float_01_4.html#af8cf99e77deec52b01f8456db959cc05":[36,0,20,0,6,17],
 "structdetail_1_1dynamic__arg__list_1_1node.html":[36,0,20,33,0],
 "structdetail_1_1dynamic__arg__list_1_1node.html":[35,0,94,34,0],
 "structdetail_1_1dynamic__arg__list_1_1node.html#a696c09fe0167fc08b332f67012e6bff8":[36,0,20,33,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "structdetail_1_1named__arg__value.html":[35,0,94,87],
 "structdetail_1_1named__arg__value.html#a98387c21dda45ab568d797da9949da9f":[36,0,20,86,0],
 "structdetail_1_1named__arg__value.html#a98387c21dda45ab568d797da9949da9f":[35,0,94,87,0],
-"structdetail_1_1named__arg__value.html#af41f73322da5fea1fbe723bee375ae3c":[35,0,94,87,1],
-"structdetail_1_1named__arg__value.html#af41f73322da5fea1fbe723bee375ae3c":[36,0,20,86,1]
+"structdetail_1_1named__arg__value.html#af41f73322da5fea1fbe723bee375ae3c":[35,0,94,87,1]
 };

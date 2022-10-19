@@ -1,5 +1,6 @@
 var NAVTREEINDEX78 =
 {
+"cursesdef_8h.html#a6e9a783e2fdee22a75e15b2588c683f8":[37,0,1,143,17],
 "cursesdef_8h.html#a6f658f2a5c1efc10c4d2555c75fa40cf":[37,0,1,143,1],
 "cursesdef_8h.html#a7407bbe97af63fd80e0a4d26bf0274ab":[37,0,1,143,24],
 "cursesdef_8h.html#a896759dbb967711125b3bd6677dcb578":[37,0,1,143,37],
@@ -248,6 +249,5 @@ var NAVTREEINDEX78 =
 "dependency__tree_8cpp.html#a90741a5f0d250dfcb17b9f70209bab10":[37,0,1,152,0],
 "dependency__tree_8cpp_source.html":[37,0,1,152],
 "dependency__tree_8h.html":[37,0,1,153],
-"dependency__tree_8h.html#a8935964c16c2e4cfade43a60a2659da9":[37,0,1,153,3],
-"dependency__tree_8h.html#a8935964c16c2e4cfade43a60a2659da9a0a0282e280ffe335610571f23ca8add5":[37,0,1,153,3,0]
+"dependency__tree_8h.html#a8935964c16c2e4cfade43a60a2659da9":[37,0,1,153,3]
 };

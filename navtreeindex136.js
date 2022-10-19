@@ -1,5 +1,6 @@
 var NAVTREEINDEX136 =
 {
+"structcata_1_1event__detail_1_1event__spec__empty.html":[36,0,14,0,64],
 "structcata_1_1event__detail_1_1event__spec__empty.html#a9072c538db851d22481ed1b16bfd62d7":[36,0,14,0,64,0],
 "structcata_1_1event__detail_1_1event__spec__empty.html#a9072c538db851d22481ed1b16bfd62d7":[35,0,71,0,64,0],
 "structcata_1_1event__detail_1_1make__event__helper.html":[36,0,14,0,65],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "structcata__libintl_1_1trans__catalogue_1_1string__descr.html#aeb7434c1df59594aa769324e99d694fd":[36,0,15,4,1,0],
 "structcata__libintl_1_1trans__catalogue_1_1string__descr.html#aeb7434c1df59594aa769324e99d694fd":[35,0,74,4,1,0],
 "structcata__libintl_1_1trans__library_1_1library__string__descr.html":[36,0,15,5,0],
-"structcata__libintl_1_1trans__library_1_1library__string__descr.html":[35,0,74,5,0],
-"structcata__libintl_1_1trans__library_1_1library__string__descr.html#a18025010eb417d62e9dad1ab73b8c603":[36,0,15,5,0,1]
+"structcata__libintl_1_1trans__library_1_1library__string__descr.html":[35,0,74,5,0]
 };

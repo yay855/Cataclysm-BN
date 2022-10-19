@@ -1,5 +1,6 @@
 var NAVTREEINDEX118 =
 {
+"namespacenpc__trading.html#ababcb005b907aad47d8fc1adcabf21de":[35,0,140,3],
 "namespaceom__direction.html":[35,0,141],
 "namespaceom__direction.html#a0c2e6833cb139b3a28e7bfe7df5f3892":[35,0,141,12],
 "namespaceom__direction.html#a0fdbb3cc8e25454026b9ab57f9b91c69":[35,0,141,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX118 =
 "namespacesounds.html":[35,0,160],
 "namespacesounds.html#a0bc839a28a863d37194d8b5f7deb8414":[35,0,160,4],
 "namespacesounds.html#a2cf6eebd3df3764f7004be69b364e930":[35,0,160,1],
-"namespacesounds.html#a505afd0f1b90542693cb6b3bed2220f1":[35,0,160,5],
-"namespacesounds.html#a554f3adef264edde34e8c53e22022e3d":[35,0,160,2]
+"namespacesounds.html#a505afd0f1b90542693cb6b3bed2220f1":[35,0,160,5]
 };

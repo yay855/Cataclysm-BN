@@ -1,5 +1,6 @@
 var NAVTREEINDEX133 =
 {
+"structammo__effect.html#aa742d891a36393ae08b81948a27ea428":[36,0,67,24],
 "structammo__effect.html#aa871ecf92bc6368ff0cee3ababdd97da":[36,0,67,19],
 "structammo__effect.html#aae574e668ac868a790ffff4f8cecfd29":[36,0,67,16],
 "structammo__effect.html#ab718821f57765650351dc19134ca33ae":[36,0,67,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX133 =
 "structauto__navigation__data.html#a9f1b4eba0b0d641b45edb8f28a897f8e":[36,0,83,25],
 "structauto__navigation__data.html#aa249ec0a889a450eb224268a475338c7":[36,0,83,22],
 "structauto__navigation__data.html#aa941e06ffcb4c6d85610157fa19bf39a":[36,0,83,2],
-"structauto__navigation__data.html#ab21efe762f4accd1166a526799f15294":[36,0,83,12],
-"structauto__navigation__data.html#ac5635b9f97886fc4d22094496508be6b":[36,0,83,20]
+"structauto__navigation__data.html#ab21efe762f4accd1166a526799f15294":[36,0,83,12]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX59 =
 {
+"classplayer.html#a6cf703e3582ab38ec9eda6fd38d67328":[36,0,743,123],
 "classplayer.html#a6d8d8980786115dc4783f61002cae7a5":[36,0,743,23],
 "classplayer.html#a755c8e77aeb786765909fcdea856aea5":[36,0,743,151],
 "classplayer.html#a76eb82fb9b97610362c542a79393995b":[36,0,743,184],
@@ -248,6 +249,5 @@ var NAVTREEINDEX59 =
 "classplayer__morale_1_1morale__point.html#a7b232a7203867729e593dfa03b3b6168":[36,0,745,1,3],
 "classplayer__morale_1_1morale__point.html#a9122249feb7739f785fa7b4ab35dbb8e":[36,0,745,1,1],
 "classplayer__morale_1_1morale__point.html#a99e68a4b48ad3c60b49c93e0e72edc77":[36,0,745,1,18],
-"classplayer__morale_1_1morale__point.html#a9fea74c03c65593c8c94bb64bbb70611":[36,0,745,1,12],
-"classplayer__morale_1_1morale__point.html#ab454dabbae99a91652b1e0962ac4eeab":[36,0,745,1,22]
+"classplayer__morale_1_1morale__point.html#a9fea74c03c65593c8c94bb64bbb70611":[36,0,745,1,12]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX156 =
 {
+"structsupports__proportional_3_01bool_01_4.html":[36,0,878],
 "structsupports__relative.html":[36,0,880],
 "structsupports__relative_3_01T_00_01cata_1_1void__t_3_01decltype_07std_1_1declval_3_01T_01_6_01_50ce8d93c8242fc4603fa58eb9774b45.html":[36,0,883],
 "structsupports__relative_3_01bool_01_4.html":[36,0,881],
@@ -248,6 +249,5 @@ var NAVTREEINDEX156 =
 "structtripoint.html#a0a4b2fe58ce3efb698e12130c81c04ab":[36,0,931,14],
 "structtripoint.html#a1574f5dd845eee2b29843fbb8360b64f":[36,0,931,10],
 "structtripoint.html#a202ff1fa006b5d3b7762a2c3e28fcccb":[36,0,931,4],
-"structtripoint.html#a2e41003bfa8a7df6ff611195e3e3956e":[36,0,931,3],
-"structtripoint.html#a3b4df21721672a1e5c1309fb14033e69":[36,0,931,5]
+"structtripoint.html#a2e41003bfa8a7df6ff611195e3e3956e":[36,0,931,3]
 };
