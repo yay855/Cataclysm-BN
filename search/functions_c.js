@@ -316,7 +316,7 @@ var searchData=
   ['long_5fterm_5fgoal_5faction_313',['long_term_goal_action',['../classnpc.html#a72a5010d44054d2ba97f29b5226d3b7c',1,'npc']]],
   ['longsalvage_5ffinish_314',['longsalvage_finish',['../namespaceactivity__handlers.html#a31b2c35c9c3c968ddb57f08f42ee2aef',1,'activity_handlers']]],
   ['longswipe_315',['longswipe',['../namespacemattack.html#a62e06457ee6c394b981b749bc58ea5f7',1,'mattack']]],
-  ['look_5faround_316',['look_around',['../classgame.html#af6fe0da5db23bce5c6fb9b44f5ae0cd9',1,'game::look_around(bool show_window, tripoint &amp;center, const tripoint &amp;start_point, bool has_first_point, bool select_zone, bool peeking, bool is_moving_zone=false, const tripoint &amp;end_point=tripoint_zero)'],['../classgame.html#a31ac81ed163d0347ef2c7ab3d2b337e2',1,'game::look_around()']]],
+  ['look_5faround_316',['look_around',['../classgame.html#ac8667b2347e19d7e0e2894b38c01acab',1,'game::look_around(bool show_window, tripoint &amp;center, const tripoint &amp;start_point, bool has_first_point, bool select_zone, bool peeking, bool is_moving_zone=false, const tripoint &amp;end_point=tripoint_zero, bool force_3d=false)'],['../classgame.html#a76b23b28bc1a2926e3011516069d6440',1,'game::look_around(bool force_3d=false)']]],
   ['look_5fdebug_317',['look_debug',['../classgame.html#a8eef4be6802845a5c2612b16ec038119',1,'game']]],
   ['look_5ffor_5fplayer_318',['look_for_player',['../classnpc.html#abfc3752f6d8399151f22e5514a37c479',1,'npc']]],
   ['look_5fup_5faction_319',['look_up_action',['../action_8cpp.html#a8ce112e9e132af4908cbfd51dd5f2f56',1,'look_up_action(const std::string &amp;ident):&#160;action.cpp'],['../action_8h.html#a8ce112e9e132af4908cbfd51dd5f2f56',1,'look_up_action(const std::string &amp;ident):&#160;action.cpp']]],

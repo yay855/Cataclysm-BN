@@ -1,5 +1,9 @@
 var NAVTREEINDEX138 =
 {
+"structconditional__t.html#a0c84810f9f8759879f48c9dcd4173286":[36,0,164,49],
+"structconditional__t.html#a0de7bfc80858aa50c842c0bd241ec0ef":[36,0,164,62],
+"structconditional__t.html#a0e5111d4d423f097ce5bc80a4421a752":[36,0,164,57],
+"structconditional__t.html#a0eeafb17db5e0780f7ef19ac5d879067":[36,0,164,4],
 "structconditional__t.html#a16a89eda0cf467c4015fb3652c6e3adb":[36,0,164,22],
 "structconditional__t.html#a1bd0a670e4e2c2ebda8bbd28036f785f":[36,0,164,65],
 "structconditional__t.html#a289653c604106f70ffca5591bb0991ba":[36,0,164,40],
@@ -245,9 +249,5 @@ var NAVTREEINDEX138 =
 "structdangerous__sound.html":[36,0,188],
 "structdangerous__sound.html#a440dabb5a066d7ca8698a21d5f150565":[36,0,188,2],
 "structdangerous__sound.html#a6bfb7106d293a922649c8c822d904a0f":[36,0,188,0],
-"structdangerous__sound.html#ab3d97dced497d2bda4238f5d388bfc6a":[36,0,188,1],
-"structdealt__damage__instance.html":[36,0,189],
-"structdealt__damage__instance.html#a406b816a99913bd6a91b000cc7198a7c":[36,0,189,5],
-"structdealt__damage__instance.html#a444eee10110e6dc30ba03db96705ee26":[36,0,189,3],
-"structdealt__damage__instance.html#a68e133910f8974578ff3adf318a764a0":[36,0,189,1]
+"structdangerous__sound.html#ab3d97dced497d2bda4238f5d388bfc6a":[36,0,188,1]
 };

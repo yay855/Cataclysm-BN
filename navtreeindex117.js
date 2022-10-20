@@ -1,5 +1,9 @@
 var NAVTREEINDEX117 =
 {
+"namespacemattack.html#a78ae42b818cb83cb572bfc7db3f4e86e":[35,0,127,16],
+"namespacemattack.html#a797e909b5976a33fb522257a398fcb43":[35,0,127,74],
+"namespacemattack.html#a7da2dcc474c1415be2fff2af9e3da871":[35,0,127,24],
+"namespacemattack.html#a83af85e4b61fd7722274848c33012bd6":[35,0,127,68],
 "namespacemattack.html#a84f4ef33fc59157b5c558a8ed61e7528":[35,0,127,9],
 "namespacemattack.html#a84fbcd5aaae349e064e227b71ff7ddb2":[35,0,127,69],
 "namespacemattack.html#a87db827a981d171edb3a9ca626342baf":[35,0,127,20],
@@ -101,8 +105,8 @@ var NAVTREEINDEX117 =
 "namespacemelee.html#a33b60e27938b5580314106c628ec5f06":[35,0,130,1],
 "namespacemelee.html#a5ed3b88ed3376694a321005bc94214b7":[35,0,130,2],
 "namespacemelee.html#aa17d019b7ecb851f167fabc75b2362f9":[35,0,130,0],
-"namespacemembers.html":[35,1,0],
 "namespacemembers.html":[35,1,0,0],
+"namespacemembers.html":[35,1,0],
 "namespacemembers_a.html":[35,1,0,1],
 "namespacemembers_b.html":[35,1,0,2],
 "namespacemembers_c.html":[35,1,0,3],
@@ -111,8 +115,8 @@ var NAVTREEINDEX117 =
 "namespacemembers_enum.html":[35,1,4],
 "namespacemembers_eval.html":[35,1,5],
 "namespacemembers_f.html":[35,1,0,6],
-"namespacemembers_func.html":[35,1,1,0],
 "namespacemembers_func.html":[35,1,1],
+"namespacemembers_func.html":[35,1,1,0],
 "namespacemembers_func_a.html":[35,1,1,1],
 "namespacemembers_func_b.html":[35,1,1,2],
 "namespacemembers_func_c.html":[35,1,1,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX117 =
 "namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686ad5a75e9ba8674bf635929ee65684b838":[35,0,139,0,4],
 "namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686ae2297e55866b5d8e47bfee136604c485":[35,0,139,0,0],
 "namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686afe31375c808620c4a0ddcfab31079d7c":[35,0,139,0,3],
-"namespacenpc__trading.html":[35,0,140],
-"namespacenpc__trading.html#a0ec2aaaf5437ced34ea57f9bd818259d":[35,0,140,5],
-"namespacenpc__trading.html#a454c80bb5b4ca14591ff5ec7d595111a":[35,0,140,1],
-"namespacenpc__trading.html#a4b3f78b67eaf84ceddde10b1f8bac191":[35,0,140,2],
-"namespacenpc__trading.html#a501e43e4b4136a85e2773fbc89f19e69":[35,0,140,0]
+"namespacenpc__trading.html":[35,0,140]
 };

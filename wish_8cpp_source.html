@@ -520,7 +520,7 @@ $(document).ready(function(){initNavTree('wish_8cpp_source.html',''); initResiza
 <div class="line"><a id="l00431" name="l00431"></a><span class="lineno">  431</span>        wmenu.<a class="code hl_function" href="group__UI.html#ga7604af7545244003f0a52ac87ce37979">query</a>();</div>
 <div class="line"><a id="l00432" name="l00432"></a><span class="lineno">  432</span>        <span class="keywordflow">if</span>( wmenu.<a class="code hl_variable" href="classuilist.html#a0baa34622db6972a59d47d478bfd21d6">ret</a> &gt;= 0 ) {</div>
 <div class="line"><a id="l00433" name="l00433"></a><span class="lineno">  433</span>            <span class="keyword">const</span> <a class="code hl_class" href="classstring__id.html">mtype_id</a> &amp;mon_type = mtypes[ wmenu.<a class="code hl_variable" href="classuilist.html#a0baa34622db6972a59d47d478bfd21d6">ret</a> ]-&gt;<a class="code hl_variable" href="structmtype.html#a60dea81cdc4c627313e540831d311b5a">id</a>;</div>
-<div class="line"><a id="l00434" name="l00434"></a><span class="lineno">  434</span>            <span class="keywordflow">if</span>( <a class="code hl_class" href="classcata_1_1optional.html">cata::optional&lt;tripoint&gt;</a> spawn = p ? p : <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;look_around() ) {</div>
+<div class="line"><a id="l00434" name="l00434"></a><span class="lineno">  434</span>            <span class="keywordflow">if</span>( <a class="code hl_class" href="classcata_1_1optional.html">cata::optional&lt;tripoint&gt;</a> spawn = p ? p : <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;look_around( <span class="keyword">true</span> ) ) {</div>
 <div class="line"><a id="l00435" name="l00435"></a><span class="lineno">  435</span>                <span class="keywordtype">int</span> num_spawned = 0;</div>
 <div class="line"><a id="l00436" name="l00436"></a><span class="lineno">  436</span>                <span class="keywordflow">for</span>( <span class="keyword">const</span> <a class="code hl_struct" href="structtripoint.html">tripoint</a> &amp;destination : <a class="code hl_function" href="coordinates_8h.html#a13a12943d34d5f17e6c3b4e730659fc6">closest_points_first</a>( *spawn, cb.<a class="code hl_variable" href="classwish__monster__callback.html#a70353c62779497fb0ac4c516adea9907">group</a> ) ) {</div>
 <div class="line"><a id="l00437" name="l00437"></a><span class="lineno">  437</span>                    <a class="code hl_class" href="classmonster.html">monster</a> *<span class="keyword">const</span> mon = <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;place_critter_at( mon_type, destination );</div>
@@ -1088,7 +1088,7 @@ $(document).ready(function(){initNavTree('wish_8cpp_source.html',''); initResiza
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="wish_8cpp.html">wish.cpp</a></li>
-    <li class="footer">Generated on Thu Oct 20 2022 09:11:05 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Thu Oct 20 2022 09:13:56 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

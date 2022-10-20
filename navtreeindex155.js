@@ -1,5 +1,9 @@
 var NAVTREEINDEX155 =
 {
+"structret__val_1_1default__success.html":[36,0,790,1],
+"structrider__data.html":[36,0,792],
+"structrider__data.html#a8ba9154f946b884a877bc4aa69fd9471":[36,0,792,0],
+"structrider__data.html#a9ae66253eae863fc4bc841f955faf41b":[36,0,792,1],
 "structrider__data.html#ab0573d036860b6da4dc0a3641c61591e":[36,0,792,2],
 "structrl__vec2d.html":[36,0,793],
 "structrl__vec2d.html#a095071c665b72df5ed458b2c07dbbb59":[36,0,793,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX155 =
 "structstring__id__params_3_01Item__spawn__data_01_4.html":[36,0,870],
 "structstring__id__params_3_01Item__spawn__data_01_4.html#a04a5f3967d1d2e6c3a5107fe215f5ce6":[36,0,870,0],
 "structstring__id__params_3_01Trait__group_01_4.html":[36,0,871],
-"structstring__id__params_3_01Trait__group_01_4.html#aa76036d81927d9236e48037620eaaed4":[36,0,871,0],
-"structsubmap_1_1cosmetic__t.html":[36,0,876,0],
-"structsubmap_1_1cosmetic__t.html#a1ae10ddd1d4c1b5a3f1df4fe9f6211f5":[36,0,876,0,2],
-"structsubmap_1_1cosmetic__t.html#a441c59ad980d00c525b7e9e56cdf69cd":[36,0,876,0,0],
-"structsubmap_1_1cosmetic__t.html#af0b43b5998946b56b5251c12fc843084":[36,0,876,0,1]
+"structstring__id__params_3_01Trait__group_01_4.html#aa76036d81927d9236e48037620eaaed4":[36,0,871,0]
 };
