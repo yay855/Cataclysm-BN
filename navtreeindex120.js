@@ -1,5 +1,7 @@
 var NAVTREEINDEX120 =
 {
+"namespacetrapfunc.html#a79200f98923f345ef9fef5729e181804":[35,0,171,23],
+"namespacetrapfunc.html#a80008798a29a293e768175bb1b6eec66":[35,0,171,25],
 "namespacetrapfunc.html#a84275983b6dfc5cd8f102b61d3a3baa9":[35,0,171,30],
 "namespacetrapfunc.html#a89d68e88f215345a102b4ace7e41b7e2":[35,0,171,34],
 "namespacetrapfunc.html#a979ca357832b5017dfa344c9212634aa":[35,0,171,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX120 =
 "newcharacter_8cpp.html#af2db912c1312868bb04c033c5398dcc8":[37,0,1,432,26],
 "newcharacter_8cpp.html#af3cd40fdd58d6482eee0aee2e0fe0de7":[37,0,1,432,35],
 "newcharacter_8cpp.html#afb61e70aaafdc82eaa9f84a4afda5609":[37,0,1,432,40],
-"newcharacter_8cpp_source.html":[37,0,1,432],
-"newcharacter_8h.html":[37,0,1,433],
-"newcharacter_8h.html#a0b0639d19bcb26127689efdad21c6835":[37,0,1,433,8]
+"newcharacter_8cpp_source.html":[37,0,1,432]
 };

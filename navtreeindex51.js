@@ -1,5 +1,7 @@
 var NAVTREEINDEX51 =
 {
+"classmap__selector.html#ae9995853fd4b723e31001e904ad752c9":[36,0,579,16],
+"classmap__selector.html#aed66772b178e0c8a0357d01c0b330b86":[36,0,579,11],
 "classmap__selector.html#af1e885588fa9338ad48ee7a61da37fb2":[36,0,579,0],
 "classmap__stack.html":[36,0,580],
 "classmap__stack.html#a2af44345dd3047c16b16493d5b98f006":[36,0,580,0],
@@ -29,14 +31,14 @@ var NAVTREEINDEX51 =
 "classmapbuffer.html#afd0ede34e179e88c37a9820fc6d60671":[36,0,581,2],
 "classmapf_1_1format__effect.html":[35,0,122,0],
 "classmapf_1_1format__effect.html":[36,0,25,0],
-"classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[35,0,122,0,1],
 "classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[36,0,25,0,1],
-"classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[35,0,122,0,3],
+"classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[35,0,122,0,1],
 "classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[36,0,25,0,3],
+"classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[35,0,122,0,3],
 "classmapf_1_1format__effect.html#a5d87a382c4598d3de006f60d3282b6d2":[36,0,25,0,2],
 "classmapf_1_1format__effect.html#a5d87a382c4598d3de006f60d3282b6d2":[35,0,122,0,2],
-"classmapf_1_1format__effect.html#ac7844b6ff5d022c28e853753b1d7f063":[36,0,25,0,0],
 "classmapf_1_1format__effect.html#ac7844b6ff5d022c28e853753b1d7f063":[35,0,122,0,0],
+"classmapf_1_1format__effect.html#ac7844b6ff5d022c28e853753b1d7f063":[36,0,25,0,0],
 "classmapgen__basic__container.html":[36,0,582],
 "classmapgen__basic__container.html#a06ec01b4dd9194a2d18cf282e4719630":[36,0,582,4],
 "classmapgen__basic__container.html#a14e8874d7e6e21ee24d31571d5e1af66":[36,0,582,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX51 =
 "classmaterial__type.html#a5a9263fe1d93abcd7a94ba46519028f7":[36,0,599,33],
 "classmaterial__type.html#a5b83e64020d943211bfbd549f3e11843":[36,0,599,18],
 "classmaterial__type.html#a5f712b8971e4bf98561b5fb20964ac0c":[36,0,599,3],
-"classmaterial__type.html#a608aea7aa21aaf6fe0ffd7be8f7cdf5d":[36,0,599,52],
-"classmaterial__type.html#a676aa85c30f0d319d1cf0de2548d7cab":[36,0,599,63],
-"classmaterial__type.html#a69f574d3ac448a9e8ef7df2f5409b867":[36,0,599,62]
+"classmaterial__type.html#a608aea7aa21aaf6fe0ffd7be8f7cdf5d":[36,0,599,52]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"string__utils_8h.html#a6eae1bc4c64699fac35cbcd99625727e":[37,0,1,583,7],
+"string__utils_8h.html#a78f0928723504ed91d542c9090cd244d":[37,0,1,583,19],
 "string__utils_8h.html#a801218a57ea2bc3a601afb05046827ab":[37,0,1,583,24],
 "string__utils_8h.html#a813ac4bd0ac2745dfe41d13adf98996f":[37,0,1,583,10],
 "string__utils_8h.html#a836373abd77ef65988abf2bcbff6929a":[37,0,1,583,14],
@@ -177,12 +179,12 @@ var NAVTREEINDEX132 =
 "structaction__entry.html#af96e47381b722214ce0d9b79a4513fd4":[36,0,46,0],
 "structactive__tiles_1_1furn__transform.html":[35,0,0,0],
 "structactive__tiles_1_1furn__transform.html":[36,0,0,0],
-"structactive__tiles_1_1furn__transform.html#a0fb640b8ceb16d47e9850260a7f3ca0c":[36,0,0,0,0],
 "structactive__tiles_1_1furn__transform.html#a0fb640b8ceb16d47e9850260a7f3ca0c":[35,0,0,0,0],
-"structactive__tiles_1_1furn__transform.html#a3f0665429ac03736a48c6f82e7a8b62e":[36,0,0,0,2],
+"structactive__tiles_1_1furn__transform.html#a0fb640b8ceb16d47e9850260a7f3ca0c":[36,0,0,0,0],
 "structactive__tiles_1_1furn__transform.html#a3f0665429ac03736a48c6f82e7a8b62e":[35,0,0,0,2],
-"structactive__tiles_1_1furn__transform.html#aaa534fbfe06ed7b2196ab426e291c3c7":[35,0,0,0,3],
+"structactive__tiles_1_1furn__transform.html#a3f0665429ac03736a48c6f82e7a8b62e":[36,0,0,0,2],
 "structactive__tiles_1_1furn__transform.html#aaa534fbfe06ed7b2196ab426e291c3c7":[36,0,0,0,3],
+"structactive__tiles_1_1furn__transform.html#aaa534fbfe06ed7b2196ab426e291c3c7":[35,0,0,0,3],
 "structactive__tiles_1_1furn__transform.html#ac4251a14dfd3ef0931ec53aa24aac4bb":[36,0,0,0,1],
 "structactive__tiles_1_1furn__transform.html#ac4251a14dfd3ef0931ec53aa24aac4bb":[35,0,0,0,1],
 "structactivity__reason__info.html":[36,0,51],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "structammo__effect.html#a40c0c26299350c1dbd23526b155cc0fe":[36,0,67,9],
 "structammo__effect.html#a5df0a4e22fcdb26c2eb5c709d2b9ab22":[36,0,67,14],
 "structammo__effect.html#a6f4c296475af6cbe10dd9f60a3dcee09":[36,0,67,17],
-"structammo__effect.html#a71c62af43f26e8b94b48053e1bd21256":[36,0,67,2],
-"structammo__effect.html#a7921e123ac0046f4bc8a291f78d393d3":[36,0,67,15],
-"structammo__effect.html#aa3b93a23ca8f49bc25af34b2de7792a3":[36,0,67,1]
+"structammo__effect.html#a71c62af43f26e8b94b48053e1bd21256":[36,0,67,2]
 };
