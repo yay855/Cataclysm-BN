@@ -1,5 +1,8 @@
 var NAVTREEINDEX126 =
 {
+"overmap__ui_8cpp.html#aca1b319bb2e892e7aba032da5fe95770":[37,0,1,465,35],
+"overmap__ui_8cpp.html#aca3d33a1782264154de5c8a5d2692aa5":[37,0,1,465,16],
+"overmap__ui_8cpp.html#ad06a2e4dc0ead0821cf0fe454172edee":[37,0,1,465,27],
 "overmap__ui_8cpp.html#ad7f63bdddee1a58306c74273ced6a0ae":[37,0,1,465,6],
 "overmap__ui_8cpp.html#ae35376feb41fd226733c791ea62383b1":[37,0,1,465,23],
 "overmap__ui_8cpp.html#ae37a6fd9fbb942ebb7cc9ee1efb7a357":[37,0,1,465,21],
@@ -246,8 +249,5 @@ var NAVTREEINDEX126 =
 "pathfinding_8h.html#ad4fb18e6e70f8406c209ab1bb25dbb55accbf1609e79c6baaf7bf745d0ecd0f54":[37,0,1,474,3,5],
 "pathfinding_8h.html#ad4fb18e6e70f8406c209ab1bb25dbb55ae0b53a72c5504a50f28bb80be75e6b4c":[37,0,1,474,3,8],
 "pathfinding_8h.html#ad4fb18e6e70f8406c209ab1bb25dbb55aecc59352ad14424c7d789446dc655e0f":[37,0,1,474,3,1],
-"pathfinding_8h_source.html":[37,0,1,474],
-"pickup_8cpp.html":[37,0,1,475],
-"pickup_8cpp.html#a0e89b8759b1d9911fd4632c9739dfd33":[37,0,1,475,3],
-"pickup_8cpp.html#a20e8880d7ef528f172f8edd95d943233":[37,0,1,475,9]
+"pathfinding_8h_source.html":[37,0,1,474]
 };

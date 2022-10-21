@@ -1,5 +1,8 @@
 var NAVTREEINDEX127 =
 {
+"pickup_8cpp.html":[37,0,1,475],
+"pickup_8cpp.html#a0e89b8759b1d9911fd4632c9739dfd33":[37,0,1,475,3],
+"pickup_8cpp.html#a20e8880d7ef528f172f8edd95d943233":[37,0,1,475,9],
 "pickup_8cpp.html#a4a554552d66cb17d2fe8a97734377168":[37,0,1,475,7],
 "pickup_8cpp.html#a5d474eb4abd948ccfc06e01de9ebab8b":[37,0,1,475,6],
 "pickup_8cpp.html#a63a2d8446a101a6b77a1a2efbfa24391":[37,0,1,475,11],
@@ -246,8 +249,5 @@ var NAVTREEINDEX127 =
 "player__hardcoded__effects_8cpp.html#a51109d0568cb0325aea66afb119f0b3c":[37,0,1,488,7],
 "player__hardcoded__effects_8cpp.html#a51ed83146b1876017eac2443e7a7d502":[37,0,1,488,1],
 "player__hardcoded__effects_8cpp.html#a5700afe28dcf80d2e04f44172a1eebd7":[37,0,1,488,55],
-"player__hardcoded__effects_8cpp.html#a5b71bd47668c89065c1db3c86a86544c":[37,0,1,488,33],
-"player__hardcoded__effects_8cpp.html#a638e7eb4b8c8bdd2727763a767bd5617":[37,0,1,488,68],
-"player__hardcoded__effects_8cpp.html#a66f79823ab25161f7aabf43445a580a4":[37,0,1,488,38],
-"player__hardcoded__effects_8cpp.html#a66fbdfe284eb410fdbece4a3be98bf55":[37,0,1,488,62]
+"player__hardcoded__effects_8cpp.html#a5b71bd47668c89065c1db3c86a86544c":[37,0,1,488,33]
 };

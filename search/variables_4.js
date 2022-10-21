@@ -99,7 +99,7 @@ var searchData=
   ['deficiency_5f_96',['deficiency_',['../classvitamin.html#ae03cfa3d89cd3ecc126722f008bc54ce',1,'vitamin']]],
   ['defloc_5fpos_97',['defloc_pos',['../structdefense__game.html#a2e881c197a00c09936537649ff9bbafe',1,'defense_game']]],
   ['defloc_5fspecial_98',['defloc_special',['../structdefense__game.html#aeca44c2ae2df5197ddb423b01c610474',1,'defense_game']]],
-  ['delay_99',['delay',['../classanonymous__namespace_02animation_8cpp_03_1_1basic__animation.html#ada1b7a07bc10ae6aa4d8dba282b64a68',1,'anonymous_namespace{animation.cpp}::basic_animation']]],
+  ['delay_99',['delay',['../classanonymous__namespace_02animation_8cpp_03_1_1basic__animation.html#a281ed364542e7f8e5715dfc627fed199',1,'anonymous_namespace{animation.cpp}::basic_animation']]],
   ['delta_100',['delta',['../structspell__detail_1_1line__iterable.html#ab10b4cf17c2801c922ae95e0281a66dc',1,'spell_detail::line_iterable::delta()'],['../classtileray.html#ac04a3e3936212461f35615f764920494',1,'tileray::delta()']]],
   ['delta_5fline_101',['delta_line',['../structspell__detail_1_1line__iterable.html#a2dddccc73a2a1b655000040032641852',1,'spell_detail::line_iterable']]],
   ['denial_102',['denial',['../structinventory__column_1_1entry__cell__cache__t.html#a2f3f7ea19d385ce6dfd7c00b21f98bb9',1,'inventory_column::entry_cell_cache_t']]],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX111 =
 {
+"namespaceanonymous__namespace_02item__category_8cpp_03.html":[35,0,33],
+"namespaceanonymous__namespace_02item__category_8cpp_03.html#af08a772fbabbbc0c65e9f8f29b163d2e":[35,0,33,0],
+"namespaceanonymous__namespace_02line_8cpp_03.html":[35,0,34],
 "namespaceanonymous__namespace_02line_8cpp_03.html#a8d06d1baa307aedb61624e483de6f41e":[35,0,34,0],
 "namespaceanonymous__namespace_02live__view_8cpp_03.html":[35,0,35],
 "namespaceanonymous__namespace_02live__view_8cpp_03.html#a3146adf84d0f147782cef9bb3eb4b391":[35,0,35,0],
@@ -189,15 +192,15 @@ var NAVTREEINDEX111 =
 "namespacecata.html#ae46986af1dab17c49a326aca49824ebb":[35,0,71,44],
 "namespacecata.html#ae69b05589ee85e0484909df93337e642":[35,0,71,47],
 "namespacecata.html#afffb8622bc3a60914019309e92cc57e3":[35,0,71,50],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,36],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,41],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,40],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,39],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,38],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,36],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,32],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,33],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,35],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,34],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,33],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,32],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,71,41],
 "namespacecata_1_1event__detail.html":[35,0,71,0],
 "namespacecata_1_1hash64__detail.html":[35,0,71,1],
 "namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4":[35,0,71,1,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX111 =
 "namespacecata__variant__detail.html":[35,0,75],
 "namespacecata__variant__detail.html#aae4d595dd9f6f3122dd80ecfbbb12796":[35,0,75,29],
 "namespacecata__variant__detail.html#abe34c52ddc3072a83f18c8e2cded7bfe":[35,0,75,28],
-"namespacecatacurses.html":[35,0,76],
-"namespacecatacurses.html#a03121643695b0c990aed0a0b0408e85f":[35,0,76,26],
-"namespacecatacurses.html#a07c5180048f87110c547f58341b04812":[35,0,76,27],
-"namespacecatacurses.html#a09e76bc17486e9c6132dea7af4b74d23":[35,0,76,11]
+"namespacecatacurses.html":[35,0,76]
 };

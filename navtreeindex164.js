@@ -1,5 +1,12 @@
 var NAVTREEINDEX164 =
 {
+"wisheffect_8cpp.html#a46422819ca5b0ee740207ca9a8073b7a":[37,0,1,664,4],
+"wisheffect_8cpp.html#a706d96c329cca42e5083512fa6704e57":[37,0,1,664,5],
+"wisheffect_8cpp.html#aca47405643264588ee074e13106cb7b0":[37,0,1,664,10],
+"wisheffect_8cpp.html#ad723f4b9cd5756bae3de1564812608c0":[37,0,1,664,7],
+"wisheffect_8cpp.html#aff303b046d69003d67aac179e5e0185d":[37,0,1,664,8],
+"wisheffect_8cpp_source.html":[37,0,1,664],
+"worldfactory_8cpp.html":[37,0,1,665],
 "worldfactory_8cpp.html#a2d5b17dfd43ec49b6e69005913a55b8f":[37,0,1,665,3],
 "worldfactory_8cpp.html#a3daa2156aff9a12aafcadb9e44b4c813":[37,0,1,665,0],
 "worldfactory_8cpp.html#a565015a7cbda226682041968982faa57":[37,0,1,665,4],

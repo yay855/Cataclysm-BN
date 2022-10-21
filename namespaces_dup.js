@@ -1824,7 +1824,7 @@ var namespaces_dup =
     ] ],
     [ "ui", "namespaceui.html", "namespaceui" ],
     [ "ui_manager", "namespaceui__manager.html", [
-      [ "invalidate", "namespaceui__manager.html#ad37246d94ab9b88c0730eb02ba60643b", null ],
+      [ "invalidate", "namespaceui__manager.html#a93b4bb0f95c5d3a9be3b28ba09878fcc", null ],
       [ "redraw", "namespaceui__manager.html#ae38f3a918052ef286ee60daac47f52d4", null ],
       [ "redraw_invalidated", "namespaceui__manager.html#a5496220e43b7d5f1b3cbbebe6cf1f83d", null ],
       [ "screen_resized", "namespaceui__manager.html#aaa801bfcb6ef4eb737e70c793df08da9", null ]

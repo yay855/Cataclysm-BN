@@ -1,5 +1,8 @@
 var NAVTREEINDEX117 =
 {
+"namespacemattack.html#a74c5bd8b75ec90d4af94f3fc218b3eba":[35,0,127,29],
+"namespacemattack.html#a774768a261f323c61f26af3c063939a3":[35,0,127,77],
+"namespacemattack.html#a787768aa8a85e4a5b851e1e6ab20dbae":[35,0,127,84],
 "namespacemattack.html#a78ae42b818cb83cb572bfc7db3f4e86e":[35,0,127,16],
 "namespacemattack.html#a797e909b5976a33fb522257a398fcb43":[35,0,127,74],
 "namespacemattack.html#a7da2dcc474c1415be2fff2af9e3da871":[35,0,127,24],
@@ -246,8 +249,5 @@ var NAVTREEINDEX117 =
 "namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686a95d298ffe64fca0b909c1a61afd64186":[35,0,139,0,7],
 "namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686a9d921e2d3b4862cddd420c437da1434e":[35,0,139,0,1],
 "namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686ac58f36c7750c4fb9986e8df386a8e34a":[35,0,139,0,6],
-"namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686ad5a75e9ba8674bf635929ee65684b838":[35,0,139,0,4],
-"namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686ae2297e55866b5d8e47bfee136604c485":[35,0,139,0,0],
-"namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686afe31375c808620c4a0ddcfab31079d7c":[35,0,139,0,3],
-"namespacenpc__trading.html":[35,0,140]
+"namespacenpc__factions.html#af09ec48d0dc133795062d1424c486686ad5a75e9ba8674bf635929ee65684b838":[35,0,139,0,4]
 };

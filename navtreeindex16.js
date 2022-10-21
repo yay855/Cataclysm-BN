@@ -247,7 +247,7 @@ var NAVTREEINDEX16 =
 "classMapgenRemovePartHandler.html#ab9514a036c6e343091ffa3c9922581f2":[36,0,591,6],
 "classMapgenRemovePartHandler.html#ad366fd0abeaef462700138735251c9b6":[36,0,591,1],
 "classMapgenRemovePartHandler.html#aef94ec455f957cc96ee6db84b0d6cb9c":[36,0,591,5],
-"classMessages_1_1dialog.html":[36,0,26,0],
 "classMessages_1_1dialog.html":[35,0,131,0],
+"classMessages_1_1dialog.html":[36,0,26,0],
 "classMessages_1_1dialog.html#a16057a3915b14afd220c86aad91b5a78":[36,0,26,0,38]
 };

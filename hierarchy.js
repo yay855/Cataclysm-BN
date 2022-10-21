@@ -381,6 +381,7 @@ var hierarchy =
     [ "debug_log_class", "structdebug__log__class.html", null ],
     [ "debug_log_level", "structdebug__log__level.html", null ],
     [ "debug_menu_state", "structdebug__menu__state.html", null ],
+    [ "ui_adaptor::debug_message_ui", "structui__adaptor_1_1debug__message__ui.html", null ],
     [ "DebugFile", "structDebugFile.html", null ],
     [ "detail::DebugLogGuard", "classdetail_1_1DebugLogGuard.html", null ],
     [ "detail::dragonbox::decimal_fp< T >", "structdetail_1_1dragonbox_1_1decimal__fp.html", null ],

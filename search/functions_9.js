@@ -172,7 +172,7 @@ var searchData=
   ['inv_5fdump_169',['inv_dump',['../classCharacter.html#a44eb21a2cbc49344f4d766472a42aa64',1,'Character']]],
   ['inv_5finternal_170',['inv_internal',['../game__inventory_8cpp.html#adace8eb2ab329ef8836e778c829ff078',1,'game_inventory.cpp']]],
   ['inv_5fmap_5fsplice_171',['inv_map_splice',['../classgame.html#acaf08b6afd3d9504145870ec272cfc20',1,'game']]],
-  ['invalidate_172',['invalidate',['../namespaceui__manager.html#ad37246d94ab9b88c0730eb02ba60643b',1,'ui_manager::invalidate()'],['../classauto__pickup_1_1base__settings.html#aff7a627145ef8877bcdb2a7dc72b0be4',1,'auto_pickup::base_settings::invalidate()'],['../classplayer__morale.html#a70bcbaf8a3e198e621d91bfb6fece27a',1,'player_morale::invalidate()'],['../classui__adaptor.html#aca9ba660964358b94caf74d5bff1e31c',1,'ui_adaptor::invalidate()']]],
+  ['invalidate_172',['invalidate',['../namespaceui__manager.html#a93b4bb0f95c5d3a9be3b28ba09878fcc',1,'ui_manager::invalidate()'],['../classauto__pickup_1_1base__settings.html#aff7a627145ef8877bcdb2a7dc72b0be4',1,'auto_pickup::base_settings::invalidate()'],['../classplayer__morale.html#a70bcbaf8a3e198e621d91bfb6fece27a',1,'player_morale::invalidate()'],['../classui__adaptor.html#aca9ba660964358b94caf74d5bff1e31c',1,'ui_adaptor::invalidate()']]],
   ['invalidate_5fcrafting_5finventory_173',['invalidate_crafting_inventory',['../classCharacter.html#afe4c095c2e6510f07f351d7e091f5787',1,'Character']]],
   ['invalidate_5fmain_5fui_5fadaptor_174',['invalidate_main_ui_adaptor',['../classgame.html#a0da3c1e838f2a0989eeb1811e9885819',1,'game']]],
   ['invalidate_5fmap_5fcache_175',['invalidate_map_cache',['../classmap.html#af839ef9ba53f51b09259e0af06881fe6',1,'map']]],

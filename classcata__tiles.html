@@ -232,9 +232,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aebdb80f0d2b7f9fc9008cf60bbee035e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a00eee6b8b0ea991532c35d22b09fa0e7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcata__tiles.html#a00eee6b8b0ea991532c35d22b09fa0e7">has_draw_override</a> (const <a class="el" href="structtripoint.html">tripoint</a> &amp;p) const</td></tr>
 <tr class="separator:a00eee6b8b0ea991532c35d22b09fa0e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2a6674c9f17c70e8df6904d66806648"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcata__tiles.html#af2a6674c9f17c70e8df6904d66806648">load_tileset</a> (const std::string &amp;tileset_id, const std::vector&lt; <a class="el" href="type__id_8h.html#aabcbcb9fb77661ba75c47b6287318e03">mod_id</a> &gt; &amp;mod_list, bool precheck=false, bool force=false)</td></tr>
-<tr class="memdesc:af2a6674c9f17c70e8df6904d66806648"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize the current tileset (load tile images, load mapping), using the current tileset as it is set in the options.  <a href="classcata__tiles.html#af2a6674c9f17c70e8df6904d66806648">More...</a><br /></td></tr>
-<tr class="separator:af2a6674c9f17c70e8df6904d66806648"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acde66799a0630f031dbab73d0d0fdaba"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcata__tiles.html#acde66799a0630f031dbab73d0d0fdaba">load_tileset</a> (const std::string &amp;tileset_id, const std::vector&lt; <a class="el" href="type__id_8h.html#aabcbcb9fb77661ba75c47b6287318e03">mod_id</a> &gt; &amp;mod_list, bool precheck=false, bool force=false, bool pump_events=false)</td></tr>
+<tr class="memdesc:acde66799a0630f031dbab73d0d0fdaba"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize the current tileset (load tile images, load mapping), using the current tileset as it is set in the options.  <a href="classcata__tiles.html#acde66799a0630f031dbab73d0d0fdaba">More...</a><br /></td></tr>
+<tr class="separator:acde66799a0630f031dbab73d0d0fdaba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a46bd185110872077b734d30dc2522ffd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcata__tiles.html#a46bd185110872077b734d30dc2522ffd">reinit</a> ()</td></tr>
 <tr class="memdesc:a46bd185110872077b734d30dc2522ffd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reinitializes the current tileset, like init, but using the original screen information.  <a href="classcata__tiles.html#a46bd185110872077b734d30dc2522ffd">More...</a><br /></td></tr>
 <tr class="separator:a46bd185110872077b734d30dc2522ffd"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -499,7 +499,7 @@ Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00341">341</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00350">350</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a0d3b403cd6813959a89a2e12651168a4" name="a0d3b403cd6813959a89a2e12651168a4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0d3b403cd6813959a89a2e12651168a4">&#9670;&nbsp;</a></span>cata_tiles()</h2>
@@ -2547,13 +2547,13 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00562">562</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00562" name="l00562"></a><span class="lineno">  562</span>                                    {</div>
-<div class="line"><a id="l00563" name="l00563"></a><span class="lineno">  563</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#a0c31c9dadbf1431b07e7b41172b4476f">tile_height</a>;</div>
-<div class="line"><a id="l00564" name="l00564"></a><span class="lineno">  564</span>        }</div>
-<div class="ttc" id="aclasscata__tiles_html_a0c31c9dadbf1431b07e7b41172b4476f"><div class="ttname"><a href="classcata__tiles.html#a0c31c9dadbf1431b07e7b41172b4476f">cata_tiles::tile_height</a></div><div class="ttdeci">int tile_height</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00608">cata_tiles.h:608</a></div></div>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00575">575</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00575" name="l00575"></a><span class="lineno">  575</span>                                    {</div>
+<div class="line"><a id="l00576" name="l00576"></a><span class="lineno">  576</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#a0c31c9dadbf1431b07e7b41172b4476f">tile_height</a>;</div>
+<div class="line"><a id="l00577" name="l00577"></a><span class="lineno">  577</span>        }</div>
+<div class="ttc" id="aclasscata__tiles_html_a0c31c9dadbf1431b07e7b41172b4476f"><div class="ttname"><a href="classcata__tiles.html#a0c31c9dadbf1431b07e7b41172b4476f">cata_tiles::tile_height</a></div><div class="ttdeci">int tile_height</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00621">cata_tiles.h:621</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00608">tile_height</a>.</p>
+<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00621">tile_height</a>.</p>
 
 </div>
 </div>
@@ -2580,13 +2580,13 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00568">568</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00568" name="l00568"></a><span class="lineno">  568</span>                                      {</div>
-<div class="line"><a id="l00569" name="l00569"></a><span class="lineno">  569</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#a9cbd4b4924ea0b0df47bf28dc53c4103">tile_ratiox</a>;</div>
-<div class="line"><a id="l00570" name="l00570"></a><span class="lineno">  570</span>        }</div>
-<div class="ttc" id="aclasscata__tiles_html_a9cbd4b4924ea0b0df47bf28dc53c4103"><div class="ttname"><a href="classcata__tiles.html#a9cbd4b4924ea0b0df47bf28dc53c4103">cata_tiles::tile_ratiox</a></div><div class="ttdeci">float tile_ratiox</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00614">cata_tiles.h:614</a></div></div>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00581">581</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00581" name="l00581"></a><span class="lineno">  581</span>                                      {</div>
+<div class="line"><a id="l00582" name="l00582"></a><span class="lineno">  582</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#a9cbd4b4924ea0b0df47bf28dc53c4103">tile_ratiox</a>;</div>
+<div class="line"><a id="l00583" name="l00583"></a><span class="lineno">  583</span>        }</div>
+<div class="ttc" id="aclasscata__tiles_html_a9cbd4b4924ea0b0df47bf28dc53c4103"><div class="ttname"><a href="classcata__tiles.html#a9cbd4b4924ea0b0df47bf28dc53c4103">cata_tiles::tile_ratiox</a></div><div class="ttdeci">float tile_ratiox</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00627">cata_tiles.h:627</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00614">tile_ratiox</a>.</p>
+<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00627">tile_ratiox</a>.</p>
 
 </div>
 </div>
@@ -2613,13 +2613,13 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00571">571</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00571" name="l00571"></a><span class="lineno">  571</span>                                      {</div>
-<div class="line"><a id="l00572" name="l00572"></a><span class="lineno">  572</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#ad9e0e80ffad0b0529eeb830c2cb1ab74">tile_ratioy</a>;</div>
-<div class="line"><a id="l00573" name="l00573"></a><span class="lineno">  573</span>        }</div>
-<div class="ttc" id="aclasscata__tiles_html_ad9e0e80ffad0b0529eeb830c2cb1ab74"><div class="ttname"><a href="classcata__tiles.html#ad9e0e80ffad0b0529eeb830c2cb1ab74">cata_tiles::tile_ratioy</a></div><div class="ttdeci">float tile_ratioy</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00615">cata_tiles.h:615</a></div></div>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00584">584</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00584" name="l00584"></a><span class="lineno">  584</span>                                      {</div>
+<div class="line"><a id="l00585" name="l00585"></a><span class="lineno">  585</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#ad9e0e80ffad0b0529eeb830c2cb1ab74">tile_ratioy</a>;</div>
+<div class="line"><a id="l00586" name="l00586"></a><span class="lineno">  586</span>        }</div>
+<div class="ttc" id="aclasscata__tiles_html_ad9e0e80ffad0b0529eeb830c2cb1ab74"><div class="ttname"><a href="classcata__tiles.html#ad9e0e80ffad0b0529eeb830c2cb1ab74">cata_tiles::tile_ratioy</a></div><div class="ttdeci">float tile_ratioy</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00628">cata_tiles.h:628</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00615">tile_ratioy</a>.</p>
+<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00628">tile_ratioy</a>.</p>
 
 </div>
 </div>
@@ -2694,13 +2694,13 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00565">565</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00565" name="l00565"></a><span class="lineno">  565</span>                                   {</div>
-<div class="line"><a id="l00566" name="l00566"></a><span class="lineno">  566</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#a8b8197c54b722d4c096efeffed6da01f">tile_width</a>;</div>
-<div class="line"><a id="l00567" name="l00567"></a><span class="lineno">  567</span>        }</div>
-<div class="ttc" id="aclasscata__tiles_html_a8b8197c54b722d4c096efeffed6da01f"><div class="ttname"><a href="classcata__tiles.html#a8b8197c54b722d4c096efeffed6da01f">cata_tiles::tile_width</a></div><div class="ttdeci">int tile_width</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00609">cata_tiles.h:609</a></div></div>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00578">578</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00578" name="l00578"></a><span class="lineno">  578</span>                                   {</div>
+<div class="line"><a id="l00579" name="l00579"></a><span class="lineno">  579</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="classcata__tiles.html#a8b8197c54b722d4c096efeffed6da01f">tile_width</a>;</div>
+<div class="line"><a id="l00580" name="l00580"></a><span class="lineno">  580</span>        }</div>
+<div class="ttc" id="aclasscata__tiles_html_a8b8197c54b722d4c096efeffed6da01f"><div class="ttname"><a href="classcata__tiles.html#a8b8197c54b722d4c096efeffed6da01f">cata_tiles::tile_width</a></div><div class="ttdeci">int tile_width</div><div class="ttdef"><b>Definition:</b> <a href="cata__tiles_8h_source.html#l00622">cata_tiles.h:622</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00609">tile_width</a>.</p>
+<p class="reference">References <a class="el" href="cata__tiles_8h_source.html#l00622">tile_width</a>.</p>
 
 </div>
 </div>
@@ -3618,8 +3618,8 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a id="af2a6674c9f17c70e8df6904d66806648" name="af2a6674c9f17c70e8df6904d66806648"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2a6674c9f17c70e8df6904d66806648">&#9670;&nbsp;</a></span>load_tileset()</h2>
+<a id="acde66799a0630f031dbab73d0d0fdaba" name="acde66799a0630f031dbab73d0d0fdaba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acde66799a0630f031dbab73d0d0fdaba">&#9670;&nbsp;</a></span>load_tileset()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3646,7 +3646,13 @@ template&lt;typename T &gt; </div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>force</em> = <code>false</code>&#160;</td>
+          <td class="paramname"><em>force</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>pump_events</em> = <code>false</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -3663,6 +3669,7 @@ template&lt;typename T &gt; </div>
     <tr><td class="paramname">mod_list</td><td>List of active world mods, for correct caching behavior. </td></tr>
     <tr><td class="paramname">precheck</td><td>If true, only loads the meta data of the tileset (tile dimensions). </td></tr>
     <tr><td class="paramname">force</td><td>If true, forces loading the tileset even if it is already loaded. </td></tr>
+    <tr><td class="paramname">pump_events</td><td>Handle window events and refresh the screen when necessary. Please ensure that the tileset is not accessed when this method is executing if you set it to true. </td></tr>
   </table>
   </dd>
 </dl>
@@ -4392,7 +4399,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00656">656</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00669">669</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4416,7 +4423,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00643">643</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00656">656</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4440,7 +4447,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00642">642</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00655">655</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4464,7 +4471,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00640">640</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00653">653</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4488,7 +4495,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00639">639</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00652">652</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4512,7 +4519,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00653">653</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00666">666</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4536,7 +4543,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00637">637</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00650">650</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4560,7 +4567,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00623">623</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00636">636</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4584,7 +4591,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00631">631</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00644">644</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4608,7 +4615,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00626">626</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00639">639</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4632,7 +4639,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00622">622</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00635">635</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4656,7 +4663,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00621">621</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00634">634</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4680,7 +4687,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00627">627</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00640">640</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4704,7 +4711,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00624">624</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00637">637</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4728,7 +4735,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00625">625</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00638">638</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4752,7 +4759,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00629">629</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00642">642</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4776,7 +4783,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00628">628</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00641">641</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4800,7 +4807,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00630">630</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00643">643</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4824,7 +4831,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00679">679</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00692">692</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4848,7 +4855,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00682">682</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00695">695</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4872,7 +4879,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00635">635</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00648">648</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4896,7 +4903,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00633">633</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00646">646</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4920,7 +4927,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00634">634</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00647">647</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4944,7 +4951,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00673">673</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00686">686</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4968,7 +4975,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00670">670</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00683">683</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -4992,7 +4999,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00602">602</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00615">615</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5016,7 +5023,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00671">671</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00684">684</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5040,7 +5047,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00654">654</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00667">667</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5064,7 +5071,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00646">646</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00659">659</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5088,7 +5095,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00645">645</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00658">658</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5112,7 +5119,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00617">617</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00630">630</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5136,7 +5143,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00619">619</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00632">632</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5160,7 +5167,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00649">649</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00662">662</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5184,7 +5191,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00675">675</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00688">688</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5208,7 +5215,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00651">651</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00664">664</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5232,7 +5239,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00648">648</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00661">661</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5256,7 +5263,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00650">650</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00663">663</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5272,7 +5279,7 @@ template&lt;typename basetype &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00694">694</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00707">707</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5296,7 +5303,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00691">691</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00704">704</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5320,7 +5327,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00681">681</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00694">694</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5347,7 +5354,7 @@ template&lt;typename basetype &gt; </div>
 <p>Tracks active night vision goggle status for each draw call. </p>
 <p >Allows usage of night vision tilesets during sprite rendering. </p>
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00689">689</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00702">702</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5371,7 +5378,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00664">664</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00677">677</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5395,7 +5402,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00666">666</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00679">679</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5419,7 +5426,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00668">668</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00681">681</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5445,7 +5452,7 @@ template&lt;typename basetype &gt; </div>
 
 <p>Variables. </p>
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00601">601</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00614">614</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5469,7 +5476,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00613">613</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00626">626</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5493,7 +5500,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00612">612</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00625">625</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5517,7 +5524,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00669">669</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00682">682</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5541,9 +5548,9 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00608">608</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00621">621</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00562">get_tile_height()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00575">get_tile_height()</a>.</p>
 
 </div>
 </div>
@@ -5567,9 +5574,9 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00614">614</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00627">627</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00568">get_tile_ratiox()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00581">get_tile_ratiox()</a>.</p>
 
 </div>
 </div>
@@ -5593,9 +5600,9 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00615">615</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00628">628</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00571">get_tile_ratioy()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00584">get_tile_ratioy()</a>.</p>
 
 </div>
 </div>
@@ -5619,9 +5626,9 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00609">609</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00622">622</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00565">get_tile_width()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="cata__tiles_8h_source.html#l00578">get_tile_width()</a>.</p>
 
 </div>
 </div>
@@ -5647,7 +5654,7 @@ template&lt;typename basetype &gt; </div>
 
 <p>List of mods with which <a class="el" href="classcata__tiles.html#a755f86b4f0363115ab66474c5f83b228">tileset_ptr</a> was loaded. </p>
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00606">606</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00619">619</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5673,7 +5680,7 @@ template&lt;typename basetype &gt; </div>
 
 <p>Currently loaded tileset. </p>
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00604">604</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00617">617</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5697,7 +5704,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00672">672</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00685">685</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5721,7 +5728,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00678">678</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00691">691</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5745,7 +5752,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00657">657</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00670">670</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5769,7 +5776,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00660">660</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00673">673</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5793,7 +5800,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00661">661</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00674">674</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5817,7 +5824,7 @@ template&lt;typename basetype &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00659">659</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="cata__tiles_8h_source.html#l00672">672</a> of file <a class="el" href="cata__tiles_8h_source.html">cata_tiles.h</a>.</p>
 
 </div>
 </div>
@@ -5830,7 +5837,7 @@ template&lt;typename basetype &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classcata__tiles.html">cata_tiles</a></li>
-    <li class="footer">Generated on Thu Oct 20 2022 11:46:19 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Fri Oct 21 2022 14:34:47 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

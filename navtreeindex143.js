@@ -1,5 +1,8 @@
 var NAVTREEINDEX143 =
 {
+"structencumbrance__data.html#a698adf117ab416643ae83ab9c3e64698":[36,0,243,6],
+"structencumbrance__data.html#a73f0c69614caabcf667cfb58d607ad03":[36,0,243,1],
+"structencumbrance__data.html#a8bd5f3e2f5f16188660cf2130366cab8":[36,0,243,3],
 "structencumbrance__data.html#aa481e5ed996635f0f1b746aba81ed90c":[36,0,243,4],
 "structenum__traits.html":[36,0,246],
 "structenum__traits_3_01DC_01_4.html":[36,0,264],
@@ -246,8 +249,5 @@ var NAVTREEINDEX143 =
 "structevent__type__event__source.html#a66dd2a0c3db43521ec321fb6932e4097":[36,0,315,7],
 "structevent__type__event__source.html#a8b83be40ba2a02d8bb73478ca022f328":[36,0,315,1],
 "structevent__type__event__source.html#a9fd444e53e278bfc165a3ac344864920":[36,0,315,8],
-"structevent__type__event__source.html#abca0f9b5c26ad9449a7b47de02581335":[36,0,315,5],
-"structevent__type__event__source.html#ad7f74fbdd07040a0e21be1c24d0da353":[36,0,315,6],
-"structevent__type__event__source.html#aef2460f35027f0a720e77cc5f0cd37d6":[36,0,315,2],
-"structexpansion__data.html":[36,0,316]
+"structevent__type__event__source.html#abca0f9b5c26ad9449a7b47de02581335":[36,0,315,5]
 };
