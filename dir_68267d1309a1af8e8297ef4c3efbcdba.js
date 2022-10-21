@@ -473,6 +473,8 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "overmapbuffer.h", "overmapbuffer_8h.html", "overmapbuffer_8h" ],
     [ "panels.cpp", "panels_8cpp.html", "panels_8cpp" ],
     [ "panels.h", "panels_8h.html", "panels_8h" ],
+    [ "panels_utility.cpp", "panels__utility_8cpp.html", "panels__utility_8cpp" ],
+    [ "panels_utility.h", "panels__utility_8h.html", "panels__utility_8h" ],
     [ "path_info.cpp", "path__info_8cpp.html", "path__info_8cpp" ],
     [ "path_info.h", "path__info_8h.html", "path__info_8h" ],
     [ "pathfinding.cpp", "pathfinding_8cpp.html", "pathfinding_8cpp" ],

@@ -1560,7 +1560,7 @@ $(document).ready(function(){initNavTree('overmap__ui_8cpp_source.html',''); ini
 <div class="line"><a id="l01471" name="l01471"></a><span class="lineno"><a class="line" href="namespaceovermap__ui.html#ab6a26a12cee815df3e9016ccde0c9a5c"> 1471</a></span><span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="namespaceovermap__ui.html#ab6a26a12cee815df3e9016ccde0c9a5c">create_note</a>( <span class="keyword">const</span> <a class="code hl_class" href="classcoords_1_1coord__point.html">tripoint_abs_omt</a> &amp;curs )</div>
 <div class="line"><a id="l01472" name="l01472"></a><span class="lineno"> 1472</span>{</div>
 <div class="line"><a id="l01473" name="l01473"></a><span class="lineno"> 1473</span>    std::string color_notes = <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;Color codes: &quot;</span> );</div>
-<div class="line"><a id="l01474" name="l01474"></a><span class="lineno"> 1474</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> std::pair&lt;std::string, std::string&gt; &amp;color_pair : <a class="code hl_function" href="color_8cpp.html#ae28d53ff1bc72b81e9d85e8f69e19353">get_note_color_names</a>() ) {</div>
+<div class="line"><a id="l01474" name="l01474"></a><span class="lineno"> 1474</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <span class="keyword">auto</span> &amp;color_pair : <a class="code hl_function" href="color_8cpp.html#ae28d53ff1bc72b81e9d85e8f69e19353">get_note_color_names</a>() ) {</div>
 <div class="line"><a id="l01475" name="l01475"></a><span class="lineno"> 1475</span>        <span class="comment">// The color index is not translatable, but the name is.</span></div>
 <div class="line"><a id="l01476" name="l01476"></a><span class="lineno"> 1476</span>        color_notes += <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( <span class="stringliteral">&quot;%1$s:&lt;color_%3$s&gt;%2$s&lt;/color&gt;, &quot;</span>, color_pair.first.c_str(),</div>
 <div class="line"><a id="l01477" name="l01477"></a><span class="lineno"> 1477</span>                                      <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( color_pair.second ), <a class="code hl_function" href="string__utils_8cpp.html#adf69fff1e9a5471c677d36846674eaa5">replace_all</a>( color_pair.second, <span class="stringliteral">&quot; &quot;</span>, <span class="stringliteral">&quot;_&quot;</span> ) );</div>
@@ -2778,7 +2778,7 @@ $(document).ready(function(){initNavTree('overmap__ui_8cpp_source.html',''); ini
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="overmap__ui_8cpp.html">overmap_ui.cpp</a></li>
-    <li class="footer">Generated on Fri Oct 21 2022 14:34:35 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Fri Oct 21 2022 14:35:43 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
