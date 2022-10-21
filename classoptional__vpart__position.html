@@ -191,7 +191,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="textblock"><p >Simple wrapper to forward functions that may return a <a class="el" href="classcata_1_1optional.html">cata::optional</a> to <a class="el" href="classvpart__position.html">vpart_position</a>. </p>
 <p >They generally return an empty <code>optional</code>, or forward to the same function in <code><a class="el" href="classvpart__position.html" title="Reference to a position (a point) of the vehicle.">vpart_position</a></code>. </p>
 
-<p class="definition">Definition at line <a class="el" href="vpart__position_8h_source.html#l00101">101</a> of file <a class="el" href="vpart__position_8h_source.html">vpart_position.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vpart__position_8h_source.html#l00103">103</a> of file <a class="el" href="vpart__position_8h_source.html">vpart_position.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a7aabdc5df8aec398f6b2210850e278e4" name="a7aabdc5df8aec398f6b2210850e278e4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7aabdc5df8aec398f6b2210850e278e4">&#9670;&nbsp;</a></span>optional_vpart_position()</h2>
@@ -217,9 +217,9 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vpart__position_8h_source.html#l00104">104</a> of file <a class="el" href="vpart__position_8h_source.html">vpart_position.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>                                                                  : <a class="code hl_class" href="classcata_1_1optional.html">cata::optional&lt;vpart_position&gt;</a></div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>            ( <a class="code hl_function" href="namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304">std::move</a>( p ) ) { }</div>
+<p class="definition">Definition at line <a class="el" href="vpart__position_8h_source.html#l00106">106</a> of file <a class="el" href="vpart__position_8h_source.html">vpart_position.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>                                                                  : <a class="code hl_class" href="classcata_1_1optional.html">cata::optional&lt;vpart_position&gt;</a></div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>            ( <a class="code hl_function" href="namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304">std::move</a>( p ) ) { }</div>
 <div class="ttc" id="aclasscata_1_1optional_html"><div class="ttname"><a href="classcata_1_1optional.html">cata::optional&lt; vpart_position &gt;</a></div></div>
 <div class="ttc" id="anamespaceavatar__action_html_a76ba74774376a08222b8cdcce08f7304"><div class="ttname"><a href="namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304">avatar_action::move</a></div><div class="ttdeci">bool move(avatar &amp;you, map &amp;m, const tripoint &amp;d)</div><div class="ttdef"><b>Definition:</b> <a href="avatar__action_8cpp_source.html#l00093">avatar_action.cpp:93</a></div></div>
 </div><!-- fragment -->
@@ -249,10 +249,10 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vpart__position_8h_source.html#l00107">107</a> of file <a class="el" href="vpart__position_8h_source.html">vpart_position.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>                                                  {</div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">has_value</a>() ? <a class="code hl_function" href="classcata_1_1optional.html#aeb8e2c36d85751ab0ddd296a2496b78c">value</a>().<a class="code hl_function" href="classvpart__position.html#a31e71fc8c142caf3cbcf24e5cedee4fe">get_label</a>() : <a class="code hl_variable" href="namespacecata.html#ad05314667ac5d05f984aeeef26b9a87f">cata::nullopt</a>;</div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>        }</div>
+<p class="definition">Definition at line <a class="el" href="vpart__position_8h_source.html#l00109">109</a> of file <a class="el" href="vpart__position_8h_source.html">vpart_position.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>                                                  {</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">has_value</a>() ? <a class="code hl_function" href="classcata_1_1optional.html#aeb8e2c36d85751ab0ddd296a2496b78c">value</a>().<a class="code hl_function" href="classvpart__position.html#a31e71fc8c142caf3cbcf24e5cedee4fe">get_label</a>() : <a class="code hl_variable" href="namespacecata.html#ad05314667ac5d05f984aeeef26b9a87f">cata::nullopt</a>;</div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>        }</div>
 <div class="ttc" id="aclasscata_1_1optional_html_ad5b847e0e2f1db1387a10bac3751ccf4"><div class="ttname"><a href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">cata::optional&lt; vpart_position &gt;::has_value</a></div><div class="ttdeci">constexpr bool has_value() const noexcept</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00123">optional.h:123</a></div></div>
 <div class="ttc" id="aclasscata_1_1optional_html_aeb8e2c36d85751ab0ddd296a2496b78c"><div class="ttname"><a href="classcata_1_1optional.html#aeb8e2c36d85751ab0ddd296a2496b78c">cata::optional&lt; vpart_position &gt;::value</a></div><div class="ttdeci">vpart_position &amp; value()</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00127">optional.h:127</a></div></div>
 <div class="ttc" id="aclassvpart__position_html_a31e71fc8c142caf3cbcf24e5cedee4fe"><div class="ttname"><a href="classvpart__position.html#a31e71fc8c142caf3cbcf24e5cedee4fe">vpart_position::get_label</a></div><div class="ttdeci">cata::optional&lt; std::string &gt; get_label() const</div><div class="ttdef"><b>Definition:</b> <a href="vehicle_8cpp_source.html#l02655">vehicle.cpp:2655</a></div></div>
@@ -401,7 +401,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classoptional__vpart__position.html">optional_vpart_position</a></li>
-    <li class="footer">Generated on Fri Oct 21 2022 14:40:33 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Fri Oct 21 2022 14:41:40 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
