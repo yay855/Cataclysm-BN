@@ -1,5 +1,7 @@
 var NAVTREEINDEX37 =
 {
+"classevent__statistic.html#abf5045d7275091ef1d1c5822e3b8ab2f":[36,0,309,4],
+"classevent__statistic.html#ac4e4116ef8bbd21829d887451d23e2c1":[36,0,309,1],
 "classevent__statistic.html#ac62ccc0c605404586c06e47add1266f8":[36,0,309,10],
 "classevent__statistic.html#ad86ac48319ef1227f512eac06d54fdb1":[36,0,309,9],
 "classevent__statistic.html#ada9457be6e1d481e7de5384721cdfe8a":[36,0,309,11],
@@ -44,14 +46,14 @@ var NAVTREEINDEX37 =
 "classevent__transformation_1_1impl.html#a9c4f5519af3f05949154be6d51158f39":[36,0,316,0,2],
 "classevent__transformation_1_1impl.html#ab34d1d857c04ab83a69f368d5528ce3d":[36,0,316,0,5],
 "classevent__transformation_1_1impl.html#aeab6ea16440952c8be2a787cf53f1095":[36,0,316,0,0],
-"classexplosion__handler_1_1explosion__queue.html":[36,0,23,0],
 "classexplosion__handler_1_1explosion__queue.html":[35,0,105,1],
+"classexplosion__handler_1_1explosion__queue.html":[36,0,23,0],
 "classexplosion__handler_1_1explosion__queue.html#a380d0eb70cae94d75275761fb7685544":[36,0,23,0,0],
 "classexplosion__handler_1_1explosion__queue.html#a380d0eb70cae94d75275761fb7685544":[35,0,105,1,0],
-"classexplosion__handler_1_1explosion__queue.html#a63402ce169e30e1be28113893cfbdea9":[36,0,23,0,2],
 "classexplosion__handler_1_1explosion__queue.html#a63402ce169e30e1be28113893cfbdea9":[35,0,105,1,2],
-"classexplosion__handler_1_1explosion__queue.html#a66a046dd6be9e1611d6707db7f200079":[36,0,23,0,3],
+"classexplosion__handler_1_1explosion__queue.html#a63402ce169e30e1be28113893cfbdea9":[36,0,23,0,2],
 "classexplosion__handler_1_1explosion__queue.html#a66a046dd6be9e1611d6707db7f200079":[35,0,105,1,3],
+"classexplosion__handler_1_1explosion__queue.html#a66a046dd6be9e1611d6707db7f200079":[36,0,23,0,3],
 "classexplosion__handler_1_1explosion__queue.html#a892c99bbadbb5fb2db436cba4dbc355f":[35,0,105,1,1],
 "classexplosion__handler_1_1explosion__queue.html#a892c99bbadbb5fb2db436cba4dbc355f":[36,0,23,0,1],
 "classexplosion__iuse.html":[36,0,322],
@@ -247,7 +249,5 @@ var NAVTREEINDEX37 =
 "classfireweapon__on__actor.html#a57e569cd793783b1d8ca89c3cd02626c":[36,0,340,8],
 "classfireweapon__on__actor.html#a64e6d3ceb3b0e206fb2f7fc8951bce29":[36,0,340,11],
 "classfireweapon__on__actor.html#a7a940ccd63a591a884e0cfdb64cdddca":[36,0,340,10],
-"classfireweapon__on__actor.html#a8067ced4a40d37939ac7189b0e1634f6":[36,0,340,2],
-"classfireweapon__on__actor.html#a948c0b58b395ed6aea9594e7386da857":[36,0,340,9],
-"classfireweapon__on__actor.html#ae2243ecdf6674abad0d4956c87f77ff8":[36,0,340,7]
+"classfireweapon__on__actor.html#a8067ced4a40d37939ac7189b0e1634f6":[36,0,340,2]
 };

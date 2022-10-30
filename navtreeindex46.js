@@ -1,5 +1,7 @@
 var NAVTREEINDEX46 =
 {
+"classitem__location_1_1impl.html#a7535c9f7685bbd136dec99276c0a9875":[36,0,475,0,9],
+"classitem__location_1_1impl.html#a7b366553442120edd8dd54c32a97fa44":[36,0,475,0,19],
 "classitem__location_1_1impl.html#a7e2f06476a632c8999f057e9846ed375":[36,0,475,0,16],
 "classitem__location_1_1impl.html#a860a60512e60399e6ce609ca0d21b161":[36,0,475,0,12],
 "classitem__location_1_1impl.html#a89f9e225e25859b7353c88e7652ecc6d":[36,0,475,0,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX46 =
 "classjmapgen__loot.html#a03212325e44bd96d81898dbe782b99d9":[36,0,500,0],
 "classjmapgen__loot.html#a3b432820482e201995b0f396ff80ae64":[36,0,500,4],
 "classjmapgen__loot.html#acdd129ce98b8b32c4f31e990095d3064":[36,0,500,3],
-"classjmapgen__loot.html#ad8a1082e8e952127435b50ff28ddded2":[36,0,500,2],
-"classjmapgen__loot.html#ad99d8d1d09cbc32c15a6a365f9c94f1b":[36,0,500,1],
-"classjmapgen__make__rubble.html":[36,0,501]
+"classjmapgen__loot.html#ad8a1082e8e952127435b50ff28ddded2":[36,0,500,2]
 };

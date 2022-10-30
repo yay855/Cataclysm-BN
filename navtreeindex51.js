@@ -1,5 +1,7 @@
 var NAVTREEINDEX51 =
 {
+"classmap__extra.html#a4405474f680d8b1b6eb7e559a78df0f8":[36,0,580,11],
+"classmap__extra.html#a720ff90ac7d54d5c12733eea133f5c57":[36,0,580,0],
 "classmap__extra.html#a8acd512a500b2622e50058cbf569ae95":[36,0,580,5],
 "classmap__extra.html#a9f4962bd8222d5dade901aea5c77c7d1":[36,0,580,3],
 "classmap__extra.html#aaa391234e37a9babed6b86f0ba5238c5":[36,0,580,10],
@@ -97,14 +99,14 @@ var NAVTREEINDEX51 =
 "classmapbuffer.html#aa17fa633fa21f1ee7c736054cc3da9af":[36,0,588,13],
 "classmapbuffer.html#acaf938d4ae5a4396133f8c9e89564770":[36,0,588,5],
 "classmapbuffer.html#afd0ede34e179e88c37a9820fc6d60671":[36,0,588,2],
-"classmapf_1_1format__effect.html":[36,0,26,0],
 "classmapf_1_1format__effect.html":[35,0,124,0],
-"classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[36,0,26,0,1],
+"classmapf_1_1format__effect.html":[36,0,26,0],
 "classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[35,0,124,0,1],
-"classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[36,0,26,0,3],
+"classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[36,0,26,0,1],
 "classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[35,0,124,0,3],
-"classmapf_1_1format__effect.html#a5d87a382c4598d3de006f60d3282b6d2":[36,0,26,0,2],
+"classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[36,0,26,0,3],
 "classmapf_1_1format__effect.html#a5d87a382c4598d3de006f60d3282b6d2":[35,0,124,0,2],
+"classmapf_1_1format__effect.html#a5d87a382c4598d3de006f60d3282b6d2":[36,0,26,0,2],
 "classmapf_1_1format__effect.html#ac7844b6ff5d022c28e853753b1d7f063":[36,0,26,0,0],
 "classmapf_1_1format__effect.html#ac7844b6ff5d022c28e853753b1d7f063":[35,0,124,0,0],
 "classmapgen__basic__container.html":[36,0,589],
@@ -247,7 +249,5 @@ var NAVTREEINDEX51 =
 "classmartialart.html#a13c8a3a70202d456eb2d0f1b9cfe9071":[36,0,602,5],
 "classmartialart.html#a1bc8c2326eb0f6ff5b4c2f4af09d9973":[36,0,602,42],
 "classmartialart.html#a1c8c6c1582857a491fe4dfed93cf3139":[36,0,602,13],
-"classmartialart.html#a23c3d0630494e15e3bec224a9d11c6a7":[36,0,602,30],
-"classmartialart.html#a273c4c599ed375e20cba8e29411767a3":[36,0,602,43],
-"classmartialart.html#a431b8213a834bf9117c83acad5293a15":[36,0,602,32]
+"classmartialart.html#a23c3d0630494e15e3bec224a9d11c6a7":[36,0,602,30]
 };

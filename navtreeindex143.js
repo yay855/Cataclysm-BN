@@ -1,5 +1,7 @@
 var NAVTREEINDEX143 =
 {
+"structdialogue.html#a2edd4e78d06b37dafd34284a48b82720":[36,0,208,18],
+"structdialogue.html#a3b6fb4b6e79356838e69df8b5d126668":[36,0,208,7],
 "structdialogue.html#a42afe2cf929fea970dc6b74a8bec4bd7":[36,0,208,17],
 "structdialogue.html#a627a44501ac098ea98dfabf899721001":[36,0,208,4],
 "structdialogue.html#a67df2f42ea65c85d54465ff21051a4f7":[36,0,208,16],
@@ -59,18 +61,18 @@ var NAVTREEINDEX143 =
 "structdisass__prompt__result.html#ae225e21c79185919375281994fc72687":[36,0,217,2],
 "structdistribution__graph_1_1vehicle__or__grid.html":[35,0,98,0],
 "structdistribution__graph_1_1vehicle__or__grid.html":[36,0,22,0],
-"structdistribution__graph_1_1vehicle__or__grid.html#a2aeaa61180e0397656e1b627da151959":[36,0,22,0,5],
 "structdistribution__graph_1_1vehicle__or__grid.html#a2aeaa61180e0397656e1b627da151959":[35,0,98,0,5],
+"structdistribution__graph_1_1vehicle__or__grid.html#a2aeaa61180e0397656e1b627da151959":[36,0,22,0,5],
 "structdistribution__graph_1_1vehicle__or__grid.html#a3bf42962faa4aad33dfbdeac01eaec5d":[36,0,22,0,0],
 "structdistribution__graph_1_1vehicle__or__grid.html#a3bf42962faa4aad33dfbdeac01eaec5d":[35,0,98,0,0],
 "structdistribution__graph_1_1vehicle__or__grid.html#a3bf42962faa4aad33dfbdeac01eaec5da5a76e813d6a0a40548b91acc11557bd2":[36,0,22,0,0,0],
 "structdistribution__graph_1_1vehicle__or__grid.html#a3bf42962faa4aad33dfbdeac01eaec5da5a76e813d6a0a40548b91acc11557bd2":[35,0,98,0,0,0],
-"structdistribution__graph_1_1vehicle__or__grid.html#a3bf42962faa4aad33dfbdeac01eaec5daff4a008470319a22d9cf3d14af485977":[36,0,22,0,0,1],
 "structdistribution__graph_1_1vehicle__or__grid.html#a3bf42962faa4aad33dfbdeac01eaec5daff4a008470319a22d9cf3d14af485977":[35,0,98,0,0,1],
-"structdistribution__graph_1_1vehicle__or__grid.html#a43c9204ed7119ea082a49c62e605d717":[36,0,22,0,3],
+"structdistribution__graph_1_1vehicle__or__grid.html#a3bf42962faa4aad33dfbdeac01eaec5daff4a008470319a22d9cf3d14af485977":[36,0,22,0,0,1],
 "structdistribution__graph_1_1vehicle__or__grid.html#a43c9204ed7119ea082a49c62e605d717":[35,0,98,0,3],
-"structdistribution__graph_1_1vehicle__or__grid.html#a592958f2e06213c24d3f7a04fca0a9b2":[36,0,22,0,4],
+"structdistribution__graph_1_1vehicle__or__grid.html#a43c9204ed7119ea082a49c62e605d717":[36,0,22,0,3],
 "structdistribution__graph_1_1vehicle__or__grid.html#a592958f2e06213c24d3f7a04fca0a9b2":[35,0,98,0,4],
+"structdistribution__graph_1_1vehicle__or__grid.html#a592958f2e06213c24d3f7a04fca0a9b2":[36,0,22,0,4],
 "structdistribution__graph_1_1vehicle__or__grid.html#a6ad30ee48801e0f4e5541e901b1a0d17":[35,0,98,0,8],
 "structdistribution__graph_1_1vehicle__or__grid.html#a6ad30ee48801e0f4e5541e901b1a0d17":[36,0,22,0,8],
 "structdistribution__graph_1_1vehicle__or__grid.html#a7c05cd31d0fa36bea436279c94269a9f":[36,0,22,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX143 =
 "structenum__traits_3_01mon__trigger_01_4.html":[36,0,286],
 "structenum__traits_3_01mon__trigger_01_4.html#a09c668727c7ef33726837369baf6135b":[36,0,286,0],
 "structenum__traits_3_01morale__subtype__t_01_4.html":[36,0,287],
-"structenum__traits_3_01morale__subtype__t_01_4.html#a5a598f58cd35d7df4337307a355f5fc3":[36,0,287,0],
-"structenum__traits_3_01mutagen__technique_01_4.html":[36,0,288],
-"structenum__traits_3_01mutagen__technique_01_4.html#aaa4b4a7fb5a4e844839c7169213fbc13":[36,0,288,0]
+"structenum__traits_3_01morale__subtype__t_01_4.html#a5a598f58cd35d7df4337307a355f5fc3":[36,0,287,0]
 };

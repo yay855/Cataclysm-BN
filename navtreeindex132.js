@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a69a256025f66e4ce5d15c9dd7225d357":[37,0,1,572,4,6],
+"sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a70a17ffa722a3985b86d30b034ad06d7":[37,0,1,572,4,11],
 "sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a74bcc1e0384a916f56360c649f543f3a":[37,0,1,572,4,3],
 "sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a7ed21143076d0cca420653d4345baa2f":[37,0,1,572,4,10],
 "sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a9b4a8a31b4caf3cc5c6205f74950ac14":[37,0,1,572,4,4],
@@ -75,15 +77,15 @@ var NAVTREEINDEX132 =
 "string__formatter_8h.html#acd43b44c4ed2a8bf0445de6a39990c59":[37,0,1,584,25],
 "string__formatter_8h.html#ad2ac384e14bf09aa47a6e57e29693f2a":[37,0,1,584,1],
 "string__formatter_8h.html#afb28482ebaeeaaacce0dda41d99605b7":[37,0,1,584,9],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,21],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,17],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,20],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,23],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,22],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,20],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,18],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,21],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,14],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,15],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,16],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,17],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,584,18],
 "string__formatter_8h_source.html":[37,0,1,584],
 "string__id_8cpp.html":[37,0,1,585],
 "string__id_8cpp.html#a0e0ec287dba7e750bdd14410887a0764":[37,0,1,585,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "structMonsterGroupResult.html#a87072a8f3ede037f1d456ba8c2c1312a":[36,0,652,1],
 "structMonsterGroupResult.html#ac4025cbddc4f66df92f2814a791f8227":[36,0,652,0],
 "structMonsterGroupResult.html#ae6dfbd3094c5339d3a3ff41b37f8d48b":[36,0,652,3],
-"structNullBuf.html":[36,0,691],
-"structNullBuf.html#a17d66975d5437ed9c7dd7affa34363bb":[36,0,691,0],
-"structNullBuf.html#a625468956e2eac7a5e911f30a1ea3933":[36,0,691,1]
+"structNullBuf.html":[36,0,691]
 };

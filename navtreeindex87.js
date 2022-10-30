@@ -1,5 +1,7 @@
 var NAVTREEINDEX87 =
 {
+"game__inventory_8h.html#ab8c22a71e86c80ff5b273506a2515b65":[37,0,1,231,16],
+"game__inventory_8h.html#abbdd2164f18760378a36641dd89ad47a":[37,0,1,231,15],
 "game__inventory_8h.html#abdc94d2a92278f21850bfbe563dafe10":[37,0,1,231,12],
 "game__inventory_8h.html#abfe0107db269ec17344fc0735092fd53":[37,0,1,231,13],
 "game__inventory_8h.html#ad63bc52f7850b19adbd24bd6870fb8e6":[37,0,1,231,20],
@@ -190,14 +192,14 @@ var NAVTREEINDEX87 =
 "get__version_8h.html#a2ff8e2d8c8d901aee375b52bfea6cee6":[37,0,1,244,1],
 "get__version_8h.html#a9f120ab779553d2c1e829c98c17bf57d":[37,0,1,244,0],
 "get__version_8h_source.html":[37,0,1,244],
-"globals.html":[37,1,0,0],
 "globals.html":[37,1,0],
+"globals.html":[37,1,0,0],
 "globals_a.html":[37,1,0,1],
 "globals_b.html":[37,1,0,2],
 "globals_c.html":[37,1,0,3],
 "globals_d.html":[37,1,0,4],
-"globals_defs.html":[37,1,6,0],
 "globals_defs.html":[37,1,6],
+"globals_defs.html":[37,1,6,0],
 "globals_defs_a.html":[37,1,6,1],
 "globals_defs_b.html":[37,1,6,2],
 "globals_defs_c.html":[37,1,6,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX87 =
 "globals_func.html":[37,1,1],
 "globals_func.html":[37,1,1,0],
 "globals_func_a.html":[37,1,1,1],
-"globals_func_b.html":[37,1,1,2],
-"globals_func_c.html":[37,1,1,3],
-"globals_func_d.html":[37,1,1,4]
+"globals_func_b.html":[37,1,1,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"classSkillLevel.html#ac9d6e36d72250b81e869d1e52582cfbd":[36,0,842,29],
+"classSkillLevel.html#ad0598a6e53ba24a4c56017efebea80c3":[36,0,842,22],
 "classSkillLevel.html#ad3ff4f3e60eaa82cda8943b94b44f68d":[36,0,842,4],
 "classSkillLevel.html#ae0dd04a5424a4de0731424ce7d8b64a0":[36,0,842,27],
 "classSkillLevel.html#af4ce6624fffd119916288ed0e166d507":[36,0,842,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "classadvanced__inv__area.html#a0e4f42a6b89a03331f79c171e8e96796":[36,0,57,4],
 "classadvanced__inv__area.html#a1167761883fcb0249190dee49696ad69":[36,0,57,5],
 "classadvanced__inv__area.html#a1a6c78f6a7331332db9a66d5831688f4":[36,0,57,30],
-"classadvanced__inv__area.html#a1f104233cf5e7ecfd058aff8a04c917b":[36,0,57,8],
-"classadvanced__inv__area.html#a329100d319128183163aec1e2df22d3a":[36,0,57,15],
-"classadvanced__inv__area.html#a3b425a128862020d71e463ecb363855f":[36,0,57,20]
+"classadvanced__inv__area.html#a1f104233cf5e7ecfd058aff8a04c917b":[36,0,57,8]
 };

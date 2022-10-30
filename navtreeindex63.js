@@ -1,5 +1,7 @@
 var NAVTREEINDEX63 =
 {
+"classscore.html#a431f8ac41bccd09fd3e1ffb62b5e8ca3":[36,0,818,8],
+"classscore.html#a483bda0238dddf36515154d1ee03889c":[36,0,818,9],
 "classscore.html#a51e1299363328ec69cd8718fd361f36e":[36,0,818,7],
 "classscore.html#a5ce0dab5e0749818ff556604737ed4ed":[36,0,818,12],
 "classscore.html#a69fb0882ce53ebb5da6ce4947ea6f5e9":[36,0,818,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX63 =
 "classsolar__tile.html#af0beef5a8374b4cb926f16a7ecef0711":[36,0,849,5],
 "classspell.html":[36,0,856],
 "classspell.html#a004decbbde4de635b4e652acff65eb8e":[36,0,856,2],
-"classspell.html#a0059e240134491be16a37e53d812532e":[36,0,856,58],
-"classspell.html#a006cfd33c15f732b2463eda1ae0686cc":[36,0,856,40],
-"classspell.html#a0324d798218e75336487e78cddfc2526":[36,0,856,50]
+"classspell.html#a0059e240134491be16a37e53d812532e":[36,0,856,58]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"structpixel__minimap__settings.html#af820244d601ab274db059fbf365af3d9":[36,0,745,4],
+"structplace__trap__actor_1_1data.html":[36,0,748,0],
 "structplace__trap__actor_1_1data.html#a050bcfa7593c4a8c75bab8934e43a5e1":[36,0,748,0,0],
 "structplace__trap__actor_1_1data.html#a37deb59b9e661cea2ffb847c3a006443":[36,0,748,0,1],
 "structplace__trap__actor_1_1data.html#a3baa57d72d5ed9248d9b3bb101e77dfd":[36,0,748,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "structranged__bash__info.html#a4d5e057e7f09e73d9285b4e8571c0c62":[36,0,775,1],
 "structranged__bash__info.html#a88e96bc25575285982c205c1b60984eb":[36,0,775,0],
 "structranged__bash__info.html#aee2eaa8b6d93ad107f3e75ab82c42496":[36,0,775,3],
-"structratio__index.html":[36,0,776],
-"structratio__index.html#a255c32be5663e1f75b6a2cf08fabf3d7":[36,0,776,0],
-"structratio__index.html#a781a77b89dcdbad20bbfc0fd217bf4f3":[36,0,776,1]
+"structratio__index.html":[36,0,776]
 };

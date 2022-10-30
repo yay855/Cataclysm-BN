@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"structfield__effect.html#ad525377667b2b4ac5c28121eb5cba2f5":[36,0,333,0],
+"structfield__intensity__level.html":[36,0,335],
 "structfield__intensity__level.html#a095b3eb1c6f0ef514f2f003d37245ce2":[36,0,335,16],
 "structfield__intensity__level.html#a0b6695c49116d5a491cad180fd229be6":[36,0,335,0],
 "structfield__intensity__level.html#a202ef3ab969c4f155f50865e531331fb":[36,0,335,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "structfurn__workbench__info.html#acd40894d855c1c287d7757873b025244":[36,0,369,4],
 "structgame__message__params.html":[36,0,371],
 "structgame__message__params.html#a03bfa8f6c4eea588a1717f3a4d8d0b2f":[36,0,371,0],
-"structgame__message__params.html#a2213edc9c556e66544e9badb3ad0e882":[36,0,371,2],
-"structgame__message__params.html#a4497ede8e8b90399ed46f0e78ca22c08":[36,0,371,1],
-"structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa":[36,0,371,3]
+"structgame__message__params.html#a2213edc9c556e66544e9badb3ad0e882":[36,0,371,2]
 };
