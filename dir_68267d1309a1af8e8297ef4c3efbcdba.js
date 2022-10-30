@@ -164,6 +164,8 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "disease.h", "disease_8h.html", "disease_8h" ],
     [ "dispersion.cpp", "dispersion_8cpp.html", null ],
     [ "dispersion.h", "dispersion_8h.html", "dispersion_8h" ],
+    [ "distraction_manager.cpp", "distraction__manager_8cpp.html", "distraction__manager_8cpp" ],
+    [ "distraction_manager.h", "distraction__manager_8h.html", "distraction__manager_8h" ],
     [ "distribution_grid.cpp", "distribution__grid_8cpp.html", "distribution__grid_8cpp" ],
     [ "distribution_grid.h", "distribution__grid_8h.html", "distribution__grid_8h" ],
     [ "drawing_primitives.cpp", "drawing__primitives_8cpp.html", "drawing__primitives_8cpp" ],

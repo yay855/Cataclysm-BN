@@ -342,6 +342,9 @@ var annotated_dup =
       [ "width_checker", "classdetail_1_1width__checker.html", "classdetail_1_1width__checker" ],
       [ "write_int_data", "structdetail_1_1write__int__data.html", "structdetail_1_1write__int__data" ]
     ] ],
+    [ "distraction_manager", "namespacedistraction__manager.html", [
+      [ "distraction_manager_gui", "classdistraction__manager_1_1distraction__manager__gui.html", "classdistraction__manager_1_1distraction__manager__gui" ]
+    ] ],
     [ "distribution_graph", "namespacedistribution__graph.html", [
       [ "vehicle_or_grid", "structdistribution__graph_1_1vehicle__or__grid.html", "structdistribution__graph_1_1vehicle__or__grid" ]
     ] ],
@@ -681,6 +684,7 @@ var annotated_dup =
     [ "enum_traits< condition_type >", "structenum__traits_3_01condition__type_01_4.html", "structenum__traits_3_01condition__type_01_4" ],
     [ "enum_traits< DC >", "structenum__traits_3_01DC_01_4.html", "structenum__traits_3_01DC_01_4" ],
     [ "enum_traits< description_affix >", "structenum__traits_3_01description__affix_01_4.html", "structenum__traits_3_01description__affix_01_4" ],
+    [ "enum_traits< distraction_type >", "structenum__traits_3_01distraction__type_01_4.html", "structenum__traits_3_01distraction__type_01_4" ],
     [ "enum_traits< DL >", "structenum__traits_3_01DL_01_4.html", "structenum__traits_3_01DL_01_4" ],
     [ "enum_traits< enchant_vals::mod >", "structenum__traits_3_01enchant__vals_1_1mod_01_4.html", "structenum__traits_3_01enchant__vals_1_1mod_01_4" ],
     [ "enum_traits< enchantment::condition >", "structenum__traits_3_01enchantment_1_1condition_01_4.html", "structenum__traits_3_01enchantment_1_1condition_01_4" ],

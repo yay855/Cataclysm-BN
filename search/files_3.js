@@ -16,11 +16,13 @@ var searchData=
   ['disease_2eh_13',['disease.h',['../disease_8h.html',1,'']]],
   ['dispersion_2ecpp_14',['dispersion.cpp',['../dispersion_8cpp.html',1,'']]],
   ['dispersion_2eh_15',['dispersion.h',['../dispersion_8h.html',1,'']]],
-  ['distribution_5fgrid_2ecpp_16',['distribution_grid.cpp',['../distribution__grid_8cpp.html',1,'']]],
-  ['distribution_5fgrid_2eh_17',['distribution_grid.h',['../distribution__grid_8h.html',1,'']]],
-  ['drawing_5fprimitives_2ecpp_18',['drawing_primitives.cpp',['../drawing__primitives_8cpp.html',1,'']]],
-  ['drawing_5fprimitives_2eh_19',['drawing_primitives.h',['../drawing__primitives_8h.html',1,'']]],
-  ['drop_5ftoken_2ecpp_20',['drop_token.cpp',['../drop__token_8cpp.html',1,'']]],
-  ['drop_5ftoken_2eh_21',['drop_token.h',['../drop__token_8h.html',1,'']]],
-  ['dump_2ecpp_22',['dump.cpp',['../dump_8cpp.html',1,'']]]
+  ['distraction_5fmanager_2ecpp_16',['distraction_manager.cpp',['../distraction__manager_8cpp.html',1,'']]],
+  ['distraction_5fmanager_2eh_17',['distraction_manager.h',['../distraction__manager_8h.html',1,'']]],
+  ['distribution_5fgrid_2ecpp_18',['distribution_grid.cpp',['../distribution__grid_8cpp.html',1,'']]],
+  ['distribution_5fgrid_2eh_19',['distribution_grid.h',['../distribution__grid_8h.html',1,'']]],
+  ['drawing_5fprimitives_2ecpp_20',['drawing_primitives.cpp',['../drawing__primitives_8cpp.html',1,'']]],
+  ['drawing_5fprimitives_2eh_21',['drawing_primitives.h',['../drawing__primitives_8h.html',1,'']]],
+  ['drop_5ftoken_2ecpp_22',['drop_token.cpp',['../drop__token_8cpp.html',1,'']]],
+  ['drop_5ftoken_2eh_23',['drop_token.h',['../drop__token_8h.html',1,'']]],
+  ['dump_2ecpp_24',['dump.cpp',['../dump_8cpp.html',1,'']]]
 ];

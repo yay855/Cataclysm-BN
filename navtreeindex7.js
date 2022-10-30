@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"calendar_8cpp.html#a41c70b303ede8b309874e15a1a547ee5":[37,0,1,68,24],
 "calendar_8cpp.html#a4249b6f1d0842211bfe53e5f9e206a10":[37,0,1,68,11],
 "calendar_8cpp.html#a4930c6084e3379ceb56259d33dee133e":[37,0,1,68,15],
 "calendar_8cpp.html#a53dee894346dba396b94c4cfe558322c":[37,0,1,68,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "cata__variant_8cpp.html":[37,0,1,78],
 "cata__variant_8cpp.html#ae65ddfc334d3523c7b4d1a4de7847b45":[37,0,1,78,0],
 "cata__variant_8cpp_source.html":[37,0,1,78],
-"cata__variant_8h.html":[37,0,1,79],
-"cata__variant_8h.html#a2541bfb3bc6f76ea6d8bbeb4d6c84d9c":[37,0,1,79,32]
+"cata__variant_8h.html":[37,0,1,79]
 };

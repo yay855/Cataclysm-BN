@@ -80,7 +80,7 @@ var searchData=
   ['queue_77',['queue',['../classgrid__furn__transform__queue.html#aa2710c9c5652fbbdc4b7e629a3811968',1,'grid_furn_transform_queue']]],
   ['queue_5fscreenshot_78',['queue_screenshot',['../classgame.html#aa1899cbff40598283230c229dcdfe859',1,'game']]],
   ['queued_79',['queued',['../classtimed__event__manager.html#a7c96d030d64667a4cddb289ce4c90e03',1,'timed_event_manager']]],
-  ['queued_5fexplosion_80',['queued_explosion',['../structexplosion__handler_1_1queued__explosion.html',1,'explosion_handler::queued_explosion'],['../structexplosion__handler_1_1queued__explosion.html#acb2c67d77fbd506b5291d4fce940a7d0',1,'explosion_handler::queued_explosion::queued_explosion(const tripoint &amp;pos, ExplosionType type)'],['../structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b',1,'explosion_handler::queued_explosion::queued_explosion()=default']]],
+  ['queued_5fexplosion_80',['queued_explosion',['../structexplosion__handler_1_1queued__explosion.html',1,'explosion_handler::queued_explosion'],['../structexplosion__handler_1_1queued__explosion.html#a41d13901c0a57d88bb76e18d163e149f',1,'explosion_handler::queued_explosion::queued_explosion(const tripoint &amp;pos, ExplosionType type, Creature *source)'],['../structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b',1,'explosion_handler::queued_explosion::queued_explosion()=default']]],
   ['quickload_81',['quickload',['../classgame.html#a8b7ad73630edfcdd0fef92e19cf4521a',1,'game']]],
   ['quicksave_82',['quicksave',['../classgame.html#ae997983b7a72c08bbc2c109058ea6ca8',1,'game']]],
   ['quiet_83',['quiet',['../classma__buff.html#a2b5b07a4c9e1ce232a9f4ba5030dfd76',1,'ma_buff']]],

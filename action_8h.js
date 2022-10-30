@@ -112,6 +112,7 @@ var action_8h =
       [ "ACTION_SAFEMODE", "action_8h.html#a14769f0512c139a614db195c6477c667a0046173ccfd97eba33a1d7b304eeda55", null ],
       [ "ACTION_COLOR", "action_8h.html#a14769f0512c139a614db195c6477c667aaa6870d7ba92477f7e93c962a2403850", null ],
       [ "ACTION_WORLD_MODS", "action_8h.html#a14769f0512c139a614db195c6477c667aeba720d1c13afd3358545fbc514902e9", null ],
+      [ "ACTION_DISTRACTION_MANAGER", "action_8h.html#a14769f0512c139a614db195c6477c667afb84619a35c17b80d416806915bafd74", null ],
       [ "ACTION_TOGGLE_FULLSCREEN", "action_8h.html#a14769f0512c139a614db195c6477c667a85b28d7dace2de119936440a1687505a", null ],
       [ "ACTION_DEBUG", "action_8h.html#a14769f0512c139a614db195c6477c667a26b3a93ce939d3b494cae52860b06e1d", null ],
       [ "ACTION_DISPLAY_SCENT", "action_8h.html#a14769f0512c139a614db195c6477c667ac6a2622e05b532456fa5a12949d5ba7a", null ],
