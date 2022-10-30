@@ -1,5 +1,9 @@
 var NAVTREEINDEX16 =
 {
+"classJsonDeserializer.html#aaf4e444a8f40cdc69403aee22b076471":[36,0,530,1],
+"classJsonDeserializer.html#ab99bbee738aa9defe6e0516eaecf11d9":[36,0,530,0],
+"classJsonError.html":[36,0,531],
+"classJsonError.html#a6e7c0db4458ef6049d21735fb443e212":[36,0,531,1],
 "classJsonError.html#aa96b8710a1aa52b00b9daf1202358e40":[36,0,531,0],
 "classJsonIn.html":[36,0,532],
 "classJsonIn.html#a004e3b7996b6a3abee317a6a0254d851":[36,0,532,74],
@@ -175,8 +179,8 @@ var NAVTREEINDEX16 =
 "classJsonOut.html#a44cdd853d4c6913b37caa9f0131eeff2":[36,0,535,2],
 "classJsonOut.html#a4550e2036b904c4d4a90e440dd41c684":[36,0,535,14],
 "classJsonOut.html#a4756f9a569adbfc60de127f7c335d82f":[36,0,535,15],
-"classJsonOut.html#a4b8c8e50e3be57e737ae971ecf2c3fd5":[36,0,535,32],
 "classJsonOut.html#a4b8c8e50e3be57e737ae971ecf2c3fd5":[36,0,535,33],
+"classJsonOut.html#a4b8c8e50e3be57e737ae971ecf2c3fd5":[36,0,535,32],
 "classJsonOut.html#a4c5d22835b7dd2a090f1576a12304c9a":[36,0,535,38],
 "classJsonOut.html#a5751001115057ac29e266c14b4da5cbc":[36,0,535,45],
 "classJsonOut.html#a57a841c30e82540a073e8fb90f082ce2":[36,0,535,36],
@@ -245,9 +249,5 @@ var NAVTREEINDEX16 =
 "classMapgenRemovePartHandler.html#a2e7cd5c3b77c5fdf631da69cb81ae483":[36,0,598,7],
 "classMapgenRemovePartHandler.html#a366b38f5c14dcfa58017ecb9bb6841a9":[36,0,598,3],
 "classMapgenRemovePartHandler.html#a3cfbfe2d9122064bb59791830ba6e654":[36,0,598,2],
-"classMapgenRemovePartHandler.html#a53b09ea33f6e0730e883389009a24356":[36,0,598,4],
-"classMapgenRemovePartHandler.html#a64990f1d4d38892afbb0d4591906466d":[36,0,598,8],
-"classMapgenRemovePartHandler.html#a6bf659298e9cbc83a91d268b23e1264b":[36,0,598,0],
-"classMapgenRemovePartHandler.html#ab9514a036c6e343091ffa3c9922581f2":[36,0,598,6],
-"classMapgenRemovePartHandler.html#ad366fd0abeaef462700138735251c9b6":[36,0,598,1]
+"classMapgenRemovePartHandler.html#a53b09ea33f6e0730e883389009a24356":[36,0,598,4]
 };

@@ -189,6 +189,9 @@ Functions</h2></td></tr>
 <tr class="memitem:ae05cec3261e3815245ec1d732e28bb67"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:ae05cec3261e3815245ec1d732e28bb67"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; std::vector&lt; T &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacecata.html#ae05cec3261e3815245ec1d732e28bb67">find_cycles</a> (const std::unordered_map&lt; T, std::vector&lt; T &gt; &gt; &amp;edges)</td></tr>
 <tr class="separator:ae05cec3261e3815245ec1d732e28bb67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab53cf6757bb7d3a1ead8c109eec43ee3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacecata.html#ab53cf6757bb7d3a1ead8c109eec43ee3">unreachable</a> ()</td></tr>
+<tr class="memdesc:ab53cf6757bb7d3a1ead8c109eec43ee3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Marks unreachable code.  <a href="namespacecata.html#ab53cf6757bb7d3a1ead8c109eec43ee3">More...</a><br /></td></tr>
+<tr class="separator:ab53cf6757bb7d3a1ead8c109eec43ee3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a097b137e977a6b843c0dada2c8b19611"><td class="memTemplParams" colspan="2">template&lt;class element_type , class element_allocator_type , typename element_skipfield_type &gt; </td></tr>
 <tr class="memitem:a097b137e977a6b843c0dada2c8b19611"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacecata.html#a097b137e977a6b843c0dada2c8b19611">swap</a> (<a class="el" href="classcata_1_1colony.html">colony</a>&lt; element_type, element_allocator_type, element_skipfield_type &gt; &amp;<a class="el" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>, <a class="el" href="classcata_1_1colony.html">colony</a>&lt; element_type, element_allocator_type, element_skipfield_type &gt; &amp;<a class="el" href="magic_8cpp.html#aa93a189fb7bbbf87be54bcc7bd11bb6f">b</a>) <a class="el" href="colony_8h.html#aa581a8ccfb69e9201c82504f4ca6a949">COLONY_NOEXCEPT_SWAP</a>(element_allocator_type)</td></tr>
 <tr class="memdesc:a097b137e977a6b843c0dada2c8b19611"><td class="mdescLeft">&#160;</td><td class="mdescRight">Swaps colony A's contents with that of colony B.  <a href="namespacecata.html#a097b137e977a6b843c0dada2c8b19611">More...</a><br /></td></tr>
@@ -1546,6 +1549,41 @@ template&lt;class swap_element_type , class swap_element_allocator_type &gt; </d
 
 </div>
 </div>
+<a id="ab53cf6757bb7d3a1ead8c109eec43ee3" name="ab53cf6757bb7d3a1ead8c109eec43ee3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab53cf6757bb7d3a1ead8c109eec43ee3">&#9670;&nbsp;</a></span>unreachable()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void cata::unreachable </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Marks unreachable code. </p>
+<p >Utility function to mark unreachable code to help compiler with optimizations.</p>
+<p >Usage: void ( bool always_true ) { if ( always_true ) { return; } else { // If always_true happens to be false, this will cause Undefined Behavior. <a class="el" href="namespacecata.html#ab53cf6757bb7d3a1ead8c109eec43ee3" title="Marks unreachable code.">cata::unreachable()</a>; } }</p>
+<p >Source: <a href="https://stackoverflow.com/a/65258501">https://stackoverflow.com/a/65258501</a> </p>
+
+<p class="definition">Definition at line <a class="el" href="cata__unreachable_8h_source.html#l00037">37</a> of file <a class="el" href="cata__unreachable_8h_source.html">cata_unreachable.h</a>.</p>
+<div class="fragment"><div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>{}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="lightmap_8cpp_source.html#l00814">cast_zlight_segment()</a>, and <a class="el" href="lightmap_8cpp_source.html#l01127">castLight()</a>.</p>
+
+</div>
+</div>
 <a id="a3e8b1530c592c15f0a0e5470707bf350" name="a3e8b1530c592c15f0a0e5470707bf350"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a3e8b1530c592c15f0a0e5470707bf350">&#9670;&nbsp;</a></span>value_ptr_equals()</h2>
 
@@ -1640,7 +1678,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacecata.html">cata</a></li>
-    <li class="footer">Generated on Sun Oct 30 2022 16:09:42 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Oct 30 2022 16:16:25 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

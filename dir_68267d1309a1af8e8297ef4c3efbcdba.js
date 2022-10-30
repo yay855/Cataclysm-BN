@@ -76,6 +76,7 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "cata_libintl.h", "cata__libintl_8h.html", "cata__libintl_8h" ],
     [ "cata_tiles.cpp", "cata__tiles_8cpp.html", null ],
     [ "cata_tiles.h", "cata__tiles_8h.html", "cata__tiles_8h" ],
+    [ "cata_unreachable.h", "cata__unreachable_8h.html", "cata__unreachable_8h" ],
     [ "cata_utility.cpp", "cata__utility_8cpp.html", "cata__utility_8cpp" ],
     [ "cata_utility.h", "cata__utility_8h.html", "cata__utility_8h" ],
     [ "cata_variant.cpp", "cata__variant_8cpp.html", "cata__variant_8cpp" ],

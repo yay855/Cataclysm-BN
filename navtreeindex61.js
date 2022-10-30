@@ -1,5 +1,9 @@
 var NAVTREEINDEX61 =
 {
+"classread__inventory__preset.html#aec03c2e3d7d6960ba7939068526e45a2":[36,0,777,6],
+"classread__inventory__preset.html#af381b0f09a51e82bb79c753f71aff7b3":[36,0,777,1],
+"classrecipe.html":[36,0,779],
+"classrecipe.html#a0109db19f0b18d82ab469121ee60ca3f":[36,0,779,12],
 "classrecipe.html#a0306672b3485a410ef74cd5cdc1f5279":[36,0,779,35],
 "classrecipe.html#a06882977700a57c968f9da3d16ec75a4":[36,0,779,76],
 "classrecipe.html#a09906a54fe30434daa78d5747a40cd75":[36,0,779,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX61 =
 "classret__val.html#a677622bcf3fc4937ece9375e9bfc6625":[36,0,797,5],
 "classret__val.html#a9722b3f0310c665f17761e848720430a":[36,0,797,15],
 "classret__val.html#a9ba797b3344cc36dff57add81db2a373":[36,0,797,6],
-"classret__val.html#aa6dd5587e2e979546d20a92a4464babe":[36,0,797,17],
-"classret__val.html#ac94c8af4d7f810ac24099e11cbd64671":[36,0,797,2],
-"classret__val.html#ad395557949d0f96cfb5ba4ddda43232e":[36,0,797,3],
-"classret__val.html#afe534a279647e88c4ab321d0c338d9d5":[36,0,797,13],
-"classreveal__map__actor.html":[36,0,798]
+"classret__val.html#aa6dd5587e2e979546d20a92a4464babe":[36,0,797,17]
 };

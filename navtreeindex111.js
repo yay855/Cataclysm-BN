@@ -1,5 +1,9 @@
 var NAVTREEINDEX111 =
 {
+"namespaceammo__effects.html#a46b4d380a5d6bcd43196d7fad5a35c06":[35,0,4,1],
+"namespaceammo__effects.html#a4d5efb64e5f2478906409402bc8454a3":[35,0,4,0],
+"namespaceammo__effects.html#a560c6af9060cf2ac239095f84f408e1a":[35,0,4,4],
+"namespaceammo__effects.html#ac865017e83604b57024c38c4e93d56bf":[35,0,4,2],
 "namespaceanonymous__namespace_02achievement_8cpp_03.html":[35,0,5],
 "namespaceanonymous__namespace_02achievement_8cpp_03.html#a32c1d3d3a3b3027955df478045239b5a":[35,0,5,0],
 "namespaceanonymous__namespace_02ammo_8cpp_03.html":[35,0,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX111 =
 "namespacebase__camps.html#a64d9c75a4dc27d18e1c8292e27946b28":[35,0,69,5],
 "namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773f":[35,0,69,2],
 "namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa4472ab93ea2696939b6ad21c5933110a":[35,0,69,2,2],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa45f53e74cd776adb82ce8520ae3831b3":[35,0,69,2,1],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa58dcecf18fb737f811f664aed3241243":[35,0,69,2,8],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa6e1f8efeae2e322e9ba7c02ede951344":[35,0,69,2,7],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa6e8a8d5731846de1e25dd7e6ac9949b5":[35,0,69,2,5],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa818c49316b9403bc7a6a3d8ec75901df":[35,0,69,2,3]
+"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa45f53e74cd776adb82ce8520ae3831b3":[35,0,69,2,1]
 };

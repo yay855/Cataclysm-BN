@@ -1,5 +1,9 @@
 var NAVTREEINDEX37 =
 {
+"classevent__statistic.html#a7f8a1a1144990bbdb43a506ff5111f7a":[36,0,309,6],
+"classevent__statistic.html#a9ae5360613bcaafea8be69352e2523a2":[36,0,309,7],
+"classevent__statistic.html#aa894af8c8507aa30113b3d9215371791":[36,0,309,5],
+"classevent__statistic.html#aae1f708aab3f8e2831a3f28821d7b538":[36,0,309,12],
 "classevent__statistic.html#abf5045d7275091ef1d1c5822e3b8ab2f":[36,0,309,4],
 "classevent__statistic.html#ac4e4116ef8bbd21829d887451d23e2c1":[36,0,309,1],
 "classevent__statistic.html#ac62ccc0c605404586c06e47add1266f8":[36,0,309,10],
@@ -46,8 +50,8 @@ var NAVTREEINDEX37 =
 "classevent__transformation_1_1impl.html#a9c4f5519af3f05949154be6d51158f39":[36,0,316,0,2],
 "classevent__transformation_1_1impl.html#ab34d1d857c04ab83a69f368d5528ce3d":[36,0,316,0,5],
 "classevent__transformation_1_1impl.html#aeab6ea16440952c8be2a787cf53f1095":[36,0,316,0,0],
-"classexplosion__handler_1_1explosion__queue.html":[35,0,105,1],
 "classexplosion__handler_1_1explosion__queue.html":[36,0,23,0],
+"classexplosion__handler_1_1explosion__queue.html":[35,0,105,1],
 "classexplosion__handler_1_1explosion__queue.html#a380d0eb70cae94d75275761fb7685544":[36,0,23,0,0],
 "classexplosion__handler_1_1explosion__queue.html#a380d0eb70cae94d75275761fb7685544":[35,0,105,1,0],
 "classexplosion__handler_1_1explosion__queue.html#a63402ce169e30e1be28113893cfbdea9":[35,0,105,1,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX37 =
 "classfireweapon__on__actor.html#a27033afa1c36f3527b720b38b7721a0f":[36,0,340,3],
 "classfireweapon__on__actor.html#a360c623253b58255d1db204fdd45d067":[36,0,340,6],
 "classfireweapon__on__actor.html#a46cd1d0265a132eb043ca4fde2bb435d":[36,0,340,4],
-"classfireweapon__on__actor.html#a4cadaf1529eaf2e21b35a02939e51d2d":[36,0,340,5],
-"classfireweapon__on__actor.html#a57e569cd793783b1d8ca89c3cd02626c":[36,0,340,8],
-"classfireweapon__on__actor.html#a64e6d3ceb3b0e206fb2f7fc8951bce29":[36,0,340,11],
-"classfireweapon__on__actor.html#a7a940ccd63a591a884e0cfdb64cdddca":[36,0,340,10],
-"classfireweapon__on__actor.html#a8067ced4a40d37939ac7189b0e1634f6":[36,0,340,2]
+"classfireweapon__on__actor.html#a4cadaf1529eaf2e21b35a02939e51d2d":[36,0,340,5]
 };

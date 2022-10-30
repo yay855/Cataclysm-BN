@@ -1,5 +1,10 @@
 var NAVTREEINDEX114 =
 {
+"namespacedetail.html#a5166b83d5415dbfaa347d968d14f0631":[35,0,95,250],
+"namespacedetail.html#a522f8cc7360464a3fc1d66493e1f272b":[35,0,95,342],
+"namespacedetail.html#a570145fa17cd9f84b71ce00ba01a8963":[35,0,95,176],
+"namespacedetail.html#a585281069e92f7aa3b0a01e5775f8001":[35,0,95,227],
+"namespacedetail.html#a58bec88b79bd2b8ff7f671593ed8a0dd":[35,0,95,235],
 "namespacedetail.html#a5b206f415acf89d60aea385b5fb52ba1":[35,0,95,154],
 "namespacedetail.html#a5b3412e0fadbabc819d3ceef7fcc5e79":[35,0,95,219],
 "namespacedetail.html#a5c820774747b9d34fb7be1f4c93759b3":[35,0,95,287],
@@ -244,10 +249,5 @@ var NAVTREEINDEX114 =
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a17a65bfecb293db945815728a07f8e86":[35,0,102,0,50],
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1a3dad101d179d65f97c0a0cf304f3a2":[35,0,102,0,21],
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1acb407b4a67dbf3ad2d61f292a9188a":[35,0,102,0,24],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1c93bf6c0273ec7f0af74efc5231b730":[35,0,102,0,43],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1f4766d7cce597bcc958c534c7919202":[35,0,102,0,15],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a20b9493098d03c8a3a2d7702ee3edde9":[35,0,102,0,48],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a20d8a1bbceb4e92584d70b66220f597e":[35,0,102,0,53],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a24b1489f84682a003817d07f29da512a":[35,0,102,0,42],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a279a9ad2f903cb3c0e4939b5a2e784b8":[35,0,102,0,57]
+"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1c93bf6c0273ec7f0af74efc5231b730":[35,0,102,0,43]
 };

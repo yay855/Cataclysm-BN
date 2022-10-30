@@ -1,5 +1,9 @@
 var NAVTREEINDEX60 =
 {
+"classplayer__morale.html":[36,0,752],
+"classplayer__morale.html#a0974d1b5faca8295ddc5ed84edf9aa02":[36,0,752,42],
+"classplayer__morale.html#a0a721ca1c9917b62b4308c2ef6bc7052":[36,0,752,28],
+"classplayer__morale.html#a1056cd7d4a7291b62742feb18f03d933":[36,0,752,15],
 "classplayer__morale.html#a1091e8c83f77b530086c4b7e23602409":[36,0,752,52],
 "classplayer__morale.html#a12b55f0aea0b8c2c649c38a8618d758b":[36,0,752,46],
 "classplayer__morale.html#a249e230423d8372b142af029d1a77bbf":[36,0,752,37],
@@ -131,8 +135,8 @@ var NAVTREEINDEX60 =
 "classprintf__arg__formatter.html#a852e7a37fef46d579690ea30b8c68861":[36,0,763,8],
 "classprintf__arg__formatter.html#a89c23f2c6801475cb6f7e814b2a8e67e":[36,0,763,10],
 "classprintf__arg__formatter.html#a985529e3e633ce43f7e5261fa11ac3f6":[36,0,763,6],
-"classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,763,11],
 "classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,763,12],
+"classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,763,11],
 "classprintf__arg__formatter.html#ad1eb24ea2b7c065bc176269fb9136ada":[36,0,763,5],
 "classprintf__arg__formatter.html#ae7a8ddae47b8bc0ad3cd0248299e7a4a":[36,0,763,16],
 "classprintf__arg__formatter.html#af0151b330f97bc42c4d97cd36fe4be18":[36,0,763,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX60 =
 "classread__inventory__preset.html#a86b5891ab1a579d99ab64b7dfbf35a9c":[36,0,777,2],
 "classread__inventory__preset.html#a9503a5ff7d4e1b2f3af2b616e13a5326":[36,0,777,7],
 "classread__inventory__preset.html#aaf418d0a216ddce5c9d54401f3a86eaf":[36,0,777,8],
-"classread__inventory__preset.html#ac049c3c86fd3d76118cde6a6eb01238d":[36,0,777,4],
-"classread__inventory__preset.html#aec03c2e3d7d6960ba7939068526e45a2":[36,0,777,6],
-"classread__inventory__preset.html#af381b0f09a51e82bb79c753f71aff7b3":[36,0,777,1],
-"classrecipe.html":[36,0,779],
-"classrecipe.html#a0109db19f0b18d82ab469121ee60ca3f":[36,0,779,12]
+"classread__inventory__preset.html#ac049c3c86fd3d76118cde6a6eb01238d":[36,0,777,4]
 };
