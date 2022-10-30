@@ -188,7 +188,7 @@ var NAVTREEINDEX130 =
 "sdlsound_8h.html#a283388f57294fc9cc61dae8b158e4e2c":[37,0,1,553,3],
 "sdlsound_8h.html#a436eccfa069bb4a2afdbfa842fe66f75":[37,0,1,553,0],
 "sdlsound_8h.html#a5a4ee15f0d695efca140adc6aa26204f":[37,0,1,553,2],
-"sdlsound_8h.html#ab8ff984ea9a3835e83ebb4b5b7a43a00":[37,0,1,553,5],
+"sdlsound_8h.html#a89989cc14595586cd9cc3bdb8658ee02":[37,0,1,553,5],
 "sdlsound_8h.html#abb18c69ad5ecf06e94403acf86e74cdc":[37,0,1,553,4],
 "sdlsound_8h.html#ae5624b35469f711409781db611b7f019":[37,0,1,553,1],
 "sdlsound_8h_source.html":[37,0,1,553],
