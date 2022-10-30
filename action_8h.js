@@ -105,6 +105,7 @@ var action_8h =
       [ "ACTION_MESSAGES", "action_8h.html#a14769f0512c139a614db195c6477c667a1973d335644f8025144de238940df538", null ],
       [ "ACTION_HELP", "action_8h.html#a14769f0512c139a614db195c6477c667a158cd75cc85352135c6d25edb2d92ce3", null ],
       [ "ACTION_MAIN_MENU", "action_8h.html#a14769f0512c139a614db195c6477c667a6ff6fe16263366fe7f6803075a7d7b5c", null ],
+      [ "ACTION_DIARY", "action_8h.html#a14769f0512c139a614db195c6477c667afea02950ed0d78540b4f013711837bb3", null ],
       [ "ACTION_KEYBINDINGS", "action_8h.html#a14769f0512c139a614db195c6477c667a1ac04f10556ffda84a323ff0f7e2c737", null ],
       [ "ACTION_OPTIONS", "action_8h.html#a14769f0512c139a614db195c6477c667a28b1c3cc64eade0067fd6ca5ec984656", null ],
       [ "ACTION_AUTOPICKUP", "action_8h.html#a14769f0512c139a614db195c6477c667ad19f2cecba600bec6f8535d6bc80760a", null ],
