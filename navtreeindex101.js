@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"mapdata_8h.html#a5f957bfe26512594a885d393bc7219f5":[37,0,1,359,347],
 "mapdata_8h.html#a5ffc56be674043bd285692b189e6fed3":[37,0,1,359,286],
 "mapdata_8h.html#a61208cc622279e3512c00240f4d52041":[37,0,1,359,166],
 "mapdata_8h.html#a61b0f778a24a224dfeb69c5f24659663":[37,0,1,359,377],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "mapdata_8h.html#ad9a1637bd91e43800593aea317ce73e9":[37,0,1,359,401],
 "mapdata_8h.html#ad9efd1de678375fac9aa43aa937028a3":[37,0,1,359,361],
 "mapdata_8h.html#adad2166510a42562be76c1438fbff797":[37,0,1,359,363],
-"mapdata_8h.html#adad82b75838215a075fa415d75316950":[37,0,1,359,38],
-"mapdata_8h.html#adb0c41f18b3de063424a3aa76e048777":[37,0,1,359,53]
+"mapdata_8h.html#adad82b75838215a075fa415d75316950":[37,0,1,359,38]
 };

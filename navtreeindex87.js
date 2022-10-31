@@ -1,5 +1,6 @@
 var NAVTREEINDEX87 =
 {
+"game__inventory_8h.html#a4f9083bc5b84c895d3827baf95c6b5e5":[37,0,1,232,5],
 "game__inventory_8h.html#a51f32de30b709ad3ba55254a21af6a1b":[37,0,1,232,21],
 "game__inventory_8h.html#a5b4325e0da28fac4ddc96a109c2912df":[37,0,1,232,3],
 "game__inventory_8h.html#a6dabf421ed20a9ded65c0e3b7e9088b4":[37,0,1,232,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX87 =
 "globals_eval_k.html":[37,1,5,11],
 "globals_eval_l.html":[37,1,5,12],
 "globals_eval_m.html":[37,1,5,13],
-"globals_eval_n.html":[37,1,5,14],
-"globals_eval_o.html":[37,1,5,15]
+"globals_eval_n.html":[37,1,5,14]
 };

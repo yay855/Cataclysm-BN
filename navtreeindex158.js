@@ -1,5 +1,10 @@
 var NAVTREEINDEX158 =
 {
+"structtutorial__game.html#a1c6bedd67b5637f2c1f8211115b0f2e8":[36,0,943,7],
+"structtutorial__game.html#a246df1231852dda24f0c222f0610b8d7":[36,0,943,5],
+"structtutorial__game.html#a31ce75fb8345053b34c144b177a559ff":[36,0,943,4],
+"structtutorial__game.html#a435dfe483d7351089cc07c2a3868adfd":[36,0,943,1],
+"structtutorial__game.html#aa53fa661be65ecc08eec76b3126d8ee7":[36,0,943,3],
 "structtutorial__game.html#acf7019ecf9891283e523eb9a512d9f31":[36,0,943,2],
 "structtutorial__game.html#aeca17437ccd82168fc7c607b2775f154":[36,0,943,0],
 "structtutorial__game.html#af45b870557df1fadb74d171998c44bc8":[36,0,943,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX158 =
 "structvpslot__rotor.html#a218e6f316cb0b62a4faba279ea298b07":[36,0,990,0],
 "structvpslot__wheel.html":[36,0,991],
 "structvpslot__wheel.html#a78e4e450cb036a18ca50410eb0cde80c":[36,0,991,3],
-"structvpslot__wheel.html#a7f9ec88cf40ad2440f2f38c88756075b":[36,0,991,0],
-"structvpslot__wheel.html#a84115bb1207b65b5d51ea35aa78f8028":[36,0,991,1],
-"structvpslot__wheel.html#afeb493eb195716a2931cd5837735f7fc":[36,0,991,2],
-"structvpslot__workbench.html":[36,0,992],
-"structvpslot__workbench.html#a1291d118c0716e06eeb5ffca2a01f34e":[36,0,992,2],
-"structvpslot__workbench.html#a22f0a407551bf84132454d326f5dd50d":[36,0,992,1]
+"structvpslot__wheel.html#a7f9ec88cf40ad2440f2f38c88756075b":[36,0,991,0]
 };

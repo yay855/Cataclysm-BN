@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"classui__adaptor.html#a0c81ceb5d8bd65b375ae4945970c9b0c":[36,0,946,8],
 "classui__adaptor.html#a0f8ad5ed55adae6cf7a1b2c59307fa0b":[36,0,946,22],
 "classui__adaptor.html#a126e0389fbe3790d73c7b0bffa12d195":[36,0,946,12],
 "classui__adaptor.html#a1629a0fbc701c48c974bb374f6cfad16":[36,0,946,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX68 =
 "classupdate__mapgen__function__json.html#a3488520cf6ccb51e057fd313fa8bfa81":[36,0,954,5],
 "classupdate__mapgen__function__json.html#a40961ae5ef507b42d2dae61a7937f773":[36,0,954,4],
 "classupdate__mapgen__function__json.html#a7404d1793fb0c0af5849f248c8596ec8":[36,0,954,0],
-"classupdate__mapgen__function__json.html#a99038dc03d0716fc4f90f7b9dcf41312":[36,0,954,1],
-"classupdate__mapgen__function__json.html#ab193257b4065e6367230a5428709a0ab":[36,0,954,6]
+"classupdate__mapgen__function__json.html#a99038dc03d0716fc4f90f7b9dcf41312":[36,0,954,1]
 };

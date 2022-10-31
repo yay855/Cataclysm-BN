@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"classoptions__manager_1_1cOpt.html#aabaf5e6ae3fea113b4059cb2853586d6":[36,0,706,0,0],
 "classoptions__manager_1_1cOpt.html#aabaf5e6ae3fea113b4059cb2853586d6a0f1166944f42e02fc476b57be1b34f97":[36,0,706,0,0,1],
 "classoptions__manager_1_1cOpt.html#aabaf5e6ae3fea113b4059cb2853586d6a236d0ec05f47d73c3062a12a0e74cdaa":[36,0,706,0,0,5],
 "classoptions__manager_1_1cOpt.html#aabaf5e6ae3fea113b4059cb2853586d6abff06a44f651aca7a0775e0c9642d480":[36,0,706,0,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "classovermap__ui_1_1map__notes__callback.html#af0ed684e6cc828e2025913b6dfa1bd94":[36,0,30,2,3],
 "classovermap__ui_1_1map__notes__callback.html#af0ed684e6cc828e2025913b6dfa1bd94":[35,0,151,2,3],
 "classovermap__ui_1_1map__notes__callback.html#af2a12903964e7a2412e53dfaf03ce3d8":[36,0,30,2,1],
-"classovermap__ui_1_1map__notes__callback.html#af2a12903964e7a2412e53dfaf03ce3d8":[35,0,151,2,1],
-"classovermapbuffer.html":[36,0,726]
+"classovermap__ui_1_1map__notes__callback.html#af2a12903964e7a2412e53dfaf03ce3d8":[35,0,151,2,1]
 };

@@ -1203,6 +1203,7 @@ var namespaces_dup =
     ] ],
     [ "mod_management", "namespacemod__management.html", [
       [ "t_mod_list", "namespacemod__management.html#a2b453b753864424a211ee499133505ed", null ],
+      [ "get_default_core_content_pack", "namespacemod__management.html#a822d52deafd2d501f0afbd604ccafdd8", null ],
       [ "load_mod_info", "namespacemod__management.html#a5041a8497495347e6999ac3e88261cf5", null ],
       [ "load_mod_list", "namespacemod__management.html#a2327609c6925917f9a52fb4a54a0a661", null ],
       [ "load_modfile", "namespacemod__management.html#a19b5c0c2b1726de2895bb31d75953a75", null ],

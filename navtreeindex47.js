@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"classjmapgen__loot.html":[36,0,500],
 "classjmapgen__loot.html#a03212325e44bd96d81898dbe782b99d9":[36,0,500,0],
 "classjmapgen__loot.html#a3b432820482e201995b0f396ff80ae64":[36,0,500,4],
 "classjmapgen__loot.html#acdd129ce98b8b32c4f31e990095d3064":[36,0,500,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "classknown__magic.html#a86c3dca5ebcd118303a6be29a38a73ea":[36,0,543,7],
 "classknown__magic.html#a8921c5cb6ecfcb2ad0f76a54f516070b":[36,0,543,12],
 "classknown__magic.html#a8feaad1d7a7ecbb054556ef48e4599c6":[36,0,543,31],
-"classknown__magic.html#a92c16301084172b5bd459c257af9c002":[36,0,543,6],
-"classknown__magic.html#a9c29f4c065729517316b825e410641df":[36,0,543,22]
+"classknown__magic.html#a92c16301084172b5bd459c257af9c002":[36,0,543,6]
 };
