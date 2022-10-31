@@ -1,5 +1,12 @@
 var NAVTREEINDEX97 =
 {
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998ab331df9e93f5acecb7d416b8e1bde138":[37,0,1,331,2,8],
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998ab692e2d85c0a3ef032992a1a41d0afff":[37,0,1,331,2,23],
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998aba95f3f8083f8a776c19a5bff24748ab":[37,0,1,331,2,44],
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998ac1a63835a7addc7d8741e4d0dceba53c":[37,0,1,331,2,63],
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998ac1fdc6262d240046ec0985cbc50b4f8e":[37,0,1,331,2,59],
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998acb1daf8d840822cfe7654c0ba18853b6":[37,0,1,331,2,64],
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998acbc365d800888a52f622212733462dfb":[37,0,1,331,2,39],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998acbc4a7ccc74fbcbda6a01632c5e4656e":[37,0,1,331,2,3],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998adb643d44e575e6aa811beecf485320c6":[37,0,1,331,2,33],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998addb233a2836089a3c6a88718f7a91154":[37,0,1,331,2,16],
@@ -242,12 +249,5 @@ var NAVTREEINDEX97 =
 "map__extras_8cpp.html#ad17df336eccf09e846f838ca7455d679":[37,0,1,344,3],
 "map__extras_8cpp.html#ad3944d318bd661fed2b391d8fa1ed92f":[37,0,1,344,13],
 "map__extras_8cpp.html#ad616ab81533cbdf68bdd2f3b0c8c5862":[37,0,1,344,133],
-"map__extras_8cpp.html#ad6366142312b997e22c0d855e1ac5c26":[37,0,1,344,36],
-"map__extras_8cpp.html#ad739d1d5af5fe3299baf2a6bc298710e":[37,0,1,344,139],
-"map__extras_8cpp.html#ad77d49603eceafe76f11a79b79d294e7":[37,0,1,344,1],
-"map__extras_8cpp.html#ad8c46219f1d8251b2ea2ed93ca5adcb9":[37,0,1,344,71],
-"map__extras_8cpp.html#ad8c58b77220d9d7e3ea3e3804018ffaf":[37,0,1,344,28],
-"map__extras_8cpp.html#adc9c45d65b0d80d6cbc2a380622caf2c":[37,0,1,344,128],
-"map__extras_8cpp.html#ae002e878ae18d5606ca01aeaa659a44c":[37,0,1,344,11],
-"map__extras_8cpp.html#ae58188f69cdc12137773ffda03fc5d2d":[37,0,1,344,108]
+"map__extras_8cpp.html#ad6366142312b997e22c0d855e1ac5c26":[37,0,1,344,36]
 };

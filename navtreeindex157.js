@@ -1,5 +1,12 @@
 var NAVTREEINDEX157 =
 {
+"structtalk__effect__fun__t.html#aed9a90ea7c1135c719f8f2a25cb63845":[36,0,895,6],
+"structtalk__effect__fun__t.html#af1cd39473c74422dd65ce8ec595f1bfc":[36,0,895,10],
+"structtalk__effect__fun__t.html#af913f7b3dbb08423243815af7b0f83d2":[36,0,895,19],
+"structtalk__effect__t.html":[36,0,896],
+"structtalk__effect__t.html#a023566a8a58cfe398f303bd45a799dab":[36,0,896,8],
+"structtalk__effect__t.html#a026cf6f25b8c7226baba54b751eaa7a8":[36,0,896,1],
+"structtalk__effect__t.html#a17422297763d9784a262fe552a38ad4b":[36,0,896,13],
 "structtalk__effect__t.html#a1789efdfa3df06e113e53196391f42fa":[36,0,896,3],
 "structtalk__effect__t.html#a2a8d6087601850a4feddae73c5bb7b70":[36,0,896,12],
 "structtalk__effect__t.html#a39aff730944a50c8d104f40b05751e2b":[36,0,896,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX157 =
 "structtutorial__game.html#af45b870557df1fadb74d171998c44bc8":[36,0,943,6],
 "structtype__identity.html":[36,0,944],
 "structtype__identity.html#abe86f80604d12518b04a2195d56136ed":[36,0,944,0],
-"structui__adaptor_1_1debug__message__ui.html":[36,0,946,0],
-"structui__adaptor_1_1disable__uis__below.html":[36,0,946,1],
-"structuilist_1_1pos__scalar_1_1auto__assign.html":[36,0,947,0,0],
-"structuilist_1_1size__scalar_1_1auto__assign.html":[36,0,947,1,0],
-"structuilist__entry.html":[36,0,949],
-"structuilist__entry.html#a0aaad21c27babe7480c04d8fc27aee73":[36,0,949,8],
-"structuilist__entry.html#a0edfd4db5df099465b333b398fa22a47":[36,0,949,5],
-"structuilist__entry.html#a2656a0d0dc45ca5bfc3005beb11fec21":[36,0,949,0]
+"structui__adaptor_1_1debug__message__ui.html":[36,0,946,0]
 };

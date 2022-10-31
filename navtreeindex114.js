@@ -1,5 +1,12 @@
 var NAVTREEINDEX114 =
 {
+"namespacedetail.html#a4285a9a6371801b3c88c6e10b224bba1":[35,0,95,301],
+"namespacedetail.html#a453559ec1413fa2b4b07b320662d6c99":[35,0,95,185],
+"namespacedetail.html#a4996ef0bebf4ddb00e35c3ea2b2d7150":[35,0,95,158],
+"namespacedetail.html#a4b099d963b134960e73068d6bfb5b522":[35,0,95,217],
+"namespacedetail.html#a4ced9b3280305a14e4e91ed485f82be5":[35,0,95,239],
+"namespacedetail.html#a4f25aa2fe2ba726ba003d9e6b03b83cb":[35,0,95,136],
+"namespacedetail.html#a511b40f74044a6a882f5f1d0fbf1c8f2":[35,0,95,264],
 "namespacedetail.html#a5166b83d5415dbfaa347d968d14f0631":[35,0,95,250],
 "namespacedetail.html#a522f8cc7360464a3fc1d66493e1f272b":[35,0,95,342],
 "namespacedetail.html#a570145fa17cd9f84b71ce00ba01a8963":[35,0,95,176],
@@ -242,12 +249,5 @@ var NAVTREEINDEX114 =
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a068b15c9ee46d32443e4ab3eee0ac95a":[35,0,102,0,40],
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a07b68c30b076d8410fb7b4fb49d2bac6":[35,0,102,0,11],
 "namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a08c272fb1dc033de497667eeac817610":[35,0,102,0,34],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a09248813bf9f27f910bba402ecb8b57d":[35,0,102,0,25],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a0cb1d44abdfb0908cd4ad7ff75b40547":[35,0,102,0,60],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a11d3e4e6deef911911d506ad38ff01ad":[35,0,102,0,54],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1214fd35ab025e77cf8a40764e961b41":[35,0,102,0,19],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a17a65bfecb293db945815728a07f8e86":[35,0,102,0,50],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1a3dad101d179d65f97c0a0cf304f3a2":[35,0,102,0,21],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1acb407b4a67dbf3ad2d61f292a9188a":[35,0,102,0,24],
-"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a1c93bf6c0273ec7f0af74efc5231b730":[35,0,102,0,43]
+"namespaceenchant__vals.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a09248813bf9f27f910bba402ecb8b57d":[35,0,102,0,25]
 };

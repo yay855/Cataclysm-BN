@@ -1,5 +1,12 @@
 var NAVTREEINDEX111 =
 {
+"namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759a3282b06f67c5e15c0eaeb515ef8f86fd":[35,0,3,0,1],
+"namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759a4ba1498ecf6f0de5baac670a264e43eb":[35,0,3,0,0],
+"namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759a522cfe706bd4170b4fded79ff55e4bc4":[35,0,3,0,3],
+"namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759a5bf95244357d6164916bfe6e0ccfbc79":[35,0,3,0,2],
+"namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759af95ea74b65a6ce7cade89d4db5ab5d1b":[35,0,3,0,4],
+"namespaceammo__effects.html":[35,0,4],
+"namespaceammo__effects.html#a266026a76ad1cf3377d0b7c6efc36dd7":[35,0,4,3],
 "namespaceammo__effects.html#a46b4d380a5d6bcd43196d7fad5a35c06":[35,0,4,1],
 "namespaceammo__effects.html#a4d5efb64e5f2478906409402bc8454a3":[35,0,4,0],
 "namespaceammo__effects.html#a560c6af9060cf2ac239095f84f408e1a":[35,0,4,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX111 =
 "namespacebase__camps.html":[35,0,69],
 "namespacebase__camps.html#a04fa69b1c0952a34dc4a7d26b3f9f786":[35,0,69,12],
 "namespacebase__camps.html#a11becc5688aac40a12f2bc2e33d605c1":[35,0,69,7],
-"namespacebase__camps.html#a28832cf25e9985baab0a6cc9ac1323e2":[35,0,69,15],
-"namespacebase__camps.html#a33f7b3ee160c6971b07b5eb8416043b5":[35,0,69,6],
-"namespacebase__camps.html#a37484bd6058ac21028411c509951a457":[35,0,69,3],
-"namespacebase__camps.html#a514cbffdef2185c4d8b777f5feec390e":[35,0,69,10],
-"namespacebase__camps.html#a64d9c75a4dc27d18e1c8292e27946b28":[35,0,69,5],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773f":[35,0,69,2],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa4472ab93ea2696939b6ad21c5933110a":[35,0,69,2,2],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773fa45f53e74cd776adb82ce8520ae3831b3":[35,0,69,2,1]
+"namespacebase__camps.html#a28832cf25e9985baab0a6cc9ac1323e2":[35,0,69,15]
 };

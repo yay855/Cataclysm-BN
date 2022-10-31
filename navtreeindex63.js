@@ -1,5 +1,8 @@
 var NAVTREEINDEX63 =
 {
+"classscent__type.html#aa9c81f6208c954f5264ff20e48d4082a":[36,0,817,6],
+"classscent__type.html#ab1fdbc9b1134fcda1ce39790dd7ea2fa":[36,0,817,0],
+"classscent__type.html#ad1c1cfd0a04891cc363d9de94df2dc95":[36,0,817,3],
 "classscent__type.html#ae1c838e6be16fe07496af343f9a706af":[36,0,817,5],
 "classscore.html":[36,0,818],
 "classscore.html#a1784c821fc6024946e9d4b5f7d7471fe":[36,0,818,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX63 =
 "classsokoban__game_1_1cUndo.html#aa315205d79bdc6fcc1a935d716f92c89":[36,0,848,0,0],
 "classsolar__tile.html":[36,0,849],
 "classsolar__tile.html#a0ac762e3f0606a75d1eea121b597ae1c":[36,0,849,2],
-"classsolar__tile.html#a17bee5ba0a32011c60aa44128a9bc9bd":[36,0,849,3],
-"classsolar__tile.html#a398cf4d3a8c375b5cd51b9bc46e09a60":[36,0,849,4],
-"classsolar__tile.html#ab054c53972a8bc07b68c10b5ae221aed":[36,0,849,1],
-"classsolar__tile.html#ab3c837d64e80e382e25b2815b7851042":[36,0,849,0]
+"classsolar__tile.html#a17bee5ba0a32011c60aa44128a9bc9bd":[36,0,849,3]
 };

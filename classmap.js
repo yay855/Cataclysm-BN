@@ -46,6 +46,7 @@ var classmap =
     [ "apply_light_arc", "classmap.html#a0fcf5c9b35fd96a282ed003f68b813a2", null ],
     [ "apply_light_ray", "classmap.html#a2f5b28af5fac5319da3bab2fca702be6", null ],
     [ "apply_light_source", "classmap.html#a46b6d0943241ddaead39b5eedcc5ef09", null ],
+    [ "apply_vision_transparency_cache", "classmap.html#ae19fe10a03acc2efc5371019e2cd4eda", null ],
     [ "bash", "classmap.html#a2266f21420ae2a1b44e8df9a028764e4", null ],
     [ "bash_field", "classmap.html#ab9958eb6278f6c7bbf2930a65f01b38f", null ],
     [ "bash_furn_success", "classmap.html#ae268a0c697e38f27cd050d3c4e2bb8fa", null ],
@@ -70,7 +71,7 @@ var classmap =
     [ "build_seen_cache", "classmap.html#a3749fea4df26a1261eacecf94a58f199", null ],
     [ "build_sunlight_cache", "classmap.html#a65a8e439cefab21daed19bb917edc989", null ],
     [ "build_transparency_cache", "classmap.html#a89da249cc934c0d0cae7d099e603c080", null ],
-    [ "build_vision_transparency_cache", "classmap.html#af1f9afa3c36ade30dc57a18b7e3c4165", null ],
+    [ "build_vision_transparency_cache", "classmap.html#ad488945605715f241c9373052e0a0698", null ],
     [ "burn_body_part", "classmap.html#ab42c106bfff9e18e1767421be6e9e72c", null ],
     [ "calc_max_populated_zlev", "classmap.html#a588ac7e135c9e5a472c374808f88a741", null ],
     [ "can_move_furniture", "classmap.html#ae20c877c82882f08e1c6ac4f2994e11d", null ],
@@ -375,6 +376,7 @@ var classmap =
     [ "remove_trap", "classmap.html#ae6be5b2b977897215861971bf64fb502", null ],
     [ "reset_vehicle_cache", "classmap.html#ad21f17086e40605801ba0fcc160c605c", null ],
     [ "restock_fruits", "classmap.html#aa32803b6cf35273de4616478b5a1a9b3", null ],
+    [ "restore_vision_transparency_cache", "classmap.html#a9754925bd8eb126cfa2b0ae75f315408", null ],
     [ "rotate", "classmap.html#a37268cf3dfc2a32e85a40c2a7266dfc9", null ],
     [ "rotten_item_spawn", "classmap.html#a5690822d7d509cd4dc51ff92064353fe", null ],
     [ "route", "classmap.html#a6b4a1306861221ee22ba193a884ef606", null ],
@@ -480,5 +482,6 @@ var classmap =
     [ "support_cache_dirty", "classmap.html#abd92496d16784ab9dbbafebbac3113cb", null ],
     [ "traplocs", "classmap.html#a325f948d048578d7ef2479ce20ba3fcd", null ],
     [ "visibility_variables_cache", "classmap.html#aeae209ff5f7a02424246f9ae8086d026", null ],
+    [ "vision_transparency_cache", "classmap.html#aad0b3dbde31b460398d0b9c92ba08c38", null ],
     [ "zlevels", "classmap.html#a87a151868377cb4b2843de06991c97da", null ]
 ];

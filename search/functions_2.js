@@ -248,7 +248,7 @@ var searchData=
   ['build_5ftransparency_5fcache_245',['build_transparency_cache',['../classmap.html#a89da249cc934c0d0cae7d099e603c080',1,'map']]],
   ['build_5ftunnel_246',['build_tunnel',['../classovermap.html#af7a3d2aa06f03ca1f47e332df9ba4020',1,'overmap']]],
   ['build_5ftype_5fmap_247',['build_type_map',['../active__tile__data_8cpp.html#a678c8662df8c49de90bd4bded7702826',1,'active_tile_data.cpp']]],
-  ['build_5fvision_5ftransparency_5fcache_248',['build_vision_transparency_cache',['../classmap.html#af1f9afa3c36ade30dc57a18b7e3c4165',1,'map']]],
+  ['build_5fvision_5ftransparency_5fcache_248',['build_vision_transparency_cache',['../classmap.html#ad488945605715f241c9373052e0a0698',1,'map']]],
   ['building_5fbin_249',['building_bin',['../classbuilding__bin.html#a8644480607d498f04ad7277de2f1bd85',1,'building_bin']]],
   ['builtin_5fcitypileup_250',['builtin_citypileup',['../namespaceVehicleSpawnFunction.html#aa0b6e80246fa5e3c6a7e1af730d67ed7',1,'VehicleSpawnFunction']]],
   ['builtin_5fjackknifed_5fsemi_251',['builtin_jackknifed_semi',['../namespaceVehicleSpawnFunction.html#abc7e345285cb068e45df6862876ba140',1,'VehicleSpawnFunction']]],
