@@ -1,5 +1,11 @@
 var NAVTREEINDEX139 =
 {
+"structconstruction.html#a36f1c73706158a5b80c8e24e4b24c2ee":[36,0,171,27],
+"structconstruction.html#a3c03a03f38a58394d4334720c81dd40e":[36,0,171,10],
+"structconstruction.html#a48e677d1c47352f2ad2c915e5ddbf197":[36,0,171,15],
+"structconstruction.html#a48f95025ad7c2b375f1f7e2ec62256e9":[36,0,171,2],
+"structconstruction.html#a4cf13ccacaf22360ae7c3922bdbbca9a":[36,0,171,3],
+"structconstruction.html#a52094564ee6ba8fb55b74f6913c9a0bf":[36,0,171,0],
 "structconstruction.html#a5671c035ade5a0c7ab262b48a3b5e8b5":[36,0,171,20],
 "structconstruction.html#a70c13acb194736b73200b8d6c08366dc":[36,0,171,9],
 "structconstruction.html#a89d4a74d41da134b245a60efc638d2bd":[36,0,171,16],
@@ -192,10 +198,10 @@ var NAVTREEINDEX139 =
 "structdebug__log__level.html#aec617d31891e95fabab04581e6a21f59":[36,0,193,2],
 "structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html":[35,0,94,0,0],
 "structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html":[36,0,19,0,0],
-"structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#a0638993564f27200c691bc397c5f418a":[36,0,19,0,0,0],
 "structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#a0638993564f27200c691bc397c5f418a":[35,0,94,0,0,0],
-"structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#ab9e60caef3f9d61d7919ffe671a337f2":[36,0,19,0,0,1],
+"structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#a0638993564f27200c691bc397c5f418a":[36,0,19,0,0,0],
 "structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#ab9e60caef3f9d61d7919ffe671a337f2":[35,0,94,0,0,1],
+"structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#ab9e60caef3f9d61d7919ffe671a337f2":[36,0,19,0,0,1],
 "structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#acf8db6bd89cfd29c8df31b3201b466ad":[35,0,94,0,0,2],
 "structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#acf8db6bd89cfd29c8df31b3201b466ad":[36,0,19,0,0,2],
 "structdebug__menu_1_1anonymous__namespace_02wisheffect_8cpp_03_1_1entry__data.html#af65ea3768047b647b8d9e371c3b4b575":[36,0,19,0,0,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX139 =
 "structdefense__game.html#acf18c5ec652e63ba943afe14fd0a046d":[36,0,198,33],
 "structdefense__game.html#ad0f7d4d374588b5bd77ba08e2be4fb4e":[36,0,198,13],
 "structdefense__game.html#ad9cddf64072af59dad2b3b569e1fb869":[36,0,198,35],
-"structdefense__game.html#aeca44c2ae2df5197ddb423b01c610474":[36,0,198,23],
-"structdefense__game.html#af6c7cc9410379686561413f92787b422":[36,0,198,7],
-"structdefense__game.html#afd97d055867c5bd638560a1a6e19f9aa":[36,0,198,30],
-"structdesc__freq.html":[36,0,205],
-"structdesc__freq.html#a49ec6fd8f4ca7aa1b91ab1f660e2b400":[36,0,205,2],
-"structdesc__freq.html#ae40bb45b83a3ec156a53d4143421892d":[36,0,205,4],
-"structdesc__freq.html#aec51702de07cce179b141c6fc001184a":[36,0,205,0]
+"structdefense__game.html#aeca44c2ae2df5197ddb423b01c610474":[36,0,198,23]
 };

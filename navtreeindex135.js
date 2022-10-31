@@ -1,6 +1,12 @@
 var NAVTREEINDEX135 =
 {
+"structbasic__format__specs.html#a56147eaae543dbf9967f68ada088cc00":[36,0,102,4],
+"structbasic__format__specs.html#a6a004ef8135843837556951f14dbcf22":[36,0,102,0],
+"structbasic__format__specs.html#ac05254b4b13aac586b98730d65d73b65":[36,0,102,7],
+"structbehavior_1_1behavior__return.html":[35,0,70,0],
+"structbehavior_1_1behavior__return.html":[36,0,13,0],
 "structbehavior_1_1behavior__return.html#a70a42d2c1ef16a5f36fd91030659e82b":[35,0,70,0,1],
+"structbehavior_1_1behavior__return.html#a70a42d2c1ef16a5f36fd91030659e82b":[36,0,13,0,1],
 "structbehavior_1_1behavior__return.html#acf8fb8a3528e7d8bbc935f810ddf93f2":[36,0,13,0,0],
 "structbehavior_1_1behavior__return.html#acf8fb8a3528e7d8bbc935f810ddf93f2":[35,0,70,0,0],
 "structbench__location.html":[36,0,108],
@@ -243,11 +249,5 @@ var NAVTREEINDEX135 =
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1awakes__dark__wyrms_01_4.html":[35,0,72,0,6],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1awakes__dark__wyrms_01_4.html":[36,0,14,0,6],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1becomes__wanted_01_4.html":[36,0,14,0,7],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1becomes__wanted_01_4.html":[35,0,72,0,7],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1broken__bone__mends_01_4.html":[36,0,14,0,8],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1broken__bone__mends_01_4.html":[35,0,72,0,8],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1broken__bone__mends_01_4.html#a7b94c533c8de6d7e9f8c11623305e7dc":[35,0,72,0,8,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1broken__bone__mends_01_4.html#a7b94c533c8de6d7e9f8c11623305e7dc":[36,0,14,0,8,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1buries__corpse_01_4.html":[35,0,72,0,9],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1buries__corpse_01_4.html":[36,0,14,0,9]
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1becomes__wanted_01_4.html":[35,0,72,0,7]
 };
