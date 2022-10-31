@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"sounds_8h.html#af20f2b1f5492d2f2d793da6d29740f18ae71dcd04024050020677dc18ca9c8696":[37,0,1,573,2,5],
 "sounds_8h.html#af20f2b1f5492d2f2d793da6d29740f18aedbce683077952cb3ea14b0e8b49d6ac":[37,0,1,573,2,22],
 "sounds_8h.html#af20f2b1f5492d2f2d793da6d29740f18af55032e0a05d8c6edf23609359f4e2ed":[37,0,1,573,2,19],
 "sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3":[37,0,1,573,4],
@@ -82,15 +83,15 @@ var NAVTREEINDEX132 =
 "string__formatter_8h.html#acd43b44c4ed2a8bf0445de6a39990c59":[37,0,1,585,25],
 "string__formatter_8h.html#ad2ac384e14bf09aa47a6e57e29693f2a":[37,0,1,585,1],
 "string__formatter_8h.html#afb28482ebaeeaaacce0dda41d99605b7":[37,0,1,585,9],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,23],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,14],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,22],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,15],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,23],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,21],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,20],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,18],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,17],
 "string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,16],
-"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,15],
+"string__formatter_8h.html#gaf6c1b09e9154ca0f0018624028929df5":[37,0,1,585,14],
 "string__formatter_8h_source.html":[37,0,1,585],
 "string__id_8cpp.html":[37,0,1,586],
 "string__id_8cpp.html#a0e0ec287dba7e750bdd14410887a0764":[37,0,1,586,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "structMonsterGroupEntry.html#aacc61581b670aecc16471f2a08bfb96a":[36,0,650,9],
 "structMonsterGroupEntry.html#ac382f38fdf92ade9b5aeee97d7e0cfa1":[36,0,650,3],
 "structMonsterGroupEntry.html#adcbaa803916753b42bb8968d9d38378a":[36,0,650,6],
-"structMonsterGroupEntry.html#afcf7bc546503b788c79ded5d89843285":[36,0,650,2],
-"structMonsterGroupResult.html":[36,0,652]
+"structMonsterGroupEntry.html#afcf7bc546503b788c79ded5d89843285":[36,0,650,2]
 };

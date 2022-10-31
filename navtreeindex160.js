@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"teleport_8cpp.html#ae326c5e4da7f23bc429d04d215dd7c9d":[37,0,1,597,0],
 "teleport_8cpp_source.html":[37,0,1,597],
 "teleport_8h.html":[37,0,1,598],
 "teleport_8h.html#a24cbf298b41e9fc23770c73d32e33a47":[37,0,1,598,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "trap_8h.html#aeba3c25f596f9754d1deeacf946c2ef7":[37,0,1,611,63],
 "trap_8h.html#aeda5331180b94dbfa89da7b898f6a5eb":[37,0,1,611,46],
 "trap_8h.html#aee2d79714aa3d106030ee6b16ef9c08d":[37,0,1,611,58],
-"trap_8h.html#af0829c97d3e4b6cbddc262e308d3b629":[37,0,1,611,50],
-"trap_8h.html#af1fa47c1194d60ef6cbdd44dedaa6de4":[37,0,1,611,15]
+"trap_8h.html#af0829c97d3e4b6cbddc262e308d3b629":[37,0,1,611,50]
 };

@@ -1554,7 +1554,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><a id="l00284" name="l00284"></a><span class="lineno">  284</span>        <span class="keyword">const</span> <span class="keyword">auto</span> new_pos = <a class="code hl_function" href="mapgen__functions_8cpp.html#a60321e5661fe285e032f87708c5430f6">rotate_point</a>( elem-&gt;pos );</div>
 <div class="line"><a id="l00285" name="l00285"></a><span class="lineno">  285</span> </div>
 <div class="line"><a id="l00286" name="l00286"></a><span class="lineno">  286</span>        elem-&gt;pos = new_pos;</div>
-<div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>        elem-&gt;set_facing( turns * 90_degrees );</div>
+<div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>        elem-&gt;set_facing( elem-&gt;turn_dir + turns * 90_degrees );</div>
 <div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span>    }</div>
 <div class="line"><a id="l00289" name="l00289"></a><span class="lineno">  289</span> </div>
 <div class="line"><a id="l00290" name="l00290"></a><span class="lineno">  290</span>    std::map&lt;point, computer&gt; rot_comp;</div>
@@ -2792,7 +2792,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classsubmap.html">submap</a></li>
-    <li class="footer">Generated on Mon Oct 31 2022 04:43:28 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Mon Oct 31 2022 04:46:03 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

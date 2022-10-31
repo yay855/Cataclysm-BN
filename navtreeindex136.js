@@ -1,5 +1,6 @@
 var NAVTREEINDEX136 =
 {
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__gets__headshot_01_4.html":[36,0,14,0,12],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__gets__headshot_01_4.html":[35,0,72,0,12],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__heals__damage_01_4.html":[36,0,14,0,13],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__heals__damage_01_4.html":[35,0,72,0,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "structcata_1_1list_1_1group__vector_1_1ebco__pair.html#ad088989c97574c31f9e09f175130088e":[35,0,72,14,8,0,1],
 "structcata_1_1list_1_1group__vector_1_1ebco__pair.html#ad088989c97574c31f9e09f175130088e":[36,0,14,13,8,0,1],
 "structcata_1_1list_1_1group__vector_1_1ebco__pair.html#af46f7ad6f04b263ffc5b2218b99099db":[36,0,14,13,8,0,0],
-"structcata_1_1list_1_1group__vector_1_1ebco__pair.html#af46f7ad6f04b263ffc5b2218b99099db":[35,0,72,14,8,0,0],
-"structcata_1_1list_1_1group__vector_1_1ebco__pair2.html":[35,0,72,14,8,1]
+"structcata_1_1list_1_1group__vector_1_1ebco__pair.html#af46f7ad6f04b263ffc5b2218b99099db":[35,0,72,14,8,0,0]
 };
