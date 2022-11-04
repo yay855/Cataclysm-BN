@@ -1,5 +1,8 @@
 var NAVTREEINDEX73 =
 {
+"classwish__mutate__callback.html#a83dbab3acc8aece280bc40a44af49bf9":[36,0,1017,3],
+"classwish__mutate__callback.html#abae114f21b673af39bf8be85e51de654":[36,0,1017,0],
+"classwish__mutate__callback.html#ad41eee928355a19215cf92af27204358":[36,0,1017,5],
 "classwish__mutate__callback.html#ad76dbc8e303d4fbccb2ce82ad07c8c0a":[36,0,1017,1],
 "classworldfactory.html":[36,0,1020],
 "classworldfactory.html#a0f22e07085c0d91565b24b7bfa70da5b":[36,0,1020,33],
@@ -246,8 +249,5 @@ var NAVTREEINDEX73 =
 "color_8cpp.html#ae28d53ff1bc72b81e9d85e8f69e19353":[37,0,1,107,9],
 "color_8cpp.html#af600494c677628f77182e7e72db72894":[37,0,1,107,8],
 "color_8cpp_source.html":[37,0,1,107],
-"color_8h.html":[37,0,1,108],
-"color_8h.html#a00ff895e55d9c2f629fed5c947d66ded":[37,0,1,108,96],
-"color_8h.html#a04e8393d2ee173670d5eb17978c48f9d":[37,0,1,108,89],
-"color_8h.html#a0598c295a04ad7cadba9548db6ab3abd":[37,0,1,108,16]
+"color_8h.html":[37,0,1,108]
 };

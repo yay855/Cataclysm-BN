@@ -14,6 +14,7 @@ var iexamine_8cpp =
     [ "find_best_prying_tool", "iexamine_8cpp.html#ab95b5229caf77d3b7a3cea7c9161c68e", null ],
     [ "find_tent_itype", "iexamine_8cpp.html#adbbb521883b37050b79bf17a70b8f29b", null ],
     [ "findBestGasDiscount", "iexamine_8cpp.html#a2fca445bbfe882b8dcbded90cfcd0190", null ],
+    [ "flag_AUTODOC", "iexamine_8cpp.html#ab849b88436e7694e040bcbf2b50b7a0b", null ],
     [ "flag_AUTODOC_COUCH", "iexamine_8cpp.html#a8f09f88f12d06451c8aa83b57011a685", null ],
     [ "flag_BARRICADABLE_WINDOW_CURTAINS", "iexamine_8cpp.html#a28545c378424dd8dce926da887af1ea7", null ],
     [ "flag_CLIMB_SIMPLE", "iexamine_8cpp.html#adc9b587eea6f8ad93e0bde8347dd792e", null ],

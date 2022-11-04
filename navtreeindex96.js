@@ -1,5 +1,11 @@
 var NAVTREEINDEX96 =
 {
+"line_8cpp.html#afc7dbbda2c4892a65910699dc4eead7e":[37,0,1,319,1],
+"line_8cpp_source.html":[37,0,1,319],
+"line_8h.html":[37,0,1,320],
+"line_8h.html#a0151dde82359c5892f138e92ee2ab697":[37,0,1,320,15],
+"line_8h.html#a06bc85a2417ec1b94812e28d61c0413a":[37,0,1,320,27],
+"line_8h.html#a10ff7fb33381e8938b0bb524b6aa5850":[37,0,1,320,12],
 "line_8h.html#a1bb98c9d2949377f8654d01ee0c090a2":[37,0,1,320,7],
 "line_8h.html#a22f984836636053038f43340f9c50149":[37,0,1,320,8],
 "line_8h.html#a2627a53dab40163f653baf60b3a48df8":[37,0,1,320,17],
@@ -243,11 +249,5 @@ var NAVTREEINDEX96 =
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a84451677a72e7d25e6ea111c24e94c4d":[37,0,1,331,2,46],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a85bd19be307ddfa19ab5e5b3db189e58":[37,0,1,331,2,51],
 "magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a85e5e942628af496409d5b273b8d50e2":[37,0,1,331,2,22],
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a87a44327183ff95ef91756674f92ae61":[37,0,1,331,2,37],
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a8aefc22cf5d57216e1f3f6197fb30fde":[37,0,1,331,2,12],
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a9184d4002003eddbf7dc8ee0abeee8e3":[37,0,1,331,2,10],
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a923b6c8e64530a7f97a176e6b2455430":[37,0,1,331,2,32],
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a9265bbe6fc729009d6d40b15e2613bbb":[37,0,1,331,2,29],
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a9380371c65982c89e992dbb1777634c1":[37,0,1,331,2,17],
-"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a94cf41e66b73453c7586dd3b2d39ae3b":[37,0,1,331,2,45]
+"magic__enchantment_8h.html#acd6a6ebb27f9ecb82b3bce1d3aef2998a87a44327183ff95ef91756674f92ae61":[37,0,1,331,2,37]
 };

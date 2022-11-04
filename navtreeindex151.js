@@ -1,5 +1,11 @@
 var NAVTREEINDEX151 =
 {
+"structmut__transform.html#aad1dba4fd129932c4fcd6cc174b3e072":[36,0,660,1],
+"structmut__transform.html#ac77ab7e202f7ace2357fd35372a83488":[36,0,660,4],
+"structmut__transform.html#ad0c14aa833e050b7cbc12da658fbb07d":[36,0,660,5],
+"structmutagen__attempt.html":[36,0,662],
+"structmutagen__attempt.html#a6ad75dae0f2e74716e7fbf8377001183":[36,0,662,2],
+"structmutagen__attempt.html#aa82c4d61464495c47789f7cca1fe89c7":[36,0,662,1],
 "structmutagen__attempt.html#ab9c778a6bd46f54fb4c19cef07bc46eb":[36,0,662,0],
 "structmutation__branch.html":[36,0,664],
 "structmutation__branch.html#a028122f2b0ac648cd432e74c6fdbb04d":[36,0,664,56],
@@ -243,11 +249,5 @@ var NAVTREEINDEX151 =
 "structnpc__chatbin.html#af4900fa04a03ef91e668d4ad675cc361":[36,0,679,10],
 "structnpc__companion__mission.html":[36,0,681],
 "structnpc__companion__mission.html#a47c0284ddc4d7d78faa873736436af80":[36,0,681,0],
-"structnpc__companion__mission.html#a593d389d529e3247fe80ba8a06aa7cf3":[36,0,681,2],
-"structnpc__companion__mission.html#a6be5c65fde862573a5fc353ecbaa93a8":[36,0,681,1],
-"structnpc__companion__mission.html#aae4b1a9420e9b17c71c97a15ab416fdb":[36,0,681,3],
-"structnpc__dist__to__player.html":[36,0,682],
-"structnpc__dist__to__player.html#a5f5662531571cef17a6f81162f88154e":[36,0,682,0],
-"structnpc__dist__to__player.html#aa1bb8b790c19ea555874777b7b4c03e6":[36,0,682,2],
-"structnpc__dist__to__player.html#adec94d599f134c5173b1e414af7b6a6f":[36,0,682,1]
+"structnpc__companion__mission.html#a593d389d529e3247fe80ba8a06aa7cf3":[36,0,681,2]
 };

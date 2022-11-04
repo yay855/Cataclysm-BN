@@ -1,5 +1,11 @@
 var NAVTREEINDEX147 =
 {
+"structislot__brewable.html":[36,0,449],
+"structislot__brewable.html#a2b2829761162d5779c27729715db2be9":[36,0,449,1],
+"structislot__brewable.html#a38af7f6a2e9e235c3ef3ed323a04d15d":[36,0,449,0],
+"structislot__comestible.html":[36,0,450],
+"structislot__comestible.html#a05bbe585d97a715412285a5760538c3b":[36,0,450,22],
+"structislot__comestible.html#a16361ca226b5a14a285f37c2bf42bbcd":[36,0,450,17],
 "structislot__comestible.html#a1c8377aa26060ebc8c5a1c7c17567cef":[36,0,450,4],
 "structislot__comestible.html#a27612b03ea67d70514178094dc2f285b":[36,0,450,18],
 "structislot__comestible.html#a2a9550614166bc74108225c00700d651":[36,0,450,28],
@@ -164,12 +170,12 @@ var NAVTREEINDEX147 =
 "structitem__info__data.html#adafcbaae8c911bf3d4fd7fff306a49a4":[36,0,474,16],
 "structitem__info__data.html#ae21c7618dbb6387bdc604ad7cf552dc9":[36,0,474,9],
 "structitem__info__data.html#aebc34b872c27347457cc489fc5d4c15f":[36,0,474,20],
-"structitem__internal_1_1scoped__goes__bad__cache.html":[36,0,25,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html":[35,0,117,0],
-"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,117,0,1],
+"structitem__internal_1_1scoped__goes__bad__cache.html":[36,0,25,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[36,0,25,0,1],
-"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,25,0,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,117,0,1],
 "structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[35,0,117,0,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,25,0,0],
 "structitem__reference.html":[36,0,479],
 "structitem__reference.html#a39088ef0fffbac57621a06913246eab1":[36,0,479,0],
 "structitem__reference.html#aa5f61b515d64cb6b440911cd9f181518":[36,0,479,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX147 =
 "structitype.html#a732c87e006a38b7dc35850450d588595":[36,0,484,43],
 "structitype.html#a77df14c96eca8142e97b00a9e43f56cb":[36,0,484,41],
 "structitype.html#a7a44fbc429e7e78283c414cb0edcc97c":[36,0,484,6],
-"structitype.html#a7cb80d77696cefb42ac6e75756b47e60":[36,0,484,25],
-"structitype.html#a7e30131b4296a6643c6a07e62910a12b":[36,0,484,16],
-"structitype.html#a7f957db922884120f5a9ce0d8789fdc4":[36,0,484,75],
-"structitype.html#a7ff45d94507fdbf7369ae269a0f1e52b":[36,0,484,18],
-"structitype.html#a82ca05abd5038bf680072963a3a97a7c":[36,0,484,76],
-"structitype.html#a88ab4cc3858d8bb86e21cf83d13cc4c0":[36,0,484,83],
-"structitype.html#a88f1b039c08faacccaa9d637f894ee7f":[36,0,484,97]
+"structitype.html#a7cb80d77696cefb42ac6e75756b47e60":[36,0,484,25]
 };
