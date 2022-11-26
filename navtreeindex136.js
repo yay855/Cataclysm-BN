@@ -1,6 +1,5 @@
 var NAVTREEINDEX136 =
 {
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1administers__mutagen_01_4.html#a20e3fd5f343867cec236cd4eb24a5dfc":[35,0,72,0,3,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[36,0,14,0,4],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1angers__amigara__horrors_01_4.html":[35,0,72,0,4],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1avatar__moves_01_4.html":[36,0,14,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX136 =
 "structcata_1_1list_1_1eq__to.html#abb62785cef51545ae664a2083372687f":[36,0,14,13,6,1],
 "structcata_1_1list_1_1group.html":[35,0,72,14,7],
 "structcata_1_1list_1_1group.html":[36,0,14,13,7],
-"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[35,0,72,14,7,9]
+"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[35,0,72,14,7,9],
+"structcata_1_1list_1_1group.html#a5304a212587c64d22e6d839fa38f3145":[36,0,14,13,7,9]
 };

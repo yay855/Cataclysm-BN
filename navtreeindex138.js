@@ -1,6 +1,5 @@
 var NAVTREEINDEX138 =
 {
-"structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1matype__id_01_4.html":[36,0,16,11],
 "structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1matype__id_01_4.html":[35,0,76,11],
 "structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mtype__id_01_4.html":[35,0,76,12],
 "structcata__variant__detail_1_1convert_3_01cata__variant__type_1_1mtype__id_01_4.html":[36,0,16,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX138 =
 "structconfidence__rating.html":[36,0,168],
 "structconfidence__rating.html#a3e948736e9d479abfa280833019cad36":[36,0,168,3],
 "structconfidence__rating.html#a47c7756df867e77f46be130c7bb02e5c":[36,0,168,2],
-"structconfidence__rating.html#a95391c9a8078562cb5f37dacf9ff0267":[36,0,168,0]
+"structconfidence__rating.html#a95391c9a8078562cb5f37dacf9ff0267":[36,0,168,0],
+"structconfidence__rating.html#afe2900a64ed6d6d39f4f2322216abf36":[36,0,168,1]
 };

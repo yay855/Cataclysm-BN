@@ -1,6 +1,5 @@
 var NAVTREEINDEX159 =
 {
-"structvpslot__engine.html#af79fe910ca75a02a570fa337ba3b3941":[36,0,989,7],
 "structvpslot__rotor.html":[36,0,990],
 "structvpslot__rotor.html#a218e6f316cb0b62a4faba279ea298b07":[36,0,990,0],
 "structvpslot__wheel.html":[36,0,991],
@@ -249,5 +248,6 @@ var NAVTREEINDEX159 =
 "suffer_8cpp.html#acf409ab736a978a27fd03d8e155eeee5":[37,0,1,596,45],
 "suffer_8cpp.html#acfad4e8017ecde8182c83fee1ad037cd":[37,0,1,596,50],
 "suffer_8cpp.html#ad09f7e9537e22a1327fd170ceb4be7de":[37,0,1,596,67],
-"suffer_8cpp.html#ad10079b9408c1edcc4b6601b0ff886d6":[37,0,1,596,78]
+"suffer_8cpp.html#ad10079b9408c1edcc4b6601b0ff886d6":[37,0,1,596,78],
+"suffer_8cpp.html#ad1df0ca2944a94c3ad796e8baada33ae":[37,0,1,596,47]
 };

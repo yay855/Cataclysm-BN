@@ -1,6 +1,5 @@
 var NAVTREEINDEX132 =
 {
-"sounds_8h.html#af20f2b1f5492d2f2d793da6d29740f18":[37,0,1,573,2],
 "sounds_8h.html#af20f2b1f5492d2f2d793da6d29740f18a0eccb42fe343ee6f375ff3bbfc4a1ab8":[37,0,1,573,2,3],
 "sounds_8h.html#af20f2b1f5492d2f2d793da6d29740f18a100b8cad7cf2a56f6df78f171f97a1ec":[37,0,1,573,2,0],
 "sounds_8h.html#af20f2b1f5492d2f2d793da6d29740f18a171271c7caf3b2e4c0d4ff9eff992de9":[37,0,1,573,2,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX132 =
 "structMOD__INFORMATION.html#a9482f097e7b06322dcd79362e4740e37":[36,0,631,7],
 "structMOD__INFORMATION.html#a9c8396f37bb2d509a00a9c4befde5605":[36,0,631,3],
 "structMOD__INFORMATION.html#a9ef0c707ded35f7b8d3c2e1bc5a7ce31":[36,0,631,10],
-"structMOD__INFORMATION.html#ac5f770c77500159b95edb93d1a211538":[36,0,631,9]
+"structMOD__INFORMATION.html#ac5f770c77500159b95edb93d1a211538":[36,0,631,9],
+"structMOD__INFORMATION.html#ac94216b21b254ea82d4b9e75311ff3bd":[36,0,631,8]
 };
