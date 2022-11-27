@@ -1,5 +1,11 @@
 var NAVTREEINDEX152 =
 {
+"structnpc__chatbin.html#ae49420c5722ca65f2a73a1d727c6cb1a":[36,0,679,1],
+"structnpc__chatbin.html#af4900fa04a03ef91e668d4ad675cc361":[36,0,679,10],
+"structnpc__companion__mission.html":[36,0,681],
+"structnpc__companion__mission.html#a47c0284ddc4d7d78faa873736436af80":[36,0,681,0],
+"structnpc__companion__mission.html#a593d389d529e3247fe80ba8a06aa7cf3":[36,0,681,2],
+"structnpc__companion__mission.html#a6be5c65fde862573a5fc353ecbaa93a8":[36,0,681,1],
 "structnpc__companion__mission.html#aae4b1a9420e9b17c71c97a15ab416fdb":[36,0,681,3],
 "structnpc__dist__to__player.html":[36,0,682],
 "structnpc__dist__to__player.html#a5f5662531571cef17a6f81162f88154e":[36,0,682,0],
@@ -114,14 +120,14 @@ var NAVTREEINDEX152 =
 "structobject__names__collection.html#acf248c3160c87b79784dcaabba79aa22":[36,0,695,2],
 "structom__lines_1_1type.html":[35,0,144,0],
 "structom__lines_1_1type.html":[36,0,28,0],
-"structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d":[35,0,144,0,1],
 "structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d":[36,0,28,0,1],
-"structom__lines_1_1type.html#a2511ff3039454c926ec0451f16d96e36":[35,0,144,0,3],
+"structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d":[35,0,144,0,1],
 "structom__lines_1_1type.html#a2511ff3039454c926ec0451f16d96e36":[36,0,28,0,3],
-"structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[35,0,144,0,2],
+"structom__lines_1_1type.html#a2511ff3039454c926ec0451f16d96e36":[35,0,144,0,3],
 "structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[36,0,28,0,2],
-"structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[35,0,144,0,4],
+"structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[35,0,144,0,2],
 "structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[36,0,28,0,4],
+"structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[35,0,144,0,4],
 "structom__lines_1_1type.html#ad37beb8f13a55a1f2547f9785ca9df35":[36,0,28,0,0],
 "structom__lines_1_1type.html#ad37beb8f13a55a1f2547f9785ca9df35":[35,0,144,0,0],
 "structom__map__extra.html":[36,0,698],
@@ -243,11 +249,5 @@ var NAVTREEINDEX152 =
 "structovermap__forest__settings.html#ad4593996913167f08494a838b93e082a":[36,0,712,3],
 "structovermap__lake__settings.html":[36,0,713],
 "structovermap__lake__settings.html#a1776b141fdf44284de5a8ae7c3aefab9":[36,0,713,4],
-"structovermap__lake__settings.html#a540e356b80469076dbf4cda69d03ccb4":[36,0,713,6],
-"structovermap__lake__settings.html#a5f3752dfa31c6d147fb406f780ffe9c4":[36,0,713,3],
-"structovermap__lake__settings.html#a7645168dff87b72ed0f06b070a38d6e7":[36,0,713,5],
-"structovermap__lake__settings.html#a7dc8a0baf7d6adbe982f571e5e607763":[36,0,713,1],
-"structovermap__lake__settings.html#a83e76cd2626ad5e96893d654c9445be7":[36,0,713,7],
-"structovermap__lake__settings.html#ab3abf954c043a69414a873a958828b7f":[36,0,713,0],
-"structovermap__lake__settings.html#ad7efde061dc78fee00d46620485a2bfb":[36,0,713,2]
+"structovermap__lake__settings.html#a540e356b80469076dbf4cda69d03ccb4":[36,0,713,6]
 };

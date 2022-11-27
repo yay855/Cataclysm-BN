@@ -1,5 +1,10 @@
 var NAVTREEINDEX147 =
 {
+"structislot__book_1_1recipe__with__description__t.html#a81128db90cd0174d3500d4cb1bbf002e":[36,0,448,0,4],
+"structislot__book_1_1recipe__with__description__t.html#a99fc8e6be1db40f6b4dfbd0b4d2866e5":[36,0,448,0,1],
+"structislot__book_1_1recipe__with__description__t.html#ab1754e8717fef2508852ad9cf8576bff":[36,0,448,0,0],
+"structislot__book_1_1recipe__with__description__t.html#aef4536c534e6eb32a5077303e57bbb31":[36,0,448,0,2],
+"structislot__brewable.html":[36,0,449],
 "structislot__brewable.html#a2b2829761162d5779c27729715db2be9":[36,0,449,1],
 "structislot__brewable.html#a38af7f6a2e9e235c3ef3ed323a04d15d":[36,0,449,0],
 "structislot__comestible.html":[36,0,450],
@@ -171,8 +176,8 @@ var NAVTREEINDEX147 =
 "structitem__info__data.html#aebc34b872c27347457cc489fc5d4c15f":[36,0,474,20],
 "structitem__internal_1_1scoped__goes__bad__cache.html":[35,0,117,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html":[36,0,25,0],
-"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,117,0,1],
 "structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[36,0,25,0,1],
+"structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,117,0,1],
 "structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,25,0,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[35,0,117,0,0],
 "structitem__reference.html":[36,0,479],
@@ -244,10 +249,5 @@ var NAVTREEINDEX147 =
 "structitype.html#a7099f3ad89573870d81ce764d6cccb04":[36,0,484,26],
 "structitype.html#a713cf194c7af78a6a101a6bfb26bc3a9":[36,0,484,32],
 "structitype.html#a71434072aef9916ba0a62b7baa59a2b5":[36,0,484,44],
-"structitype.html#a71835820e6594955948ef1e8bc7bed68":[36,0,484,50],
-"structitype.html#a732c87e006a38b7dc35850450d588595":[36,0,484,43],
-"structitype.html#a77df14c96eca8142e97b00a9e43f56cb":[36,0,484,41],
-"structitype.html#a7a44fbc429e7e78283c414cb0edcc97c":[36,0,484,6],
-"structitype.html#a7cb80d77696cefb42ac6e75756b47e60":[36,0,484,25],
-"structitype.html#a7e30131b4296a6643c6a07e62910a12b":[36,0,484,16]
+"structitype.html#a71835820e6594955948ef1e8bc7bed68":[36,0,484,50]
 };
