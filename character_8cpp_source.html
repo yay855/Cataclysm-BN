@@ -1756,7 +1756,7 @@ $(document).ready(function(){initNavTree('character_8cpp_source.html',''); initR
 <div class="line"><a id="l01667" name="l01667"></a><span class="lineno"> 1667</span>    <span class="comment">// Mutated toughness stacks with starting, by design.</span></div>
 <div class="line"><a id="l01668" name="l01668"></a><span class="lineno"> 1668</span>    <span class="keywordtype">float</span> hp_mod = 1.0f + <a class="code hl_function" href="classCharacter.html#a7fbae705aa03db588d52519dfa1e285c">mutation_value</a>( <span class="stringliteral">&quot;hp_modifier&quot;</span> ) + <a class="code hl_function" href="classCharacter.html#a7fbae705aa03db588d52519dfa1e285c">mutation_value</a>( <span class="stringliteral">&quot;hp_modifier_secondary&quot;</span> );</div>
 <div class="line"><a id="l01669" name="l01669"></a><span class="lineno"> 1669</span>    <span class="keywordtype">float</span> hp_adjustment = <a class="code hl_function" href="classCharacter.html#a7fbae705aa03db588d52519dfa1e285c">mutation_value</a>( <span class="stringliteral">&quot;hp_adjustment&quot;</span> ) + ( str_boost_val * 3 );</div>
-<div class="line"><a id="l01670" name="l01670"></a><span class="lineno"> 1670</span>    <a class="code hl_function" href="classCharacter.html#ac545f65dc2756956a43c456b0228e171">calc_all_parts_hp</a>( hp_mod, hp_adjustment, <a class="code hl_variable" href="classCharacter.html#a0bbd9aa7982f98e08f67db130e4eb9f8">str_max</a> );</div>
+<div class="line"><a id="l01670" name="l01670"></a><span class="lineno"> 1670</span>    <a class="code hl_function" href="classCharacter.html#ac545f65dc2756956a43c456b0228e171">calc_all_parts_hp</a>( hp_mod, hp_adjustment, <a class="code hl_function" href="classCharacter.html#a9355007f0604df379188fd7d0a1c1f5b">get_str_base</a>() );</div>
 <div class="line"><a id="l01671" name="l01671"></a><span class="lineno"> 1671</span>}</div>
 <div class="line"><a id="l01672" name="l01672"></a><span class="lineno"> 1672</span> </div>
 <div class="line"><a id="l01673" name="l01673"></a><span class="lineno"><a class="line" href="classCharacter.html#ac545f65dc2756956a43c456b0228e171"> 1673</a></span><span class="keywordtype">void</span> <a class="code hl_function" href="classCharacter.html#ac545f65dc2756956a43c456b0228e171">Character::calc_all_parts_hp</a>( <span class="keywordtype">float</span> hp_mod, <span class="keywordtype">float</span> hp_adjustment, <span class="keywordtype">int</span> str_max )</div>
@@ -12587,7 +12587,7 @@ $(document).ready(function(){initNavTree('character_8cpp_source.html',''); initR
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="character_8cpp.html">character.cpp</a></li>
-    <li class="footer">Generated on Fri Dec 2 2022 14:49:44 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Fri Dec 2 2022 14:51:26 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
