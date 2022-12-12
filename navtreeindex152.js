@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"structnpc__chatbin.html#ad4ff04c6043c0b02634eb2ff5351f351":[36,0,679,4],
 "structnpc__chatbin.html#ae49420c5722ca65f2a73a1d727c6cb1a":[36,0,679,1],
 "structnpc__chatbin.html#af4900fa04a03ef91e668d4ad675cc361":[36,0,679,10],
 "structnpc__companion__mission.html":[36,0,681],
@@ -118,18 +119,18 @@ var NAVTREEINDEX152 =
 "structobject__names__collection.html#a8eabe32ca2a19093a4a43bd6a4a1a487":[36,0,695,0],
 "structobject__names__collection.html#ab42e43f126d00c09aa12b7062fd0e40c":[36,0,695,5],
 "structobject__names__collection.html#acf248c3160c87b79784dcaabba79aa22":[36,0,695,2],
-"structom__lines_1_1type.html":[35,0,144,0],
 "structom__lines_1_1type.html":[36,0,28,0],
+"structom__lines_1_1type.html":[35,0,144,0],
 "structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d":[36,0,28,0,1],
 "structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d":[35,0,144,0,1],
 "structom__lines_1_1type.html#a2511ff3039454c926ec0451f16d96e36":[36,0,28,0,3],
 "structom__lines_1_1type.html#a2511ff3039454c926ec0451f16d96e36":[35,0,144,0,3],
-"structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[36,0,28,0,2],
 "structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[35,0,144,0,2],
-"structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[36,0,28,0,4],
+"structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[36,0,28,0,2],
 "structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[35,0,144,0,4],
-"structom__lines_1_1type.html#ad37beb8f13a55a1f2547f9785ca9df35":[36,0,28,0,0],
+"structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[36,0,28,0,4],
 "structom__lines_1_1type.html#ad37beb8f13a55a1f2547f9785ca9df35":[35,0,144,0,0],
+"structom__lines_1_1type.html#ad37beb8f13a55a1f2547f9785ca9df35":[36,0,28,0,0],
 "structom__map__extra.html":[36,0,698],
 "structom__map__extra.html#a51244cb574c58c4d97270491482e663e":[36,0,698,0],
 "structom__map__extra.html#ad68856e1300637fe59632b165ae8dd77":[36,0,698,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "structovermap__forest__settings.html#abefa804bb0f0fc1b13fdb83410047580":[36,0,712,4],
 "structovermap__forest__settings.html#ad4593996913167f08494a838b93e082a":[36,0,712,3],
 "structovermap__lake__settings.html":[36,0,713],
-"structovermap__lake__settings.html#a1776b141fdf44284de5a8ae7c3aefab9":[36,0,713,4],
-"structovermap__lake__settings.html#a540e356b80469076dbf4cda69d03ccb4":[36,0,713,6]
+"structovermap__lake__settings.html#a1776b141fdf44284de5a8ae7c3aefab9":[36,0,713,4]
 };

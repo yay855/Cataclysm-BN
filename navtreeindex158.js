@@ -1,5 +1,6 @@
 var NAVTREEINDEX158 =
 {
+"structtripoint.html#ae88a2a6b0b91fbe8f72b0526a4a03c9c":[36,0,939,18],
 "structtripoint.html#aef44af98c3831c7e56de78e0fcf3ead2":[36,0,939,22],
 "structtripoint.html#aef97b56ebc65b11fa77d942fa35249f3":[36,0,939,6],
 "structtripoint.html#affdc0d5b75024cbfacd208a495def3dc":[36,0,939,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX158 =
 "structvisibility__variables.html#ac72fc56d2bf35dfde2b01ec10dcdf727":[36,0,982,3],
 "structvisibility__variables.html#ae5bfa91f710dbe6eec585beecda8a7b4":[36,0,982,0],
 "structvpslot__engine.html":[36,0,989],
-"structvpslot__engine.html#a019b588ce76b319f84c10fc78af5e89c":[36,0,989,6],
-"structvpslot__engine.html#a07c1a87ce29bdca8747a21cf9342e183":[36,0,989,5]
+"structvpslot__engine.html#a019b588ce76b319f84c10fc78af5e89c":[36,0,989,6]
 };

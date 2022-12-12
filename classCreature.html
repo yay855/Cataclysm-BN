@@ -1527,12 +1527,12 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00641">641</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00641" name="l00641"></a><span class="lineno">  641</span>                                                                            {</div>
-<div class="line"><a id="l00642" name="l00642"></a><span class="lineno">  642</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00642" name="l00642"></a><span class="lineno">  642</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00643" name="l00643"></a><span class="lineno">  643</span>        }</div>
 <div class="ttc" id="aclassCreature_html_aa5da3a2470cbe9db76174216826307c1"><div class="ttname"><a href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">Creature::add_msg_if_npc</a></div><div class="ttdeci">virtual void add_msg_if_npc(const std::string &amp;) const</div><div class="ttdef"><b>Definition:</b> <a href="creature_8h_source.html#l00635">creature.h:635</a></div></div>
-<div class="ttc" id="astring__formatter_8h_html_a9b089d0b697443b096063219dab08ef5"><div class="ttname"><a href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a></div><div class="ttdeci">std::string string_format(std::string format, Args &amp;&amp;...args)</div><div class="ttdoc">Simple wrapper over string_formatter::parse.</div><div class="ttdef"><b>Definition:</b> <a href="string__formatter_8h_source.html#l00418">string_formatter.h:418</a></div></div>
+<div class="ttc" id="astring__formatter_8h_html_a8964099387da2f95396c67566bafce3d"><div class="ttname"><a href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a></div><div class="ttdeci">std::string string_format(std::string_view format, Args &amp;&amp;...args)</div><div class="ttdoc">Simple wrapper over string_formatter::parse.</div><div class="ttdef"><b>Definition:</b> <a href="string__formatter_8h_source.html#l00431">string_formatter.h:431</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -1660,12 +1660,12 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00655" name="l00655"></a><span class="lineno">  655</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00656" name="l00656"></a><span class="lineno">  656</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00657" name="l00657"></a><span class="lineno">  657</span>            }</div>
-<div class="line"><a id="l00658" name="l00658"></a><span class="lineno">  658</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00658" name="l00658"></a><span class="lineno">  658</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00659" name="l00659"></a><span class="lineno">  659</span>        }</div>
 <div class="ttc" id="acached__options_8cpp_html_aa021995764a0c77f628e3411497239cc"><div class="ttname"><a href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a></div><div class="ttdeci">bool debug_mode</div><div class="ttdoc">Extended debugging mode, can be toggled during game.</div><div class="ttdef"><b>Definition:</b> <a href="cached__options_8cpp_source.html#l00004">cached_options.cpp:4</a></div></div>
 <div class="ttc" id="astructgame__message__params_html_a8c6ea709b957aa8e5c7aa08d39d664fa"><div class="ttname"><a href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">game_message_params::type</a></div><div class="ttdeci">game_message_type type</div><div class="ttdef"><b>Definition:</b> <a href="enums_8h_source.html#l00300">enums.h:300</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -1716,10 +1716,10 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00663" name="l00663"></a><span class="lineno">  663</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00664" name="l00664"></a><span class="lineno">  664</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00665" name="l00665"></a><span class="lineno">  665</span>            }</div>
-<div class="line"><a id="l00666" name="l00666"></a><span class="lineno">  666</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00666" name="l00666"></a><span class="lineno">  666</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00667" name="l00667"></a><span class="lineno">  667</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -1770,10 +1770,10 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00671" name="l00671"></a><span class="lineno">  671</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00672" name="l00672"></a><span class="lineno">  672</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00673" name="l00673"></a><span class="lineno">  673</span>            }</div>
-<div class="line"><a id="l00674" name="l00674"></a><span class="lineno">  674</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00674" name="l00674"></a><span class="lineno">  674</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00675" name="l00675"></a><span class="lineno">  675</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -1848,10 +1848,10 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00645">645</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00645" name="l00645"></a><span class="lineno">  645</span>                                                                           {</div>
-<div class="line"><a id="l00646" name="l00646"></a><span class="lineno">  646</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00646" name="l00646"></a><span class="lineno">  646</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00647" name="l00647"></a><span class="lineno">  647</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -1918,10 +1918,10 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00649">649</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00649" name="l00649"></a><span class="lineno">  649</span>                                                                             {</div>
-<div class="line"><a id="l00650" name="l00650"></a><span class="lineno">  650</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00650" name="l00650"></a><span class="lineno">  650</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#aa5da3a2470cbe9db76174216826307c1">add_msg_if_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00651" name="l00651"></a><span class="lineno">  651</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00635">add_msg_if_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -1963,11 +1963,11 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00599">599</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00599" name="l00599"></a><span class="lineno">  599</span>                                                                               {</div>
-<div class="line"><a id="l00600" name="l00600"></a><span class="lineno">  600</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00600" name="l00600"></a><span class="lineno">  600</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00601" name="l00601"></a><span class="lineno">  601</span>        }</div>
 <div class="ttc" id="aclassCreature_html_a91dc4715c36eef7d116f944be9a4d435"><div class="ttname"><a href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">Creature::add_msg_if_player</a></div><div class="ttdeci">virtual void add_msg_if_player(const std::string &amp;) const</div><div class="ttdef"><b>Definition:</b> <a href="creature_8h_source.html#l00593">creature.h:593</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -2094,10 +2094,10 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00613" name="l00613"></a><span class="lineno">  613</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00614" name="l00614"></a><span class="lineno">  614</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00615" name="l00615"></a><span class="lineno">  615</span>            }</div>
-<div class="line"><a id="l00616" name="l00616"></a><span class="lineno">  616</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00616" name="l00616"></a><span class="lineno">  616</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00617" name="l00617"></a><span class="lineno">  617</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -2148,10 +2148,10 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00621" name="l00621"></a><span class="lineno">  621</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00622" name="l00622"></a><span class="lineno">  622</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00623" name="l00623"></a><span class="lineno">  623</span>            }</div>
-<div class="line"><a id="l00624" name="l00624"></a><span class="lineno">  624</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00624" name="l00624"></a><span class="lineno">  624</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00625" name="l00625"></a><span class="lineno">  625</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -2202,10 +2202,10 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00629" name="l00629"></a><span class="lineno">  629</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00630" name="l00630"></a><span class="lineno">  630</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00631" name="l00631"></a><span class="lineno">  631</span>            }</div>
-<div class="line"><a id="l00632" name="l00632"></a><span class="lineno">  632</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00632" name="l00632"></a><span class="lineno">  632</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00633" name="l00633"></a><span class="lineno">  633</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -2280,10 +2280,10 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00603">603</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00603" name="l00603"></a><span class="lineno">  603</span>                                                                              {</div>
-<div class="line"><a id="l00604" name="l00604"></a><span class="lineno">  604</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00604" name="l00604"></a><span class="lineno">  604</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00605" name="l00605"></a><span class="lineno">  605</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -2350,10 +2350,10 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00607">607</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00607" name="l00607"></a><span class="lineno">  607</span>                                                                                {</div>
-<div class="line"><a id="l00608" name="l00608"></a><span class="lineno">  608</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00608" name="l00608"></a><span class="lineno">  608</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a91dc4715c36eef7d116f944be9a4d435">add_msg_if_player</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00609" name="l00609"></a><span class="lineno">  609</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00593">add_msg_if_player()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -2401,12 +2401,12 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00688">688</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00689" name="l00689"></a><span class="lineno">  689</span>                                                            {</div>
-<div class="line"><a id="l00690" name="l00690"></a><span class="lineno">  690</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00691" name="l00691"></a><span class="lineno">  691</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00690" name="l00690"></a><span class="lineno">  690</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00691" name="l00691"></a><span class="lineno">  691</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00692" name="l00692"></a><span class="lineno">  692</span>        }</div>
 <div class="ttc" id="aclassCreature_html_a7cf71d2bd6c350f2ceda3f1d64046e63"><div class="ttname"><a href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">Creature::add_msg_player_or_npc</a></div><div class="ttdeci">virtual void add_msg_player_or_npc(const std::string &amp;, const std::string &amp;) const</div><div class="ttdef"><b>Definition:</b> <a href="creature_8h_source.html#l00677">creature.h:677</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -2552,11 +2552,11 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00708" name="l00708"></a><span class="lineno">  708</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00709" name="l00709"></a><span class="lineno">  709</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00710" name="l00710"></a><span class="lineno">  710</span>            }</div>
-<div class="line"><a id="l00711" name="l00711"></a><span class="lineno">  711</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00712" name="l00712"></a><span class="lineno">  712</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00711" name="l00711"></a><span class="lineno">  711</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00712" name="l00712"></a><span class="lineno">  712</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00713" name="l00713"></a><span class="lineno">  713</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -2613,11 +2613,11 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00717" name="l00717"></a><span class="lineno">  717</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00718" name="l00718"></a><span class="lineno">  718</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00719" name="l00719"></a><span class="lineno">  719</span>            }</div>
-<div class="line"><a id="l00720" name="l00720"></a><span class="lineno">  720</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00721" name="l00721"></a><span class="lineno">  721</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00720" name="l00720"></a><span class="lineno">  720</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00721" name="l00721"></a><span class="lineno">  721</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00722" name="l00722"></a><span class="lineno">  722</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -2674,11 +2674,11 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00726" name="l00726"></a><span class="lineno">  726</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00727" name="l00727"></a><span class="lineno">  727</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00728" name="l00728"></a><span class="lineno">  728</span>            }</div>
-<div class="line"><a id="l00729" name="l00729"></a><span class="lineno">  729</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00730" name="l00730"></a><span class="lineno">  730</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00729" name="l00729"></a><span class="lineno">  729</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00730" name="l00730"></a><span class="lineno">  730</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00731" name="l00731"></a><span class="lineno">  731</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -2769,11 +2769,11 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00694">694</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00695" name="l00695"></a><span class="lineno">  695</span>                                                            {</div>
-<div class="line"><a id="l00696" name="l00696"></a><span class="lineno">  696</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00697" name="l00697"></a><span class="lineno">  697</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00696" name="l00696"></a><span class="lineno">  696</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00697" name="l00697"></a><span class="lineno">  697</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00698" name="l00698"></a><span class="lineno">  698</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -2856,11 +2856,11 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00700">700</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00701" name="l00701"></a><span class="lineno">  701</span>                                                            {</div>
-<div class="line"><a id="l00702" name="l00702"></a><span class="lineno">  702</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00703" name="l00703"></a><span class="lineno">  703</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00702" name="l00702"></a><span class="lineno">  702</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a7cf71d2bd6c350f2ceda3f1d64046e63">add_msg_player_or_npc</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00703" name="l00703"></a><span class="lineno">  703</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_msg, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00704" name="l00704"></a><span class="lineno">  704</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00677">add_msg_player_or_npc()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -2908,12 +2908,12 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00744">744</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00745" name="l00745"></a><span class="lineno">  745</span>                                                            {</div>
-<div class="line"><a id="l00746" name="l00746"></a><span class="lineno">  746</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00747" name="l00747"></a><span class="lineno">  747</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00746" name="l00746"></a><span class="lineno">  746</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00747" name="l00747"></a><span class="lineno">  747</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00748" name="l00748"></a><span class="lineno">  748</span>        }</div>
 <div class="ttc" id="aclassCreature_html_a915f59d2cd13a723af0b26fba3703926"><div class="ttname"><a href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">Creature::add_msg_player_or_say</a></div><div class="ttdeci">virtual void add_msg_player_or_say(const std::string &amp;, const std::string &amp;) const</div><div class="ttdef"><b>Definition:</b> <a href="creature_8h_source.html#l00733">creature.h:733</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -3058,11 +3058,11 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00764" name="l00764"></a><span class="lineno">  764</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00765" name="l00765"></a><span class="lineno">  765</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00766" name="l00766"></a><span class="lineno">  766</span>            }</div>
-<div class="line"><a id="l00767" name="l00767"></a><span class="lineno">  767</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00768" name="l00768"></a><span class="lineno">  768</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00767" name="l00767"></a><span class="lineno">  767</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00768" name="l00768"></a><span class="lineno">  768</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00769" name="l00769"></a><span class="lineno">  769</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -3119,11 +3119,11 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00773" name="l00773"></a><span class="lineno">  773</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00774" name="l00774"></a><span class="lineno">  774</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00775" name="l00775"></a><span class="lineno">  775</span>            }</div>
-<div class="line"><a id="l00776" name="l00776"></a><span class="lineno">  776</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00777" name="l00777"></a><span class="lineno">  777</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00776" name="l00776"></a><span class="lineno">  776</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00777" name="l00777"></a><span class="lineno">  777</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00778" name="l00778"></a><span class="lineno">  778</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -3180,11 +3180,11 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l00782" name="l00782"></a><span class="lineno">  782</span>            <span class="keywordflow">if</span>( params.<a class="code hl_variable" href="structgame__message__params.html#a8c6ea709b957aa8e5c7aa08d39d664fa">type</a> == <a class="code hl_enumvalue" href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea9855e523119c93601d8f67718994df05">m_debug</a> &amp;&amp; !<a class="code hl_variable" href="cached__options_8cpp.html#aa021995764a0c77f628e3411497239cc">debug_mode</a> ) {</div>
 <div class="line"><a id="l00783" name="l00783"></a><span class="lineno">  783</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00784" name="l00784"></a><span class="lineno">  784</span>            }</div>
-<div class="line"><a id="l00785" name="l00785"></a><span class="lineno">  785</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00786" name="l00786"></a><span class="lineno">  786</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00785" name="l00785"></a><span class="lineno">  785</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( params, <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00786" name="l00786"></a><span class="lineno">  786</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00787" name="l00787"></a><span class="lineno">  787</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, <a class="el" href="cached__options_8cpp_source.html#l00004">debug_mode</a>, <a class="el" href="enums_8h_source.html#l00271">m_debug</a>, <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>, and <a class="el" href="enums_8h_source.html#l00300">game_message_params::type</a>.</p>
 
 </div>
 </div>
@@ -3275,11 +3275,11 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00750">750</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00751" name="l00751"></a><span class="lineno">  751</span>                                                            {</div>
-<div class="line"><a id="l00752" name="l00752"></a><span class="lineno">  752</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00753" name="l00753"></a><span class="lineno">  753</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00752" name="l00752"></a><span class="lineno">  752</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00753" name="l00753"></a><span class="lineno">  753</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00754" name="l00754"></a><span class="lineno">  754</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -3362,11 +3362,11 @@ template&lt;typename ... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="creature_8h_source.html#l00756">756</a> of file <a class="el" href="creature_8h_source.html">creature.h</a>.</p>
 <div class="fragment"><div class="line"><a id="l00757" name="l00757"></a><span class="lineno">  757</span>                                                            {</div>
-<div class="line"><a id="l00758" name="l00758"></a><span class="lineno">  758</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
-<div class="line"><a id="l00759" name="l00759"></a><span class="lineno">  759</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
+<div class="line"><a id="l00758" name="l00758"></a><span class="lineno">  758</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#a915f59d2cd13a723af0b26fba3703926">add_msg_player_or_say</a>( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( player_msg, std::forward&lt;Args&gt;( args )... ),</div>
+<div class="line"><a id="l00759" name="l00759"></a><span class="lineno">  759</span>                                          <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( npc_speech, std::forward&lt;Args&gt;( args )... ) );</div>
 <div class="line"><a id="l00760" name="l00760"></a><span class="lineno">  760</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00733">add_msg_player_or_say()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 </div>
 </div>
@@ -5060,11 +5060,11 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l01998" name="l01998"></a><span class="lineno"> 1998</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><a id="l01999" name="l01999"></a><span class="lineno"> 1999</span>    }</div>
 <div class="line"><a id="l02000" name="l02000"></a><span class="lineno"> 2000</span>    buf.push_back( <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;You see a figure radiating heat.&quot;</span> ) );</div>
-<div class="line"><a id="l02001" name="l02001"></a><span class="lineno"> 2001</span>    buf.push_back( <a class="code hl_function" href="string__formatter_8h.html#a9b089d0b697443b096063219dab08ef5">string_format</a>( <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;It is %s in size.&quot;</span> ), size_str ) );</div>
+<div class="line"><a id="l02001" name="l02001"></a><span class="lineno"> 2001</span>    buf.push_back( <a class="code hl_function" href="string__formatter_8h.html#a8964099387da2f95396c67566bafce3d">string_format</a>( <a class="code hl_define" href="translations_8h.html#aa829053017e23ef22d44dccecba63a34">_</a>( <span class="stringliteral">&quot;It is %s in size.&quot;</span> ), size_str ) );</div>
 <div class="line"><a id="l02002" name="l02002"></a><span class="lineno"> 2002</span>}</div>
 <div class="ttc" id="atranslations_8cpp_html_af0c79b5c75a7cf2df78663485b03ed9a"><div class="ttname"><a href="translations_8cpp.html#af0c79b5c75a7cf2df78663485b03ed9a">pgettext</a></div><div class="ttdeci">const char * pgettext(const char *context, const char *msgid)</div><div class="ttdef"><b>Definition:</b> <a href="translations_8cpp_source.html#l00041">translations.cpp:41</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="debug_8h_source.html#l00074">debugmsg</a>, <a class="el" href="classCreature.html#ab4c5777adaad4601b9ca17330371f5b7">get_size()</a>, <a class="el" href="creature_8h_source.html#l00062">MS_HUGE</a>, <a class="el" href="creature_8h_source.html#l00061">MS_LARGE</a>, <a class="el" href="creature_8h_source.html#l00060">MS_MEDIUM</a>, <a class="el" href="creature_8h_source.html#l00059">MS_SMALL</a>, <a class="el" href="creature_8h_source.html#l00058">MS_TINY</a>, <a class="el" href="translations_8cpp_source.html#l00041">pgettext()</a>, and <a class="el" href="string__formatter_8h_source.html#l00418">string_format()</a>.</p>
+<p class="reference">References <a class="el" href="translations_8h_source.html#l00116">_</a>, <a class="el" href="debug_8h_source.html#l00074">debugmsg</a>, <a class="el" href="classCreature.html#ab4c5777adaad4601b9ca17330371f5b7">get_size()</a>, <a class="el" href="creature_8h_source.html#l00062">MS_HUGE</a>, <a class="el" href="creature_8h_source.html#l00061">MS_LARGE</a>, <a class="el" href="creature_8h_source.html#l00060">MS_MEDIUM</a>, <a class="el" href="creature_8h_source.html#l00059">MS_SMALL</a>, <a class="el" href="creature_8h_source.html#l00058">MS_TINY</a>, <a class="el" href="translations_8cpp_source.html#l00041">pgettext()</a>, and <a class="el" href="string__formatter_8h_source.html#l00431">string_format()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="ranged_8cpp_source.html#l03563">target_ui::panel_target_info()</a>.</p>
 
@@ -11681,9 +11681,9 @@ template&lt;typename ... Args&gt; </div>
 <div class="line"><a id="l03054" name="l03054"></a><span class="lineno"> 3054</span>    <span class="comment">// fake is not stored, it&#39;s temporary anyway, only used to fire with a gun.</span></div>
 <div class="line"><a id="l03055" name="l03055"></a><span class="lineno"> 3055</span>}</div>
 <div class="ttc" id="aclassJsonOut_html_adb3c899f0ad7fc4f25cd3357c51a2c42"><div class="ttname"><a href="classJsonOut.html#adb3c899f0ad7fc4f25cd3357c51a2c42">JsonOut::member</a></div><div class="ttdeci">void member(const std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l02046">json.cpp:2046</a></div></div>
-<div class="ttc" id="agroup__string__formatter__convert_html_gaf6c1b09e9154ca0f0018624028929df5"><div class="ttname"><a href="group__string__formatter__convert.html#gaf6c1b09e9154ca0f0018624028929df5">cata::convert</a></div><div class="ttdeci">std::enable_if&lt; is_integer&lt; RT &gt;::value &amp;&amp;is_integer&lt; T &gt;::value, RT &gt;::type convert(RT *, const string_formatter &amp;, T &amp;&amp;value, int)</div><div class="ttdef"><b>Definition:</b> <a href="string__formatter_8h_source.html#l00094">string_formatter.h:94</a></div></div>
+<div class="ttc" id="agroup__string__formatter__convert_html_gaf6c1b09e9154ca0f0018624028929df5"><div class="ttname"><a href="group__string__formatter__convert.html#gaf6c1b09e9154ca0f0018624028929df5">cata::convert</a></div><div class="ttdeci">std::enable_if&lt; is_integer&lt; RT &gt;::value &amp;&amp;is_integer&lt; T &gt;::value, RT &gt;::type convert(RT *, const string_formatter &amp;, T &amp;&amp;value, int)</div><div class="ttdef"><b>Definition:</b> <a href="string__formatter_8h_source.html#l00098">string_formatter.h:98</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="creature_8h_source.html#l00820">armor_bash_bonus</a>, <a class="el" href="creature_8h_source.html#l00822">armor_bullet_bonus</a>, <a class="el" href="creature_8h_source.html#l00821">armor_cut_bonus</a>, <a class="el" href="creature_8h_source.html#l00827">block_bonus</a>, <a class="el" href="creature_8h_source.html#l00493">body</a>, <a class="el" href="string__formatter_8h_source.html#l00094">cata::convert()</a>, <a class="el" href="creature_8h_source.html#l00826">dodge_bonus</a>, <a class="el" href="creature_8h_source.html#l00808">effects</a>, <a class="el" href="creature_8h_source.html#l00828">hit_bonus</a>, <a class="el" href="json_8cpp_source.html#l02046">JsonOut::member()</a>, <a class="el" href="creature_8h_source.html#l00569">moves</a>, <a class="el" href="creature_8h_source.html#l00815">num_blocks</a>, <a class="el" href="creature_8h_source.html#l00817">num_blocks_bonus</a>, <a class="el" href="creature_8h_source.html#l00816">num_dodges</a>, <a class="el" href="creature_8h_source.html#l00818">num_dodges_bonus</a>, <a class="el" href="creature_8h_source.html#l00888">pain</a>, <a class="el" href="creature_8h_source.html#l00823">speed_base</a>, <a class="el" href="creature_8h_source.html#l00825">speed_bonus</a>, and <a class="el" href="creature_8h_source.html#l00810">values</a>.</p>
+<p class="reference">References <a class="el" href="creature_8h_source.html#l00820">armor_bash_bonus</a>, <a class="el" href="creature_8h_source.html#l00822">armor_bullet_bonus</a>, <a class="el" href="creature_8h_source.html#l00821">armor_cut_bonus</a>, <a class="el" href="creature_8h_source.html#l00827">block_bonus</a>, <a class="el" href="creature_8h_source.html#l00493">body</a>, <a class="el" href="string__formatter_8h_source.html#l00098">cata::convert()</a>, <a class="el" href="creature_8h_source.html#l00826">dodge_bonus</a>, <a class="el" href="creature_8h_source.html#l00808">effects</a>, <a class="el" href="creature_8h_source.html#l00828">hit_bonus</a>, <a class="el" href="json_8cpp_source.html#l02046">JsonOut::member()</a>, <a class="el" href="creature_8h_source.html#l00569">moves</a>, <a class="el" href="creature_8h_source.html#l00815">num_blocks</a>, <a class="el" href="creature_8h_source.html#l00817">num_blocks_bonus</a>, <a class="el" href="creature_8h_source.html#l00816">num_dodges</a>, <a class="el" href="creature_8h_source.html#l00818">num_dodges_bonus</a>, <a class="el" href="creature_8h_source.html#l00888">pain</a>, <a class="el" href="creature_8h_source.html#l00823">speed_base</a>, <a class="el" href="creature_8h_source.html#l00825">speed_bonus</a>, and <a class="el" href="creature_8h_source.html#l00810">values</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="savegame__json_8cpp_source.html#l00648">Character::store()</a>, and <a class="el" href="savegame__json_8cpp_source.html#l01950">monster::store()</a>.</p>
 
@@ -12576,7 +12576,7 @@ template&lt;typename ... Args&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classCreature.html">Creature</a></li>
-    <li class="footer">Generated on Mon Dec 12 2022 13:00:07 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Mon Dec 12 2022 13:25:13 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

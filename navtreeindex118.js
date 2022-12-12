@@ -1,5 +1,7 @@
 var NAVTREEINDEX118 =
 {
+"namespacemdeath.html#adfc56bd2f0d2ff131323cad37fc5fce3":[35,0,130,7],
+"namespacemdeath.html#adfd4f81649e252dba86a3178a7822cfb":[35,0,130,17],
 "namespacemdeath.html#ae38ab4a00893a45e481883e61a46c4b9":[35,0,130,31],
 "namespacemdeath.html#aed12979088aa9efbc8f84c57036da8c8":[35,0,130,3],
 "namespacemdeath.html#af0ee9e5a9fadf98e8a3ef7346aa35d26":[35,0,130,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX118 =
 "namespaceovermap__ui.html":[35,0,151],
 "namespaceovermap__ui.html#a06c7012cacbc54d3089948f7d99791ce":[35,0,151,21],
 "namespaceovermap__ui.html#a2e98c69cd4c14544afd28c0b4958e70f":[35,0,151,22],
-"namespaceovermap__ui.html#a3167d5016c349a84b9472caf6450a01f":[35,0,151,15],
-"namespaceovermap__ui.html#a37d0b9bb160674dc0bbc582369d92851":[35,0,151,12],
-"namespaceovermap__ui.html#a3930b3b4ee4682bd4052b4fc6db205ce":[35,0,151,20]
+"namespaceovermap__ui.html#a3167d5016c349a84b9472caf6450a01f":[35,0,151,15]
 };

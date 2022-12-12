@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"structenum__traits_3_01distraction__type_01_4.html":[36,0,269],
 "structenum__traits_3_01distraction__type_01_4.html#a315ab07d1a614bba7657d64e91165c8a":[36,0,269,0],
 "structenum__traits_3_01enchant__vals_1_1mod_01_4.html":[36,0,271],
 "structenum__traits_3_01enchant__vals_1_1mod_01_4.html#ab8ece077a74765e0361f3ccdab794716":[36,0,271,0],
@@ -227,12 +228,12 @@ var NAVTREEINDEX144 =
 "structexplosion__handler_1_1queued__explosion.html#a00d683aa1637f73596384b6d9ab1e747":[36,0,23,1,4],
 "structexplosion__handler_1_1queued__explosion.html#a41d13901c0a57d88bb76e18d163e149f":[36,0,23,1,1],
 "structexplosion__handler_1_1queued__explosion.html#a41d13901c0a57d88bb76e18d163e149f":[35,0,105,2,1],
-"structexplosion__handler_1_1queued__explosion.html#a47cf2fe408f1e5f77ef08d6b80647ceb":[36,0,23,1,6],
 "structexplosion__handler_1_1queued__explosion.html#a47cf2fe408f1e5f77ef08d6b80647ceb":[35,0,105,2,6],
-"structexplosion__handler_1_1queued__explosion.html#a509af4eb88d5466c64bd244b13ef83fa":[36,0,23,1,5],
+"structexplosion__handler_1_1queued__explosion.html#a47cf2fe408f1e5f77ef08d6b80647ceb":[36,0,23,1,6],
 "structexplosion__handler_1_1queued__explosion.html#a509af4eb88d5466c64bd244b13ef83fa":[35,0,105,2,5],
-"structexplosion__handler_1_1queued__explosion.html#a69ce8c3f7f160d5ef7b1fcbf939424bf":[36,0,23,1,7],
+"structexplosion__handler_1_1queued__explosion.html#a509af4eb88d5466c64bd244b13ef83fa":[36,0,23,1,5],
 "structexplosion__handler_1_1queued__explosion.html#a69ce8c3f7f160d5ef7b1fcbf939424bf":[35,0,105,2,7],
+"structexplosion__handler_1_1queued__explosion.html#a69ce8c3f7f160d5ef7b1fcbf939424bf":[36,0,23,1,7],
 "structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[35,0,105,2,0],
 "structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[36,0,23,1,0],
 "structexplosion__handler_1_1queued__explosion.html#a88b8f9fb1519b3e8f8a8bdfd9c654981":[36,0,23,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "structextended__photo__def.html#a195f7d385d119177c8c6df94dfc8541b":[36,0,324,1],
 "structextended__photo__def.html#a1bc0d9744770af96b73d6c1479c1d8de":[36,0,324,5],
 "structextended__photo__def.html#a2383e70d4cb855672d6d4c86af8ca323":[36,0,324,4],
-"structextended__photo__def.html#a472e9c13974f061c1cc02a7c8fbb327c":[36,0,324,3],
-"structextended__photo__def.html#ab7b28d0cb7e7391a41191d06d15bb61f":[36,0,324,2]
+"structextended__photo__def.html#a472e9c13974f061c1cc02a7c8fbb327c":[36,0,324,3]
 };
