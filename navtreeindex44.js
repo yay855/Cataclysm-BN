@@ -1,5 +1,6 @@
 var NAVTREEINDEX44 =
 {
+"classit__artifact__armor.html#a3b88838566eeb9ba58d99896b0aade13":[36,0,465,1],
 "classit__artifact__armor.html#a58a000c91b101476f7e93ace86f78ba0":[36,0,465,4],
 "classit__artifact__armor.html#a5b566b3fe3e3a28f7a7989bf39ec7607":[36,0,465,5],
 "classit__artifact__armor.html#a6d850e252683529d24e83ae14942cc49":[36,0,465,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX44 =
 "classitem.html#a75dd0b9b631f012c245f51e1f894305b":[36,0,467,400],
 "classitem.html#a75fa277bb39c1d2922137986c67d48fb":[36,0,467,33],
 "classitem.html#a76165a9e0121b48e5df59d0fcabc1728":[36,0,467,68],
-"classitem.html#a768ea4fe5f4b0b5054a91c4bab1a5bab":[36,0,467,89],
-"classitem.html#a773105801673bb74d69b3ca2dac471d6":[36,0,467,131]
+"classitem.html#a768ea4fe5f4b0b5054a91c4bab1a5bab":[36,0,467,89]
 };

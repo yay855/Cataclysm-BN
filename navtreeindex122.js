@@ -1,5 +1,7 @@
 var NAVTREEINDEX122 =
 {
+"namespacewarmth.html#ae11deea526b1f8389fa6a1b002bcc193":[35,0,185,0],
+"namespaceweather.html":[34,2,0],
 "namespaceweather.html#a1cb67538c5c27d0f91a4ac055de0a9fb":[35,0,186,0],
 "namespaceweather.html#a611a7bc009793a0ab1c6095787fd7309":[35,0,186,1],
 "namespaceweather__effect.html":[35,0,187],
@@ -247,7 +249,5 @@ var NAVTREEINDEX122 =
 "npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1ca":[37,0,1,448,24],
 "npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1caa0e7cb16e5f3f61cb0c04b64d5cf5d7c8":[37,0,1,448,24,6],
 "npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1caa32c7d8943bec86a6d7d5e03598670ca8":[37,0,1,448,24,2],
-"npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1caa4e5e3542d523b7fb9c61887d5bb7d642":[37,0,1,448,24,3],
-"npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1caa5fb1f955b45e38e31789286a1790398d":[37,0,1,448,24,4],
-"npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1caa7286293c9125ac7d7bace94c190bc16d":[37,0,1,448,24,1]
+"npc_8h.html#a864e0cd11c91a60d35e050bbf1bdf1caa4e5e3542d523b7fb9c61887d5bb7d642":[37,0,1,448,24,3]
 };

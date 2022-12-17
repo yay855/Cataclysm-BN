@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"classjmapgen__ter__furn__transform.html#afeb91f3e07e362f60ac65a2b2ab2f765":[36,0,515,0],
 "classjmapgen__terrain.html":[36,0,516],
 "classjmapgen__terrain.html#a13e284b43bd1245d9cbf72284b8e71af":[36,0,516,4],
 "classjmapgen__terrain.html#a87806efb2f8b22aed0ba970593f422fa":[36,0,516,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "classloading__ui.html#ad679274bbe3c6d3c7732bae7e328a411":[36,0,561,6],
 "classloading__ui.html#ae139fb87bf4adddf7990c8e30f234abd":[36,0,561,2],
 "classloot__options.html":[36,0,565],
-"classloot__options.html#a49b385d6e0491467ee4a5dc0dd2a8ce7":[36,0,565,4],
-"classloot__options.html#a53919da4fabfe7559181a0c7097fb188":[36,0,565,5]
+"classloot__options.html#a49b385d6e0491467ee4a5dc0dd2a8ce7":[36,0,565,4]
 };

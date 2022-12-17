@@ -1,5 +1,7 @@
 var NAVTREEINDEX115 =
 {
+"namespacedetail.html#a8e19be271f58885497216f5cb603f7fa":[35,0,96,183],
+"namespacedetail.html#a8e21e71bc8fc9e48f8fb6a95c0256c0a":[35,0,96,306],
 "namespacedetail.html#a8e5fa1a45b440bec62a7b1a5996d471f":[35,0,96,189],
 "namespacedetail.html#a8fd0bcb8d2537ad9750ebe73293527d9":[35,0,96,223],
 "namespacedetail.html#a91b3e1d4accdd133ee9cc77f540cfaec":[35,0,96,216],
@@ -247,7 +249,5 @@ var NAVTREEINDEX115 =
 "namespaceexamine__item__menu.html":[35,0,105],
 "namespaceexamine__item__menu.html#a0ef68cd5b60cc38b1d1655c81dea6b8c":[35,0,105,12],
 "namespaceexamine__item__menu.html#a0faff404d5d10a49b84d44f297175129":[35,0,105,6],
-"namespaceexamine__item__menu.html#a2020b22b148cdb10f8d5a21109d23cb7":[35,0,105,4],
-"namespaceexamine__item__menu.html#a2558b816209a853bc3d980a8b4bc5eaa":[35,0,105,8],
-"namespaceexamine__item__menu.html#a2928396bf2a244345b04c750b8b82709":[35,0,105,3]
+"namespaceexamine__item__menu.html#a2020b22b148cdb10f8d5a21109d23cb7":[35,0,105,4]
 };
