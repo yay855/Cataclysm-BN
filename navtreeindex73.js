@@ -1,5 +1,6 @@
 var NAVTREEINDEX73 =
 {
+"classweapon__inventory__preset.html":[36,0,1001],
 "classweapon__inventory__preset.html#a6c7f0122920fa08fe74e5ddb5cb6a618":[36,0,1001,1],
 "classweapon__inventory__preset.html#a704c9fd89e117b36681441ce6d0bdd19":[36,0,1001,4],
 "classweapon__inventory__preset.html#a82be64d75382b04dd6e44d61ce51d297":[36,0,1001,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX73 =
 "classzone__options.html#ae82470f009cdc2b99d1a3b0a5617b5d5":[36,0,1027,8],
 "classzone__options.html#ae9b6ee6a8259998487bf65905ae0d6c6":[36,0,1027,0],
 "classzone__options.html#afa8f3d9e4a98d91d2f74e30744a8168b":[36,0,1027,5],
-"classzone__type.html":[36,0,1029],
-"classzone__type.html#a0092f79fe5b1b25af69f8a57413b91a9":[36,0,1029,11]
+"classzone__type.html":[36,0,1029]
 };
