@@ -8505,10 +8505,10 @@ template&lt;typename Container , <a class="el" href="fmtlib__core_8h.html#ab0267
 <div class="line"><a id="l00242" name="l00242"></a><span class="lineno">  242</span>    ctxt.register_action( <span class="stringliteral">&quot;QUIT&quot;</span> );</div>
 <div class="line"><a id="l00243" name="l00243"></a><span class="lineno">  243</span><span class="preprocessor">#if defined(__ANDROID__)</span></div>
 <div class="line"><a id="l00244" name="l00244"></a><span class="lineno">  244</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <span class="keyword">auto</span> &amp;p : passive ) {</div>
-<div class="line"><a id="l00245" name="l00245"></a><span class="lineno">  245</span>        ctxt.register_manual_key( my_mutations[p].key, p.obj().name() );</div>
+<div class="line"><a id="l00245" name="l00245"></a><span class="lineno">  245</span>        ctxt.register_manual_key( who.<a class="code hl_variable" href="classCharacter.html#a0abf245196cabecd9aad7631ccbeac92">my_mutations</a>[p].key, p.obj().name() );</div>
 <div class="line"><a id="l00246" name="l00246"></a><span class="lineno">  246</span>    }</div>
 <div class="line"><a id="l00247" name="l00247"></a><span class="lineno">  247</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <span class="keyword">auto</span> &amp;<a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a> : active ) {</div>
-<div class="line"><a id="l00248" name="l00248"></a><span class="lineno">  248</span>        ctxt.register_manual_key( my_mutations[<a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>].key, <a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>.obj().name() );</div>
+<div class="line"><a id="l00248" name="l00248"></a><span class="lineno">  248</span>        ctxt.register_manual_key( who.<a class="code hl_variable" href="classCharacter.html#a0abf245196cabecd9aad7631ccbeac92">my_mutations</a>[<a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>].key, <a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>.obj().name() );</div>
 <div class="line"><a id="l00249" name="l00249"></a><span class="lineno">  249</span>    }</div>
 <div class="line"><a id="l00250" name="l00250"></a><span class="lineno">  250</span><span class="preprocessor">#endif</span></div>
 <div class="line"><a id="l00251" name="l00251"></a><span class="lineno">  251</span> </div>
@@ -11808,7 +11808,7 @@ template&lt;typename OutputIt , typename UInt , typename Char , <a class="el" hr
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedetail.html">detail</a></li>
-    <li class="footer">Generated on Sat Dec 17 2022 13:05:00 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Mon Dec 19 2022 21:16:49 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
