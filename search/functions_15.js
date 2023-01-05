@@ -21,7 +21,7 @@ var searchData=
   ['unboard_18',['unboard',['../classMapgenRemovePartHandler.html#a2e7cd5c3b77c5fdf631da69cb81ae483',1,'MapgenRemovePartHandler::unboard()'],['../classDefaultRemovePartHandler.html#adbe7b673cd76d5bf5f75b91c97832b0f',1,'DefaultRemovePartHandler::unboard()'],['../classRemovePartHandler.html#afba7974db989165244d598183a5000da',1,'RemovePartHandler::unboard()']]],
   ['unboard_5fall_19',['unboard_all',['../classvehicle.html#a222ab75111163098b53f34a28e017dad',1,'vehicle']]],
   ['unboard_5fvehicle_20',['unboard_vehicle',['../classmap.html#a78be63ae761c4fa676b7117b55c68157',1,'map::unboard_vehicle(const tripoint &amp;p, bool dead_passenger=false)'],['../classmap.html#a53d95390d133477f8b4a1ce76482750b',1,'map::unboard_vehicle(const vpart_reference &amp;, Character *passenger, bool dead_passenger=false)']]],
-  ['uncanny_5fdodge_21',['uncanny_dodge',['../classplayer.html#a8ef167aef3a35a062b56c8905f59b133',1,'player::uncanny_dodge()'],['../classCreature.html#afd2f1b1e5bafdef20afddbb704b1d5a5',1,'Creature::uncanny_dodge()']]],
+  ['uncanny_5fdodge_21',['uncanny_dodge',['../classCreature.html#afd2f1b1e5bafdef20afddbb704b1d5a5',1,'Creature::uncanny_dodge()'],['../classCharacter.html#a3fe324b72ae520d9d250f0f23ba257b1',1,'Character::uncanny_dodge()']]],
   ['unclose_5fpoint_22',['unclose_point',['../structpathfinder.html#a0e8ca462eec97c81030745935f80935f',1,'pathfinder']]],
   ['underscore_5fcolor_23',['underscore_color',['../classstring__input__popup.html#a52d08bc07c74a868d44b18d3532ef84d',1,'string_input_popup']]],
   ['uneat_5fwhitespace_24',['uneat_whitespace',['../classJsonIn.html#a35a71ae5931406f52a01e48d506b3176',1,'JsonIn']]],

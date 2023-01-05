@@ -200,7 +200,6 @@ var classCreature =
     [ "mod_speed_bonus", "classCreature.html#aa4f09ff71f1aa8562798d47cb4ef0682", null ],
     [ "mod_stat", "classCreature.html#aafc0c68bbbca5efcf8d82a321b657588", null ],
     [ "move_effects", "classCreature.html#a62674422b8f57c0331ac523688bc604b", null ],
-    [ "normalize", "classCreature.html#a24d762d37cd6bfbf98cda9b278f5ccf2", null ],
     [ "on_damage_of_type", "classCreature.html#a1dc9457a261eec3c7d5b1dac46c2d2f5", null ],
     [ "on_dodge", "classCreature.html#af56188882e3300853d18f166738ee37a", null ],
     [ "on_effect_int_change", "classCreature.html#ac0097db0dd4bd71fd854f02f2db7d771", null ],

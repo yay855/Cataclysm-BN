@@ -36,6 +36,7 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "animation.cpp", "animation_8cpp.html", "animation_8cpp" ],
     [ "animation.h", "animation_8h.html", "animation_8h" ],
     [ "armor_layers.cpp", "armor__layers_8cpp.html", "armor__layers_8cpp" ],
+    [ "armor_layers.h", "armor__layers_8h.html", "armor__layers_8h" ],
     [ "artifact.cpp", "artifact_8cpp.html", "artifact_8cpp" ],
     [ "artifact.h", "artifact_8h.html", "artifact_8h" ],
     [ "ascii_art.cpp", "ascii__art_8cpp.html", "ascii__art_8cpp" ],

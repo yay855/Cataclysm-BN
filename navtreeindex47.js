@@ -1,5 +1,11 @@
 var NAVTREEINDEX47 =
 {
+"classitem__pricing.html#a0e45354b3b9f9bb472fd168e9659f769":[36,0,479,15],
+"classitem__pricing.html#a0fa8db09bcff4a86817aa81873e0bfb5":[36,0,479,1],
+"classitem__pricing.html#a14b1af298694b448db9aa5a5325f9540":[36,0,479,13],
+"classitem__pricing.html#a16742de6ec30042addaa4ef1352db162":[36,0,479,14],
+"classitem__pricing.html#a1b7886ccad361ebaa847079d80011b81":[36,0,479,2],
+"classitem__pricing.html#a2985b3cdf21297d8e39e566309f14fad":[36,0,479,10],
 "classitem__pricing.html#a2c7268edb5d2d739f3496caec28cd5ef":[36,0,479,7],
 "classitem__pricing.html#a2ec295e16b7a5d5806bbf1e700726170":[36,0,479,8],
 "classitem__pricing.html#a31ac88461979293b2c458eeeec1db78a":[36,0,479,12],
@@ -243,11 +249,5 @@ var NAVTREEINDEX47 =
 "classjmapgen__spawn__item.html":[36,0,514],
 "classjmapgen__spawn__item.html#a376534c4bc7bbf226a70c84ff0342cfb":[36,0,514,1],
 "classjmapgen__spawn__item.html#a6499f11494c86cae436eb0844a987834":[36,0,514,3],
-"classjmapgen__spawn__item.html#a74a768ee3cc809a1a37eabc756207fb9":[36,0,514,4],
-"classjmapgen__spawn__item.html#a9448c9baf3700e33ed3f6312e4d76df7":[36,0,514,2],
-"classjmapgen__spawn__item.html#aa2a02d9b3d5ac55d6fd94a9ed9eafcbe":[36,0,514,0],
-"classjmapgen__ter__furn__transform.html":[36,0,515],
-"classjmapgen__ter__furn__transform.html#a11baef9a9771d69fc702acbeed17b89e":[36,0,515,1],
-"classjmapgen__ter__furn__transform.html#a53743d71b0e75906e33a001f511b6de5":[36,0,515,3],
-"classjmapgen__ter__furn__transform.html#aba21a78f2831f644a5b9d0c5757b6d68":[36,0,515,2]
+"classjmapgen__spawn__item.html#a74a768ee3cc809a1a37eabc756207fb9":[36,0,514,4]
 };

@@ -487,7 +487,7 @@ var searchData=
   ['itype_5fsunglasses_484',['itype_sunglasses',['../map__extras_8cpp.html#a39b8f03ba34040184aa27f775badc243',1,'map_extras.cpp']]],
   ['itype_5fsw_5f619_485',['itype_sw_619',['../map__extras_8cpp.html#acc5c413acbc7404acd7050e10a61e561',1,'map_extras.cpp']]],
   ['itype_5fswim_5ffins_486',['itype_swim_fins',['../avatar__action_8cpp.html#ac3d65f74ab286c7292128ed71373f664',1,'itype_swim_fins():&#160;avatar_action.cpp'],['../game_8cpp.html#ac3d65f74ab286c7292128ed71373f664',1,'itype_swim_fins():&#160;game.cpp']]],
-  ['itype_5fsyringe_487',['itype_syringe',['../iuse__actor_8cpp.html#ac94da8d391815c77827574ea45ba553b',1,'itype_syringe():&#160;iuse_actor.cpp'],['../player_8cpp.html#ac94da8d391815c77827574ea45ba553b',1,'itype_syringe():&#160;player.cpp']]],
+  ['itype_5fsyringe_487',['itype_syringe',['../consumption_8cpp.html#ac94da8d391815c77827574ea45ba553b',1,'itype_syringe():&#160;consumption.cpp'],['../iuse__actor_8cpp.html#ac94da8d391815c77827574ea45ba553b',1,'itype_syringe():&#160;iuse_actor.cpp']]],
   ['itype_5fthermometer_488',['itype_thermometer',['../iuse_8cpp.html#afcedfc934e38276213863354af2dd6a4',1,'iuse.cpp']]],
   ['itype_5fthorazine_489',['itype_thorazine',['../npcmove_8cpp.html#a45f8e2064814b10b3c8d0c5de0995db4',1,'npcmove.cpp']]],
   ['itype_5ftoolset_490',['itype_toolset',['../character_8cpp.html#a03219923ee92b0201e6ad76b26f1dea1',1,'itype_toolset():&#160;character.cpp'],['../visitable_8cpp.html#a03219923ee92b0201e6ad76b26f1dea1',1,'itype_toolset():&#160;visitable.cpp']]],

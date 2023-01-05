@@ -20,10 +20,16 @@ var character__functions_8h =
     [ "fine_detail_vision_mod", "character__functions_8h.html#a03ea116da570af10c630e0fe3a7ea6fc", null ],
     [ "fmt_wielded_weapon", "character__functions_8h.html#a6c63f47142d40af0092a1be132a53efa", null ],
     [ "get_book_fun_for", "character__functions_8h.html#aaa9f2cc376f03128e0a486a90c7376fa", null ],
+    [ "is_bp_immune_to", "character__functions_8h.html#a399c6dcbda8cc41854ac06749ba45d86", null ],
     [ "is_fun_to_read", "character__functions_8h.html#a862df11441bba358b82fa47ce88ebe85", null ],
+    [ "normalize", "character__functions_8h.html#a84ed0deeee8eeb3cd6d3339fefd86e30", null ],
+    [ "pick_safe_adjacent_tile", "character__functions_8h.html#a13637305f9b6578e07749ae4ab8e784d", null ],
     [ "rate_sleep_spot", "character__functions_8h.html#a392d1b99006a4f1f16c773e38762043d", null ],
     [ "roll_can_sleep", "character__functions_8h.html#a16d62ac71c344a9b0482777456bb7b74", null ],
     [ "siphon", "character__functions_8h.html#adaa760a90e1a9cc452c7b756bcde2a60", null ],
+    [ "store_in_container", "character__functions_8h.html#a6bb166af94213cb87deb941f1852509e", null ],
+    [ "try_uncanny_dodge", "character__functions_8h.html#ab11c9faad62fd3d26d41cbf1d68391bb", null ],
+    [ "try_wield_contents", "character__functions_8h.html#a4da89a8af73cef834ada9624a6669a31", null ],
     [ "FINE_VISION_PERFECT", "character__functions_8h.html#a4e103652bd1f087acad98fa135eca4a4", null ],
     [ "FINE_VISION_THRESHOLD", "character__functions_8h.html#ac767ac632c0c783c8615f5e920cc938e", null ]
 ];

@@ -48,7 +48,7 @@ var hierarchy =
     [ "advanced_inventory", "classadvanced__inventory.html", null ],
     [ "advanced_inventory_pane", "classadvanced__inventory__pane.html", null ],
     [ "affected_type", "structaffected__type.html", null ],
-    [ "aim_type", "structaim__type.html", null ],
+    [ "ranged::aim_type", "structranged_1_1aim__type.html", null ],
     [ "std::allocator< T >", null, [
       [ "cata::colony< element_type, element_allocator_type, element_skipfield_type >", "classcata_1_1colony.html", null ],
       [ "cata::list< element_type, element_allocator_type >", "classcata_1_1list.html", null ]

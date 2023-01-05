@@ -16,7 +16,7 @@ var searchData=
   ['query_5fcharges_13',['query_charges',['../classadvanced__inventory.html#a8fd8496fa06d19335a67bc1de3c7864a',1,'advanced_inventory']]],
   ['query_5fcon_14',['query_con',['../classblueprint__options.html#a4fe1c4f86658407f8076591e2cf11e9d',1,'blueprint_options']]],
   ['query_5fconfirm_5fdelete_15',['query_confirm_delete',['../namespaceovermap__ui.html#a3930b3b4ee4682bd4052b4fc6db205ce',1,'overmap_ui']]],
-  ['query_5fconsume_5fownership_16',['query_consume_ownership',['../player_8cpp.html#a71152d389acc9d0adfd4c1b32374515e',1,'player.cpp']]],
+  ['query_5fconsume_5fownership_16',['query_consume_ownership',['../consumption_8cpp.html#afe92f92e13fd7403ae41c156ff5e08be',1,'consumption.cpp']]],
   ['query_5fcontinue_17',['query_continue',['../classcraft__command.html#a1f496d2110c290d14faa9f3f11682ee4',1,'craft_command']]],
   ['query_5fdestination_18',['query_destination',['../classadvanced__inventory.html#a814330bc95db8c5962477d574f454ad3',1,'advanced_inventory']]],
   ['query_5fdestination_5fcallback_19',['query_destination_callback',['../classquery__destination__callback.html#a370e22680a80ec7841f47ca0e4a7826a',1,'query_destination_callback']]],

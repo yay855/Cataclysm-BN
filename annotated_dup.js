@@ -416,6 +416,9 @@ var annotated_dup =
       [ "stacked_items", "structpickup_1_1stacked__items.html", "structpickup_1_1stacked__items" ],
       [ "unstacked_items", "structpickup_1_1unstacked__items.html", "structpickup_1_1unstacked__items" ]
     ] ],
+    [ "ranged", "namespaceranged.html", [
+      [ "aim_type", "structranged_1_1aim__type.html", "structranged_1_1aim__type" ]
+    ] ],
     [ "reader_detail", "namespacereader__detail.html", [
       [ "handler", "structreader__detail_1_1handler.html", "structreader__detail_1_1handler" ],
       [ "handler< enum_bitset< E > >", "structreader__detail_1_1handler_3_01enum__bitset_3_01E_01_4_01_4.html", "structreader__detail_1_1handler_3_01enum__bitset_3_01E_01_4_01_4" ],
@@ -487,7 +490,6 @@ var annotated_dup =
     [ "advanced_inventory_pane", "classadvanced__inventory__pane.html", "classadvanced__inventory__pane" ],
     [ "affected_type", "structaffected__type.html", "structaffected__type" ],
     [ "aim_activity_actor", "classaim__activity__actor.html", "classaim__activity__actor" ],
-    [ "aim_type", "structaim__type.html", "structaim__type" ],
     [ "ally_rule_data", "structally__rule__data.html", "structally__rule__data" ],
     [ "ammo_effect", "structammo__effect.html", "structammo__effect" ],
     [ "ammobelt_actor", "classammobelt__actor.html", "classammobelt__actor" ],

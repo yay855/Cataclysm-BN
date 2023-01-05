@@ -96,6 +96,8 @@ $(document).ready(function(){initNavTree('Effects_Stat_Strength.html',''); initR
 <dd><a class="anchor" id="_Effects_Stat_Strength000030"></a> Maximum Strength reduces drunkenness duration  </dd>
 <dt>Member <a class="el" href="namespaceavatar__action.html#a9611563bffc4224b3e724db03688bdd4">avatar_action::swim</a>  (map &amp;m, avatar &amp;you, const tripoint &amp;p)</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000002"></a> Strength increases breath-holding capacity while sinking  </dd>
+<dt>Member <a class="el" href="namespaceavatar__funcs.html#a0e31be97cb02c9a6aa2ec0c547149d3e">avatar_funcs::try_disarm_npc</a>  (avatar &amp;you, npc &amp;target)</dt>
+<dd><a class="anchor" id="_Effects_Stat_Strength000058"></a> Strength increases chance to disarm, primary stat  </dd>
 <dt>Member <a class="el" href="start__location_8cpp.html#ac02b22df21f1c255261d28abfd10d104">board_up</a>  (map &amp;m, const tripoint_range&lt; tripoint &gt; &amp;range)</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000073"></a> Strength determines what furniture might be used as a starting area barricade  </dd>
 <dt>Member <a class="el" href="classCharacter.html#ae4a8c6a5f6aeb5b005aed8534a46cc82">Character::block_hit</a>  (<a class="el" href="classCreature.html">Creature</a> *source, bodypart_id &amp;bp_hit, <a class="el" href="structdamage__instance.html">damage_instance</a> &amp;dam) override</dt>
@@ -122,16 +124,16 @@ $(document).ready(function(){initNavTree('Effects_Stat_Strength.html',''); initR
 <dt>Member <a class="el" href="classCharacter.html#a828093dcb1aa309266e2e98ab69b7dd5">Character::stability_roll</a>  () const override</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000021"></a> Strength improves player stability roll  </dd>
 <dt>Member <a class="el" href="classCharacter.html#a48531fb6d06678b20e3b7a2c8164c206">Character::swim_speed</a>  () const</dt>
-<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000005"></a> Strength increases swim speed bonus from swim_fins </p>
-<p class="interdd"><a class="anchor" id="_Effects_Stat_Strength000003"></a> Strength increases swim speed bonus from PAWS </p>
+<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000007"></a> Strength increases swim speed </p>
 <p class="interdd"><a class="anchor" id="_Effects_Stat_Strength000004"></a> Strength increases swim speed bonus from PAWS_LARGE </p>
-<p class="interdd"><a class="anchor" id="_Effects_Stat_Strength000007"></a> Strength increases swim speed </p>
-<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000006"></a> Strength increases swim speed bonus from WEBBED  </p>
+<p class="interdd"><a class="anchor" id="_Effects_Stat_Strength000006"></a> Strength increases swim speed bonus from WEBBED </p>
+<p class="interdd"><a class="anchor" id="_Effects_Stat_Strength000003"></a> Strength increases swim speed bonus from PAWS </p>
+<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000005"></a> Strength increases swim speed bonus from swim_fins  </p>
 </dd>
 <dt>Member <a class="el" href="classCharacter.html#a455c06bf0dab6e3558f759fe43e27e98">Character::throw_range</a>  (const item &amp;) const</dt>
-<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000019"></a> Strength caps throwing range </p>
+<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000017"></a> Strength determines maximum weight that can be thrown </p>
 <p class="interdd"><a class="anchor" id="_Effects_Stat_Strength000018"></a> Strength increases throwing range, vs item weight (high or low) </p>
-<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000017"></a> Strength determines maximum weight that can be thrown  </p>
+<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000019"></a> Strength caps throwing range  </p>
 </dd>
 <dt>Member <a class="el" href="classCharacter.html#a0bdec852c8280a1cb4bb5e45e14057b5">Character::weight_capacity</a>  () const override</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000016"></a> Strength increases carrying capacity  </dd>
@@ -144,8 +146,8 @@ $(document).ready(function(){initNavTree('Effects_Stat_Strength.html',''); initR
 <dt>Member <a class="el" href="classgame.html#a7630072f8a19212c1529b2e7d93b236d">game::grabbed_furn_move</a>  (const tripoint &amp;dp)</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000023"></a> Strength determines ability to drag furniture  </dd>
 <dt>Member <a class="el" href="classgame.html#ae6dff56415b5a6a59434f437ff1c0dfe">game::grabbed_veh_move</a>  (const tripoint &amp;dp)</dt>
-<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000027"></a> Strength increases speed of dragging vehicles </p>
-<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000026"></a> Strength determines ability to drag vehicles  </p>
+<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000026"></a> Strength determines ability to drag vehicles </p>
+<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000027"></a> Strength increases speed of dragging vehicles  </p>
 </dd>
 <dt>Member <a class="el" href="classgame.html#a90773c9dd13fb8a5316b4f75bfaff914">game::vertical_move</a>  (int z, bool force, bool peeking=false)</dt>
 <dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000025"></a> Strength increases chance of moving past monsters on stairs </p>
@@ -200,20 +202,18 @@ $(document).ready(function(){initNavTree('Effects_Stat_Strength.html',''); initR
 <dd><a class="anchor" id="_Effects_Stat_Strength000063"></a> Strength increases NPC fear of the player  </dd>
 <dt>Member <a class="el" href="classnpc.html#a215924ccc11c22fd4494debe791293e6">npc::smash_ability</a>  () const</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000064"></a> NPC Strength increases smash ability  </dd>
-<dt>Member <a class="el" href="classplayer.html#a1d834bb8130bbe9689b8cc19190d3ea7">player::disarm</a>  (npc &amp;target)</dt>
-<dd><a class="anchor" id="_Effects_Stat_Strength000058"></a> Strength increases chance to disarm, primary stat  </dd>
 <dt>Member <a class="el" href="classplayer.html#ae4e12c748135487720e2fd1baadaf55b">player::item_reload_cost</a>  (const item &amp;it, const item &amp;ammo, int qty) const</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000066"></a> Strength reduces reload time of some weapons  </dd>
 <dt>Member <a class="el" href="classplayer.html#a9b07f11977446bd749238eb0dc424c61">player::knock_back_to</a>  (const tripoint &amp;to) override</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000065"></a> Maximum Strength allows knocked back player to knock back, damage, stun some monsters  </dd>
-<dt>Member <a class="el" href="classplayer.html#a347590f5f5ca932d3ffc5c5cc5cdc723">player::throw_item</a>  (const tripoint &amp;target, const item &amp;to_throw, const cata::optional&lt; tripoint &gt; &amp;blind_throw_from_pos=<a class="el" href="namespacecata.html#ad05314667ac5d05f984aeeef26b9a87f">cata::nullopt</a>)</dt>
-<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000069"></a> Strength increases throwing damage </p>
-<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000070"></a> Strength increases chance of shattering thrown glass items (NEGATIVE)  </p>
-</dd>
 <dt>Member <a class="el" href="namespaceranged.html#a5332ed56c9f0b3702e72aecdcaa1e7be">ranged::burst_penalty</a>  (const <a class="el" href="classCharacter.html">Character</a> &amp;p, const item &amp;gun, int gun_recoil)</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000072"></a> Strength reduces burst fire penalty  </dd>
+<dt>Member <a class="el" href="namespaceranged.html#a3a0f866a4bec031e85ccbb05148319b5">ranged::throw_item</a>  (<a class="el" href="classCharacter.html">Character</a> &amp;who, const tripoint &amp;target, const item &amp;to_throw, cata::optional&lt; tripoint &gt; blind_throw_from_pos)</dt>
+<dd><p class="startdd"><a class="anchor" id="_Effects_Stat_Strength000070"></a> Strength increases throwing damage </p>
+<p class="enddd"><a class="anchor" id="_Effects_Stat_Strength000071"></a> Strength increases chance of shattering thrown glass items (NEGATIVE)  </p>
+</dd>
 <dt>Member <a class="el" href="namespaceranged.html#a54895869f69a00b4a74df15057a9a780">ranged::throwing_dispersion</a>  (const <a class="el" href="classCharacter.html">Character</a> &amp;c, const item &amp;to_throw, <a class="el" href="classCreature.html">Creature</a> *critter, bool is_blind_throw)</dt>
-<dd><a class="anchor" id="_Effects_Stat_Strength000071"></a> Strength decreases throwing dispersion when throwing heavy objects  </dd>
+<dd><a class="anchor" id="_Effects_Stat_Strength000069"></a> Strength decreases throwing dispersion when throwing heavy objects  </dd>
 <dt>Member <a class="el" href="trapfunc_8cpp.html#a68794eeecb995507569d9e9c1609c7fa">sinkhole_safety_roll</a>  (player *p, const itype_id &amp;itemname, const int diff)</dt>
 <dd><a class="anchor" id="_Effects_Stat_Strength000076"></a> Strength increases chance to attach grapnel, bullwhip, or rope when falling into a sinkhole  </dd>
 <dt>Member <a class="el" href="handle__action_8cpp.html#a17b30778e61bfe33a43b310621e3d0f1">smash</a>  ()</dt>
@@ -247,7 +247,7 @@ $(document).ready(function(){initNavTree('Effects_Stat_Strength.html',''); initR
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Dec 19 2022 21:16:24 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Thu Jan 5 2023 15:43:06 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
