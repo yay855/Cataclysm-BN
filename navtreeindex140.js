@@ -1,7 +1,5 @@
 var NAVTREEINDEX140 =
 {
-"structcoords_1_1quotient__remainder__tripoint.html#a59d10e00d90cd85585aa572d687fa2e5":[36,0,19,6,0],
-"structcoords_1_1quotient__remainder__tripoint.html#a59d10e00d90cd85585aa572d687fa2e5":[35,0,93,6,0],
 "structcoords_1_1quotient__remainder__tripoint.html#acc8fe986f5677237e0207bfe455a22a9":[35,0,93,6,2],
 "structcoords_1_1quotient__remainder__tripoint.html#acc8fe986f5677237e0207bfe455a22a9":[36,0,19,6,2],
 "structcosmetic__find__result.html":[36,0,182],
@@ -249,5 +247,7 @@ var NAVTREEINDEX140 =
 "structdetail_1_1arg__mapper.html#ad9c49578c99581b76dc17a9e782711f4":[36,0,21,7,7],
 "structdetail_1_1arg__mapper.html#ad9c49578c99581b76dc17a9e782711f4":[35,0,96,8,9],
 "structdetail_1_1arg__mapper.html#ad9c49578c99581b76dc17a9e782711f4":[35,0,96,8,8],
-"structdetail_1_1arg__mapper.html#ad9c49578c99581b76dc17a9e782711f4":[35,0,96,8,7]
+"structdetail_1_1arg__mapper.html#ad9c49578c99581b76dc17a9e782711f4":[35,0,96,8,7],
+"structdetail_1_1arg__mapper.html#ad9c49578c99581b76dc17a9e782711f4":[36,0,21,7,9],
+"structdetail_1_1arg__mapper.html#ad9c49578c99581b76dc17a9e782711f4":[36,0,21,7,8]
 };

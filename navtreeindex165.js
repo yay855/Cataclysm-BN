@@ -1,7 +1,5 @@
 var NAVTREEINDEX165 =
 {
-"weather_8cpp.html":[37,0,1,673],
-"weather_8cpp.html#a12b7829686850d147418fab7d1cec22f":[37,0,1,673,46],
 "weather_8cpp.html#a1cb67538c5c27d0f91a4ac055de0a9fb":[37,0,1,673,18],
 "weather_8cpp.html#a358c302c0b0f27449670ecbee91e59da":[37,0,1,673,41],
 "weather_8cpp.html#a611a7bc009793a0ab1c6095787fd7309":[37,0,1,673,20],

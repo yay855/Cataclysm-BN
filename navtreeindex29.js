@@ -1,7 +1,5 @@
 var NAVTREEINDEX29 =
 {
-"classcata__tiles.html#a10021ef8a6d11168b56836d7e1c37dcc":[36,0,136,108],
-"classcata__tiles.html#a1159799ffeddaa5a69aa1be9165b957c":[36,0,136,128],
 "classcata__tiles.html#a11af22cf3c9a2bbc9f9c3fc40bbe5324":[36,0,136,102],
 "classcata__tiles.html#a11c027c991b875c7bc85a8776acb8ad3":[36,0,136,141],
 "classcata__tiles.html#a1398cff4497329a622d171951f7e17bd":[36,0,136,64],
@@ -191,8 +189,8 @@ var NAVTREEINDEX29 =
 "classcatacurses_1_1window.html#a37f2ca0cc9f7bf0852e76aba4ba99bb5":[35,0,78,0,3],
 "classcatacurses_1_1window.html#a54ddd79d27421b1da357757c3a5fa8a8":[36,0,17,0,5],
 "classcatacurses_1_1window.html#a54ddd79d27421b1da357757c3a5fa8a8":[35,0,78,0,5],
-"classcatacurses_1_1window.html#a8afbd1925d293cb03e3a913075249887":[36,0,17,0,1],
 "classcatacurses_1_1window.html#a8afbd1925d293cb03e3a913075249887":[35,0,78,0,1],
+"classcatacurses_1_1window.html#a8afbd1925d293cb03e3a913075249887":[36,0,17,0,1],
 "classcatacurses_1_1window.html#a9411dcd946165d408ea51644b0fb3f99":[35,0,78,0,4],
 "classcatacurses_1_1window.html#a9411dcd946165d408ea51644b0fb3f99":[36,0,17,0,4],
 "classcatacurses_1_1window.html#ab399d7c205c8c6b31063b2b51be67b9b":[35,0,78,0,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX29 =
 "classcharacter__martial__arts.html#a5824c90c2120e4e3d81ca52e51081a0f":[36,0,145,20],
 "classcharacter__martial__arts.html#a59de2379f66ff58c13e98e5de8cd1cb7":[36,0,145,27],
 "classcharacter__martial__arts.html#a5ea54a3a5e3a5d35fca008f82bfd1a38":[36,0,145,44],
-"classcharacter__martial__arts.html#a5ec8d7cf4059e46686abdc0610cb40d8":[36,0,145,22]
+"classcharacter__martial__arts.html#a5ec8d7cf4059e46686abdc0610cb40d8":[36,0,145,22],
+"classcharacter__martial__arts.html#a67427884883f729f429842ee2be1331a":[36,0,145,23],
+"classcharacter__martial__arts.html#a683ec4e1c1b087fac022f4ff1339a182":[36,0,145,17]
 };

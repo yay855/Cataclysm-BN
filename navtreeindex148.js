@@ -1,7 +1,5 @@
 var NAVTREEINDEX148 =
 {
-"structislot__wheel.html":[36,0,464],
-"structislot__wheel.html#a5fe59de93b39ed7225971fb0e8bbf196":[36,0,464,0],
 "structislot__wheel.html#aa9287b613c2f5776086c7bee270a1e15":[36,0,464,1],
 "structitem_1_1default__charges__tag.html":[36,0,467,1],
 "structitem_1_1solitary__tag.html":[36,0,467,3],
@@ -39,12 +37,12 @@ var NAVTREEINDEX148 =
 "structitem__info__data.html#adafcbaae8c911bf3d4fd7fff306a49a4":[36,0,476,16],
 "structitem__info__data.html#ae21c7618dbb6387bdc604ad7cf552dc9":[36,0,476,9],
 "structitem__info__data.html#aebc34b872c27347457cc489fc5d4c15f":[36,0,476,20],
-"structitem__internal_1_1scoped__goes__bad__cache.html":[35,0,119,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html":[36,0,26,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html":[35,0,119,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[36,0,26,0,1],
 "structitem__internal_1_1scoped__goes__bad__cache.html#a9c04c10d3077efbb0ad9f9cf3240fc26":[35,0,119,0,1],
-"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,26,0,0],
 "structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[35,0,119,0,0],
+"structitem__internal_1_1scoped__goes__bad__cache.html#aa1469bdfabcf1a484d40c1a7c96fcd98":[36,0,26,0,0],
 "structitem__reference.html":[36,0,481],
 "structitem__reference.html#a39088ef0fffbac57621a06913246eab1":[36,0,481,0],
 "structitem__reference.html#aa5f61b515d64cb6b440911cd9f181518":[36,0,481,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX148 =
 "structkey__from__json__string_3_01string__id_3_01T_01_4_00_01void_01_4.html#ae54a51f107f1a5d91cf0aad189db4ed9":[36,0,543,0],
 "structkobject.html":[36,0,546],
 "structkobject.html#a50b5d96276075481a31b9dfc2098f751":[36,0,546,0],
-"structkobject.html#a512c91905e48496e061d63d062e1b272":[36,0,546,2]
+"structkobject.html#a512c91905e48496e061d63d062e1b272":[36,0,546,2],
+"structkobject.html#ad6d8ac0fbe5e853f241868ff3168829c":[36,0,546,1],
+"structlab.html":[36,0,547]
 };

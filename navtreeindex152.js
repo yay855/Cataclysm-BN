@@ -1,7 +1,5 @@
 var NAVTREEINDEX152 =
 {
-"structmutation__branch.html#ae92480c28083e11a5e61dc535515c17a":[36,0,666,129],
-"structmutation__branch.html#ae982274bdcd724ce9692f443f3caa382":[36,0,666,67],
 "structmutation__branch.html#aebbaa12ff5f84bfc3be232c8d12d0830":[36,0,666,32],
 "structmutation__branch.html#aecff7dba489d6a13893d75d717d49931":[36,0,666,22],
 "structmutation__branch.html#af3f93ada5bf9ea0f2a428bb8245c0504":[36,0,666,16],
@@ -241,13 +239,15 @@ var NAVTREEINDEX152 =
 "structom__lines_1_1type.html#a1ac3e349ea5ee7ec5433fe2507015c4d":[35,0,147,0,1],
 "structom__lines_1_1type.html#a2511ff3039454c926ec0451f16d96e36":[36,0,29,0,3],
 "structom__lines_1_1type.html#a2511ff3039454c926ec0451f16d96e36":[35,0,147,0,3],
-"structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[35,0,147,0,2],
 "structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[36,0,29,0,2],
-"structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[35,0,147,0,4],
+"structom__lines_1_1type.html#a72f063e7322b094d73e1d3e6bbed50e6":[35,0,147,0,2],
 "structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[36,0,29,0,4],
+"structom__lines_1_1type.html#a8ba069694c8c0a81376987197d850202":[35,0,147,0,4],
 "structom__lines_1_1type.html#ad37beb8f13a55a1f2547f9785ca9df35":[35,0,147,0,0],
 "structom__lines_1_1type.html#ad37beb8f13a55a1f2547f9785ca9df35":[36,0,29,0,0],
 "structom__map__extra.html":[36,0,701],
 "structom__map__extra.html#a51244cb574c58c4d97270491482e663e":[36,0,701,0],
-"structom__map__extra.html#ad68856e1300637fe59632b165ae8dd77":[36,0,701,1]
+"structom__map__extra.html#ad68856e1300637fe59632b165ae8dd77":[36,0,701,1],
+"structom__note.html":[36,0,702],
+"structom__note.html#a01955dd01544f2edc2a0507229bc5d6e":[36,0,702,0]
 };

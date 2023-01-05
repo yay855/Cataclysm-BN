@@ -1,7 +1,5 @@
 var NAVTREEINDEX124 =
 {
-"npcmove_8cpp.html#a42653f931f94e236c64920609e0b0279":[37,0,1,453,12],
-"npcmove_8cpp.html#a4424b509877ff458aa661c2b49a99dda":[37,0,1,453,28],
 "npcmove_8cpp.html#a44adef81192d43188ce1a50f4b41bb3b":[37,0,1,453,66],
 "npcmove_8cpp.html#a45f8e2064814b10b3c8d0c5de0995db4":[37,0,1,453,68],
 "npcmove_8cpp.html#a4bf0df99f8f4c40b1aa6efeb3030ddbb":[37,0,1,453,72],
@@ -249,5 +247,7 @@ var NAVTREEINDEX124 =
 "npctalk__funcs_8cpp.html":[37,0,1,456],
 "npctalk__funcs_8cpp.html#a02a4844a7fb68c13a34dc40b0a9e94d8":[37,0,1,456,32],
 "npctalk__funcs_8cpp.html#a0313dde9b91b312463fd84bf985b42a6":[37,0,1,456,5],
-"npctalk__funcs_8cpp.html#a151e6b162a8a2cdbdb11c407013076eb":[37,0,1,456,27]
+"npctalk__funcs_8cpp.html#a151e6b162a8a2cdbdb11c407013076eb":[37,0,1,456,27],
+"npctalk__funcs_8cpp.html#a181c03941ca522203294b4f80e12d8ca":[37,0,1,456,6],
+"npctalk__funcs_8cpp.html#a1ddec341f6d10178728c6dda0e77314e":[37,0,1,456,12]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX135 =
 {
-"structartifact__tool__form__datum.html#a766d9124daf174cfd9eb92ada80eea73":[36,0,81,2],
-"structartifact__tool__form__datum.html#a84b951f56836b03e47265d2e46021433":[36,0,81,1],
 "structartifact__tool__form__datum.html#a981c514300557dc4a16c0c01620628a5":[36,0,81,9],
 "structartifact__tool__form__datum.html#ac7331f5822f47bf90bb4a5fbf3c2b00b":[36,0,81,7],
 "structartifact__tool__form__datum.html#ac8242c010d0b2b03ec553c55cb64611e":[36,0,81,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX135 =
 "structbuffered__prompt__info.html#a4f328d538e96872a3f458a7edd27a145":[36,0,125,1],
 "structbuffered__prompt__info.html#aa47448fe3782b39eb03416d1695c1390":[36,0,125,4],
 "structbuffered__prompt__info.html#aedef1335f5691ac1460b5bd35cb42cc9":[36,0,125,2],
-"structbuild__reqs.html":[36,0,126]
+"structbuild__reqs.html":[36,0,126],
+"structbuild__reqs.html#a304dc1a580a2fac74f3e2e337d8ce877":[36,0,126,1],
+"structbuild__reqs.html#a6f507c9b5fbcb427728ed40349a41415":[36,0,126,0]
 };

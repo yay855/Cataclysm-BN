@@ -1,7 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"string__id__null__ids_8cpp_source.html":[37,0,1,596],
-"string__id__utils_8h.html":[37,0,1,597],
 "string__id__utils_8h.html#a6e5007f6695d053ba5c1ad7f72444ee2":[37,0,1,597,0],
 "string__id__utils_8h.html#acb151239fe641975de2561cb9a217725":[37,0,1,597,2],
 "string__id__utils_8h.html#ae1571ed28c2d17ee7a7d6973aa31e8b5":[37,0,1,597,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX133 =
 "structadvanced__inv__save__state.html":[36,0,62],
 "structadvanced__inv__save__state.html#a31fe7569d3cf6fa8fe91eabb1c8dcf3e":[36,0,62,9],
 "structadvanced__inv__save__state.html#a418cf5aff6d7437cf1325e99113c6136":[36,0,62,8],
-"structadvanced__inv__save__state.html#a5b8734a9d1c2a5e441d4b8a4b0e55c1e":[36,0,62,5]
+"structadvanced__inv__save__state.html#a5b8734a9d1c2a5e441d4b8a4b0e55c1e":[36,0,62,5],
+"structadvanced__inv__save__state.html#a5c5ab3c2ea7df5df956dd02755dd5b82":[36,0,62,0],
+"structadvanced__inv__save__state.html#a6aff6b07cac501b04863ae2a355c0313":[36,0,62,6]
 };

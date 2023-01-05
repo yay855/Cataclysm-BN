@@ -1,8 +1,6 @@
 var NAVTREEINDEX18 =
 {
-"classMessages_1_1dialog.html#aefd2611ea0755a3e6a424092c3b587d3":[36,0,28,0,29],
 "classMessages_1_1dialog.html#af17c37d33c59a59935945c114c367950":[35,0,135,0,7],
-"classMessages_1_1dialog.html#af17c37d33c59a59935945c114c367950":[36,0,28,0,7],
 "classMessages_1_1dialog.html#afa288d9b6d0084f6089a32d845cab6ae":[36,0,28,0,23],
 "classMessages_1_1dialog.html#afa288d9b6d0084f6089a32d845cab6ae":[35,0,135,0,23],
 "classMessages_1_1dialog.html#afe5dda942adfc9c8e2618051619f52db":[36,0,28,0,13],
@@ -249,5 +247,7 @@ var NAVTREEINDEX18 =
 "classVehicleFunction__json.html#a36a7beb21d6d87d92a917961c9763e25":[36,0,980,2],
 "classVehicleFunction__json.html#a9850c680a7bcff50778cb4f27b840594":[36,0,980,4],
 "classVehicleFunction__json.html#a994d8bfaf08a5b5f43c6f477b1e68fe1":[36,0,980,8],
-"classVehicleFunction__json.html#aa07c2eed13fd83b815dfc7e228b9cdc5":[36,0,980,3]
+"classVehicleFunction__json.html#aa07c2eed13fd83b815dfc7e228b9cdc5":[36,0,980,3],
+"classVehicleFunction__json.html#aca9454d12f69909144802d499d7ffad2":[36,0,980,6],
+"classVehicleFunction__json.html#acebbfee806f70b8adc1805a0f67a1521":[36,0,980,7]
 };

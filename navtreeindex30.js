@@ -1,7 +1,5 @@
 var NAVTREEINDEX30 =
 {
-"classcharacter__martial__arts.html#a67427884883f729f429842ee2be1331a":[36,0,145,23],
-"classcharacter__martial__arts.html#a683ec4e1c1b087fac022f4ff1339a182":[36,0,145,17],
 "classcharacter__martial__arts.html#a6c80cd70ef36db909c1e8d178abb8841":[36,0,145,21],
 "classcharacter__martial__arts.html#a6e5e356f65e94363420b0f8d0a3736ac":[36,0,145,46],
 "classcharacter__martial__arts.html#a73ee3269737731b02488851421f15b7d":[36,0,145,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX30 =
 "classconsume__drug__iuse.html#a64e0b2fb2f426f86593abe6f949c069b":[36,0,177,5],
 "classconsume__drug__iuse.html#a7ae3ba037d80e342a6bad182740dae76":[36,0,177,4],
 "classconsume__drug__iuse.html#a9b7635aaefc1601bf9515fbc7487ef23":[36,0,177,14],
-"classconsume__drug__iuse.html#a9bc7fe15cae8bc8f7ff176e6ff6278ba":[36,0,177,0]
+"classconsume__drug__iuse.html#a9bc7fe15cae8bc8f7ff176e6ff6278ba":[36,0,177,0],
+"classconsume__drug__iuse.html#a9ccf0520487cb3da00cefbbe93c538e3":[36,0,177,3],
+"classconsume__drug__iuse.html#ac866c2f86ba50bab0f1e3c701b98dfd4":[36,0,177,6]
 };

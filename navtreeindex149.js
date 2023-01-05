@@ -1,7 +1,5 @@
 var NAVTREEINDEX149 =
 {
-"structkobject.html#ad6d8ac0fbe5e853f241868ff3168829c":[36,0,546,1],
-"structlab.html":[36,0,547],
 "structlab.html#a663ad2253719f05ae94b0dc2bb64065b":[36,0,547,2],
 "structlab.html#a8962657157f3393544032d63aa7089a7":[36,0,547,0],
 "structlab.html#a9a8962b96b803cfe245fd5fc035aa038":[36,0,547,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX149 =
 "structmatrix.html#a84f917f57fc80c87c3cd7f5eaadfb69c":[36,0,609,1],
 "structmatrix.html#a8a1242a19b2d50b789039de7961e6c13":[36,0,609,4],
 "structmatrix.html#acd9aa62c21316deac9df5de54544f16b":[36,0,609,2],
-"structmelee__statistic__data.html":[36,0,613]
+"structmelee__statistic__data.html":[36,0,613],
+"structmelee__statistic__data.html#a070738f349e3e4b492b0feb17ed47751":[36,0,613,7],
+"structmelee__statistic__data.html#a0dd86850e1887e56eb4077416426f999":[36,0,613,1]
 };

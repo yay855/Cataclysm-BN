@@ -1,7 +1,5 @@
 var NAVTREEINDEX146 =
 {
-"structfood__summary.html":[36,0,346],
-"structfood__summary.html#a98ff8c8827e0da9ef2563f999867f86e":[36,0,346,0],
 "structforecast__period.html":[34,2,1],
 "structforecast__period.html#a0622b2a69ef1fe83e20f2eedec2a2872":[34,2,1,1],
 "structforecast__period.html#a311a1d8357724d4522a03dffbeda3944":[34,2,1,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX146 =
 "structinventory__column_1_1entry__cell__cache__t.html#a2faeac595f295642a8c00f8b82e6fc51":[36,0,415,1,0],
 "structinventory__column_1_1entry__cell__cache__t.html#ac84074af002c8f8d01eafba24b4a8321":[36,0,415,1,1],
 "structinventory__input.html":[36,0,420],
-"structinventory__input.html#a303f1d9aa2d542ee87b9418165a6725e":[36,0,420,0]
+"structinventory__input.html#a303f1d9aa2d542ee87b9418165a6725e":[36,0,420,0],
+"structinventory__input.html#a86e9e6255f37d9a61767f0ad07807602":[36,0,420,1],
+"structinventory__input.html#ad68481303443613ae9f8b631af3f4448":[36,0,420,2]
 };

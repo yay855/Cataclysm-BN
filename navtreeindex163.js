@@ -1,7 +1,5 @@
 var NAVTREEINDEX163 =
 {
-"units__utility_8h.html#a8552a79ac91f30928afd501d057e074daaf245539afaf0807e04341c935d74668":[37,0,1,640,1,1],
-"units__utility_8h.html#ac1ae65aea2ccaf5d043cb644d64439ae":[37,0,1,640,2],
 "units__utility_8h.html#acd66ca3348182b5150ce7f9840e3ca46":[37,0,1,640,7],
 "units__utility_8h.html#ad8aa6bedf33d4417a47ee40b3e7e8b70":[37,0,1,640,0],
 "units__utility_8h.html#ad92e67d6cb4127fb688b68c7d78dc738":[37,0,1,640,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX163 =
 "vehicle__autodrive_8cpp.html#a63f8b4f6832d47c71dceae2e0ec255f3":[37,0,1,653,25],
 "vehicle__autodrive_8cpp.html#a73763038ea30ef88d5749e19b87edfcf":[37,0,1,653,20],
 "vehicle__autodrive_8cpp.html#a73d398b05c4c7316597d23213e7e3235":[37,0,1,653,37],
-"vehicle__autodrive_8cpp.html#a775ce64f00718a8b4556da3644b99676":[37,0,1,653,15]
+"vehicle__autodrive_8cpp.html#a775ce64f00718a8b4556da3644b99676":[37,0,1,653,15],
+"vehicle__autodrive_8cpp.html#a7b64bd31ae93e7ae53e7d4f12fd1cf96":[37,0,1,653,21],
+"vehicle__autodrive_8cpp.html#a8a8ef3bbd9ed2a52dac59671e4bcb210":[37,0,1,653,10]
 };
