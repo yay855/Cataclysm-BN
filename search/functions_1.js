@@ -504,7 +504,7 @@ var searchData=
   ['args_501',['args',['../classbasic__format__context.html#a1113a9161d04e5d6b0df479e5e5883a1',1,'basic_format_context::args()'],['../structdetail_1_1arg__data_3_01T_00_01Char_00_01NUM__ARGS_00_010_01_4.html#a1e23b5e283e700b923a213f10fd5e010',1,'detail::arg_data&lt; T, Char, NUM_ARGS, 0 &gt;::args()'],['../structdetail_1_1arg__data.html#a976855ce5a9f3127bd2245a22c26049f',1,'detail::arg_data::args()']]],
   ['armor_5fabsorb_502',['armor_absorb',['../classCharacter.html#a905e6c7b63246b7b4d11662a434823f2',1,'Character']]],
   ['armor_5fbonus_503',['armor_bonus',['../classma__buff.html#ab7a39e81bd9b2d5aa0a6c5084ac5b654',1,'ma_buff']]],
-  ['armor_5fenchantment_5fadjust_504',['armor_enchantment_adjust',['../character_8cpp.html#aa98b9719e049fe2ae24ac3ad79b0c3d3',1,'character.cpp']]],
+  ['armor_5fenchantment_5fadjust_504',['armor_enchantment_adjust',['../character_8cpp.html#aedf304731af52cf2eea17fea7d2dc5e3',1,'character.cpp']]],
   ['armor_5ffit_5finfo_505',['armor_fit_info',['../classitem.html#ac46c94fbae3a31ba0e21f348875a3e74',1,'item']]],
   ['armor_5finfo_506',['armor_info',['../classitem.html#ac77c48d5e9c233b89f29a0aa9c68b9e7',1,'item']]],
   ['armor_5finventory_5fpreset_507',['armor_inventory_preset',['../classarmor__inventory__preset.html#a3ac6e8fc6faea8dc57a848b2c4a935f4',1,'armor_inventory_preset']]],

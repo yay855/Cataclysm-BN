@@ -1,10 +1,10 @@
 var NAVTREEINDEX18 =
 {
 "classMessages_1_1dialog.html#af17c37d33c59a59935945c114c367950":[35,0,135,0,7],
-"classMessages_1_1dialog.html#afa288d9b6d0084f6089a32d845cab6ae":[36,0,28,0,23],
 "classMessages_1_1dialog.html#afa288d9b6d0084f6089a32d845cab6ae":[35,0,135,0,23],
-"classMessages_1_1dialog.html#afe5dda942adfc9c8e2618051619f52db":[36,0,28,0,13],
+"classMessages_1_1dialog.html#afa288d9b6d0084f6089a32d845cab6ae":[36,0,28,0,23],
 "classMessages_1_1dialog.html#afe5dda942adfc9c8e2618051619f52db":[35,0,135,0,13],
+"classMessages_1_1dialog.html#afe5dda942adfc9c8e2618051619f52db":[36,0,28,0,13],
 "classMonsterGenerator.html":[36,0,650],
 "classMonsterGenerator.html#a03a1cd1e13f5ad918d9e69c9205cd831":[36,0,650,32],
 "classMonsterGenerator.html#a08d9f4571035d7a6b81b6f4c6ff144a4":[36,0,650,6],

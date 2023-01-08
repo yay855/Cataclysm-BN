@@ -2,8 +2,8 @@ var NAVTREEINDEX36 =
 {
 "classdistraction__manager_1_1distraction__manager__gui.html#ade41e328c41759aaaa7eb2ec1fa30472":[35,0,98,0,3],
 "classdistraction__manager_1_1distraction__manager__gui.html#ade41e328c41759aaaa7eb2ec1fa30472":[36,0,22,0,3],
-"classdistraction__manager_1_1distraction__manager__gui.html#af4af0e3d22b791f51ff498c6a72454f2":[35,0,98,0,0],
 "classdistraction__manager_1_1distraction__manager__gui.html#af4af0e3d22b791f51ff498c6a72454f2":[36,0,22,0,0],
+"classdistraction__manager_1_1distraction__manager__gui.html#af4af0e3d22b791f51ff498c6a72454f2":[35,0,98,0,0],
 "classdistribution.html":[36,0,224],
 "classdistribution.html#a243ef792310867ca828d208abf53a661":[36,0,224,8],
 "classdistribution.html#a511761026caf311f91bcdba676b77c2d":[36,0,224,10],
