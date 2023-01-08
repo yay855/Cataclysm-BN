@@ -1,5 +1,10 @@
 var NAVTREEINDEX145 =
 {
+"structevent__transformation__impl.html#aefc4464c3af6c9c73decad97d6118ee7":[36,0,320,1],
+"structevent__transformation__impl.html#af292f5b4eadf151a4c8854cc9f0ae747":[36,0,320,6],
+"structevent__transformation__impl.html#af29472b424303ca5db39f2e9c3fbb632":[36,0,320,12],
+"structevent__transformation__impl_1_1state.html":[36,0,320,0],
+"structevent__transformation__impl_1_1state.html#a0807414da8477044857588a6df65638e":[36,0,320,0,3],
 "structevent__transformation__impl_1_1state.html#a67a024ca96c66f3cdde7577960d2ae17":[36,0,320,0,4],
 "structevent__transformation__impl_1_1state.html#a6e130642a5488156943586ed8c42651a":[36,0,320,0,5],
 "structevent__transformation__impl_1_1state.html#a9269ed30caaeca5c01718c250f54033a":[36,0,320,0,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX145 =
 "structforest__trail__settings.html#a560e252b17009faf9398e42b5708def4":[36,0,352,2],
 "structforest__trail__settings.html#a574e0732092ef2fc9e47ad4d54be23ff":[36,0,352,9],
 "structforest__trail__settings.html#a850e253aa782946a3620eabacee5c7e6":[36,0,352,6],
-"structforest__trail__settings.html#a8524354b60fc9dd3217ba7ee30d2e073":[36,0,352,7],
-"structforest__trail__settings.html#a8803a3e034bbc23d57d01119259dfbb4":[36,0,352,0],
-"structforest__trail__settings.html#a8dea659bbc57867d2ec96303fd9e9d82":[36,0,352,12],
-"structforest__trail__settings.html#a95e73b07d1294f9f0d43a97b32b5e920":[36,0,352,3],
-"structforest__trail__settings.html#aa22929552c18812f9d65285811782211":[36,0,352,8],
-"structforest__trail__settings.html#aaf18f503eff0edb67b81a8399450f5cd":[36,0,352,13]
+"structforest__trail__settings.html#a8524354b60fc9dd3217ba7ee30d2e073":[36,0,352,7]
 };

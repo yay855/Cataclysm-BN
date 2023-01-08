@@ -1,5 +1,10 @@
 var NAVTREEINDEX52 =
 {
+"classmap__selector.html#af1e885588fa9338ad48ee7a61da37fb2":[36,0,588,0],
+"classmap__stack.html":[36,0,589],
+"classmap__stack.html#a2af44345dd3047c16b16493d5b98f006":[36,0,589,0],
+"classmap__stack.html#a80f7eb3e4fae05a90c710e25ebbfa084":[36,0,589,1],
+"classmap__stack.html#aa4c1241946ae2733a70133ace0162a24":[36,0,589,4],
 "classmap__stack.html#aa4d2ae0e4cb92bd812a27a05ba96c395":[36,0,589,6],
 "classmap__stack.html#ab58ec66a7ca2e476c6d90967dccc8062":[36,0,589,2],
 "classmap__stack.html#abbc2e2342baf6a35d2f6422a6bc78bbb":[36,0,589,3],
@@ -22,10 +27,10 @@ var NAVTREEINDEX52 =
 "classmapbuffer.html#aa17fa633fa21f1ee7c736054cc3da9af":[36,0,590,13],
 "classmapbuffer.html#acaf938d4ae5a4396133f8c9e89564770":[36,0,590,5],
 "classmapbuffer.html#afd0ede34e179e88c37a9820fc6d60671":[36,0,590,2],
-"classmapf_1_1format__effect.html":[36,0,27,0],
 "classmapf_1_1format__effect.html":[35,0,126,0],
-"classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[36,0,27,0,1],
+"classmapf_1_1format__effect.html":[36,0,27,0],
 "classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[35,0,126,0,1],
+"classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[36,0,27,0,1],
 "classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[36,0,27,0,3],
 "classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[35,0,126,0,3],
 "classmapf_1_1format__effect.html#a5d87a382c4598d3de006f60d3282b6d2":[36,0,27,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX52 =
 "classmaterial__type.html#a5b83e64020d943211bfbd549f3e11843":[36,0,608,18],
 "classmaterial__type.html#a5f712b8971e4bf98561b5fb20964ac0c":[36,0,608,3],
 "classmaterial__type.html#a608aea7aa21aaf6fe0ffd7be8f7cdf5d":[36,0,608,52],
-"classmaterial__type.html#a676aa85c30f0d319d1cf0de2548d7cab":[36,0,608,63],
-"classmaterial__type.html#a69f574d3ac448a9e8ef7df2f5409b867":[36,0,608,62],
-"classmaterial__type.html#a7583dadd47fed32747f6e9611fcbf267":[36,0,608,22],
-"classmaterial__type.html#a7cb70041cbe988b4f256330e0d6dce46":[36,0,608,28],
-"classmaterial__type.html#a821efdfbf2087af9a860718e68f3f9ef":[36,0,608,25],
-"classmaterial__type.html#a82e8868e3c9e2f30f480cd0fa65b7d72":[36,0,608,54]
+"classmaterial__type.html#a676aa85c30f0d319d1cf0de2548d7cab":[36,0,608,63]
 };

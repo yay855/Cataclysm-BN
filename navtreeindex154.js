@@ -1,5 +1,10 @@
 var NAVTREEINDEX154 =
 {
+"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a43d8023a4fd88876dc67c9236eb85cbe":[35,0,156,0,2,0],
+"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a5d8716a36b181d63890b54b79fca2fa5":[35,0,156,0,2,1],
+"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a5d8716a36b181d63890b54b79fca2fa5":[36,0,32,0,2,1],
+"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a684d6a06e4bacb857908a12100b527fd":[35,0,156,0,2,2],
+"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a684d6a06e4bacb857908a12100b527fd":[36,0,32,0,2,2],
 "structpf_1_1directed__node.html":[35,0,156,1],
 "structpf_1_1directed__node.html":[36,0,32,1],
 "structpf_1_1directed__node.html#a4a6124c404afcce36de84771e09b6115":[36,0,32,1,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX154 =
 "structprojectile.html#a6b9b648da9159db525b0478795d44b7c":[36,0,769,17],
 "structprojectile.html#a6daaa295dedd65863fa4df34832b48ac":[36,0,769,6],
 "structprojectile.html#a6ea6c2790a30a90de6298f133eb89911":[36,0,769,1],
-"structprojectile.html#a7354ca1daaaef6fd1ed0ab62ca3bf9c1":[36,0,769,0],
-"structprojectile.html#a82d8f657f8cfc4e180c15bfab8ca8a6e":[36,0,769,19],
-"structprojectile.html#a84dc2756488fb96c42faac22d0dbbeed":[36,0,769,20],
-"structprojectile.html#a89ac71aca57acd165a7bedaba60dc2e9":[36,0,769,11],
-"structprojectile.html#aa2af53bce63feecb719ef1edba54689e":[36,0,769,22],
-"structprojectile.html#aff5ad1d0b09b8de0a516fa61063cad14":[36,0,769,9]
+"structprojectile.html#a7354ca1daaaef6fd1ed0ab62ca3bf9c1":[36,0,769,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX139 =
 {
+"structconditional__t.html#a2e0e42572d390c114e9d5e7fd6af7cd5":[36,0,167,45],
+"structconditional__t.html#a315146c0c843e546c459289982e3f2c3":[36,0,167,0],
+"structconditional__t.html#a358d1cee98ed22fbd597f20734462937":[36,0,167,63],
+"structconditional__t.html#a375ce8c86b49223b6e409b8ca8e43eed":[36,0,167,14],
+"structconditional__t.html#a379c0e2bf5b117ca76704138a213ea91":[36,0,167,6],
 "structconditional__t.html#a3cb5e7b115b6656380d6a7f9ceaae7a8":[36,0,167,19],
 "structconditional__t.html#a3dbcd797884f19e74316a6260659a43e":[36,0,167,31],
 "structconditional__t.html#a41f47ac9fa5d7756f4cb99ea9d581868":[36,0,167,16],
@@ -244,10 +249,5 @@ var NAVTREEINDEX139 =
 "structdealt__damage__instance.html#a7d4b25152f9393afae30c57610f89f96":[36,0,192,0],
 "structdealt__damage__instance.html#a86b702070a1c313624abc78ff34eff48":[36,0,192,2],
 "structdealt__damage__instance.html#ad39dc827923ad7b203f2061134ed1db1":[36,0,192,4],
-"structdealt__projectile__attack.html":[36,0,193],
-"structdealt__projectile__attack.html#a466f327979e41691bc19c91e622078b6":[36,0,193,2],
-"structdealt__projectile__attack.html#a7dd960a5108456f89dc1f8ef369a1096":[36,0,193,1],
-"structdealt__projectile__attack.html#a93f05a2866e4dbc8c4d432a67daf8ab6":[36,0,193,4],
-"structdealt__projectile__attack.html#ab874a1233da5daa95ff296cdb1ee1849":[36,0,193,3],
-"structdealt__projectile__attack.html#aca4d2ea74ab244bb1defe86449a45c39":[36,0,193,0]
+"structdealt__projectile__attack.html":[36,0,193]
 };

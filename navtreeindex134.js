@@ -1,5 +1,10 @@
 var NAVTREEINDEX134 =
 {
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a58c78612fc3713ef690224e25653b44c":[35,0,10,0,0],
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a58c78612fc3713ef690224e25653b44c":[36,0,2,0,0],
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a91b8d2b7660363c5fc9342a7f523acfc":[35,0,10,0,2],
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a91b8d2b7660363c5fc9342a7f523acfc":[36,0,2,0,2],
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#aa82682028e54af6c2ab46a6b2d34dcb6":[36,0,2,0,1],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#aa82682028e54af6c2ab46a6b2d34dcb6":[35,0,10,0,1],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#ad7bf0714c37148f78181fd96b3de19c1":[36,0,2,0,3],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#ad7bf0714c37148f78181fd96b3de19c1":[35,0,10,0,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX134 =
 "structavail__tool__comp.html#a1d141f12c489c6561e686190d1628f32":[36,0,87,1],
 "structavail__tool__comp.html#a27d9af71207d948e4af87026aa1d760b":[36,0,87,2],
 "structavail__tool__comp.html#a9b1f865149f2fa289a0c32764639ce86":[36,0,87,5],
-"structavail__tool__comp.html#acaef18b3ed3a3ec9508061eaa2f93f6d":[36,0,87,0],
-"structavail__tool__comp.html#afa9721976928092787823a9e2d199a55":[36,0,87,3],
-"structbase__camps_1_1direction__data.html":[36,0,12,0],
-"structbase__camps_1_1direction__data.html":[35,0,70,0],
-"structbase__camps_1_1direction__data.html#a0ad19f7f9089772bccad633cded6c0eb":[35,0,70,0,0],
-"structbase__camps_1_1direction__data.html#a0ad19f7f9089772bccad633cded6c0eb":[36,0,12,0,0]
+"structavail__tool__comp.html#acaef18b3ed3a3ec9508061eaa2f93f6d":[36,0,87,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX88 =
 {
+"gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeab311ba751e16e3e385dc991fe6c22f76":[37,0,1,247,4,10],
+"gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeab3da4e240c12eca771ccf9544ecc14a8":[37,0,1,247,4,39],
+"gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeab3f02a898a1e9040c816a20b120dc1e3":[37,0,1,247,4,23],
+"gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeab99148f5ca8388fe12d6951f80622923":[37,0,1,247,4,8],
+"gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeac078d10232453a8e4031b30f39356b09":[37,0,1,247,4,38],
 "gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeac24c1f9d1bf9182456b8d9da38cd0c8f":[37,0,1,247,4,37],
 "gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeacd3bdfd2fce37f128b28d1a1ee6a0d5d":[37,0,1,247,4,30],
 "gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eeacf70ec37c9688a0776dc4f76f36fd8c5":[37,0,1,247,4,17],
@@ -244,10 +249,5 @@ var NAVTREEINDEX88 =
 "group__Weather.html#ga1c6d9d3162d0a5b171b55975bf400a83":[34,2,5],
 "group__Weather.html#ga23304505d04b612b77e4df5e9b64a1dd":[34,2,15],
 "group__Weather.html#ga275631a4069758bffeb8d4fad0cb5919":[34,2,6],
-"group__Weather.html#ga29f289ab496b2f58d297384490905e92":[34,2,27],
-"group__Weather.html#ga2dbed22a00ed1bfb19f18ce60a8dd200":[34,2,45],
-"group__Weather.html#ga3a87174f8d5ac7f4c8153f2001df4737":[34,2,18],
-"group__Weather.html#ga3b6c37e7f8086254c46acb9572ea97d1":[34,2,13],
-"group__Weather.html#ga3fcb6802dadec5fef6581ffc25f19c9c":[34,2,25],
-"group__Weather.html#ga46edb1dc77a5ccdb14caad851bc78a9b":[34,2,16]
+"group__Weather.html#ga29f289ab496b2f58d297384490905e92":[34,2,27]
 };

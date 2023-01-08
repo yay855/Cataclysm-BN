@@ -1,5 +1,10 @@
 var NAVTREEINDEX144 =
 {
+"structeditmap__hilight.html#afb76459fc6a33a050d3d98a2448348cf":[36,0,238,2],
+"structeffect__data.html":[36,0,240],
+"structeffect__data.html#a181ab09a9ac895a0583706b80bf820ad":[36,0,240,3],
+"structeffect__data.html#a211527aa8c99b41b80ee338249c1c150":[36,0,240,0],
+"structeffect__data.html#a6b0cd93deea9be4c587fb6243b38045b":[36,0,240,4],
 "structeffect__data.html#abb59a9a7aa8e602417ede4c8b429b25f":[36,0,240,2],
 "structeffect__data.html#acab0645c85fff9cddb143059b0e15fa1":[36,0,240,1],
 "structeffect__scaling.html":[36,0,241],
@@ -244,10 +249,5 @@ var NAVTREEINDEX144 =
 "structevent__transformation__impl.html#a9aad18ee577a82d32a787756dcbd8e90":[36,0,320,9],
 "structevent__transformation__impl.html#aa93a4606e3cf7c5f2b332054971ad5dd":[36,0,320,4],
 "structevent__transformation__impl.html#ac45140b547bbd69000bc13afe389a0a0":[36,0,320,3],
-"structevent__transformation__impl.html#ad83b7186c3e556860ad6a3d0345c03be":[36,0,320,11],
-"structevent__transformation__impl.html#aefc4464c3af6c9c73decad97d6118ee7":[36,0,320,1],
-"structevent__transformation__impl.html#af292f5b4eadf151a4c8854cc9f0ae747":[36,0,320,6],
-"structevent__transformation__impl.html#af29472b424303ca5db39f2e9c3fbb632":[36,0,320,12],
-"structevent__transformation__impl_1_1state.html":[36,0,320,0],
-"structevent__transformation__impl_1_1state.html#a0807414da8477044857588a6df65638e":[36,0,320,0,3]
+"structevent__transformation__impl.html#ad83b7186c3e556860ad6a3d0345c03be":[36,0,320,11]
 };

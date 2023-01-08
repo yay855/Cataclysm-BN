@@ -1,5 +1,10 @@
 var NAVTREEINDEX153 =
 {
+"structoter__t.html#a84cc529cda04022d6b73cb2aa0ac39a1":[36,0,710,26],
+"structoter__t.html#a84d759f5e7b5cede3bda0490f4a5bd54":[36,0,710,2],
+"structoter__t.html#aa4957f1eaee6b06bf5e272d1dbb70b3b":[36,0,710,7],
+"structoter__t.html#ab15d534fa68fa86074239dcf8b05000f":[36,0,710,27],
+"structoter__t.html#ab3eb35cd2950aee7a6851700760c5c4a":[36,0,710,3],
 "structoter__t.html#ab67e34c7131934759a4f01f31c8456bf":[36,0,710,5],
 "structoter__t.html#ac534119a8f5e6c1ac16b6cfe4ce5734a":[36,0,710,14],
 "structoter__t.html#ac6eb612d8150546238274e14bfb58ca8":[36,0,710,32],
@@ -244,10 +249,5 @@ var NAVTREEINDEX153 =
 "structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1point__node.html#adfc78e03da127f41571181fafddf3a44":[35,0,156,0,1,1],
 "structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html":[36,0,32,0,2],
 "structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html":[35,0,156,0,2],
-"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a43d8023a4fd88876dc67c9236eb85cbe":[36,0,32,0,2,0],
-"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a43d8023a4fd88876dc67c9236eb85cbe":[35,0,156,0,2,0],
-"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a5d8716a36b181d63890b54b79fca2fa5":[35,0,156,0,2,1],
-"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a5d8716a36b181d63890b54b79fca2fa5":[36,0,32,0,2,1],
-"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a684d6a06e4bacb857908a12100b527fd":[35,0,156,0,2,2],
-"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a684d6a06e4bacb857908a12100b527fd":[36,0,32,0,2,2]
+"structpf_1_1anonymous__namespace_02simple__pathfinding_8cpp_03_1_1scored__address.html#a43d8023a4fd88876dc67c9236eb85cbe":[36,0,32,0,2,0]
 };
