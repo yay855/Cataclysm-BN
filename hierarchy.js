@@ -490,6 +490,8 @@ var hierarchy =
     [ "enum_traits< ot_match_type >", "structenum__traits_3_01ot__match__type_01_4.html", null ],
     [ "enum_traits< phase_id >", "structenum__traits_3_01phase__id_01_4.html", null ],
     [ "enum_traits< precip_class >", "structenum__traits_3_01precip__class_01_4.html", null ],
+    [ "enum_traits< relic_recharge_req >", "structenum__traits_3_01relic__recharge__req_01_4.html", null ],
+    [ "enum_traits< relic_recharge_type >", "structenum__traits_3_01relic__recharge__type_01_4.html", null ],
     [ "enum_traits< season_type >", "structenum__traits_3_01season__type_01_4.html", null ],
     [ "enum_traits< side >", "structenum__traits_3_01side_01_4.html", null ],
     [ "enum_traits< sounds::sound_t >", "structenum__traits_3_01sounds_1_1sound__t_01_4.html", null ],
@@ -1457,6 +1459,7 @@ var hierarchy =
     [ "region_terrain_and_furniture_settings", "structregion__terrain__and__furniture__settings.html", null ],
     [ "regional_settings", "structregional__settings.html", null ],
     [ "relic", "classrelic.html", null ],
+    [ "relic_recharge", "classrelic__recharge.html", null ],
     [ "item::reload_option", "classitem_1_1reload__option.html", null ],
     [ "RemovePartHandler", "classRemovePartHandler.html", [
       [ "DefaultRemovePartHandler", "classDefaultRemovePartHandler.html", null ],

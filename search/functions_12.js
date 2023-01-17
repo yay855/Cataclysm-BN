@@ -287,7 +287,7 @@ var searchData=
   ['remove_5frandomly_5fby_5fvolume_284',['remove_randomly_by_volume',['../classinventory.html#a534997d1d7b8d16423f39f32c3ea45a0',1,'inventory']]],
   ['remove_5fregeneration_5fmodifiers_285',['remove_regeneration_modifiers',['../structmtype.html#a1f50d2fd15b7fcc75a4b2911e4916ddb',1,'mtype']]],
   ['remove_5fremote_5fpart_286',['remove_remote_part',['../classvehicle.html#a3e69be901ab700c0d31b6b20f1f97f39',1,'vehicle']]],
-  ['remove_5frotten_5fitems_287',['remove_rotten_items',['../classmap.html#a049fee607a4d1c1c18a0613f7290fe67',1,'map']]],
+  ['remove_5frotten_5fitems_287',['remove_rotten_items',['../classmap.html#a737bd8d124f28eb024a91c65fb372bb0',1,'map']]],
   ['remove_5frule_288',['remove_rule',['../classauto__pickup_1_1player__settings.html#a459277e128aa4ba3bc0efaf1ff01903a',1,'auto_pickup::player_settings::remove_rule()'],['../classsafemode.html#ab2ac2b19fc8b6286d5a7b8c6b6980a38',1,'safemode::remove_rule()']]],
   ['remove_5fspecial_5fattacks_289',['remove_special_attacks',['../structmtype.html#ad893be9ba24ef0c593213bd453ad347c',1,'mtype']]],
   ['remove_5fstolen_5fstatus_290',['remove_stolen_status',['../namespacetalk__function.html#a18a363c8f3823013c4f90e0ffc0d9d26',1,'talk_function']]],

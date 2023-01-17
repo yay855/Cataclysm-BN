@@ -911,16 +911,17 @@ Functions</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="line_8cpp_source.html#l00781">781</a> of file <a class="el" href="line_8cpp_source.html">line.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00782" name="l00782"></a><span class="lineno">  782</span>{</div>
-<div class="line"><a id="l00783" name="l00783"></a><span class="lineno">  783</span>    <a class="code hl_class" href="classunits_1_1quantity.html">units::angle</a> rad = <a class="code hl_function" href="namespaceunits.html#a69513b1c48b5d7da935832d5d25b2e11">units::atan2</a>( <a class="code hl_variable" href="magic_8cpp.html#aa93a189fb7bbbf87be54bcc7bd11bb6f">b</a>.y - <a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>.y, <a class="code hl_variable" href="magic_8cpp.html#aa93a189fb7bbbf87be54bcc7bd11bb6f">b</a>.x - <a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>.x );</div>
+<div class="line"><a id="l00783" name="l00783"></a><span class="lineno">  783</span>    <a class="code hl_class" href="classunits_1_1quantity.html">units::angle</a> <a class="code hl_enumvalue" href="relic_8h.html#a4beeee7f54b2b6d8a7f559714d979139a340f7c2dcaedeae68e4a62c281c7350b">rad</a> = <a class="code hl_function" href="namespaceunits.html#a69513b1c48b5d7da935832d5d25b2e11">units::atan2</a>( <a class="code hl_variable" href="magic_8cpp.html#aa93a189fb7bbbf87be54bcc7bd11bb6f">b</a>.y - <a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>.y, <a class="code hl_variable" href="magic_8cpp.html#aa93a189fb7bbbf87be54bcc7bd11bb6f">b</a>.x - <a class="code hl_variable" href="magic_8cpp.html#a188caae18b60b66f9f44214c7e28ac1f">a</a>.x );</div>
 <div class="line"><a id="l00784" name="l00784"></a><span class="lineno">  784</span>    <span class="keywordflow">if</span>( rad &lt; 0_degrees ) {</div>
-<div class="line"><a id="l00785" name="l00785"></a><span class="lineno">  785</span>        rad += 2_pi_radians;</div>
+<div class="line"><a id="l00785" name="l00785"></a><span class="lineno">  785</span>        <a class="code hl_enumvalue" href="relic_8h.html#a4beeee7f54b2b6d8a7f559714d979139a340f7c2dcaedeae68e4a62c281c7350b">rad</a> += 2_pi_radians;</div>
 <div class="line"><a id="l00786" name="l00786"></a><span class="lineno">  786</span>    }</div>
-<div class="line"><a id="l00787" name="l00787"></a><span class="lineno">  787</span>    <span class="keywordflow">return</span> rad;</div>
+<div class="line"><a id="l00787" name="l00787"></a><span class="lineno">  787</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="relic_8h.html#a4beeee7f54b2b6d8a7f559714d979139a340f7c2dcaedeae68e4a62c281c7350b">rad</a>;</div>
 <div class="line"><a id="l00788" name="l00788"></a><span class="lineno">  788</span>}</div>
 <div class="ttc" id="aclassunits_1_1quantity_html"><div class="ttname"><a href="classunits_1_1quantity.html">units::quantity</a></div><div class="ttdef"><b>Definition:</b> <a href="units__def_8h_source.html#l00014">units_def.h:15</a></div></div>
 <div class="ttc" id="amagic_8cpp_html_aa93a189fb7bbbf87be54bcc7bd11bb6f"><div class="ttname"><a href="magic_8cpp.html#aa93a189fb7bbbf87be54bcc7bd11bb6f">b</a></div><div class="ttdeci">constexpr double b</div><div class="ttdef"><b>Definition:</b> <a href="magic_8cpp_source.html#l01031">magic.cpp:1031</a></div></div>
+<div class="ttc" id="arelic_8h_html_a4beeee7f54b2b6d8a7f559714d979139a340f7c2dcaedeae68e4a62c281c7350b"><div class="ttname"><a href="relic_8h.html#a4beeee7f54b2b6d8a7f559714d979139a340f7c2dcaedeae68e4a62c281c7350b">relic_recharge_req::rad</a></div><div class="ttdeci">@ rad</div><div class="ttdoc">Must be irradiated/in irradiated tile.</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="magic_8cpp_source.html#l01030">a</a>, <a class="el" href="units__angle_8h_source.html#l00067">units::atan2()</a>, and <a class="el" href="magic_8cpp_source.html#l01031">b</a>.</p>
+<p class="reference">References <a class="el" href="magic_8cpp_source.html#l01030">a</a>, <a class="el" href="units__angle_8h_source.html#l00067">units::atan2()</a>, <a class="el" href="magic_8cpp_source.html#l01031">b</a>, and <a class="el" href="relic_8h.html#a4beeee7f54b2b6d8a7f559714d979139a340f7c2dcaedeae68e4a62c281c7350b">rad</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="creature_8cpp_source.html#l00336">Creature::auto_find_hostile_target()</a>, <a class="el" href="monattack_8cpp_source.html#l05095">mattack::flesh_tendril()</a>, <a class="el" href="monattack_8cpp_source.html#l01949">mattack::fungus_fortify()</a>, <a class="el" href="monattack_8cpp_source.html#l01926">mattack::fungus_sprout()</a>, <a class="el" href="sounds_8cpp_source.html#l01654">sfx::get_heard_angle()</a>, <a class="el" href="monattack_8cpp_source.html#l02591">mattack::ranged_pull()</a>, <a class="el" href="ranged_8cpp_source.html#l02931">target_ui::recalc_aim_turning_penalty()</a>, <a class="el" href="monattack_8cpp_source.html#l00487">mattack::shriek_stun()</a>, <a class="el" href="monattack_8cpp_source.html#l01113">mattack::smash()</a>, <a class="el" href="magic__spell__effect_8cpp_source.html#l00193">spell_effect::spell_effect_cone()</a>, and <a class="el" href="npcmove_8cpp_source.html#l02071">npc::wont_hit_friend()</a>.</p>
 
@@ -2672,7 +2673,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="line_8h.html">line.h</a></li>
-    <li class="footer">Generated on Sun Jan 8 2023 22:31:02 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Tue Jan 17 2023 22:40:03 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

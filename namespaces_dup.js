@@ -1434,6 +1434,11 @@ var namespaces_dup =
       [ "load", "namespacerecipe__group.html#a5fe1568accabd852b1b8c30452099c8a", null ],
       [ "reset", "namespacerecipe__group.html#ae66e66f34ff231e42bf5bb3501115622", null ]
     ] ],
+    [ "relic_funcs", "namespacerelic__funcs.html", [
+      [ "check_recharge_reqs", "namespacerelic__funcs.html#a9829f3587e85789d7762c8d0b7758b60", null ],
+      [ "process_recharge", "namespacerelic__funcs.html#a6f22f33e09820e039215a475353a58a1", null ],
+      [ "process_recharge_entry", "namespacerelic__funcs.html#a34d92da3e5874fc4a8e5e218c1ffc7b3", null ]
+    ] ],
     [ "rotatable_symbols", "namespacerotatable__symbols.html", [
       [ "get", "namespacerotatable__symbols.html#a7d2f855a39674de736a7829423a577f4", null ],
       [ "load", "namespacerotatable__symbols.html#a48bf60dfe7a697d7fc1bde8f3ac9a946", null ],
