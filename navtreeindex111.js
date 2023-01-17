@@ -1,5 +1,6 @@
 var NAVTREEINDEX111 =
 {
+"namespaceVehicleSpawnFunction.html#aa0b6e80246fa5e3c6a7e1af730d67ed7":[35,0,184,0],
 "namespaceVehicleSpawnFunction.html#abc7e345285cb068e45df6862876ba140":[35,0,184,1],
 "namespaceVehicleSpawnFunction.html#acbc63a9295a538a51ae103e57ae5768f":[35,0,184,4],
 "namespaceVehicleSpawnFunction.html#ad19da351196135d64975f9100c16453d":[35,0,184,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX111 =
 "namespaceanonymous__namespace_02diary__ui_8cpp_03.html#aa17d599fa720185e7f8e114bb5d956a6":[35,0,24,1],
 "namespaceanonymous__namespace_02disease_8cpp_03.html":[35,0,25],
 "namespaceanonymous__namespace_02disease_8cpp_03.html#a75cb92ba312ed17a7aa44cdadee9f354":[35,0,25,0],
-"namespaceanonymous__namespace_02effect_8cpp_03.html":[35,0,26],
-"namespaceanonymous__namespace_02effect_8cpp_03.html#a75793a94926b8584aca04f3fe489f7ec":[35,0,26,0]
+"namespaceanonymous__namespace_02effect_8cpp_03.html":[35,0,26]
 };

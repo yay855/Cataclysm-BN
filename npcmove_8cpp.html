@@ -595,11 +595,11 @@ Variables</h2></td></tr>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="classCreature.html">Creature</a></div><div class="ttdef"><b>Definition:</b> <a href="creature_8h_source.html#l00077">creature.h:78</a></div></div>
 <div class="ttc" id="aclassmap_html_a1a51a23a59c4341fd4d8f3c4723fd818"><div class="ttname"><a href="classmap.html#a1a51a23a59c4341fd4d8f3c4723fd818">map::obstructed_by_vehicle_rotation</a></div><div class="ttdeci">bool obstructed_by_vehicle_rotation(const tripoint &amp;from, const tripoint &amp;to) const</div><div class="ttdoc">Checks if a rotated vehicle is blocking diagonal movement, tripoints must be adjacent.</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l06497">map.cpp:6497</a></div></div>
 <div class="ttc" id="acoordinates_8h_html_a4a34f7ffa4c18effba7f8239c68c8738"><div class="ttname"><a href="coordinates_8h.html#a4a34f7ffa4c18effba7f8239c68c8738">line_to</a></div><div class="ttdeci">std::vector&lt; coords::coord_point&lt; Point, Origin, Scale &gt; &gt; line_to(const coords::coord_point&lt; Point, Origin, Scale &gt; &amp;loc1, const coords::coord_point&lt; Point, Origin, Scale &gt; &amp;loc2)</div><div class="ttdef"><b>Definition:</b> <a href="coordinates_8h_source.html#l00548">coordinates.h:548</a></div></div>
-<div class="ttc" id="agame_8cpp_html_abeb98e93502d73818b4a73fabe191bc1"><div class="ttname"><a href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a></div><div class="ttdeci">std::unique_ptr&lt; game &gt; g</div><div class="ttdef"><b>Definition:</b> <a href="game_8cpp_source.html#l00279">game.cpp:279</a></div></div>
+<div class="ttc" id="agame_8cpp_html_abeb98e93502d73818b4a73fabe191bc1"><div class="ttname"><a href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a></div><div class="ttdeci">std::unique_ptr&lt; game &gt; g</div><div class="ttdef"><b>Definition:</b> <a href="game_8cpp_source.html#l00280">game.cpp:280</a></div></div>
 <div class="ttc" id="amap_8cpp_html_acb0b34be6e497bdd2f9f40ae6929d562"><div class="ttname"><a href="map_8cpp.html#acb0b34be6e497bdd2f9f40ae6929d562">get_map</a></div><div class="ttdeci">map &amp; get_map()</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l00146">map.cpp:146</a></div></div>
 <div class="ttc" id="astructtripoint_html"><div class="ttname"><a href="structtripoint.html">tripoint</a></div><div class="ttdef"><b>Definition:</b> <a href="point_8h_source.html#l00147">point.h:147</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="game_8cpp_source.html#l00279">g</a>, <a class="el" href="map_8cpp_source.html#l00146">get_map()</a>, <a class="el" href="coordinates_8h_source.html#l00548">line_to()</a>, and <a class="el" href="map_8cpp_source.html#l06497">map::obstructed_by_vehicle_rotation()</a>.</p>
+<p class="reference">References <a class="el" href="game_8cpp_source.html#l00280">g</a>, <a class="el" href="map_8cpp_source.html#l00146">get_map()</a>, <a class="el" href="coordinates_8h_source.html#l00548">line_to()</a>, and <a class="el" href="map_8cpp_source.html#l06497">map::obstructed_by_vehicle_rotation()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="npcmove_8cpp_source.html#l00369">npc::assess_danger()</a>, and <a class="el" href="npcmove_8cpp_source.html#l01320">npc::method_of_attack()</a>.</p>
 
@@ -1316,9 +1316,9 @@ template&lt;typename T &gt; </div>
 <div class="ttc" id="aclassitem_html_a5d89f04a2a08245ec865db0865e8a6c1"><div class="ttname"><a href="classitem.html#a5d89f04a2a08245ec865db0865e8a6c1">item::ammo_capacity</a></div><div class="ttdeci">int ammo_capacity() const</div><div class="ttdoc">Maximum quantity of ammunition loadable for tool, gun or auxiliary gunmod.</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l07308">item.cpp:7308</a></div></div>
 <div class="ttc" id="aclassitem_html_a7dc5d9ccf5638ae80cebe1864050fa26"><div class="ttname"><a href="classitem.html#a7dc5d9ccf5638ae80cebe1864050fa26">item::ammo_required</a></div><div class="ttdeci">int ammo_required() const</div><div class="ttdoc">Quantity of ammunition consumed per usage of tool or with each shot of gun.</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l07351">item.cpp:7351</a></div></div>
 <div class="ttc" id="aclassitem_html_adce43f2490a85e2dc212a26ce5ded4fc"><div class="ttname"><a href="classitem.html#adce43f2490a85e2dc212a26ce5ded4fc">item::is_magazine</a></div><div class="ttdeci">bool is_magazine() const</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l06456">item.cpp:6456</a></div></div>
-<div class="ttc" id="aclassplayer_html_a373081bc6d2cfc6c8917398f87052747"><div class="ttname"><a href="classplayer.html#a373081bc6d2cfc6c8917398f87052747">player::can_reload</a></div><div class="ttdeci">bool can_reload(const item &amp;it, const itype_id &amp;ammo=itype_id()) const</div><div class="ttdoc">Whether a tool or gun is potentially reloadable (optionally considering a specific ammo)</div><div class="ttdef"><b>Definition:</b> <a href="player_8cpp_source.html#l01134">player.cpp:1134</a></div></div>
+<div class="ttc" id="aclassplayer_html_a373081bc6d2cfc6c8917398f87052747"><div class="ttname"><a href="classplayer.html#a373081bc6d2cfc6c8917398f87052747">player::can_reload</a></div><div class="ttdeci">bool can_reload(const item &amp;it, const itype_id &amp;ammo=itype_id()) const</div><div class="ttdoc">Whether a tool or gun is potentially reloadable (optionally considering a specific ammo)</div><div class="ttdef"><b>Definition:</b> <a href="player_8cpp_source.html#l01136">player.cpp:1136</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="item_8cpp_source.html#l07308">item::ammo_capacity()</a>, <a class="el" href="item_8cpp_source.html#l07281">item::ammo_remaining()</a>, <a class="el" href="item_8cpp_source.html#l07351">item::ammo_required()</a>, <a class="el" href="player_8cpp_source.html#l01134">player::can_reload()</a>, and <a class="el" href="item_8cpp_source.html#l06456">item::is_magazine()</a>.</p>
+<p class="reference">References <a class="el" href="item_8cpp_source.html#l07308">item::ammo_capacity()</a>, <a class="el" href="item_8cpp_source.html#l07281">item::ammo_remaining()</a>, <a class="el" href="item_8cpp_source.html#l07351">item::ammo_required()</a>, <a class="el" href="player_8cpp_source.html#l01136">player::can_reload()</a>, and <a class="el" href="item_8cpp_source.html#l06456">item::is_magazine()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="npcmove_8cpp_source.html#l01525">npc::can_reload_current()</a>, and <a class="el" href="npcmove_8cpp_source.html#l01487">npc::find_reloadable()</a>.</p>
 
@@ -1638,6 +1638,8 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="melee_8cpp_source.html#l01817">Character::melee_special_effects()</a>.</p>
+
 </div>
 </div>
 <a id="af198a4e5b75aadbc020ee447fd31226b" name="af198a4e5b75aadbc020ee447fd31226b"></a>
@@ -1823,6 +1825,8 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="player_8cpp_source.html#l00206">player::on_hit()</a>.</p>
 
 </div>
 </div>
@@ -2886,7 +2890,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="npcmove_8cpp.html">npcmove.cpp</a></li>
-    <li class="footer">Generated on Tue Jan 17 2023 22:40:04 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Tue Jan 17 2023 22:41:18 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

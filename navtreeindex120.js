@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"namespacerelic__funcs.html#a34d92da3e5874fc4a8e5e218c1ffc7b3":[35,0,161,2],
 "namespacerelic__funcs.html#a6f22f33e09820e039215a475353a58a1":[35,0,161,1],
 "namespacerelic__funcs.html#a9829f3587e85789d7762c8d0b7758b60":[35,0,161,0],
 "namespacerotatable__symbols.html":[35,0,162],
@@ -248,6 +249,5 @@ var NAVTREEINDEX120 =
 "namespacetalk__function.html#ab81e5fda24cca7cc77fd85ccd9499e46":[35,0,171,2],
 "namespacetalk__function.html#ab9fb97206f2529a909d7382b42cc46d7":[35,0,171,59],
 "namespacetalk__function.html#aba7e29c8beee6ff74c5d76aac1489b6c":[35,0,171,78],
-"namespacetalk__function.html#abf5bc3303e91e41e60e2ecbcc8539ae9":[35,0,171,92],
-"namespacetalk__function.html#ac19470f9874d1990a2a36bb144c4653b":[35,0,171,81]
+"namespacetalk__function.html#abf5bc3303e91e41e60e2ecbcc8539ae9":[35,0,171,92]
 };

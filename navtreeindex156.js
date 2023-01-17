@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"structrectangle.html#af7cec817aa5f9f48c6bb5b7615aff264":[36,0,788,3],
+"structreg__coord__pair.html":[36,0,789],
 "structreg__coord__pair.html#a4432f3d101ba8c3c0ea92a147c1caaa6":[36,0,789,2],
 "structreg__coord__pair.html#a8bcd8304aaec5edddb9f7d5aa0db23d0":[36,0,789,0],
 "structreg__coord__pair.html#aebf9960dbab99d464b5c28f5bdb375ec":[36,0,789,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "structspecies__type.html#af4096ea2775095f505c20424796452f8":[36,0,860,9],
 "structspell__detail_1_1line__iterable.html":[36,0,36,0],
 "structspell__detail_1_1line__iterable.html":[35,0,167,0],
-"structspell__detail_1_1line__iterable.html#a1093b33445dd6b915b5cad6da009b060":[35,0,167,0,5],
-"structspell__detail_1_1line__iterable.html#a1093b33445dd6b915b5cad6da009b060":[36,0,36,0,5],
-"structspell__detail_1_1line__iterable.html#a2dddccc73a2a1b655000040032641852":[35,0,167,0,7]
+"structspell__detail_1_1line__iterable.html#a1093b33445dd6b915b5cad6da009b060":[35,0,167,0,5]
 };

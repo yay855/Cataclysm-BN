@@ -132,29 +132,29 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l03761">3761</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l03762" name="l03762"></a><span class="lineno"> 3762</span>{</div>
-<div class="line"><a id="l03763" name="l03763"></a><span class="lineno"> 3763</span>    <span class="comment">/*</span></div>
-<div class="line"><a id="l03764" name="l03764"></a><span class="lineno"> 3764</span><span class="comment">     * We should only get to this point with an encumbrance value of 0</span></div>
-<div class="line"><a id="l03765" name="l03765"></a><span class="lineno"> 3765</span><span class="comment">     * if the item is &#39;semitangible&#39;. A normal item has a minimum of</span></div>
-<div class="line"><a id="l03766" name="l03766"></a><span class="lineno"> 3766</span><span class="comment">     * 2 encumbrance for layer penalty purposes.</span></div>
-<div class="line"><a id="l03767" name="l03767"></a><span class="lineno"> 3767</span><span class="comment">     * ( even if normally its encumbrance is 0 )</span></div>
-<div class="line"><a id="l03768" name="l03768"></a><span class="lineno"> 3768</span><span class="comment">     */</span></div>
-<div class="line"><a id="l03769" name="l03769"></a><span class="lineno"> 3769</span>    <span class="keywordflow">if</span>( encumbrance == 0 ) {</div>
-<div class="line"><a id="l03770" name="l03770"></a><span class="lineno"> 3770</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a>; <span class="comment">// skip over the other logic because this item doesn&#39;t count</span></div>
-<div class="line"><a id="l03771" name="l03771"></a><span class="lineno"> 3771</span>    }</div>
-<div class="line"><a id="l03772" name="l03772"></a><span class="lineno"> 3772</span> </div>
-<div class="line"><a id="l03773" name="l03773"></a><span class="lineno"> 3773</span>    <a class="code hl_variable" href="structlayer__details.html#a7d493bd5faed7a859f55c1acbf7aa47e">pieces</a>.push_back( encumbrance );</div>
-<div class="line"><a id="l03774" name="l03774"></a><span class="lineno"> 3774</span> </div>
-<div class="line"><a id="l03775" name="l03775"></a><span class="lineno"> 3775</span>    <span class="keywordtype">int</span> current = <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a>;</div>
-<div class="line"><a id="l03776" name="l03776"></a><span class="lineno"> 3776</span>    <span class="keywordflow">if</span>( encumbrance &gt; <a class="code hl_variable" href="structlayer__details.html#a3960dd02309f904971984c808400bafd">max</a> ) {</div>
-<div class="line"><a id="l03777" name="l03777"></a><span class="lineno"> 3777</span>        <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a> += <a class="code hl_variable" href="structlayer__details.html#a3960dd02309f904971984c808400bafd">max</a>;   <span class="comment">// *now* the old max is counted, just ignore the new max</span></div>
-<div class="line"><a id="l03778" name="l03778"></a><span class="lineno"> 3778</span>        <a class="code hl_variable" href="structlayer__details.html#a3960dd02309f904971984c808400bafd">max</a> = <a class="code hl_enumvalue" href="namespaceanonymous__namespace_02character__display_8cpp_03.html#a5960c87973f8859f2e6997206a97fb09ac6cfd4983be847b61861fd0a9c7cabbe">encumbrance</a>;</div>
-<div class="line"><a id="l03779" name="l03779"></a><span class="lineno"> 3779</span>    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a id="l03780" name="l03780"></a><span class="lineno"> 3780</span>        <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a> += <a class="code hl_enumvalue" href="namespaceanonymous__namespace_02character__display_8cpp_03.html#a5960c87973f8859f2e6997206a97fb09ac6cfd4983be847b61861fd0a9c7cabbe">encumbrance</a>;</div>
-<div class="line"><a id="l03781" name="l03781"></a><span class="lineno"> 3781</span>    }</div>
-<div class="line"><a id="l03782" name="l03782"></a><span class="lineno"> 3782</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a> - current;</div>
-<div class="line"><a id="l03783" name="l03783"></a><span class="lineno"> 3783</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l03762">3762</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l03763" name="l03763"></a><span class="lineno"> 3763</span>{</div>
+<div class="line"><a id="l03764" name="l03764"></a><span class="lineno"> 3764</span>    <span class="comment">/*</span></div>
+<div class="line"><a id="l03765" name="l03765"></a><span class="lineno"> 3765</span><span class="comment">     * We should only get to this point with an encumbrance value of 0</span></div>
+<div class="line"><a id="l03766" name="l03766"></a><span class="lineno"> 3766</span><span class="comment">     * if the item is &#39;semitangible&#39;. A normal item has a minimum of</span></div>
+<div class="line"><a id="l03767" name="l03767"></a><span class="lineno"> 3767</span><span class="comment">     * 2 encumbrance for layer penalty purposes.</span></div>
+<div class="line"><a id="l03768" name="l03768"></a><span class="lineno"> 3768</span><span class="comment">     * ( even if normally its encumbrance is 0 )</span></div>
+<div class="line"><a id="l03769" name="l03769"></a><span class="lineno"> 3769</span><span class="comment">     */</span></div>
+<div class="line"><a id="l03770" name="l03770"></a><span class="lineno"> 3770</span>    <span class="keywordflow">if</span>( encumbrance == 0 ) {</div>
+<div class="line"><a id="l03771" name="l03771"></a><span class="lineno"> 3771</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a>; <span class="comment">// skip over the other logic because this item doesn&#39;t count</span></div>
+<div class="line"><a id="l03772" name="l03772"></a><span class="lineno"> 3772</span>    }</div>
+<div class="line"><a id="l03773" name="l03773"></a><span class="lineno"> 3773</span> </div>
+<div class="line"><a id="l03774" name="l03774"></a><span class="lineno"> 3774</span>    <a class="code hl_variable" href="structlayer__details.html#a7d493bd5faed7a859f55c1acbf7aa47e">pieces</a>.push_back( encumbrance );</div>
+<div class="line"><a id="l03775" name="l03775"></a><span class="lineno"> 3775</span> </div>
+<div class="line"><a id="l03776" name="l03776"></a><span class="lineno"> 3776</span>    <span class="keywordtype">int</span> current = <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a>;</div>
+<div class="line"><a id="l03777" name="l03777"></a><span class="lineno"> 3777</span>    <span class="keywordflow">if</span>( encumbrance &gt; <a class="code hl_variable" href="structlayer__details.html#a3960dd02309f904971984c808400bafd">max</a> ) {</div>
+<div class="line"><a id="l03778" name="l03778"></a><span class="lineno"> 3778</span>        <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a> += <a class="code hl_variable" href="structlayer__details.html#a3960dd02309f904971984c808400bafd">max</a>;   <span class="comment">// *now* the old max is counted, just ignore the new max</span></div>
+<div class="line"><a id="l03779" name="l03779"></a><span class="lineno"> 3779</span>        <a class="code hl_variable" href="structlayer__details.html#a3960dd02309f904971984c808400bafd">max</a> = <a class="code hl_enumvalue" href="namespaceanonymous__namespace_02character__display_8cpp_03.html#a5960c87973f8859f2e6997206a97fb09ac6cfd4983be847b61861fd0a9c7cabbe">encumbrance</a>;</div>
+<div class="line"><a id="l03780" name="l03780"></a><span class="lineno"> 3780</span>    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a id="l03781" name="l03781"></a><span class="lineno"> 3781</span>        <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a> += <a class="code hl_enumvalue" href="namespaceanonymous__namespace_02character__display_8cpp_03.html#a5960c87973f8859f2e6997206a97fb09ac6cfd4983be847b61861fd0a9c7cabbe">encumbrance</a>;</div>
+<div class="line"><a id="l03782" name="l03782"></a><span class="lineno"> 3782</span>    }</div>
+<div class="line"><a id="l03783" name="l03783"></a><span class="lineno"> 3783</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">total</a> - current;</div>
+<div class="line"><a id="l03784" name="l03784"></a><span class="lineno"> 3784</span>}</div>
 <div class="ttc" id="anamespaceanonymous__namespace_02character__display_8cpp_03_html_a5960c87973f8859f2e6997206a97fb09ac6cfd4983be847b61861fd0a9c7cabbe"><div class="ttname"><a href="namespaceanonymous__namespace_02character__display_8cpp_03.html#a5960c87973f8859f2e6997206a97fb09ac6cfd4983be847b61861fd0a9c7cabbe">anonymous_namespace{character_display.cpp}::player_display_tab::encumbrance</a></div><div class="ttdeci">@ encumbrance</div></div>
 <div class="ttc" id="astructlayer__details_html_a3960dd02309f904971984c808400bafd"><div class="ttname"><a href="structlayer__details.html#a3960dd02309f904971984c808400bafd">layer_details::max</a></div><div class="ttdeci">int max</div><div class="ttdef"><b>Definition:</b> <a href="character__encumbrance_8h_source.html#l00014">character_encumbrance.h:14</a></div></div>
 <div class="ttc" id="astructlayer__details_html_a60b3790e64eb99e4cda763941117f838"><div class="ttname"><a href="structlayer__details.html#a60b3790e64eb99e4cda763941117f838">layer_details::total</a></div><div class="ttdeci">int total</div><div class="ttdef"><b>Definition:</b> <a href="character__encumbrance_8h_source.html#l00015">character_encumbrance.h:15</a></div></div>
@@ -214,10 +214,10 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l03753">3753</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l03754" name="l03754"></a><span class="lineno"> 3754</span>{</div>
-<div class="line"><a id="l03755" name="l03755"></a><span class="lineno"> 3755</span>    *<span class="keyword">this</span> = <a class="code hl_struct" href="structlayer__details.html">layer_details</a>();</div>
-<div class="line"><a id="l03756" name="l03756"></a><span class="lineno"> 3756</span>}</div>
+<p class="definition">Definition at line <a class="el" href="character_8cpp_source.html#l03754">3754</a> of file <a class="el" href="character_8cpp_source.html">character.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l03755" name="l03755"></a><span class="lineno"> 3755</span>{</div>
+<div class="line"><a id="l03756" name="l03756"></a><span class="lineno"> 3756</span>    *<span class="keyword">this</span> = <a class="code hl_struct" href="structlayer__details.html">layer_details</a>();</div>
+<div class="line"><a id="l03757" name="l03757"></a><span class="lineno"> 3757</span>}</div>
 <div class="ttc" id="astructlayer__details_html"><div class="ttname"><a href="structlayer__details.html">layer_details</a></div><div class="ttdef"><b>Definition:</b> <a href="character__encumbrance_8h_source.html#l00011">character_encumbrance.h:11</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -237,7 +237,7 @@ Public Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="character__encumbrance_8h_source.html#l00014">14</a> of file <a class="el" href="character__encumbrance_8h_source.html">character_encumbrance.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l03761">layer()</a>, and <a class="el" href="character__encumbrance_8h_source.html#l00020">operator==()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l03762">layer()</a>, and <a class="el" href="character__encumbrance_8h_source.html#l00020">operator==()</a>.</p>
 
 </div>
 </div>
@@ -255,7 +255,7 @@ Public Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="character__encumbrance_8h_source.html#l00013">13</a> of file <a class="el" href="character__encumbrance_8h_source.html">character_encumbrance.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l03761">layer()</a>, and <a class="el" href="character__encumbrance_8h_source.html#l00020">operator==()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l03762">layer()</a>, and <a class="el" href="character__encumbrance_8h_source.html#l00020">operator==()</a>.</p>
 
 </div>
 </div>
@@ -273,7 +273,7 @@ Public Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="character__encumbrance_8h_source.html#l00015">15</a> of file <a class="el" href="character__encumbrance_8h_source.html">character_encumbrance.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l03761">layer()</a>, and <a class="el" href="character__encumbrance_8h_source.html#l00020">operator==()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="character_8cpp_source.html#l03762">layer()</a>, and <a class="el" href="character__encumbrance_8h_source.html#l00020">operator==()</a>.</p>
 
 </div>
 </div>
@@ -287,7 +287,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="structlayer__details.html">layer_details</a></li>
-    <li class="footer">Generated on Tue Jan 17 2023 22:40:18 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Tue Jan 17 2023 22:41:34 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

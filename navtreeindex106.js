@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"mod__manager__ui_8cpp_source.html":[37,0,1,409],
 "mod__tileset_8cpp.html":[37,0,1,410],
 "mod__tileset_8cpp_source.html":[37,0,1,410],
 "mod__tileset_8h.html":[37,0,1,411],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "monattack_8h.html#af09473a311230b57a93a4ef86655d764":[37,0,1,414,19],
 "monattack_8h.html#af2676be6738b2b9622d33c48e7c664c6":[37,0,1,414,103],
 "monattack_8h.html#af55104213ac374e4cad1babbf0d3a009":[37,0,1,414,7],
-"monattack_8h.html#af642e98f1e7accbbf605a5d6b082f293":[37,0,1,414,33],
-"monattack_8h.html#af6d98508623397f01a9d5ffeebfd460b":[37,0,1,414,48]
+"monattack_8h.html#af642e98f1e7accbbf605a5d6b082f293":[37,0,1,414,33]
 };

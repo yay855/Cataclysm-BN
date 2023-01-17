@@ -1,5 +1,6 @@
 var NAVTREEINDEX121 =
 {
+"namespacetalk__function.html#ac19470f9874d1990a2a36bb144c4653b":[35,0,171,81],
 "namespacetalk__function.html#ac1c378c0b524050ad7ccbeca7f78aae7":[35,0,171,52],
 "namespacetalk__function.html#ac1feebd09cd88bf8bfe3235b7e5a8b59":[35,0,171,55],
 "namespacetalk__function.html#ac26c4b90c950b73a3adefbcb36ec33f6":[35,0,171,96],
@@ -248,6 +249,5 @@ var NAVTREEINDEX121 =
 "namespacewarmth.html#ae11deea526b1f8389fa6a1b002bcc193":[35,0,186,0],
 "namespaceweather.html":[34,2,0],
 "namespaceweather.html#a1cb67538c5c27d0f91a4ac055de0a9fb":[35,0,187,0],
-"namespaceweather.html#a611a7bc009793a0ab1c6095787fd7309":[35,0,187,1],
-"namespaceweather__effect.html":[35,0,188]
+"namespaceweather.html#a611a7bc009793a0ab1c6095787fd7309":[35,0,187,1]
 };
