@@ -546,6 +546,8 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "ret_val.h", "ret__val_8h.html", "ret__val_8h" ],
     [ "rng.cpp", "rng_8cpp.html", "rng_8cpp" ],
     [ "rng.h", "rng_8h.html", "rng_8h" ],
+    [ "rot.cpp", "rot_8cpp.html", "rot_8cpp" ],
+    [ "rot.h", "rot_8h.html", "rot_8h" ],
     [ "rotatable_symbols.cpp", "rotatable__symbols_8cpp.html", "rotatable__symbols_8cpp" ],
     [ "rotatable_symbols.h", "rotatable__symbols_8h.html", "rotatable__symbols_8h" ],
     [ "runtime_handlers.cpp", "runtime__handlers_8cpp.html", "runtime__handlers_8cpp" ],

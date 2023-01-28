@@ -1,5 +1,10 @@
 var NAVTREEINDEX52 =
 {
+"classmap__selector.html#ac2655585bbde725a04ce48c5138c4aa9":[36,0,590,20],
+"classmap__selector.html#ac8e126c235c7bb0c07ee24336cbaa711":[36,0,590,10],
+"classmap__selector.html#aced30b98bc65471bf6c7d014e6885f70":[36,0,590,15],
+"classmap__selector.html#ad5e3393beb4d558f02d149381c4655c1":[36,0,590,8],
+"classmap__selector.html#ad835f10b77e40aa22bae5df5582a2aa7":[36,0,590,3],
 "classmap__selector.html#ad93b6003e87e06d3ca1cbe01acfd9411":[36,0,590,14],
 "classmap__selector.html#ae9995853fd4b723e31001e904ad752c9":[36,0,590,16],
 "classmap__selector.html#aed66772b178e0c8a0357d01c0b330b86":[36,0,590,11],
@@ -30,8 +35,8 @@ var NAVTREEINDEX52 =
 "classmapbuffer.html#aa17fa633fa21f1ee7c736054cc3da9af":[36,0,592,13],
 "classmapbuffer.html#acaf938d4ae5a4396133f8c9e89564770":[36,0,592,5],
 "classmapbuffer.html#afd0ede34e179e88c37a9820fc6d60671":[36,0,592,2],
-"classmapf_1_1format__effect.html":[36,0,27,0],
 "classmapf_1_1format__effect.html":[35,0,126,0],
+"classmapf_1_1format__effect.html":[36,0,27,0],
 "classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[36,0,27,0,1],
 "classmapf_1_1format__effect.html#a3f4df7987e5f3dd4b95bf4024bf7526e":[35,0,126,0,1],
 "classmapf_1_1format__effect.html#a512202461d2edd7a403088e688833a93":[35,0,126,0,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX52 =
 "classmaterial__type.html#a3490744061ec2196edb7035e112b1dd9":[36,0,610,39],
 "classmaterial__type.html#a390b1671f41175d5b7124d86fee0b007":[36,0,610,26],
 "classmaterial__type.html#a3c9639792a2ca08d94ad8edb11725e78":[36,0,610,0],
-"classmaterial__type.html#a403372a04a87014f1fb10300129d8b53":[36,0,610,11],
-"classmaterial__type.html#a43901e041d57fac33a8bcc83f7217c3f":[36,0,610,60],
-"classmaterial__type.html#a52c768c95b884cdda6b02b2e1080d686":[36,0,610,42],
-"classmaterial__type.html#a54612384f0cef32b77bd22db2c4d31ee":[36,0,610,53],
-"classmaterial__type.html#a5a9263fe1d93abcd7a94ba46519028f7":[36,0,610,33],
-"classmaterial__type.html#a5b83e64020d943211bfbd549f3e11843":[36,0,610,18]
+"classmaterial__type.html#a403372a04a87014f1fb10300129d8b53":[36,0,610,11]
 };

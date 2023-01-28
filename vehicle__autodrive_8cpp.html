@@ -655,8 +655,9 @@ Variables</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="vehicle__autodrive_8cpp_source.html#l00433">433</a> of file <a class="el" href="vehicle__autodrive_8cpp_source.html">vehicle_autodrive.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00434" name="l00434"></a><span class="lineno">  434</span>{</div>
-<div class="line"><a id="l00435" name="l00435"></a><span class="lineno">  435</span>    <span class="keywordflow">return</span> dir + <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="vehicle__autodrive_8cpp.html#a8a8ef3bbd9ed2a52dac59671e4bcb210">orientation</a><span class="keyword">&gt;</span>( <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>( rot ) *  <a class="code hl_variable" href="vehicle__autodrive_8cpp.html#a215f412e7c5d4e90bec0e8d2035793c9">NUM_ORIENTATIONS</a> / 4 );</div>
+<div class="line"><a id="l00435" name="l00435"></a><span class="lineno">  435</span>    <span class="keywordflow">return</span> dir + <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="vehicle__autodrive_8cpp.html#a8a8ef3bbd9ed2a52dac59671e4bcb210">orientation</a><span class="keyword">&gt;</span>( <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>( <a class="code hl_namespace" href="namespacerot.html">rot</a> ) *  <a class="code hl_variable" href="vehicle__autodrive_8cpp.html#a215f412e7c5d4e90bec0e8d2035793c9">NUM_ORIENTATIONS</a> / 4 );</div>
 <div class="line"><a id="l00436" name="l00436"></a><span class="lineno">  436</span>}</div>
+<div class="ttc" id="anamespacerot_html"><div class="ttname"><a href="namespacerot.html">rot</a></div><div class="ttdef"><b>Definition:</b> <a href="rot_8cpp_source.html#l00010">rot.cpp:11</a></div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="vehicle__autodrive_8cpp_source.html#l00137">NUM_ORIENTATIONS</a>.</p>
 
@@ -828,7 +829,7 @@ Variables</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="vehicle__autodrive_8cpp_source.html#l00438">438</a> of file <a class="el" href="vehicle__autodrive_8cpp_source.html">vehicle_autodrive.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00439" name="l00439"></a><span class="lineno">  439</span>{</div>
-<div class="line"><a id="l00440" name="l00440"></a><span class="lineno">  440</span>    <span class="keywordflow">return</span> dir = dir + rot;</div>
+<div class="line"><a id="l00440" name="l00440"></a><span class="lineno">  440</span>    <span class="keywordflow">return</span> dir = dir + <a class="code hl_namespace" href="namespacerot.html">rot</a>;</div>
 <div class="line"><a id="l00441" name="l00441"></a><span class="lineno">  441</span>}</div>
 </div><!-- fragment -->
 </div>
@@ -934,7 +935,7 @@ Variables</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="vehicle__autodrive_8cpp_source.html#l00418">418</a> of file <a class="el" href="vehicle__autodrive_8cpp_source.html">vehicle_autodrive.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00419" name="l00419"></a><span class="lineno">  419</span>{</div>
-<div class="line"><a id="l00420" name="l00420"></a><span class="lineno">  420</span>    <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="vehicle__autodrive_8cpp.html#a05cbb1ebfffc0786b82e54aafb09632a">quad_rotation</a><span class="keyword">&gt;</span>( ( 4 - <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>( rot ) ) % 4 );</div>
+<div class="line"><a id="l00420" name="l00420"></a><span class="lineno">  420</span>    <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="vehicle__autodrive_8cpp.html#a05cbb1ebfffc0786b82e54aafb09632a">quad_rotation</a><span class="keyword">&gt;</span>( ( 4 - <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>( <a class="code hl_namespace" href="namespacerot.html">rot</a> ) ) % 4 );</div>
 <div class="line"><a id="l00421" name="l00421"></a><span class="lineno">  421</span>}</div>
 </div><!-- fragment -->
 </div>
@@ -1585,7 +1586,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="vehicle__autodrive_8cpp.html">vehicle_autodrive.cpp</a></li>
-    <li class="footer">Generated on Tue Jan 24 2023 18:44:12 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Jan 28 2023 14:14:56 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

@@ -159,9 +159,6 @@ var hierarchy =
     [ "bionic_data", "structbionic__data.html", null ],
     [ "anonymous_namespace{bionics_ui.cpp}::bionic_sort_less", "structanonymous__namespace_02bionics__ui_8cpp_03_1_1bionic__sort__less.html", null ],
     [ "detail::bits< T >", "structdetail_1_1bits.html", null ],
-    [ "std::bitset< Bits >", null, [
-      [ "iteminfo_query", "classiteminfo__query.html", null ]
-    ] ],
     [ "player_morale::body_part_data", "structplayer__morale_1_1body__part__data.html", null ],
     [ "body_part_set", "classbody__part__set.html", null ],
     [ "body_part_type", "structbody__part__type.html", null ],
@@ -975,6 +972,7 @@ var hierarchy =
       [ "vehicle_stack", "classvehicle__stack.html", null ]
     ] ],
     [ "iteminfo", "structiteminfo.html", null ],
+    [ "iteminfo_query", "classiteminfo__query.html", null ],
     [ "game::non_dead_range< T >::iterator", "classgame_1_1non__dead__range_1_1iterator.html", null ],
     [ "rect_range< RectType >::iterator", "classrect__range_1_1iterator.html", null ],
     [ "std::iterator_traits< vehicle_part_iterator< T > >", "structstd_1_1iterator__traits_3_01vehicle__part__iterator_3_01T_01_4_01_4.html", null ],

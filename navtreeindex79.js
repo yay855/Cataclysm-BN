@@ -1,5 +1,10 @@
 var NAVTREEINDEX79 =
 {
+"cursesport_8cpp.html":[37,0,1,152],
+"cursesport_8cpp_source.html":[37,0,1,152],
+"cursesport_8h.html":[37,0,1,153],
+"cursesport_8h.html#a5f6fb3c3a38c976c8bb893b1c3eadd81":[37,0,1,153,0],
+"cursesport_8h_source.html":[37,0,1,153],
 "damage_8cpp.html":[37,0,1,154],
 "damage_8cpp.html#a10a3750de355f3b6ae5269d73bae6c59":[37,0,1,154,4],
 "damage_8cpp.html#a137a94f0b744f736d7269cbc7873c076":[37,0,1,154,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX79 =
 "descriptions_8cpp.html#aed16733ae57c4f103a9dcb4f33f42b95":[37,0,1,162,2],
 "descriptions_8cpp.html#aeed2fa049c80ba4e2960866b4e00d5d8":[37,0,1,162,0],
 "descriptions_8cpp.html#aeed2fa049c80ba4e2960866b4e00d5d8a47afa88cfb198f52733fa3d1f43d7f04":[37,0,1,162,0,2],
-"descriptions_8cpp.html#aeed2fa049c80ba4e2960866b4e00d5d8a8a52e7a8d3b4c955d6f7927c6ba3fe72":[37,0,1,162,0,0],
-"descriptions_8cpp.html#aeed2fa049c80ba4e2960866b4e00d5d8afd87f5969ecaa22eaca667dd742f916d":[37,0,1,162,0,1],
-"descriptions_8cpp.html#afc75cb64fad8f2ee5ce9997ce8d94c4f":[37,0,1,162,1],
-"descriptions_8cpp_source.html":[37,0,1,162],
-"dialogue_8h.html":[37,0,1,163],
-"dialogue_8h.html#a16887758465982f757c27730065bfd9a":[37,0,1,163,16]
+"descriptions_8cpp.html#aeed2fa049c80ba4e2960866b4e00d5d8a8a52e7a8d3b4c955d6f7927c6ba3fe72":[37,0,1,162,0,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX78 =
 {
+"coordinates_8h.html#afed688da631d183bacc23a6e7f085bd8":[37,0,1,137,48],
+"coordinates_8h_source.html":[37,0,1,137],
+"craft__command_8cpp.html":[37,0,1,138],
+"craft__command_8cpp.html#a2ba9e40123e7b42ccc2327d637311c5a":[37,0,1,138,2],
+"craft__command_8cpp.html#a3e67b3e4390ce6e1099d011425e7438e":[37,0,1,138,1],
 "craft__command_8cpp.html#a9ddd6978e03ddb5cc7755e19c7c41bee":[37,0,1,138,0],
 "craft__command_8cpp_source.html":[37,0,1,138],
 "craft__command_8h.html":[37,0,1,139],
@@ -244,10 +249,5 @@ var NAVTREEINDEX78 =
 "cursesdef_8h.html#ae6a3d2a02cedf27061fed6e3991b0dc5":[37,0,1,151,35],
 "cursesdef_8h.html#af7f0e03a6caab1f1ccc2fb5f01ba00ac":[37,0,1,151,32],
 "cursesdef_8h.html#afa6ab6a4b5d9ec592a63954a98ae5d69":[37,0,1,151,8],
-"cursesdef_8h_source.html":[37,0,1,151],
-"cursesport_8cpp.html":[37,0,1,152],
-"cursesport_8cpp_source.html":[37,0,1,152],
-"cursesport_8h.html":[37,0,1,153],
-"cursesport_8h.html#a5f6fb3c3a38c976c8bb893b1c3eadd81":[37,0,1,153,0],
-"cursesport_8h_source.html":[37,0,1,153]
+"cursesdef_8h_source.html":[37,0,1,151]
 };

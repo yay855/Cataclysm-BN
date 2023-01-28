@@ -1439,6 +1439,10 @@ var namespaces_dup =
       [ "process_recharge", "namespacerelic__funcs.html#a6f22f33e09820e039215a475353a58a1", null ],
       [ "process_recharge_entry", "namespacerelic__funcs.html#a34d92da3e5874fc4a8e5e218c1ffc7b3", null ]
     ] ],
+    [ "rot", "namespacerot.html", [
+      [ "temperature_flag_for_location", "namespacerot.html#a1568fc85485e5e2f7aaa861a2a99639f", null ],
+      [ "temperature_flag_for_part", "namespacerot.html#a008cc8b85d6b6c167f7bb10c5bf2f35c", null ]
+    ] ],
     [ "rotatable_symbols", "namespacerotatable__symbols.html", [
       [ "get", "namespacerotatable__symbols.html#a7d2f855a39674de736a7829423a577f4", null ],
       [ "load", "namespacerotatable__symbols.html#a48bf60dfe7a697d7fc1bde8f3ac9a946", null ],
@@ -1737,12 +1741,13 @@ var namespaces_dup =
       [ "teleport", "namespaceteleport.html#a24cbf298b41e9fc23770c73d32e33a47", null ]
     ] ],
     [ "temperatures", "namespacetemperatures.html", [
-      [ "cold", "namespacetemperatures.html#a226cec67fad4075fe2cf6c31c355fbed", null ],
-      [ "freezer", "namespacetemperatures.html#ab2c68fc15267f67cc0e457377468d394", null ],
-      [ "freezing", "namespacetemperatures.html#aa801a22d811cee8d2deaabd3fbf89c36", null ],
-      [ "fridge", "namespacetemperatures.html#a6f72ea34f2d4840f4e3448227eb42b96", null ],
-      [ "hot", "namespacetemperatures.html#a892e6f2d08a4e00fd4532fa10883d934", null ],
-      [ "normal", "namespacetemperatures.html#a63ccaceafd632de17f412dfb5b3725fd", null ]
+      [ "cold", "namespacetemperatures.html#a6a0e3903fa0a749ee4c45d95eb6016d2", null ],
+      [ "freezer", "namespacetemperatures.html#ab5323589e14984e5c09cafa3b62def7d", null ],
+      [ "freezing", "namespacetemperatures.html#a6fe2961d424ef5406871b8ee32764330", null ],
+      [ "fridge", "namespacetemperatures.html#a6ac4b0413305dd75769d62227081d8b1", null ],
+      [ "hot", "namespacetemperatures.html#a3fa7c6789383b6c28db8a7b51764ca16", null ],
+      [ "normal", "namespacetemperatures.html#a9f523a38a9f55c0f553288964f823f38", null ],
+      [ "root_cellar", "namespacetemperatures.html#aed7454d776862538b76d7fef4965394d", null ]
     ] ],
     [ "to_cbc_migration", "namespaceto__cbc__migration.html", [
       [ "load", "namespaceto__cbc__migration.html#a252353398ab75623ad9416450c49ac8c", null ],
