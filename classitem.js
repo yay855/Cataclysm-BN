@@ -267,7 +267,7 @@ var classitem =
     [ "info", "classitem.html#a62e2c9c7b327ce8833663b2aebfd1977", null ],
     [ "info", "classitem.html#a7209606be0397767e729054aad4b2c5d", null ],
     [ "info_string", "classitem.html#aec12885db2976b9c97c48d533442e505", null ],
-    [ "info_string", "classitem.html#a2425c3968224d989800223e2435c77c2", null ],
+    [ "info_string", "classitem.html#a9db438edb3086ab32b1267bc245e40e2", null ],
     [ "inherit_flags", "classitem.html#ada08330229a765662135756edf150787", null ],
     [ "inherit_flags", "classitem.html#a71fee8e49d9b7c800ad9ed02bd4a3e33", null ],
     [ "io", "classitem.html#a18ede775ada6d0b88f984b9dae6fed00", null ],

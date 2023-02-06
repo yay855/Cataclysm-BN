@@ -149,7 +149,7 @@ var NAVTREEINDEX =
 "classinput__manager.html#aacde27ff6af00f3b0f12d66a77bf7c6c",
 "classinventory__drop__selector.html#afb129148be78ee8b7d9224f24e4e7dc2",
 "classis__pimpl__helper.html",
-"classitem.html#a733d3f8bc85cb1bc0e8d87b6ed5af7ac",
+"classitem.html#a7454027d8aaeb67f6e9d6b374bae55c7",
 "classitem.html#aecf84874cbc13ba0ce8a205690747305",
 "classitem__location_1_1impl_1_1nowhere.html#a313e087ddcbc4ec70be21301e3255868",
 "classjmapgen__sign.html#a4bf72d5091215750818196d24a2d5059",
