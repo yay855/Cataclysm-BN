@@ -906,6 +906,7 @@ var annotated_dup =
     [ "item_pricing", "classitem__pricing.html", "classitem__pricing" ],
     [ "item_reader", "classitem__reader.html", "classitem__reader" ],
     [ "item_reference", "structitem__reference.html", "structitem__reference" ],
+    [ "item_reload_option", "classitem__reload__option.html", "classitem__reload__option" ],
     [ "Item_spawn_data", "classItem__spawn__data.html", "classItem__spawn__data" ],
     [ "item_stack", "classitem__stack.html", "classitem__stack" ],
     [ "iteminfo", "structiteminfo.html", "structiteminfo" ],

@@ -137,7 +137,7 @@ var searchData=
   ['max_5fpierce_134',['max_pierce',['../classspell__type.html#a622e9bdd1c126963589e5b0e94940d17',1,'spell_type']]],
   ['max_5fpopulated_5fzlev_135',['max_populated_zlev',['../classmap.html#a087847b7569f1ed8e64d2229b52880b6',1,'map']]],
   ['max_5fpower_5flevel_136',['max_power_level',['../classCharacter.html#af1b73827f128952c08c79efca534914f',1,'Character::max_power_level()'],['../structdiary__page.html#a96100050de4f6a73e88cfa6d7bed0560',1,'diary_page::max_power_level()']]],
-  ['max_5fqty_137',['max_qty',['../classitem_1_1reload__option.html#abe3eedb7c460ff13cb1eeb782ae0f876',1,'item::reload_option']]],
+  ['max_5fqty_137',['max_qty',['../classitem__reload__option.html#a43e75fd9c126144d7a527785b885a33c',1,'item_reload_option']]],
   ['max_5fquotient_138',['max_quotient',['../structdetail_1_1divtest__table__entry.html#a5bd02dc20d212904c678ee62b81631d4',1,'detail::divtest_table_entry']]],
   ['max_5frange_139',['max_range',['../classspell__type.html#a013675693adb378fdb4d1fff0d1e0e02',1,'spell_type::max_range()'],['../structarea__expander.html#a69c3b01340ea8173a14a085898a5a908',1,'area_expander::max_range()'],['../classleap__actor.html#ae29a5fc964d37f04c028906cafbde142',1,'leap_actor::max_range()']]],
   ['max_5frecoil_140',['MAX_RECOIL',['../game__constants_8h.html#a8226e8a134603e5bc06df05efd13d8d1',1,'game_constants.h']]],

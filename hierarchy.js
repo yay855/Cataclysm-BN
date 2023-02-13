@@ -963,6 +963,7 @@ var hierarchy =
     [ "anonymous_namespace{armor_layers.cpp}::item_penalties", "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html", null ],
     [ "item_pricing", "classitem__pricing.html", null ],
     [ "item_reference", "structitem__reference.html", null ],
+    [ "item_reload_option", "classitem__reload__option.html", null ],
     [ "Item_spawn_data", "classItem__spawn__data.html", [
       [ "Item_group", "classItem__group.html", null ],
       [ "Single_item_creator", "classSingle__item__creator.html", null ]
@@ -1458,7 +1459,6 @@ var hierarchy =
     [ "regional_settings", "structregional__settings.html", null ],
     [ "relic", "classrelic.html", null ],
     [ "relic_recharge", "classrelic__recharge.html", null ],
-    [ "item::reload_option", "classitem_1_1reload__option.html", null ],
     [ "RemovePartHandler", "classRemovePartHandler.html", [
       [ "DefaultRemovePartHandler", "classDefaultRemovePartHandler.html", null ],
       [ "MapgenRemovePartHandler", "classMapgenRemovePartHandler.html", null ]

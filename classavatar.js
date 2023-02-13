@@ -4,6 +4,7 @@ var classavatar =
     [ "avatar", "classavatar.html#a57d5f267e332b8fa8d1e1d654d7aa292", null ],
     [ "avatar", "classavatar.html#a60941def788f6943e161c762cf1ce997", null ],
     [ "~avatar", "classavatar.html#a5914c9812e809ca1e43173118c7aa5ec", null ],
+    [ "add_faction_warning", "classavatar.html#a6e88d93951f40aa4c218defb5a0f0f57", null ],
     [ "as_avatar", "classavatar.html#a43a11e683b9560a39c546b418ac1b395", null ],
     [ "as_avatar", "classavatar.html#ae57f206a57b2a5ed0c67485ca939a61d", null ],
     [ "clear_memorized_tile", "classavatar.html#ac86956cd80a0f1ea1ce97d1477582b40", null ],
@@ -90,5 +91,6 @@ var classavatar =
     [ "preferred_aiming_mode", "classavatar.html#a98553758b9d158c58dd11c77d97ff55e", null ],
     [ "show_map_memory", "classavatar.html#ae30cd3f5d76ab5f173cf720d6b7aada7", null ],
     [ "str_upgrade", "classavatar.html#af77a633c27d6ce3780f820a87979a940", null ],
-    [ "translocators", "classavatar.html#a50440050ab962a28f493c25bca4bb441", null ]
+    [ "translocators", "classavatar.html#a50440050ab962a28f493c25bca4bb441", null ],
+    [ "warning_record", "classavatar.html#aacd0ed4827a3c98174d97dc89929e621", null ]
 ];

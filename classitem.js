@@ -2,7 +2,6 @@ var classitem =
 [
     [ "craft_data", "classitem_1_1craft__data.html", "classitem_1_1craft__data" ],
     [ "default_charges_tag", "structitem_1_1default__charges__tag.html", null ],
-    [ "reload_option", "classitem_1_1reload__option.html", "classitem_1_1reload__option" ],
     [ "solitary_tag", "structitem_1_1solitary__tag.html", null ],
     [ "sound_data", "structitem_1_1sound__data.html", "structitem_1_1sound__data" ],
     [ "archive_type_tag", "classitem.html#a6498ad8a0aeb2686b68278663a60abdb", null ],
@@ -474,7 +473,7 @@ var classitem =
     [ "wheel_area", "classitem.html#a1b9abb87d3a9cb6dfc4499a9066ecc44", null ],
     [ "will_explode_in_fire", "classitem.html#aa764d6c0cfef8050a689291050706f22", null ],
     [ "wind_resist", "classitem.html#ada39e6de0077216777a56e6d237b7e0b", null ],
-    [ "activated_by", "classitem.html#a905861eede4764560f8d8d54a336ea5d", null ],
+    [ "activated_by", "classitem.html#a1001c62c035e3dd357a1a9d39866e2b4", null ],
     [ "active", "classitem.html#a2993eb10a5ae589e6bb1be0a74cb65c1", null ],
     [ "anchor", "classitem.html#a700374a9cb11d479855b03b4eff408e3", null ],
     [ "bday", "classitem.html#a628659a14a3b57d0627ddd5093e94147", null ],

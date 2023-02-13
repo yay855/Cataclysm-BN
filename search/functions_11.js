@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['qty_0',['qty',['../classitem_1_1reload__option.html#af99909229b18cb529592856884124187',1,'item::reload_option::qty() const'],['../classitem_1_1reload__option.html#ac5f59d2ca554c8428cc2d1345efecaef',1,'item::reload_option::qty(int val)'],['../classgun__modifier__data.html#afcb18a1d12ade9bef9c93e3bdfe3d739',1,'gun_modifier_data::qty()'],['../classemit.html#a5fb324b1cbd77d601d0728cafb8994c9',1,'emit::qty()']]],
+  ['qty_0',['qty',['../classitem__reload__option.html#ac2bf6049c6064afbd0f642342215c170',1,'item_reload_option::qty() const'],['../classitem__reload__option.html#a6353d239712a1f2c8cc619b9cbe68898',1,'item_reload_option::qty(int val)'],['../classgun__modifier__data.html#afcb18a1d12ade9bef9c93e3bdfe3d739',1,'gun_modifier_data::qty()'],['../classemit.html#a5fb324b1cbd77d601d0728cafb8994c9',1,'emit::qty()']]],
   ['quadrant_1',['quadrant',['../classtileray.html#affd8db4899b1965ab822659ded6d0386',1,'tileray']]],
   ['quadrant_5ffrom_5fx_5fy_2',['quadrant_from_x_y',['../lightmap_8cpp.html#a23445e2078ba8767b2aae74fe974d16d',1,'lightmap.cpp']]],
   ['qualities_5finfo_3',['qualities_info',['../classitem.html#a5f1bd1f37a27ac2a4c994b4123dba5e6',1,'item']]],

@@ -264,9 +264,21 @@ var namespaces_dup =
       [ "wield", "namespaceavatar__action.html#a4237c55ad7f626915cdb297d52841b8f", null ]
     ] ],
     [ "avatar_funcs", "namespaceavatar__funcs.html", [
+      [ "add_or_drop_with_msg", "namespaceavatar__funcs.html#a63299af2c1172957092be68037b047f4", null ],
+      [ "gunmod_add", "namespaceavatar__funcs.html#a33caecf3332887bbdf26598147a39ebc", null ],
+      [ "gunmod_installation_odds", "namespaceavatar__funcs.html#ac14b6f126d2c2b3e9a34e3ae6f99827f", null ],
+      [ "gunmod_remove", "namespaceavatar__funcs.html#a1bb52c7ff53526e659bfc25b8b53d620", null ],
+      [ "handle_theft_witnesses", "namespaceavatar__funcs.html#a0cb75fd1a3b035578ab495d30d8ee0bd", null ],
+      [ "has_mod", "namespaceavatar__funcs.html#aaef06fa3af228d5fa10ce372a8d95fb9", null ],
+      [ "is_pet_food", "namespaceavatar__funcs.html#a4c319ba53f385ba862179b8540d2ead9", null ],
+      [ "list_potential_theft_witnesses", "namespaceavatar__funcs.html#ae3e48352faacf76db0e461d8d0e697ea", null ],
+      [ "mend_item", "namespaceavatar__funcs.html#a97e418d541f419827d11e0460916ad33", null ],
+      [ "toolmod_add", "namespaceavatar__funcs.html#ac216d229bfa88148e0e4afa8bdbe9ffc", null ],
       [ "try_disarm_npc", "namespaceavatar__funcs.html#a0e31be97cb02c9a6aa2ec0c547149d3e", null ],
       [ "try_steal_from_npc", "namespaceavatar__funcs.html#a2c717f781583bcd89e23c46ef1e3f893", null ],
-      [ "try_to_sleep", "namespaceavatar__funcs.html#a916f182d460c34fb5df1804432a4505d", null ]
+      [ "try_to_sleep", "namespaceavatar__funcs.html#a916f182d460c34fb5df1804432a4505d", null ],
+      [ "unload_item", "namespaceavatar__funcs.html#abca10e5194d32b19cc88d6ffd07c56d6", null ],
+      [ "use_item", "namespaceavatar__funcs.html#a9987c049e9795d0bb04521808e5f7151", null ]
     ] ],
     [ "base_camps", "namespacebase__camps.html", "namespacebase__camps" ],
     [ "behavior", "namespacebehavior.html", "namespacebehavior" ],
