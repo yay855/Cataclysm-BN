@@ -559,9 +559,9 @@ Unarmed increases ability to perform leg block
 <div class="line"><a id="l00881" name="l00881"></a><span class="lineno">  881</span> </div>
 <div class="line"><a id="l00882" name="l00882"></a><span class="lineno">  882</span>    <span class="keywordflow">return</span> tecs;</div>
 <div class="line"><a id="l00883" name="l00883"></a><span class="lineno">  883</span>}</div>
-<div class="ttc" id="aclassitem_html_a26022bd0e72f14c5abf2fa5edf806c81"><div class="ttname"><a href="classitem.html#a26022bd0e72f14c5abf2fa5edf806c81">item::get_techniques</a></div><div class="ttdeci">std::set&lt; matec_id &gt; get_techniques() const</div><div class="ttdoc">Returns all the martial art techniques that this items supports.</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l05467">item.cpp:5467</a></div></div>
+<div class="ttc" id="aclassitem_html_a26022bd0e72f14c5abf2fa5edf806c81"><div class="ttname"><a href="classitem.html#a26022bd0e72f14c5abf2fa5edf806c81">item::get_techniques</a></div><div class="ttdeci">std::set&lt; matec_id &gt; get_techniques() const</div><div class="ttdoc">Returns all the martial art techniques that this items supports.</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l05466">item.cpp:5466</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="item_8cpp_source.html#l05467">item::get_techniques()</a>, <a class="el" href="achievement_8cpp_source.html#l00058">string_id&lt; T &gt;::obj()</a>, and <a class="el" href="character__martial__arts_8h_source.html#l00021">style_selected</a>.</p>
+<p class="reference">References <a class="el" href="item_8cpp_source.html#l05466">item::get_techniques()</a>, <a class="el" href="achievement_8cpp_source.html#l00058">string_id&lt; T &gt;::obj()</a>, and <a class="el" href="character__martial__arts_8h_source.html#l00021">style_selected</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="martialarts_8cpp_source.html#l00920">get_grab_break_tec()</a>, <a class="el" href="martialarts_8cpp_source.html#l00896">get_miss_recovery_tec()</a>, <a class="el" href="martialarts_8cpp_source.html#l00910">has_grab_break_tec()</a>, and <a class="el" href="martialarts_8cpp_source.html#l00886">has_miss_recovery_tec()</a>.</p>
 
@@ -827,10 +827,10 @@ Unarmed increases ability to perform leg block
 <div class="line"><a id="l01336" name="l01336"></a><span class="lineno"> 1336</span>    <span class="keywordflow">return</span> weap.<a class="code hl_function" href="classitem.html#ab842b7c3aaa4d813575035be37cd3714">has_technique</a>( <span class="keywordtype">id</span> ) ||</div>
 <div class="line"><a id="l01337" name="l01337"></a><span class="lineno"> 1337</span>           <a class="code hl_variable" href="classcharacter__martial__arts.html#a6e5e356f65e94363420b0f8d0a3736ac">style_selected</a>-&gt;<a class="code hl_function" href="classmartialart.html#ae6ce014c7a88b8d3f238329ef9935d3d">has_technique</a>( guy, <span class="keywordtype">id</span> );</div>
 <div class="line"><a id="l01338" name="l01338"></a><span class="lineno"> 1338</span>}</div>
-<div class="ttc" id="aclassitem_html_ab842b7c3aaa4d813575035be37cd3714"><div class="ttname"><a href="classitem.html#ab842b7c3aaa4d813575035be37cd3714">item::has_technique</a></div><div class="ttdeci">bool has_technique(const matec_id &amp;tech) const</div><div class="ttdoc">Whether the item supports a specific martial art technique (either through its type,...</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l05431">item.cpp:5431</a></div></div>
+<div class="ttc" id="aclassitem_html_ab842b7c3aaa4d813575035be37cd3714"><div class="ttname"><a href="classitem.html#ab842b7c3aaa4d813575035be37cd3714">item::has_technique</a></div><div class="ttdeci">bool has_technique(const matec_id &amp;tech) const</div><div class="ttdoc">Whether the item supports a specific martial art technique (either through its type,...</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l05430">item.cpp:5430</a></div></div>
 <div class="ttc" id="aclassmartialart_html_ae6ce014c7a88b8d3f238329ef9935d3d"><div class="ttname"><a href="classmartialart.html#ae6ce014c7a88b8d3f238329ef9935d3d">martialart::has_technique</a></div><div class="ttdeci">bool has_technique(const Character &amp;u, const matec_id &amp;tec_id) const</div><div class="ttdef"><b>Definition:</b> <a href="martialarts_8cpp_source.html#l00823">martialarts.cpp:823</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="martialarts_8cpp_source.html#l00823">martialart::has_technique()</a>, <a class="el" href="item_8cpp_source.html#l05431">item::has_technique()</a>, and <a class="el" href="character__martial__arts_8h_source.html#l00021">style_selected</a>.</p>
+<p class="reference">References <a class="el" href="martialarts_8cpp_source.html#l00823">martialart::has_technique()</a>, <a class="el" href="item_8cpp_source.html#l05430">item::has_technique()</a>, and <a class="el" href="character__martial__arts_8h_source.html#l00021">style_selected</a>.</p>
 
 </div>
 </div>
@@ -1805,7 +1805,7 @@ Unarmed increases ability to perform leg block
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classcharacter__martial__arts.html">character_martial_arts</a></li>
-    <li class="footer">Generated on Mon Mar 13 2023 07:48:18 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Mon Mar 13 2023 08:45:19 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
