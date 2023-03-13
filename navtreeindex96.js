@@ -1,5 +1,8 @@
 var NAVTREEINDEX96 =
 {
+"iuse__software_8h_source.html":[37,0,1,307],
+"iuse__software__kitten_8cpp.html":[37,0,1,308],
+"iuse__software__kitten_8cpp.html#a800e8cbbb36b58abd0fe92986f699d08":[37,0,1,308,2],
 "iuse__software__kitten_8cpp.html#ab91264844d482eccf3df3c244542c887":[37,0,1,308,1],
 "iuse__software__kitten_8cpp.html#aebe00da7c53c51646139738ce751d23e":[37,0,1,308,0],
 "iuse__software__kitten_8cpp_source.html":[37,0,1,308],
@@ -246,8 +249,5 @@ var NAVTREEINDEX96 =
 "line_8h.html#aae97eb7205df978043597cf5e239fbbb":[37,0,1,329,6],
 "line_8h.html#ab7e2c307c51b94809057c788b81afbba":[37,0,1,329,37],
 "line_8h.html#abda6c05073c437fda2fde5649ca7f3d6":[37,0,1,329,39],
-"line_8h.html#abe565ec8aa356531238f99029077c3a1":[37,0,1,329,18],
-"line_8h.html#abfa81dbbf47555a0fbf54985c0a5e34b":[37,0,1,329,19],
-"line_8h.html#ac2bc9d6af659b097677d1edafa6f18dc":[37,0,1,329,23],
-"line_8h.html#ac316ae5a3a80221fde94d96fd20b3252":[37,0,1,329,46]
+"line_8h.html#abe565ec8aa356531238f99029077c3a1":[37,0,1,329,18]
 };

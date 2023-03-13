@@ -1,5 +1,7 @@
 var NAVTREEINDEX19 =
 {
+"classSkillLevel.html#a9feacf45df7195fb78920b98d3f2942f":[36,0,849,17],
+"classSkillLevel.html#aa4be0f8a1221d0a4afabaf58cf9921ee":[36,0,849,9],
 "classSkillLevel.html#aaa32594043ec82c57b175b66c9f3f354":[36,0,849,11],
 "classSkillLevel.html#aaa719e251f65bf5a70d50d3b78f2137e":[36,0,849,31],
 "classSkillLevel.html#aac2244fdd4d0a95b69c85c42faec091b":[36,0,849,32],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "classaddiction.html#ad637a1e5ac481959713ccaaabd07e85a":[36,0,57,5],
 "classaddiction.html#adc222f742b8540fa9ce20b6d4aa1bf77":[36,0,57,0],
 "classaddiction.html#af268c0fc4a1d2c07eac4ac4ee6bb2095":[36,0,57,4],
-"classaddiction__reader.html":[36,0,58],
-"classaddiction__reader.html#a6e45e89c8482bdba2d924edded7fdffa":[36,0,58,0],
-"classaddiction__reader.html#aa7eb70c08b4e7255887fc2264ce7a18b":[36,0,58,1]
+"classaddiction__reader.html":[36,0,58]
 };

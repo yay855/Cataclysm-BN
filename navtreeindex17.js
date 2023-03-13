@@ -1,5 +1,7 @@
 var NAVTREEINDEX17 =
 {
+"classJsonDeserializer.html#aa73189b79a25b4ffef0d537679038993":[36,0,535,3],
+"classJsonDeserializer.html#aaf4e444a8f40cdc69403aee22b076471":[36,0,535,1],
 "classJsonDeserializer.html#ab99bbee738aa9defe6e0516eaecf11d9":[36,0,535,0],
 "classJsonError.html":[36,0,536],
 "classJsonError.html#a6e7c0db4458ef6049d21735fb443e212":[36,0,536,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX17 =
 "classJsonValue.html#ad95e9e78345bce80661f8dc138053c13":[36,0,542,20],
 "classJsonValue.html#aeb147690e64904a7aac7d113e7b2594b":[36,0,542,11],
 "classJsonValue.html#af290f83fcb83c41c65926f8341adbc3b":[36,0,542,18],
-"classMapgenRemovePartHandler.html":[36,0,603],
-"classMapgenRemovePartHandler.html#a2e7cd5c3b77c5fdf631da69cb81ae483":[36,0,603,7],
-"classMapgenRemovePartHandler.html#a366b38f5c14dcfa58017ecb9bb6841a9":[36,0,603,3]
+"classMapgenRemovePartHandler.html":[36,0,603]
 };

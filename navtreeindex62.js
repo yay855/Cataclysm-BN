@@ -1,5 +1,7 @@
 var NAVTREEINDEX62 =
 {
+"classrecipe__dictionary.html#aeb257c2c00a331d26c134065f0afcec6":[36,0,786,10],
+"classrecipe__subset.html":[36,0,787],
 "classrecipe__subset.html#a01ba1bea18c905af975fa0d1e35130f5":[36,0,787,3],
 "classrecipe__subset.html#a0b48251db46847f431ee11b148fda16b":[36,0,787,16],
 "classrecipe__subset.html#a1044a078a82c908d5c03eb77a236e9c2":[36,0,787,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX62 =
 "classsafemode.html#a6e4959ded679af985dcaf1fb3d1aad30a59fb06806787aee0412be16d5f91f286":[36,0,813,2,0],
 "classsafemode.html#a6e4959ded679af985dcaf1fb3d1aad30ace65c0a3dc2469c2dbf670c4bb2affbd":[36,0,813,2,1],
 "classsafemode.html#a6f84f87b19a67a577b4e7f8e4463b5fe":[36,0,813,6],
-"classsafemode.html#a7e84f34f9740540d0942871410f429ac":[36,0,813,8],
-"classsafemode.html#a8cc514ef995be28f33c2a6b5c5b6af0e":[36,0,813,12],
-"classsafemode.html#a9b2198c57c3215a2729867a974852f6e":[36,0,813,31]
+"classsafemode.html#a7e84f34f9740540d0942871410f429ac":[36,0,813,8]
 };

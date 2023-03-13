@@ -1,5 +1,7 @@
 var NAVTREEINDEX60 =
 {
+"classplace__trap__actor.html":[36,0,754],
+"classplace__trap__actor.html#a0ade1fefc82d6d059e33ca2c0f2c05b2":[36,0,754,10],
 "classplace__trap__actor.html#a17d8803d0b03f7ee1c628e5bda1c8254":[36,0,754,5],
 "classplace__trap__actor.html#a2a1ff74fa3d70fb9223934d29abb860c":[36,0,754,9],
 "classplace__trap__actor.html#a2d4c6c18d64bb28cc745eefad1fc9d2b":[36,0,754,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX60 =
 "classplot__options.html":[36,0,759],
 "classplot__options.html#a03e5a457017e908a095705494f4e088e":[36,0,759,10],
 "classplot__options.html#a05b5393e3d3ce9e1ce5db8da721685a9":[36,0,759,7],
-"classplot__options.html#a32d87e154b0ed67c5f39cc41c8976092":[36,0,759,0],
-"classplot__options.html#a32d87e154b0ed67c5f39cc41c8976092a443b90b1f1c8c253910bf517b81dd6ed":[36,0,759,0,2],
-"classplot__options.html#a32d87e154b0ed67c5f39cc41c8976092aca4b24c35e8680d076253bbe0da01b27":[36,0,759,0,1]
+"classplot__options.html#a32d87e154b0ed67c5f39cc41c8976092":[36,0,759,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX153 =
 {
+"structnpc__follower__rules.html#ad7640dd1f35a94964cb6bb5cc97a9f3b":[36,0,690,8],
+"structnpc__follower__rules.html#ada7e2b4584005bd57b2f2a54c8adf7dd":[36,0,690,13],
+"structnpc__follower__rules.html#aec3d578e145e0c7c6aaf2712ff638f1a":[36,0,690,1],
 "structnpc__follower__rules.html#af611f5a5762fd4e173e69363a4471f2a":[36,0,690,5],
 "structnpc__follower__rules.html#af7f57605c02d48aba09224adee9d260f":[36,0,690,19],
 "structnpc__follower__rules.html#af929f56ad23d6e4e653359fd31425f5e":[36,0,690,21],
@@ -246,8 +249,5 @@ var NAVTREEINDEX153 =
 "structovermap__path__params.html#acde7ad344516e6dab5f4dd77285ae00e":[36,0,722,1],
 "structovermap__path__params.html#ad02eca66fb33d82206fb27c84e27d8e9":[36,0,722,16],
 "structovermap__path__params.html#ae464972ab88e3cea2c42cebece7201b6":[36,0,722,9],
-"structovermap__spawns.html":[36,0,723],
-"structovermap__spawns.html#a0b2590ae8a3567d99269d8c9c59c6b6f":[36,0,723,4],
-"structovermap__spawns.html#a36fb092d5d0d490ae20856e31025fb93":[36,0,723,0],
-"structovermap__spawns.html#a5abd858fc156a6d05bb4ad817b9c342b":[36,0,723,3]
+"structovermap__spawns.html":[36,0,723]
 };

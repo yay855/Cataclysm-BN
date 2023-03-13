@@ -1,5 +1,8 @@
 var NAVTREEINDEX116 =
 {
+"namespacedreams.html#a37ba15d5174aeee54ac7ac817dac9ff2":[35,0,101,0],
+"namespacedreams.html#aaf6b15bffecda9689112768164805a72":[35,0,101,1],
+"namespacedreams.html#ac03a7d4bbf2da27c34ded79ba75fcfce":[35,0,101,2],
 "namespacedrop__token.html":[35,0,102],
 "namespacedrop__token.html#a26140f7217ba2ef2a2549d7a5415f727":[35,0,102,0],
 "namespaceenchant__vals.html":[35,0,103],
@@ -246,8 +249,5 @@ var NAVTREEINDEX116 =
 "namespaceiexamine.html#ade298007b9644bd1dd31a165c84c273f":[35,0,114,61],
 "namespaceiexamine.html#ade9b3a39e81ded33678ac38dec220458":[35,0,114,4],
 "namespaceiexamine.html#ae0d1e44a94da47750704bf9737e8ea1f":[35,0,114,71],
-"namespaceiexamine.html#ae6bb471ed7ab19f1a41a53813159ed2d":[35,0,114,96],
-"namespaceiexamine.html#ae80c096877c8704c6e608cdf1cf758de":[35,0,114,37],
-"namespaceiexamine.html#aef18dcb88645994d8d4fed815b749d7b":[35,0,114,70],
-"namespaceiexamine.html#aef1e066e643dd0dc1eb2f2b603c213f9":[35,0,114,13]
+"namespaceiexamine.html#ae6bb471ed7ab19f1a41a53813159ed2d":[35,0,114,96]
 };

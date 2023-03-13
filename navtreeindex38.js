@@ -1,5 +1,7 @@
 var NAVTREEINDEX38 =
 {
+"classevent__multiset__watcher.html#a8179473bc1c37be27121b8afc45e8306":[36,0,311,0],
+"classevent__multiset__watcher.html#acbec380a956650cf341ecddcf480c53e":[36,0,311,1],
 "classevent__statistic.html":[36,0,313],
 "classevent__statistic.html#a3fc9600b0d1abe440e43a95c16379673":[36,0,313,13],
 "classevent__statistic.html#a523d945f2762cce3d45a66603f45f0e7":[36,0,313,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX38 =
 "classfireweapon__off__actor.html#ae63969509b8279025eaeeb72074d4d68":[36,0,343,12],
 "classfireweapon__off__actor.html#aef29af140295dde48df4b7099e4273e7":[36,0,343,1],
 "classfireweapon__off__actor.html#af44b0aec74ca6837743da0363bfc5e3e":[36,0,343,8],
-"classfireweapon__on__actor.html":[36,0,344],
-"classfireweapon__on__actor.html#a09f8c701c22bfd2c0a0c34699853b8e1":[36,0,344,0],
-"classfireweapon__on__actor.html#a1bdf81412ab25917415538936c974b16":[36,0,344,12]
+"classfireweapon__on__actor.html":[36,0,344]
 };
