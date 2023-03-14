@@ -3515,7 +3515,7 @@ $(document).ready(function(){initNavTree('overmap_8cpp_source.html',''); initRes
 <div class="line"><a id="l03426" name="l03426"></a><span class="lineno"> 3426</span> </div>
 <div class="line"><a id="l03427" name="l03427"></a><span class="lineno"> 3427</span>    <a class="code hl_function" href="classovermap.html#a33cca869f15a3fefa40b5973a0c56959">ter_set</a>( p, labt_core );</div>
 <div class="line"><a id="l03428" name="l03428"></a><span class="lineno"> 3428</span>    <span class="keywordtype">int</span> numstairs = 0;</div>
-<div class="line"><a id="l03429" name="l03429"></a><span class="lineno"> 3429</span>    <span class="keywordflow">if</span>( s &gt; 0 ) { <span class="comment">// Build stairs going down</span></div>
+<div class="line"><a id="l03429" name="l03429"></a><span class="lineno"> 3429</span>    <span class="keywordflow">if</span>( s &gt; 0 &amp;&amp; p.<a class="code hl_function" href="classcoords_1_1coord__point.html#a2a7eadc4507dc5944b117ede64d77944">z</a>() != -<a class="code hl_variable" href="game__constants_8h.html#aad0eacfa516a8f7e005674027d7640fe">OVERMAP_DEPTH</a> ) { <span class="comment">// Build stairs going down</span></div>
 <div class="line"><a id="l03430" name="l03430"></a><span class="lineno"> 3430</span>        <span class="keywordflow">while</span>( !<a class="code hl_function" href="rng_8cpp.html#aad28bdad07401a34ecf9912708f8b750">one_in</a>( 6 ) ) {</div>
 <div class="line"><a id="l03431" name="l03431"></a><span class="lineno"> 3431</span>            <a class="code hl_class" href="classcoords_1_1coord__point.html">tripoint_om_omt</a> stair;</div>
 <div class="line"><a id="l03432" name="l03432"></a><span class="lineno"> 3432</span>            <span class="keywordtype">int</span> tries = 0;</div>
@@ -5824,7 +5824,7 @@ $(document).ready(function(){initNavTree('overmap_8cpp_source.html',''); initRes
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="overmap_8cpp.html">overmap.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 13 2023 22:00:23 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Tue Mar 14 2023 05:02:08 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
