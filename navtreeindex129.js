@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"player_8cpp.html#a1d5482b7403ee4ac3e70e88ecfee2141":[37,0,1,502,7],
 "player_8cpp.html#a29e1940dc5802dfb2387644ce4ce4b10":[37,0,1,502,0],
 "player_8cpp.html#a2ba9e40123e7b42ccc2327d637311c5a":[37,0,1,502,9],
 "player_8cpp.html#a444102b4297414117db15957ce171fb6":[37,0,1,502,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "projectile_8h_source.html":[37,0,1,520],
 "ranged_8cpp.html":[37,0,1,521],
 "ranged_8cpp.html#a02a98acfc0759dc42a3683ec82f936a9":[37,0,1,521,55],
-"ranged_8cpp.html#a02edfa7a6cb1a0f7a67ae1aca7a34753":[37,0,1,521,16],
-"ranged_8cpp.html#a08481f62adb6937636ea44b855311037":[37,0,1,521,75]
+"ranged_8cpp.html#a02edfa7a6cb1a0f7a67ae1aca7a34753":[37,0,1,521,16]
 };

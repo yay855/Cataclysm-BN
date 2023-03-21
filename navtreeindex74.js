@@ -1,5 +1,6 @@
 var NAVTREEINDEX74 =
 {
+"classzone__manager.html#a2db7673ceb17fe4fc4d5e9609ab1833b":[36,0,1030,10],
 "classzone__manager.html#a31f830d527fbc336060b3c944df3d460":[36,0,1030,55],
 "classzone__manager.html#a33fc2eca32d90ee7e9361382bf2b5057":[36,0,1030,40],
 "classzone__manager.html#a35d4fa2c65c337c6e35cc9edf7ff8aab":[36,0,1030,54],
@@ -248,6 +249,5 @@ var NAVTREEINDEX74 =
 "color_8h.html#a7091aa2e22dcb81919cb2452ec9906b1":[37,0,1,115,59],
 "color_8h.html#a719a7387a2cf6851bb9bd6a1e69bfa48":[37,0,1,115,108],
 "color_8h.html#a73e96ce23fa99229d387870aac4e2674":[37,0,1,115,148],
-"color_8h.html#a747e388dbe6372337213af3a90141534":[37,0,1,115,78],
-"color_8h.html#a76c771d51f5bcf736b06c00a15cae68d":[37,0,1,115,15]
+"color_8h.html#a747e388dbe6372337213af3a90141534":[37,0,1,115,78]
 };

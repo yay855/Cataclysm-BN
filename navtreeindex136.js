@@ -1,5 +1,6 @@
 var NAVTREEINDEX136 =
 {
+"structbionic__data.html#a2b5ec44e1d06dc01de34f0efd9483dbc":[36,0,112,28],
 "structbionic__data.html#a34730d34effdb5300aef25989a590304":[36,0,112,16],
 "structbionic__data.html#a3b473e2028dc8ab4bf37794cdac08ec8":[36,0,112,41],
 "structbionic__data.html#a3cf96a3fc532f2c82b73924ab585451e":[36,0,112,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__wakes__up_01_4.html":[35,0,73,0,19],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__wakes__up_01_4.html#a04b9cb09f870592714105bd5a7534b3b":[36,0,14,0,19,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__wakes__up_01_4.html#a04b9cb09f870592714105bd5a7534b3b":[35,0,73,0,19,0],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1consumes__marloss__item_01_4.html":[36,0,14,0,20],
-"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1consumes__marloss__item_01_4.html":[35,0,73,0,20]
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1consumes__marloss__item_01_4.html":[36,0,14,0,20]
 };

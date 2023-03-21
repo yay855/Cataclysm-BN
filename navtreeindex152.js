@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"structmutation__branch.html#a294355e6f0bb773ffef0614b379b2423":[36,0,669,26],
 "structmutation__branch.html#a2a6c05907016f1e32d13bd2bee7d216b":[36,0,669,101],
 "structmutation__branch.html#a2b8c2ff70d39445ee75f67ceb2dcbafa":[36,0,669,62],
 "structmutation__branch.html#a2cd23d1886d85a4ba400eb534d4ebbde":[36,0,669,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "structnpc__follower__rules.html#a8d23cbbb1eb1e77b9d145fa431f982b0":[36,0,690,2],
 "structnpc__follower__rules.html#a94bc24add28251875b01cc0db1053cdc":[36,0,690,14],
 "structnpc__follower__rules.html#a9eb4400a0210e0a41692a3c6635855f1":[36,0,690,20],
-"structnpc__follower__rules.html#aa2366cb286553199d5ae204a73857731":[36,0,690,11],
-"structnpc__follower__rules.html#ad18222c3175298f3468ec4805775a374":[36,0,690,22]
+"structnpc__follower__rules.html#aa2366cb286553199d5ae204a73857731":[36,0,690,11]
 };

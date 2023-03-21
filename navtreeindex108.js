@@ -1,5 +1,6 @@
 var NAVTREEINDEX108 =
 {
+"monmove_8cpp.html#aa3320a370fe1f7f1cf6e14918ca20358":[37,0,1,425,8],
 "monmove_8cpp.html#aa9166c53ef32fe65a5c624d530a0210c":[37,0,1,425,5],
 "monmove_8cpp.html#ab8dd6142a7131d3af944e532002ac9e3":[37,0,1,425,17],
 "monmove_8cpp.html#ad1df0ca2944a94c3ad796e8baada33ae":[37,0,1,425,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX108 =
 "morale__types_8h.html#a3b055b0e07eac86fce19084d99ed0ed3":[37,0,1,435,30],
 "morale__types_8h.html#a410bc3642aea9b68979f71136829df3b":[37,0,1,435,53],
 "morale__types_8h.html#a4600a66aa4e1522bdbc2bbc1762ec67f":[37,0,1,435,14],
-"morale__types_8h.html#a4795b983a89003b099fd2e084b2d31b5":[37,0,1,435,31],
-"morale__types_8h.html#a481b7f65b1d1d22391e3f6d5be23efc1":[37,0,1,435,76]
+"morale__types_8h.html#a4795b983a89003b099fd2e084b2d31b5":[37,0,1,435,31]
 };

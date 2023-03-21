@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"structscent__block.html#a76e4b99138c0c9f741f342b28804613bac728758a623bbc714dd00d2d08bd5715":[36,0,821,2,2],
 "structscent__block.html#a7e9c907af1da54c72a82299d94a82885":[36,0,821,7],
 "structscent__block.html#a904633220a313c9c293e33f1be2374b9":[36,0,821,11],
 "structscent__block.html#ab2483e6a5e9b290e20d9150c47de4a88":[36,0,821,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "structtalk__effect__fun__t.html#af913f7b3dbb08423243815af7b0f83d2":[36,0,902,19],
 "structtalk__effect__t.html":[36,0,903],
 "structtalk__effect__t.html#a023566a8a58cfe398f303bd45a799dab":[36,0,903,8],
-"structtalk__effect__t.html#a026cf6f25b8c7226baba54b751eaa7a8":[36,0,903,1],
-"structtalk__effect__t.html#a17422297763d9784a262fe552a38ad4b":[36,0,903,13]
+"structtalk__effect__t.html#a026cf6f25b8c7226baba54b751eaa7a8":[36,0,903,1]
 };

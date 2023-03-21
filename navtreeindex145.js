@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"structenum__traits_3_01precip__class_01_4.html#afe70509fb28d4ff3c4b43fbe2e747006":[36,0,293,0],
 "structenum__traits_3_01relic__recharge__req_01_4.html":[36,0,294],
 "structenum__traits_3_01relic__recharge__req_01_4.html#adc1014ec1337159608ab3484931c99f8":[36,0,294,0],
 "structenum__traits_3_01relic__recharge__type_01_4.html":[36,0,295],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "structfield__effect.html#aca190a5b86b4b2e05c3bfb4988d05349":[36,0,337,11],
 "structfield__effect.html#ad525377667b2b4ac5c28121eb5cba2f5":[36,0,337,0],
 "structfield__intensity__level.html":[36,0,339],
-"structfield__intensity__level.html#a095b3eb1c6f0ef514f2f003d37245ce2":[36,0,339,16],
-"structfield__intensity__level.html#a0b6695c49116d5a491cad180fd229be6":[36,0,339,0]
+"structfield__intensity__level.html#a095b3eb1c6f0ef514f2f003d37245ce2":[36,0,339,16]
 };
