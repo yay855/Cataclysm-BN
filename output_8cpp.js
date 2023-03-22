@@ -57,6 +57,7 @@ var output_8cpp =
     [ "shortcut_text", "output_8cpp.html#af9c4ff3e96d38e650d01efd91728540a", null ],
     [ "special_symbol", "output_8cpp.html#a2766a9857f8993f61fcc2180507e5804", null ],
     [ "split_by_color", "output_8cpp.html#a5ae6912447565e192474689d9043e835", null ],
+    [ "string_from_int", "output_8cpp.html#a88f95c122a3664b44ea4df1f645d35ea", null ],
     [ "trim_and_print", "output_8cpp.html#ab7abbbd98907f496533db9bc2a02cf4a", null ],
     [ "trim_by_length", "output_8cpp.html#ae119f59b53c5e1e230cb211a0643c418", null ],
     [ "update_color_stack", "output_8cpp.html#acceb1aea280f6893676363d25a6fa102", null ],

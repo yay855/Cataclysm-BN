@@ -510,9 +510,6 @@ template&lt;typename MemberType , typename ReaderType &gt; </div>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">bool one_char_symbol_reader </td>
@@ -544,28 +541,23 @@ template&lt;typename MemberType , typename ReaderType &gt; </div>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 <p>Reads a string and stores the first byte of it in <code>sym</code>. </p>
 <p >Throws if the input contains more or less than one byte. </p>
 
-<p class="definition">Definition at line <a class="el" href="generic__factory_8h_source.html#l00851">851</a> of file <a class="el" href="generic__factory_8h_source.html">generic_factory.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00853" name="l00853"></a><span class="lineno">  853</span>{</div>
-<div class="line"><a id="l00854" name="l00854"></a><span class="lineno">  854</span>    std::string sym_as_string;</div>
-<div class="line"><a id="l00855" name="l00855"></a><span class="lineno">  855</span>    <span class="keywordflow">if</span>( !jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( member_name, sym_as_string ) ) {</div>
-<div class="line"><a id="l00856" name="l00856"></a><span class="lineno">  856</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00857" name="l00857"></a><span class="lineno">  857</span>    }</div>
-<div class="line"><a id="l00858" name="l00858"></a><span class="lineno">  858</span>    <span class="keywordflow">if</span>( sym_as_string.size() != 1 ) {</div>
-<div class="line"><a id="l00859" name="l00859"></a><span class="lineno">  859</span>        jo.<a class="code hl_function" href="classJsonObject.html#ae7bcdb4ec8ab2c64e607b411cb98d00c">throw_error</a>( member_name + <span class="stringliteral">&quot; must be exactly one ASCII character&quot;</span>, member_name );</div>
-<div class="line"><a id="l00860" name="l00860"></a><span class="lineno">  860</span>    }</div>
-<div class="line"><a id="l00861" name="l00861"></a><span class="lineno">  861</span>    sym = sym_as_string.front();</div>
-<div class="line"><a id="l00862" name="l00862"></a><span class="lineno">  862</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00863" name="l00863"></a><span class="lineno">  863</span>}</div>
+<p class="definition">Definition at line <a class="el" href="generic__factory_8cpp_source.html#l00003">3</a> of file <a class="el" href="generic__factory_8cpp_source.html">generic_factory.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>{</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    std::string sym_as_string;</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    <span class="keywordflow">if</span>( !jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( member_name, sym_as_string ) ) {</div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    }</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    <span class="keywordflow">if</span>( sym_as_string.size() != 1 ) {</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>        jo.<a class="code hl_function" href="classJsonObject.html#ae7bcdb4ec8ab2c64e607b411cb98d00c">throw_error</a>( member_name + <span class="stringliteral">&quot; must be exactly one ASCII character&quot;</span>, member_name );</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    }</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    sym = sym_as_string.front();</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="json_8h_source.html#l00942">JsonObject::read()</a>, and <a class="el" href="json_8cpp_source.html#l00233">JsonObject::throw_error()</a>.</p>
 
@@ -852,9 +844,6 @@ template&lt;typename MemberType , typename ReaderType , typename DefaultType  = 
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">bool unicode_codepoint_from_symbol_reader </td>
@@ -886,40 +875,35 @@ template&lt;typename MemberType , typename ReaderType , typename DefaultType  = 
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 <p>Reads a UTF-8 string (or int as legacy fallback) and stores Unicode codepoint of it in <code>symbol</code>. </p>
 <p >Throws if the inputs width is more than one console cell wide. </p>
 
-<p class="definition">Definition at line <a class="el" href="generic__factory_8h_source.html#l00869">869</a> of file <a class="el" href="generic__factory_8h_source.html">generic_factory.h</a>.</p>
-<div class="fragment"><div class="line"><a id="l00871" name="l00871"></a><span class="lineno">  871</span>{</div>
-<div class="line"><a id="l00872" name="l00872"></a><span class="lineno">  872</span>    <span class="keywordtype">int</span> sym_as_int;</div>
-<div class="line"><a id="l00873" name="l00873"></a><span class="lineno">  873</span>    std::string sym_as_string;</div>
-<div class="line"><a id="l00874" name="l00874"></a><span class="lineno">  874</span>    <span class="keywordflow">if</span>( !jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( member_name, sym_as_string, <span class="keyword">false</span> ) ) {</div>
-<div class="line"><a id="l00875" name="l00875"></a><span class="lineno">  875</span>        <span class="comment">// Legacy fallback to integer `sym`.</span></div>
-<div class="line"><a id="l00876" name="l00876"></a><span class="lineno">  876</span>        <span class="keywordflow">if</span>( !jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( member_name, sym_as_int ) ) {</div>
-<div class="line"><a id="l00877" name="l00877"></a><span class="lineno">  877</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00878" name="l00878"></a><span class="lineno">  878</span>        } <span class="keywordflow">else</span> {</div>
-<div class="line"><a id="l00879" name="l00879"></a><span class="lineno">  879</span>            sym_as_string = <a class="code hl_function" href="output_8h.html#a88f95c122a3664b44ea4df1f645d35ea">string_from_int</a>( sym_as_int );</div>
-<div class="line"><a id="l00880" name="l00880"></a><span class="lineno">  880</span>        }</div>
-<div class="line"><a id="l00881" name="l00881"></a><span class="lineno">  881</span>    }</div>
-<div class="line"><a id="l00882" name="l00882"></a><span class="lineno">  882</span>    uint32_t sym_as_codepoint = <a class="code hl_function" href="catacharset_8cpp.html#a2227e8c0afd74ed174cbb4daf8e46ab2">UTF8_getch</a>( sym_as_string );</div>
-<div class="line"><a id="l00883" name="l00883"></a><span class="lineno">  883</span>    <span class="keywordflow">if</span>( <a class="code hl_function" href="wcwidth_8cpp.html#aead942898baf7a1b82cd23e582f62a16">mk_wcwidth</a>( sym_as_codepoint ) != 1 ) {</div>
-<div class="line"><a id="l00884" name="l00884"></a><span class="lineno">  884</span>        jo.<a class="code hl_function" href="classJsonObject.html#ae7bcdb4ec8ab2c64e607b411cb98d00c">throw_error</a>( member_name + <span class="stringliteral">&quot; must be exactly one console cell wide&quot;</span>, member_name );</div>
-<div class="line"><a id="l00885" name="l00885"></a><span class="lineno">  885</span>    }</div>
-<div class="line"><a id="l00886" name="l00886"></a><span class="lineno">  886</span>    <a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a> = sym_as_codepoint;</div>
-<div class="line"><a id="l00887" name="l00887"></a><span class="lineno">  887</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00888" name="l00888"></a><span class="lineno">  888</span>}</div>
+<p class="definition">Definition at line <a class="el" href="generic__factory_8cpp_source.html#l00017">17</a> of file <a class="el" href="generic__factory_8cpp_source.html">generic_factory.cpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>{</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    <span class="keywordtype">int</span> sym_as_int;</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    std::string sym_as_string;</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    <span class="keywordflow">if</span>( !jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( member_name, sym_as_string, <span class="keyword">false</span> ) ) {</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>        <span class="comment">// Legacy fallback to integer `sym`.</span></div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>        <span class="keywordflow">if</span>( !jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( member_name, sym_as_int ) ) {</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        } <span class="keywordflow">else</span> {</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>            sym_as_string = <a class="code hl_function" href="output_8cpp.html#a88f95c122a3664b44ea4df1f645d35ea">string_from_int</a>( sym_as_int );</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        }</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    }</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    uint32_t sym_as_codepoint = <a class="code hl_function" href="catacharset_8cpp.html#a2227e8c0afd74ed174cbb4daf8e46ab2">UTF8_getch</a>( sym_as_string );</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keywordflow">if</span>( <a class="code hl_function" href="wcwidth_8cpp.html#aead942898baf7a1b82cd23e582f62a16">mk_wcwidth</a>( sym_as_codepoint ) != 1 ) {</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        jo.<a class="code hl_function" href="classJsonObject.html#ae7bcdb4ec8ab2c64e607b411cb98d00c">throw_error</a>( member_name + <span class="stringliteral">&quot; must be exactly one console cell wide&quot;</span>, member_name );</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    }</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <a class="code hl_variable" href="namespacemapgen__defer.html#a640e58e4d234e3f1e2ddbfff8fd665ce">member</a> = sym_as_codepoint;</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>}</div>
 <div class="ttc" id="acatacharset_8cpp_html_a2227e8c0afd74ed174cbb4daf8e46ab2"><div class="ttname"><a href="catacharset_8cpp.html#a2227e8c0afd74ed174cbb4daf8e46ab2">UTF8_getch</a></div><div class="ttdeci">uint32_t UTF8_getch(const char **src, int *srclen)</div><div class="ttdef"><b>Definition:</b> <a href="catacharset_8cpp_source.html#l00018">catacharset.cpp:18</a></div></div>
-<div class="ttc" id="aoutput_8h_html_a88f95c122a3664b44ea4df1f645d35ea"><div class="ttname"><a href="output_8h.html#a88f95c122a3664b44ea4df1f645d35ea">string_from_int</a></div><div class="ttdeci">std::string string_from_int(const catacurses::chtype ch)</div><div class="ttdef"><b>Definition:</b> <a href="output_8h_source.html#l00088">output.h:88</a></div></div>
+<div class="ttc" id="aoutput_8cpp_html_a88f95c122a3664b44ea4df1f645d35ea"><div class="ttname"><a href="output_8cpp.html#a88f95c122a3664b44ea4df1f645d35ea">string_from_int</a></div><div class="ttdeci">std::string string_from_int(const catacurses::chtype ch)</div><div class="ttdef"><b>Definition:</b> <a href="output_8cpp_source.html#l01948">output.cpp:1948</a></div></div>
 <div class="ttc" id="awcwidth_8cpp_html_aead942898baf7a1b82cd23e582f62a16"><div class="ttname"><a href="wcwidth_8cpp.html#aead942898baf7a1b82cd23e582f62a16">mk_wcwidth</a></div><div class="ttdeci">int mk_wcwidth(uint32_t ucs)</div><div class="ttdef"><b>Definition:</b> <a href="wcwidth_8cpp_source.html#l00094">wcwidth.cpp:94</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="mapgen_8cpp_source.html#l00410">mapgen_defer::member</a>, <a class="el" href="wcwidth_8cpp_source.html#l00094">mk_wcwidth()</a>, <a class="el" href="json_8h_source.html#l00942">JsonObject::read()</a>, <a class="el" href="output_8h_source.html#l00088">string_from_int()</a>, <a class="el" href="json_8cpp_source.html#l00233">JsonObject::throw_error()</a>, and <a class="el" href="catacharset_8cpp_source.html#l00018">UTF8_getch()</a>.</p>
+<p class="reference">References <a class="el" href="mapgen_8cpp_source.html#l00410">mapgen_defer::member</a>, <a class="el" href="wcwidth_8cpp_source.html#l00094">mk_wcwidth()</a>, <a class="el" href="json_8h_source.html#l00942">JsonObject::read()</a>, <a class="el" href="output_8cpp_source.html#l01948">string_from_int()</a>, <a class="el" href="json_8cpp_source.html#l00233">JsonObject::throw_error()</a>, and <a class="el" href="catacharset_8cpp_source.html#l00018">UTF8_getch()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="field__type_8cpp_source.html#l00140">field_type::load()</a>, <a class="el" href="map__extras_8cpp_source.html#l03116">map_extra::load()</a>, <a class="el" href="overmap_8cpp_source.html#l00375">overmap_land_use_code::load()</a>, <a class="el" href="overmap_8cpp_source.html#l00644">oter_type_t::load()</a>, and <a class="el" href="weather__type_8cpp_source.html#l00121">weather_type::load()</a>.</p>
 
@@ -931,7 +915,7 @@ template&lt;typename MemberType , typename ReaderType , typename DefaultType  = 
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="generic__factory_8h.html">generic_factory.h</a></li>
-    <li class="footer">Generated on Tue Mar 21 2023 14:31:29 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Wed Mar 22 2023 20:29:38 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
