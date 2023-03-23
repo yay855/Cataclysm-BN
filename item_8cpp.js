@@ -172,6 +172,7 @@ var item_8cpp =
     [ "itype_joint_roach", "item_8cpp.html#a1482bd2efd92c10f5f8ec958ff39d27b", null ],
     [ "itype_plut_cell", "item_8cpp.html#ae0a6efc65dd587028e5fbf37af06bdfc", null ],
     [ "itype_rad_badge", "item_8cpp.html#a8c80c02fb14cd9bf70ec9aa43eba5164", null ],
+    [ "itype_stock_small", "item_8cpp.html#ab7ce978bded656b37e2f084abb760b68", null ],
     [ "itype_tuned_mechanism", "item_8cpp.html#aa3482398423564904395b3f85ca0e730", null ],
     [ "itype_UPS", "item_8cpp.html#a55a80a9bbab1925d5462d46d355c2b6e", null ],
     [ "itype_water", "item_8cpp.html#abfd8b1d23930a50d7f122f0d39538649", null ],

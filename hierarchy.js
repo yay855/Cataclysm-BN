@@ -911,7 +911,8 @@ var hierarchy =
       [ "selection_column_preset", "classselection__column__preset.html", null ],
       [ "weapon_inventory_preset", "classweapon__inventory__preset.html", [
         [ "holster_inventory_preset", "classholster__inventory__preset.html", null ],
-        [ "saw_barrel_inventory_preset", "classsaw__barrel__inventory__preset.html", null ]
+        [ "saw_barrel_inventory_preset", "classsaw__barrel__inventory__preset.html", null ],
+        [ "saw_stock_inventory_preset", "classsaw__stock__inventory__preset.html", null ]
       ] ]
     ] ],
     [ "invlet_favorites", "classinvlet__favorites.html", null ],
@@ -1025,6 +1026,7 @@ var hierarchy =
       [ "reveal_map_actor", "classreveal__map__actor.html", null ],
       [ "salvage_actor", "classsalvage__actor.html", null ],
       [ "saw_barrel_actor", "classsaw__barrel__actor.html", null ],
+      [ "saw_stock_actor", "classsaw__stock__actor.html", null ],
       [ "sew_advanced_actor", "classsew__advanced__actor.html", null ],
       [ "unfold_vehicle_iuse", "classunfold__vehicle__iuse.html", null ],
       [ "unpack_actor", "classunpack__actor.html", null ],

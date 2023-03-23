@@ -1241,6 +1241,8 @@ var annotated_dup =
     [ "save_t", "classsave__t.html", "classsave__t" ],
     [ "saw_barrel_actor", "classsaw__barrel__actor.html", "classsaw__barrel__actor" ],
     [ "saw_barrel_inventory_preset", "classsaw__barrel__inventory__preset.html", "classsaw__barrel__inventory__preset" ],
+    [ "saw_stock_actor", "classsaw__stock__actor.html", "classsaw__stock__actor" ],
+    [ "saw_stock_inventory_preset", "classsaw__stock__inventory__preset.html", "classsaw__stock__inventory__preset" ],
     [ "scen_blacklist", "structscen__blacklist.html", "structscen__blacklist" ],
     [ "scenario", "classscenario.html", "classscenario" ],
     [ "scent_block", "structscent__block.html", "structscent__block" ],
