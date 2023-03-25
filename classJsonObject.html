@@ -1217,15 +1217,15 @@ template&lt;typename T &gt; </div>
 <div class="line"><a id="l01344" name="l01344"></a><span class="lineno"> 1344</span>    }</div>
 <div class="line"><a id="l01345" name="l01345"></a><span class="lineno"> 1345</span> </div>
 <div class="line"><a id="l01346" name="l01346"></a><span class="lineno"> 1346</span>    <span class="comment">// otherwise assume it&#39;s an array and error if it isn&#39;t.</span></div>
-<div class="line"><a id="l01347" name="l01347"></a><span class="lineno"> 1347</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> std::string <a class="code hl_function" href="mapgen_8cpp.html#a90f1f53dc044e93e7f7f9314cef1bd45">line</a> : <a class="code hl_variable" href="classJsonObject.html#ae13c2b362c07166299f6da3878ba5857">jsin</a>-&gt;<a class="code hl_function" href="classJsonIn.html#ae14bc330c1eb42662a6b82b35c43a6ed">get_array</a>() ) {</div>
-<div class="line"><a id="l01348" name="l01348"></a><span class="lineno"> 1348</span>        res.insert( T( <a class="code hl_function" href="mapgen_8cpp.html#a90f1f53dc044e93e7f7f9314cef1bd45">line</a> ) );</div>
+<div class="line"><a id="l01347" name="l01347"></a><span class="lineno"> 1347</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> std::string <a class="code hl_function" href="mapgen_8cpp.html#a7a9bb2e98af3268deb7dd8fda06a7d2e">line</a> : <a class="code hl_variable" href="classJsonObject.html#ae13c2b362c07166299f6da3878ba5857">jsin</a>-&gt;<a class="code hl_function" href="classJsonIn.html#ae14bc330c1eb42662a6b82b35c43a6ed">get_array</a>() ) {</div>
+<div class="line"><a id="l01348" name="l01348"></a><span class="lineno"> 1348</span>        res.insert( T( <a class="code hl_function" href="mapgen_8cpp.html#a7a9bb2e98af3268deb7dd8fda06a7d2e">line</a> ) );</div>
 <div class="line"><a id="l01349" name="l01349"></a><span class="lineno"> 1349</span>    }</div>
 <div class="line"><a id="l01350" name="l01350"></a><span class="lineno"> 1350</span> </div>
 <div class="line"><a id="l01351" name="l01351"></a><span class="lineno"> 1351</span>    <span class="keywordflow">return</span> res;</div>
 <div class="line"><a id="l01352" name="l01352"></a><span class="lineno"> 1352</span>}</div>
 <div class="ttc" id="aclassJsonIn_html_a616a508c44b4db45b23d7c3e4a3fa2ef"><div class="ttname"><a href="classJsonIn.html#a616a508c44b4db45b23d7c3e4a3fa2ef">JsonIn::test_string</a></div><div class="ttdeci">bool test_string()</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l01526">json.cpp:1526</a></div></div>
 <div class="ttc" id="aclassJsonIn_html_ae14bc330c1eb42662a6b82b35c43a6ed"><div class="ttname"><a href="classJsonIn.html#ae14bc330c1eb42662a6b82b35c43a6ed">JsonIn::get_array</a></div><div class="ttdeci">JsonArray get_array()</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l01435">json.cpp:1435</a></div></div>
-<div class="ttc" id="amapgen_8cpp_html_a90f1f53dc044e93e7f7f9314cef1bd45"><div class="ttname"><a href="mapgen_8cpp.html#a90f1f53dc044e93e7f7f9314cef1bd45">line</a></div><div class="ttdeci">void line(map *m, const ter_id &amp;type, const point &amp;p1, const point &amp;p2)</div><div class="ttdef"><b>Definition:</b> <a href="mapgen_8cpp_source.html#l06485">mapgen.cpp:6485</a></div></div>
+<div class="ttc" id="amapgen_8cpp_html_a7a9bb2e98af3268deb7dd8fda06a7d2e"><div class="ttname"><a href="mapgen_8cpp.html#a7a9bb2e98af3268deb7dd8fda06a7d2e">line</a></div><div class="ttdeci">void line(map *m, const ter_id &amp;type, point p1, point p2)</div><div class="ttdef"><b>Definition:</b> <a href="mapgen_8cpp_source.html#l06485">mapgen.cpp:6485</a></div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="json_8cpp_source.html#l01435">JsonIn::get_array()</a>, <a class="el" href="json_8cpp_source.html#l01163">JsonIn::get_string()</a>, <a class="el" href="json_8h_source.html#l00842">jsin</a>, <a class="el" href="mapgen_8cpp_source.html#l06485">line()</a>, <a class="el" href="json_8cpp_source.html#l00099">mark_visited()</a>, <a class="el" href="overmap_8cpp_source.html#l04127">om_direction::name()</a>, <a class="el" href="json_8cpp_source.html#l00808">JsonIn::seek()</a>, <a class="el" href="json_8cpp_source.html#l01526">JsonIn::test_string()</a>, and <a class="el" href="json_8cpp_source.html#l00157">verify_position()</a>.</p>
 
@@ -2273,7 +2273,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classJsonObject.html">JsonObject</a></li>
-    <li class="footer">Generated on Sat Mar 25 2023 13:34:23 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Mar 25 2023 13:47:38 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,5 @@
 var NAVTREEINDEX151 =
 {
-"structmission__type.html#a54bb126ee82831a3d3496157a5f0bee5":[36,0,632,20],
 "structmission__type.html#a55e4f0b0675cecbcedc54fb6fb84f20d":[36,0,632,13],
 "structmission__type.html#a56d67c4149d2b4e6865217e57ecbe59e":[36,0,632,25],
 "structmission__type.html#a5b3fa68df66c68051d61d943101e475d":[36,0,632,6],
@@ -42,16 +41,16 @@ var NAVTREEINDEX151 =
 "structmm__region.html#ae7d59ea31ef003a5a0d1875166ebddac":[36,0,634,0],
 "structmm__submap.html":[36,0,635],
 "structmm__submap.html#a11d2b7ff9ccf6f5e3bc407ec4e903650":[36,0,635,11],
-"structmm__submap.html#a15eb50ad5ff4ac2e94b5f6fcc5438636":[36,0,635,7],
-"structmm__submap.html#a2183aa151f21c3f91af5e07bac7239c9":[36,0,635,5],
-"structmm__submap.html#a2892de7185f3716d5e34c04a715e7af5":[36,0,635,4],
+"structmm__submap.html#a175e82d9c0c0f6aae9f4293a3d9d1f1f":[36,0,635,5],
 "structmm__submap.html#a41dacbac68d38679c338579376079698":[36,0,635,2],
 "structmm__submap.html#a46eda26506d2891b722411adbfd653d4":[36,0,635,1],
 "structmm__submap.html#a4d46255ed520b9f2170444aa4791d6c7":[36,0,635,8],
+"structmm__submap.html#a558451331b9f1c0f05fcb5b0c1c51a4c":[36,0,635,7],
+"structmm__submap.html#a6524c860e614c48f74ecc940c39be553":[36,0,635,6],
 "structmm__submap.html#a76de9786c574e233baa449fb325cac40":[36,0,635,13],
-"structmm__submap.html#a8a84a54e1baf390af1e86ccaaa61a901":[36,0,635,6],
 "structmm__submap.html#a9ae0d6bc4e5be1f906e8df5ae209eec8":[36,0,635,0],
 "structmm__submap.html#ab83bbb459c45111fe1f5439d448b3aad":[36,0,635,3],
+"structmm__submap.html#ac2abbb62cf402515fd81e61f0aa2d291":[36,0,635,4],
 "structmm__submap.html#ad0804f8db3bf56ed5ffe3a71b64bc2a1":[36,0,635,9],
 "structmm__submap.html#adab4d8db426156488246e87e6bd3d487":[36,0,635,10],
 "structmm__submap.html#afbafe77f848a0c948e59defc86b0fc24":[36,0,635,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX151 =
 "structmtype__special__attack.html#a68050297c73cf38c2c306f20e3a748a4":[36,0,662,1],
 "structmtype__special__attack.html#adc5ef1d92a8d72b94a06bc5f91a1f1e0":[36,0,662,2],
 "structmtype__special__attack.html#af78275ea7ae5940622bb9b7b4eee17b2":[36,0,662,6],
-"structmut__attack.html":[36,0,664]
+"structmut__attack.html":[36,0,664],
+"structmut__attack.html#a14c15da79fa92bd55ff9ce35229e73ba":[36,0,664,1]
 };

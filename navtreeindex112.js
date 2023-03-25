@@ -1,6 +1,5 @@
 var NAVTREEINDEX112 =
 {
-"namespaceanonymous__namespace_02achievement_8cpp_03.html":[35,0,5],
 "namespaceanonymous__namespace_02achievement_8cpp_03.html#a32c1d3d3a3b3027955df478045239b5a":[35,0,5,0],
 "namespaceanonymous__namespace_02ammo_8cpp_03.html":[35,0,6],
 "namespaceanonymous__namespace_02ammo_8cpp_03.html#a1d064e67562b19b60f871ed2dd6a3d23":[35,0,6,0],
@@ -219,14 +218,14 @@ var NAVTREEINDEX112 =
 "namespaceavatar__action.html#a18dbf8c70f67f268888720460f7b95b4":[35,0,68,4],
 "namespaceavatar__action.html#a1a5ca617547cd7a8981f4b9963500d25":[35,0,68,1],
 "namespaceavatar__action.html#a26845c63bf68ad9462172186e3b75cf6":[35,0,68,22],
-"namespaceavatar__action.html#a27b98a9164601ec7d6b4d233ffc19e66":[35,0,68,10],
 "namespaceavatar__action.html#a3d05c760a8898df3d693b087caa10cd6":[35,0,68,3],
 "namespaceavatar__action.html#a3fe0323e13640197154fe53026c95211":[35,0,68,0],
+"namespaceavatar__action.html#a4180afe5f02be501278dca2dcfda87c3":[35,0,68,11],
 "namespaceavatar__action.html#a4237c55ad7f626915cdb297d52841b8f":[35,0,68,23],
 "namespaceavatar__action.html#a48a64ece8131b44e4aa5ac9882defde5":[35,0,68,2],
 "namespaceavatar__action.html#a4cba5bf62517fb2a31d0b78a7fe2c1be":[35,0,68,6],
 "namespaceavatar__action.html#a66522a5f8e132e3db71c514ca8767b0f":[35,0,68,8],
-"namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304":[35,0,68,11],
+"namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304":[35,0,68,10],
 "namespaceavatar__action.html#a88a027e47bb814ff61be3e15bd0b8777":[35,0,68,12],
 "namespaceavatar__action.html#a9611563bffc4224b3e724db03688bdd4":[35,0,68,18],
 "namespaceavatar__action.html#ab640f9426b7ae37fb1fc632cb28e0e30":[35,0,68,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX112 =
 "namespaceavatar__funcs.html#aaef06fa3af228d5fa10ce372a8d95fb9":[35,0,69,5],
 "namespaceavatar__funcs.html#abca10e5194d32b19cc88d6ffd07c56d6":[35,0,69,13],
 "namespaceavatar__funcs.html#ac14b6f126d2c2b3e9a34e3ae6f99827f":[35,0,69,2],
-"namespaceavatar__funcs.html#ac216d229bfa88148e0e4afa8bdbe9ffc":[35,0,69,9]
+"namespaceavatar__funcs.html#ac216d229bfa88148e0e4afa8bdbe9ffc":[35,0,69,9],
+"namespaceavatar__funcs.html#ae3e48352faacf76db0e461d8d0e697ea":[35,0,69,7]
 };

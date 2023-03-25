@@ -1,6 +1,5 @@
 var NAVTREEINDEX166 =
 {
-"worldfactory_8cpp.html#abe78604e7a63bd64bf98be95747ccb89":[37,0,1,693,1],
 "worldfactory_8cpp.html#ad91c177acb1c2ddc4cf3cf5b06d2d8db":[37,0,1,693,2],
 "worldfactory_8cpp_source.html":[37,0,1,693],
 "worldfactory_8h.html":[37,0,1,694],

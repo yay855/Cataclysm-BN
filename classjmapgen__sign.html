@@ -113,8 +113,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5576dc83619ef8ab275a9b2c93e80bc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aceb363d6f2b1ebf0cb7e70d907429a4c"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classjmapgen__sign.html#aceb363d6f2b1ebf0cb7e70d907429a4c">apply_all_tags</a> (std::string signtext, const std::string &amp;cityname) const</td></tr>
 <tr class="separator:aceb363d6f2b1ebf0cb7e70d907429a4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0436d1928a6eb7fbe983894fa31b08c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classjmapgen__sign.html#ad0436d1928a6eb7fbe983894fa31b08c">has_vehicle_collision</a> (<a class="el" href="classmapgendata.html">mapgendata</a> &amp;dat, const <a class="el" href="structpoint.html">point</a> &amp;p) const override</td></tr>
-<tr class="separator:ad0436d1928a6eb7fbe983894fa31b08c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4f7d01a1d3d1eba96d530cfe812a699"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classjmapgen__sign.html#ae4f7d01a1d3d1eba96d530cfe812a699">has_vehicle_collision</a> (<a class="el" href="classmapgendata.html">mapgendata</a> &amp;dat, <a class="el" href="structpoint.html">point</a> p) const override</td></tr>
+<tr class="separator:ae4f7d01a1d3d1eba96d530cfe812a699"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classjmapgen__piece"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classjmapgen__piece')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classjmapgen__piece.html">jmapgen_piece</a></td></tr>
 <tr class="memitem:a74492b6c35350d7c43725ea1a3182fff inherit pub_methods_classjmapgen__piece"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classjmapgen__piece.html#a74492b6c35350d7c43725ea1a3182fff">check</a> (const std::string &amp;) const</td></tr>
 <tr class="memdesc:a74492b6c35350d7c43725ea1a3182fff inherit pub_methods_classjmapgen__piece"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sanity-check this piece.  <a href="classjmapgen__piece.html#a74492b6c35350d7c43725ea1a3182fff">More...</a><br /></td></tr>
@@ -335,8 +335,8 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="ad0436d1928a6eb7fbe983894fa31b08c" name="ad0436d1928a6eb7fbe983894fa31b08c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0436d1928a6eb7fbe983894fa31b08c">&#9670;&nbsp;</a></span>has_vehicle_collision()</h2>
+<a id="ae4f7d01a1d3d1eba96d530cfe812a699" name="ae4f7d01a1d3d1eba96d530cfe812a699"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4f7d01a1d3d1eba96d530cfe812a699">&#9670;&nbsp;</a></span>has_vehicle_collision()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -353,7 +353,7 @@ Additional Inherited Members</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structpoint.html">point</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="structpoint.html">point</a>&#160;</td>
           <td class="paramname"><em>p</em>&#160;</td>
         </tr>
         <tr>
@@ -369,10 +369,10 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="classjmapgen__piece.html#a74765ff59286d23cda1aa6ca250f1358">jmapgen_piece</a>.</p>
+<p>Reimplemented from <a class="el" href="classjmapgen__piece.html#adf9845ad8cb15013e7f838c25aa6b8a6">jmapgen_piece</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="mapgen_8cpp_source.html#l00974">974</a> of file <a class="el" href="mapgen_8cpp_source.html">mapgen.cpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l00974" name="l00974"></a><span class="lineno">  974</span>                                                                                     {</div>
+<div class="fragment"><div class="line"><a id="l00974" name="l00974"></a><span class="lineno">  974</span>                                                                              {</div>
 <div class="line"><a id="l00975" name="l00975"></a><span class="lineno">  975</span>            <span class="keywordflow">return</span> dat.<a class="code hl_variable" href="classmapgendata.html#a7d9e28b073b22b2391e6d3972fd6aa12">m</a>.<a class="code hl_function" href="classmap.html#aa487d96256c3d35db7a1bf273156b64a">veh_at</a>( <a class="code hl_struct" href="structtripoint.html">tripoint</a>( p, dat.<a class="code hl_function" href="classmapgendata.html#a8b23644fccfcc73e7f06a6fc3cb61d3f">zlevel</a>() ) ).<a class="code hl_function" href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">has_value</a>();</div>
 <div class="line"><a id="l00976" name="l00976"></a><span class="lineno">  976</span>        }</div>
 <div class="ttc" id="aclasscata_1_1optional_html_ad5b847e0e2f1db1387a10bac3751ccf4"><div class="ttname"><a href="classcata_1_1optional.html#ad5b847e0e2f1db1387a10bac3751ccf4">cata::optional::has_value</a></div><div class="ttdeci">constexpr bool has_value() const noexcept</div><div class="ttdef"><b>Definition:</b> <a href="optional_8h_source.html#l00123">optional.h:123</a></div></div>
@@ -429,7 +429,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classjmapgen__sign.html">jmapgen_sign</a></li>
-    <li class="footer">Generated on Sat Mar 25 2023 13:34:22 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Mar 25 2023 13:47:37 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

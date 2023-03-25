@@ -1,6 +1,5 @@
 var NAVTREEINDEX153 =
 {
-"structnpc__chatbin.html#a2306d095b58cd0469ebbbd0645d4da3f":[36,0,685,0],
 "structnpc__chatbin.html#a37064831275bcbf121d57770e24c7f4a":[36,0,685,5],
 "structnpc__chatbin.html#a4b0e60a7c7f0371b12ce8b9c889ae188":[36,0,685,3],
 "structnpc__chatbin.html#a639940a9d29a697bec5c09acc2a8da39":[36,0,685,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX153 =
 "structovermap__feature__flag__settings.html#aac6eb175163f4ca766e4e16f88994db0":[36,0,717,0],
 "structovermap__feature__flag__settings.html#ac187b184b85a8e56401d00beb4138230":[36,0,717,1],
 "structovermap__forest__settings.html":[36,0,718],
-"structovermap__forest__settings.html#a63d96b4c563c6fccb9448f296a3e36c1":[36,0,718,5]
+"structovermap__forest__settings.html#a63d96b4c563c6fccb9448f296a3e36c1":[36,0,718,5],
+"structovermap__forest__settings.html#a6c02547500d84f70238b7d810f0d3cc3":[36,0,718,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"sounds_8h.html#ac2a55615b8a564140e0743f5084d7ab6":[37,0,1,591,32],
 "sounds_8h.html#acf064bba0f45858127b6c4372c0a37cf":[37,0,1,591,31],
 "sounds_8h.html#ad629c27a8115e3df15c6c48da42475e7":[37,0,1,591,7],
 "sounds_8h.html#ad8a543c92a19e22b91aad58ad5e5b16d":[37,0,1,591,28],
@@ -249,5 +248,6 @@ var NAVTREEINDEX133 =
 "structMOD__INFORMATION.html#acb0cdca1c5c366991a0e81095e202589":[36,0,636,1],
 "structMOD__INFORMATION.html#aec604f2cbec191d7678020fb1bcdaf2c":[36,0,636,0],
 "structMonsterGroup.html":[36,0,654],
-"structMonsterGroup.html#a0023569b7fb77174cbf2fb3833154f09":[36,0,654,1]
+"structMonsterGroup.html#a0023569b7fb77174cbf2fb3833154f09":[36,0,654,1],
+"structMonsterGroup.html#a1b68b5fd85d84b6866accf7bedbe0f77":[36,0,654,6]
 };

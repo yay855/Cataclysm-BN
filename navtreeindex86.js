@@ -229,7 +229,6 @@ var NAVTREEINDEX86 =
 "game_8cpp.html#a49bc164f30e64702250d2cbea09bf86c":[37,0,1,239,1],
 "game_8cpp.html#a4c303473857d8183325e5f2a0c641633":[37,0,1,239,9],
 "game_8cpp.html#a4f940be105e2ae32877c09cce523b3ad":[37,0,1,239,78],
-"game_8cpp.html#a541d90b15c3e7b433927c44e01e5a48f":[37,0,1,239,32],
 "game_8cpp.html#a54866802dc0559c9eb2eff8c226f96df":[37,0,1,239,5],
 "game_8cpp.html#a55196f69c27db25b3c2fd63e13f543be":[37,0,1,239,19],
 "game_8cpp.html#a55717f512921183ce304b4024c20015c":[37,0,1,239,82],
@@ -249,5 +248,6 @@ var NAVTREEINDEX86 =
 "game_8cpp.html#a782af9771a32612719c4eafa7944410c":[37,0,1,239,36],
 "game_8cpp.html#a79654cfc6f07462199ec3f5da9e49c83":[37,0,1,239,61],
 "game_8cpp.html#a7c7651a289cc19a34456c213eeb46edc":[37,0,1,239,64],
-"game_8cpp.html#a877c05aa692195373f92cc206f0079ef":[37,0,1,239,42]
+"game_8cpp.html#a877c05aa692195373f92cc206f0079ef":[37,0,1,239,42],
+"game_8cpp.html#a8f09f88f12d06451c8aa83b57011a685":[37,0,1,239,22]
 };
