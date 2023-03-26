@@ -1,5 +1,10 @@
 var NAVTREEINDEX159 =
 {
+"structtripoint.html#a3b4df21721672a1e5c1309fb14033e69":[36,0,948,5],
+"structtripoint.html#a4cc68ba1a2800b79b097271495bee988":[36,0,948,2],
+"structtripoint.html#a551e98137628599ece2b816d61dd1eba":[36,0,948,14],
+"structtripoint.html#a6654f1d94fd65ca267b0a84abd77ef3c":[36,0,948,12],
+"structtripoint.html#a6c743d84bcbdf0553af508e0d0051e4a":[36,0,948,0],
 "structtripoint.html#a78c17c783461a8f30b3b6ef3bbbf3b7c":[36,0,948,8],
 "structtripoint.html#a7caf16b380247d20230238d05bbc0802":[36,0,948,11],
 "structtripoint.html#a888576416df7f96ecf01a8b03929fc1d":[36,0,948,26],
@@ -73,8 +78,8 @@ var NAVTREEINDEX159 =
 "structunits_1_1quantity__details.html":[35,0,181,6],
 "structunits_1_1quantity__details.html#a18afff63c04e33bd175226e03c5f1a8c":[36,0,38,6,0],
 "structunits_1_1quantity__details.html#a18afff63c04e33bd175226e03c5f1a8c":[35,0,181,6,0],
-"structunits_1_1quantity__details_3_01temperature__in__millidegree__celsius__tag_01_4.html":[36,0,38,7],
 "structunits_1_1quantity__details_3_01temperature__in__millidegree__celsius__tag_01_4.html":[35,0,181,7],
+"structunits_1_1quantity__details_3_01temperature__in__millidegree__celsius__tag_01_4.html":[36,0,38,7],
 "structunits_1_1quantity__details_3_01temperature__in__millidegree__celsius__tag_01_4.html#aa9409daa47b9f4751bef865fe7d20536":[36,0,38,7,0],
 "structunits_1_1quantity__details_3_01temperature__in__millidegree__celsius__tag_01_4.html#aa9409daa47b9f4751bef865fe7d20536":[35,0,181,7,0],
 "structuse__function.html":[36,0,964],
@@ -244,10 +249,5 @@ var NAVTREEINDEX159 =
 "structvehicle__prototype.html#a4a24ced5aa6b37a320af0ee30cc17390":[36,0,980,3],
 "structvehicle__prototype.html#a4ad8d327f23d38967f22831cae4101ae":[36,0,980,5],
 "structvehicle__prototype.html#a7c9efab3d2f34d1608ee106403a83e05":[36,0,980,7],
-"structvehicle__prototype.html#a7eec43c8754c73355602b6a126e73293":[36,0,980,11],
-"structvehicle__prototype.html#aa8ce47933139a0eadcc08e1a4f87798d":[36,0,980,12],
-"structvehicle__prototype.html#aa9c6ba9275a1d2202f266bd213a725a9":[36,0,980,6],
-"structvehicle__prototype.html#adc630af0811b763064341d9d6f300ef8":[36,0,980,4],
-"structvehicle__prototype.html#af60dfc5a8eef5e6410d69de0d396db6f":[36,0,980,1],
-"structvehicle__prototype.html#afd97243dc2795dcac21e223dc0ffef98":[36,0,980,10]
+"structvehicle__prototype.html#a7eec43c8754c73355602b6a126e73293":[36,0,980,11]
 };

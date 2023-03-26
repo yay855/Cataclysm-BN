@@ -1,5 +1,10 @@
 var NAVTREEINDEX140 =
 {
+"structconditional__t.html#ae8779d486a34f3756c3881d6ba21f3c5":[36,0,167,53],
+"structconditional__t.html#af28b0be3f832ec1c8269ba01e4f31349":[36,0,167,56],
+"structconfidence__rating.html":[36,0,170],
+"structconfidence__rating.html#a3e948736e9d479abfa280833019cad36":[36,0,170,3],
+"structconfidence__rating.html#a47c7756df867e77f46be130c7bb02e5c":[36,0,170,2],
 "structconfidence__rating.html#a95391c9a8078562cb5f37dacf9ff0267":[36,0,170,0],
 "structconfidence__rating.html#afe2900a64ed6d6d39f4f2322216abf36":[36,0,170,1],
 "structconflict__pair.html":[36,0,171],
@@ -244,10 +249,5 @@ var NAVTREEINDEX140 =
 "structdefense__game.html#a8e5d6903539ea2ed0e84b0558414c643":[36,0,200,17],
 "structdefense__game.html#a9fdbfe9fe2245fd854a6c351cff71adc":[36,0,200,21],
 "structdefense__game.html#aa0912b8aa6721297f46403f3d3003c48":[36,0,200,28],
-"structdefense__game.html#aa1b843d4e67d660e6eb76013a31a0342":[36,0,200,24],
-"structdefense__game.html#aa53e900bd40846c520096db55bfb2b32":[36,0,200,18],
-"structdefense__game.html#aa7a7ffc89ff26e2afdb851882baebcf0":[36,0,200,38],
-"structdefense__game.html#ab1907e93e8eee801ab7ed719c400d63a":[36,0,200,1],
-"structdefense__game.html#ab2f21e08aeb112e93d406e7d94162e9e":[36,0,200,29],
-"structdefense__game.html#ab4af52a79a97055e75cb6ce54c28dd98":[36,0,200,6]
+"structdefense__game.html#aa1b843d4e67d660e6eb76013a31a0342":[36,0,200,24]
 };

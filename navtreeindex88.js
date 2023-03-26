@@ -1,5 +1,7 @@
 var NAVTREEINDEX88 =
 {
+"game__ui_8h.html#a885a58ba9d6efecc1b4a06d377ccddc1":[37,0,1,245,7],
+"game__ui_8h.html#ab449457ca29d4eb5ecf965ebee34e078":[37,0,1,245,3],
 "game__ui_8h.html#abf3de118a0d709a99aeab1aaea6a1d05":[37,0,1,245,5],
 "game__ui_8h_source.html":[37,0,1,245],
 "gamemode_8cpp.html":[37,0,1,246],
@@ -167,14 +169,14 @@ var NAVTREEINDEX88 =
 "get__version_8h.html#a2ff8e2d8c8d901aee375b52bfea6cee6":[37,0,1,257,1],
 "get__version_8h.html#a9f120ab779553d2c1e829c98c17bf57d":[37,0,1,257,0],
 "get__version_8h_source.html":[37,0,1,257],
-"globals.html":[37,1,0,0],
 "globals.html":[37,1,0],
+"globals.html":[37,1,0,0],
 "globals_a.html":[37,1,0,1],
 "globals_b.html":[37,1,0,2],
 "globals_c.html":[37,1,0,3],
 "globals_d.html":[37,1,0,4],
-"globals_defs.html":[37,1,6,0],
 "globals_defs.html":[37,1,6],
+"globals_defs.html":[37,1,6,0],
 "globals_defs_a.html":[37,1,6,1],
 "globals_defs_b.html":[37,1,6,2],
 "globals_defs_c.html":[37,1,6,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX88 =
 "globals_func_v.html":[37,1,1,22],
 "globals_func_w.html":[37,1,1,23],
 "globals_func_x.html":[37,1,1,24],
-"globals_func_y.html":[37,1,1,25],
-"globals_func_z.html":[37,1,1,26],
-"globals_g.html":[37,1,0,7]
+"globals_func_y.html":[37,1,1,25]
 };

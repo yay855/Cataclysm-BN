@@ -1,5 +1,9 @@
 var NAVTREEINDEX106 =
 {
+"missiondef_8cpp.html#adf1da71f970fc757e82a8e56d7671b00a307d3fdeadfdf9a6e42f6f4ba976e910":[37,0,1,411,0,72],
+"missiondef_8cpp.html#adf1da71f970fc757e82a8e56d7671b00a320e7ab38498aaf067d423fe4f103e38":[37,0,1,411,0,58],
+"missiondef_8cpp.html#adf1da71f970fc757e82a8e56d7671b00a32e32dbdf37787a2d3465395c302a04d":[37,0,1,411,0,73],
+"missiondef_8cpp.html#adf1da71f970fc757e82a8e56d7671b00a346ad38344cdc060382a02c327f70607":[37,0,1,411,0,23],
 "missiondef_8cpp.html#adf1da71f970fc757e82a8e56d7671b00a362e86fc7df7b066a748d2f8e3c14c13":[37,0,1,411,0,71],
 "missiondef_8cpp.html#adf1da71f970fc757e82a8e56d7671b00a38f579f7613267dc12e9676c816df530":[37,0,1,411,0,63],
 "missiondef_8cpp.html#adf1da71f970fc757e82a8e56d7671b00a3d0aa7b644a4f85acfad538c8c026238":[37,0,1,411,0,75],
@@ -245,9 +249,5 @@ var NAVTREEINDEX106 =
 "monattack_8cpp_source.html":[37,0,1,418],
 "monattack_8h.html":[37,0,1,419],
 "monattack_8h.html#a001511fcd78df459a0e8bd32315f017f":[37,0,1,419,34],
-"monattack_8h.html#a016e0e9bd24e2c55f0945833701c2a26":[37,0,1,419,5],
-"monattack_8h.html#a07af5ccfe3022a9bb301db9b8bccae57":[37,0,1,419,53],
-"monattack_8h.html#a07e7a3e862e11a5c5992b3c3d1e78280":[37,0,1,419,39],
-"monattack_8h.html#a0df2e46cfb1cdde166037df0d6a8c55c":[37,0,1,419,82],
-"monattack_8h.html#a0ff528d847e1c9012c2646531a1423f6":[37,0,1,419,105]
+"monattack_8h.html#a016e0e9bd24e2c55f0945833701c2a26":[37,0,1,419,5]
 };

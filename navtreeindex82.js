@@ -1,5 +1,7 @@
 var NAVTREEINDEX82 =
 {
+"event_8cpp.html#ae46986af1dab17c49a326aca49824ebb":[37,0,1,196,2],
+"event_8cpp_source.html":[37,0,1,196],
 "event_8h.html":[37,0,1,197],
 "event_8h.html#a430b444c74dd3fd1472a31714ec5f1ce":[37,0,1,197,69],
 "event_8h.html#a430b444c74dd3fd1472a31714ec5f1cea00e537904e4f7de00bff0470dc93bf21":[37,0,1,197,69,38],
@@ -247,7 +249,5 @@ var NAVTREEINDEX82 =
 "faction__camp_8cpp.html#a326acefe203bcdacf549091f8e8adc2a":[37,0,1,211,2],
 "faction__camp_8cpp.html#a357a161fa7e2ad80799382d0ce0a5c1d":[37,0,1,211,5],
 "faction__camp_8cpp.html#a3729b590c588b74589f10e9d68751c69":[37,0,1,211,47],
-"faction__camp_8cpp.html#a37b54e812442c0a86660a1b09d5b3660":[37,0,1,211,24],
-"faction__camp_8cpp.html#a398ef54be46ee27b157365a389e9d4e5":[37,0,1,211,44],
-"faction__camp_8cpp.html#a39b948ce7b3054aeacb2be70532d8257":[37,0,1,211,12]
+"faction__camp_8cpp.html#a37b54e812442c0a86660a1b09d5b3660":[37,0,1,211,24]
 };

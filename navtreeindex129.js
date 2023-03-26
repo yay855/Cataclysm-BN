@@ -1,5 +1,10 @@
 var NAVTREEINDEX129 =
 {
+"pickup_8h.html":[37,0,1,499],
+"pickup_8h.html#a03a2e6f98be01a67be0ad42cb7aa4c61":[37,0,1,499,1],
+"pickup_8h.html#a03a2e6f98be01a67be0ad42cb7aa4c61a1119d052d90f503b8132a5a75b545a7b":[37,0,1,499,1,1],
+"pickup_8h.html#a03a2e6f98be01a67be0ad42cb7aa4c61a29ea7ce63137484da296feacfa4f021c":[37,0,1,499,1,2],
+"pickup_8h.html#a03a2e6f98be01a67be0ad42cb7aa4c61ad7cbf6c6b02403167fa72ebc0f4d2e50":[37,0,1,499,1,0],
 "pickup_8h.html#a4346ea9e7a9b05efee7cef2fa3838f16":[37,0,1,499,5],
 "pickup_8h.html#a4a554552d66cb17d2fe8a97734377168":[37,0,1,499,3],
 "pickup_8h.html#a7b30fdc5fcd0042418b2a4971111f7b1":[37,0,1,499,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX129 =
 "point_8h.html#aff73fd5bf470a3db5291c5dec855bb71":[37,0,1,514,23],
 "point_8h.html#aff85224e35f4fc5c8ac34e20a1007c4c":[37,0,1,514,35],
 "point_8h_source.html":[37,0,1,514],
-"point__float_8h.html":[37,0,1,515],
-"point__float_8h.html#af1a4552c19a0a1818c3a97c50a2a4822":[37,0,1,515,2],
-"point__float_8h_source.html":[37,0,1,515],
-"point__traits_8h.html":[37,0,1,516],
-"point__traits_8h_source.html":[37,0,1,516],
-"poly__serialized_8h.html":[37,0,1,517]
+"point__float_8h.html":[37,0,1,515]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX113 =
 {
+"namespaceavatar__funcs.html#abca10e5194d32b19cc88d6ffd07c56d6":[35,0,69,13],
+"namespaceavatar__funcs.html#ac14b6f126d2c2b3e9a34e3ae6f99827f":[35,0,69,2],
+"namespaceavatar__funcs.html#ac216d229bfa88148e0e4afa8bdbe9ffc":[35,0,69,9],
+"namespaceavatar__funcs.html#ae3e48352faacf76db0e461d8d0e697ea":[35,0,69,7],
 "namespacebase__camps.html":[35,0,70],
 "namespacebase__camps.html#a04fa69b1c0952a34dc4a7d26b3f9f786":[35,0,70,12],
 "namespacebase__camps.html#a11becc5688aac40a12f2bc2e33d605c1":[35,0,70,7],
@@ -81,16 +85,16 @@ var NAVTREEINDEX113 =
 "namespacecata.html#ae46986af1dab17c49a326aca49824ebb":[35,0,73,46],
 "namespacecata.html#ae69b05589ee85e0484909df93337e642":[35,0,73,49],
 "namespacecata.html#afffb8622bc3a60914019309e92cc57e3":[35,0,73,52],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,41],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,33],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,34],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,35],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,36],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,37],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,38],
-"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,43],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,42],
 "namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,40],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,41],
+"namespacecata.html#gaf6c1b09e9154ca0f0018624028929df5":[35,0,73,43],
 "namespacecata_1_1event__detail.html":[35,0,73,0],
 "namespacecata_1_1hash64__detail.html":[35,0,73,1],
 "namespacecata_1_1hash64__detail.html#a5ca825db6fd06946302c60daa97333e4":[35,0,73,1,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX113 =
 "namespacecharacter__funcs.html#aa14127fd34677b0e529bb14166513850":[35,0,83,6],
 "namespacecharacter__funcs.html#aaa9f2cc376f03128e0a486a90c7376fa":[35,0,83,18],
 "namespacecharacter__funcs.html#ab11c9faad62fd3d26d41cbf1d68391bb":[35,0,83,35],
-"namespacecharacter__funcs.html#abb9c092872bd448a887024fe5379816d":[35,0,83,20],
-"namespacecharacter__funcs.html#ac767ac632c0c783c8615f5e920cc938e":[35,0,83,40],
-"namespacecharacter__funcs.html#adaa760a90e1a9cc452c7b756bcde2a60":[35,0,83,33],
-"namespacecharacter__funcs.html#adda4d5fd10b7216c49a0f9b6010de579":[35,0,83,14],
-"namespacecharacter__funcs.html#ae7bfa36ae343bba14f1630cc9350f2d9":[35,0,83,24]
+"namespacecharacter__funcs.html#abb9c092872bd448a887024fe5379816d":[35,0,83,20]
 };
