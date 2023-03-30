@@ -1,5 +1,17 @@
 var NAVTREEINDEX87 =
 {
+"game_8cpp.html#a63ffed3b9bbe4bc83b4001d5bbd0c469":[37,0,1,239,72],
+"game_8cpp.html#a65ddd7508f2edf2ddfff675468007187":[37,0,1,239,24],
+"game_8cpp.html#a6bf1394e103efe8661fc75163e3482c3":[37,0,1,239,57],
+"game_8cpp.html#a6eb37d378921cc922c2e747c40ae3c73":[37,0,1,239,35],
+"game_8cpp.html#a707e8da9d64458d355edec0344efbc00":[37,0,1,239,73],
+"game_8cpp.html#a713cf755f5921541e3f4dca001e47fd1":[37,0,1,239,29],
+"game_8cpp.html#a72d1fc749e644310b0165bfdd920288b":[37,0,1,239,28],
+"game_8cpp.html#a74abddcaf98d4f59d99c051a421bee67":[37,0,1,239,59],
+"game_8cpp.html#a764052f34a47c6dee072c67b842a222c":[37,0,1,239,99],
+"game_8cpp.html#a782af9771a32612719c4eafa7944410c":[37,0,1,239,36],
+"game_8cpp.html#a79654cfc6f07462199ec3f5da9e49c83":[37,0,1,239,61],
+"game_8cpp.html#a7c7651a289cc19a34456c213eeb46edc":[37,0,1,239,64],
 "game_8cpp.html#a877c05aa692195373f92cc206f0079ef":[37,0,1,239,42],
 "game_8cpp.html#a8f09f88f12d06451c8aa83b57011a685":[37,0,1,239,22],
 "game_8cpp.html#a8fd90c11d7a509a3c0af0144cd1e0b12":[37,0,1,239,88],
@@ -237,17 +249,5 @@ var NAVTREEINDEX87 =
 "game__inventory_8h.html#afcd21533c95fdd4cedcd8b592f531f57":[37,0,1,243,14],
 "game__inventory_8h_source.html":[37,0,1,243],
 "game__ui_8cpp.html":[37,0,1,244],
-"game__ui_8cpp.html#a186f6f3286ef23e637b16fc11f887897":[37,0,1,244,0],
-"game__ui_8cpp.html#a1f3b92598b7c181d58189bf9b2bcfa32":[37,0,1,244,5],
-"game__ui_8cpp.html#a4e2890583dc25aefad7035a8b4b083c3":[37,0,1,244,2],
-"game__ui_8cpp.html#acc7747b29d65a37284c810af838f1e9d":[37,0,1,244,3],
-"game__ui_8cpp.html#ad75a1116fce8f061299267e20268ca48":[37,0,1,244,1],
-"game__ui_8cpp.html#af729cae5556ed8992b1221d3479b9cf2":[37,0,1,244,4],
-"game__ui_8cpp_source.html":[37,0,1,244],
-"game__ui_8h.html":[37,0,1,245],
-"game__ui_8h.html#a36938bb1ab9e5e6e8f79618221a3e7bd":[37,0,1,245,0],
-"game__ui_8h.html#a500cd2e5a94b9230d3262016b02197f9":[37,0,1,245,6],
-"game__ui_8h.html#a72c747083a3a751d71d27908b3584b3c":[37,0,1,245,1],
-"game__ui_8h.html#a7667de544e9add8f6b10a9c522b1150f":[37,0,1,245,4],
-"game__ui_8h.html#a7995629b7fc127aa91a29a14c83c9658":[37,0,1,245,2]
+"game__ui_8cpp.html#a186f6f3286ef23e637b16fc11f887897":[37,0,1,244,0]
 };
