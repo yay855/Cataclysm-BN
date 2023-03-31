@@ -1,6 +1,5 @@
 var NAVTREEINDEX148 =
 {
-"structislot__artifact.html#a4d6a77cfad45b2c7411acf568a0936ad":[36,0,450,7],
 "structislot__artifact.html#a5961a277aaa521741d838648c59ceb0d":[36,0,450,0],
 "structislot__artifact.html#a7421b6e2a49fd526a13c80bc49f1d060":[36,0,450,4],
 "structislot__artifact.html#a88a4d2320788560ce4bb10e1b9c99288":[36,0,450,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX148 =
 "structitype.html#a2e3c835eaac65d9922f07f99f2f3cf5d":[36,0,490,37],
 "structitype.html#a2f3c2ed05de02f597358adea3d57ef56":[36,0,490,11],
 "structitype.html#a2fd0fb8931b801aaeb42d19d9725c958":[36,0,490,100],
-"structitype.html#a304367633fdfe6c63a53bdce0caced92":[36,0,490,15]
+"structitype.html#a304367633fdfe6c63a53bdce0caced92":[36,0,490,15],
+"structitype.html#a32ac824cb8437ef7a8288dafe6c6bfe1":[36,0,490,66]
 };

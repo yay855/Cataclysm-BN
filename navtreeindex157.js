@@ -1,6 +1,5 @@
 var NAVTREEINDEX157 =
 {
-"structresistances.html":[36,0,803],
 "structresistances.html#a0dc23495b7ce18cadefc4a7f7c5a48bc":[36,0,803,2],
 "structresistances.html#a2189da5708defe1292c2ee7010c935ae":[36,0,803,5],
 "structresistances.html#a8f151638a11eeee2110224c00d26b103":[36,0,803,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX157 =
 "structstomach__digest__rates.html#a749acf09af909a87b3ccd44752cd2f70":[36,0,883,0],
 "structstomach__digest__rates.html#a8c7bc98ddb4d0810bf27afd6db564747":[36,0,883,3],
 "structstomach__digest__rates.html#ac4b13d5d5a70949cc49d29fbdc9c4f68":[36,0,883,1],
-"structstring__col.html":[36,0,884]
+"structstring__col.html":[36,0,884],
+"structstring__col.html#a680469260fae389342891555c58ae962":[36,0,884,1]
 };

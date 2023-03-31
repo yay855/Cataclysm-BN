@@ -1,6 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"sounds_8h.html#a7ab91d78ca34bb1ef3a889f11e109a7d":[37,0,1,591,13],
 "sounds_8h.html#a7b4720a1d16c318236706f5550da156b":[37,0,1,591,33],
 "sounds_8h.html#a7ff3fd42096d1f62481886c14051e632":[37,0,1,591,18],
 "sounds_8h.html#a800c6363f481773ebcda3c4d525db571":[37,0,1,591,19],
@@ -249,5 +248,6 @@ var NAVTREEINDEX133 =
 "structFastDistanceApproximation.html#ae0f4833429dceb96cd029d28a741676c":[36,0,335,3],
 "structHeaderSkill.html":[36,0,398],
 "structHeaderSkill.html#a64228755c81de45358eefb2ff0eca99b":[36,0,398,1],
-"structHeaderSkill.html#a6e860a85b3dcfbf386c187c589697c8b":[36,0,398,2]
+"structHeaderSkill.html#a6e860a85b3dcfbf386c187c589697c8b":[36,0,398,2],
+"structHeaderSkill.html#aa8cd878b31ce228c34f01984aaf056f5":[36,0,398,0]
 };

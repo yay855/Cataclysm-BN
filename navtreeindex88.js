@@ -1,6 +1,5 @@
 var NAVTREEINDEX88 =
 {
-"game__ui_8cpp.html#a186f6f3286ef23e637b16fc11f887897":[37,0,1,244,0],
 "game__ui_8cpp.html#a1f3b92598b7c181d58189bf9b2bcfa32":[37,0,1,244,5],
 "game__ui_8cpp.html#a4e2890583dc25aefad7035a8b4b083c3":[37,0,1,244,2],
 "game__ui_8cpp.html#acc7747b29d65a37284c810af838f1e9d":[37,0,1,244,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX88 =
 "globals_func_i.html":[37,1,1,9],
 "globals_func_j.html":[37,1,1,10],
 "globals_func_k.html":[37,1,1,11],
-"globals_func_l.html":[37,1,1,12]
+"globals_func_l.html":[37,1,1,12],
+"globals_func_m.html":[37,1,1,13]
 };

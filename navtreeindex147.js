@@ -1,6 +1,5 @@
 var NAVTREEINDEX147 =
 {
-"structformatter_3_01arg__join_3_01It_00_01Sentinel_00_01Char_01_4_00_01Char_01_4.html#a23f5abf8d0294cfd54205363b8124b64":[36,0,364,0],
 "structformatter_3_01bytes_01_4.html":[36,0,365],
 "structformatter_3_01bytes_01_4.html#a83564f7339fc600390b0520f0eafcc8d":[36,0,365,0],
 "structformatter_3_01bytes_01_4.html#ad1267986f857e68064e3db9d12cc6675":[36,0,365,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX147 =
 "structislot__armor.html#afea4f5875d9a65ab246ad0d6e78e5332":[36,0,449,7],
 "structislot__artifact.html":[36,0,450],
 "structislot__artifact.html#a1c2f3a70258132c9e494226abdd44e1f":[36,0,450,1],
-"structislot__artifact.html#a38c43850edb8bb18583070d7be152ce7":[36,0,450,2]
+"structislot__artifact.html#a38c43850edb8bb18583070d7be152ce7":[36,0,450,2],
+"structislot__artifact.html#a4d6a77cfad45b2c7411acf568a0936ad":[36,0,450,7]
 };

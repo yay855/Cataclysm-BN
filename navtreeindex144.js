@@ -1,6 +1,5 @@
 var NAVTREEINDEX144 =
 {
-"structdetail_1_1test__stream.html#acb3b7d1feafdb8dd3d1df73af8e710af":[36,0,21,100,0],
 "structdetail_1_1test__stream.html#acb3b7d1feafdb8dd3d1df73af8e710af":[35,0,96,101,0],
 "structdetail_1_1type__constant.html":[36,0,21,105],
 "structdetail_1_1type__constant.html":[35,0,96,106],
@@ -249,5 +248,6 @@ var NAVTREEINDEX144 =
 "structenum__traits_3_01art__charge_01_4.html":[36,0,257],
 "structenum__traits_3_01art__charge_01_4.html#a319d3d1892a36f4d05614239fb4873b2":[36,0,257,0],
 "structenum__traits_3_01art__charge__req_01_4.html":[36,0,258],
-"structenum__traits_3_01art__charge__req_01_4.html#ad7a24fc21f176e1e111d3e087d17b543":[36,0,258,0]
+"structenum__traits_3_01art__charge__req_01_4.html#ad7a24fc21f176e1e111d3e087d17b543":[36,0,258,0],
+"structenum__traits_3_01art__effect__active_01_4.html":[36,0,259]
 };

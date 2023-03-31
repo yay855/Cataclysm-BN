@@ -1,6 +1,5 @@
 var NAVTREEINDEX61 =
 {
-"classplayer__morale_1_1morale__point.html#ae6259995290e53f34e329dd0f2ff77c1":[36,0,759,1,0],
 "classplayer__morale_1_1morale__point.html#ae63c7a703db4c64e104cf511df07e746":[36,0,759,1,15],
 "classplayer__morale_1_1morale__point.html#af1016918cd3ae62a83197db7b8d209b4":[36,0,759,1,23],
 "classplayer__morale_1_1morale__subtype.html":[36,0,759,2],
@@ -50,8 +49,8 @@ var NAVTREEINDEX61 =
 "classprintf__arg__formatter.html#a852e7a37fef46d579690ea30b8c68861":[36,0,770,8],
 "classprintf__arg__formatter.html#a89c23f2c6801475cb6f7e814b2a8e67e":[36,0,770,10],
 "classprintf__arg__formatter.html#a985529e3e633ce43f7e5261fa11ac3f6":[36,0,770,6],
-"classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,770,12],
 "classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,770,11],
+"classprintf__arg__formatter.html#aa751a29c68a1f4d7292160a176e17639":[36,0,770,12],
 "classprintf__arg__formatter.html#ad1eb24ea2b7c065bc176269fb9136ada":[36,0,770,5],
 "classprintf__arg__formatter.html#ae7a8ddae47b8bc0ad3cd0248299e7a4a":[36,0,770,16],
 "classprintf__arg__formatter.html#af0151b330f97bc42c4d97cd36fe4be18":[36,0,770,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX61 =
 "classrecipe.html#af656bb1f377d67673a7f5aeefeb1fbc9":[36,0,786,6],
 "classrecipe.html#af71e0aabdc764e11387228491c6ef610":[36,0,786,68],
 "classrecipe.html#afafb9cc735dec963e303745c09a02793":[36,0,786,38],
-"classrecipe__dictionary.html":[36,0,787]
+"classrecipe__dictionary.html":[36,0,787],
+"classrecipe__dictionary.html#a0327027cb6b02370da223bb60fb3ba60":[36,0,787,15]
 };

@@ -31,11 +31,10 @@ var NAVTREEINDEX48 =
 "classjmapgen__loot.html#ad8a1082e8e952127435b50ff28ddded2":[36,0,506,2],
 "classjmapgen__loot.html#ad99d8d1d09cbc32c15a6a365f9c94f1b":[36,0,506,1],
 "classjmapgen__make__rubble.html":[36,0,507],
-"classjmapgen__make__rubble.html#a04d2f29ba78bc37a64460158a6ce3102":[36,0,507,4],
+"classjmapgen__make__rubble.html#a04d2f29ba78bc37a64460158a6ce3102":[36,0,507,3],
 "classjmapgen__make__rubble.html#a34229cbfb856e903b52075e0f7bb21cf":[36,0,507,2],
 "classjmapgen__make__rubble.html#a4cbc44c42c3474e931c9ddf6d0afd491":[36,0,507,1],
-"classjmapgen__make__rubble.html#a7b3c48d17483e13b9146e2965c887191":[36,0,507,5],
-"classjmapgen__make__rubble.html#af04eba3b828dab2f77731cf05ce5afb7":[36,0,507,3],
+"classjmapgen__make__rubble.html#a7b3c48d17483e13b9146e2965c887191":[36,0,507,4],
 "classjmapgen__make__rubble.html#af4d6e973cb2116fe9439d7870aa3ae3d":[36,0,507,0],
 "classjmapgen__monster.html":[36,0,508],
 "classjmapgen__monster.html#a00049c4adb3d3f62313bc66b7c85dd27":[36,0,508,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX48 =
 "classkill__tracker.html#a623d789a98bfb792b83b1899b608e397":[36,0,548,6],
 "classkill__tracker.html#a6413fc0f25894f72bdc0760f048b66e4":[36,0,548,4],
 "classkill__tracker.html#a7a59e740c8d0cc8a2b0224c146752aa7":[36,0,548,5],
-"classkill__tracker.html#a8926a6c95a723250bd2870f429e6771f":[36,0,548,9]
+"classkill__tracker.html#a8926a6c95a723250bd2870f429e6771f":[36,0,548,9],
+"classkill__tracker.html#a8c7ef99786fdbbf400f8833f1179e473":[36,0,548,8]
 };

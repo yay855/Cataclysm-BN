@@ -1,6 +1,5 @@
 var NAVTREEINDEX166 =
 {
-"weather__type_8h_source.html":[37,0,1,688],
 "weighted__list_8h.html":[37,0,1,689],
 "weighted__list_8h.html#a52e13c36ee8ac4fb6d04799f3353edab":[37,0,1,689,5],
 "weighted__list_8h.html#ad503e15b20b63d86d22ccd8792d91850":[37,0,1,689,4],
