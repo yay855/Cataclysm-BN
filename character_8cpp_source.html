@@ -1333,7 +1333,7 @@ $(document).ready(function(){initNavTree('character_8cpp_source.html',''); initR
 <div class="line"><a id="l01244" name="l01244"></a><span class="lineno"> 1244</span><span class="comment">// if a limb is broken should point here to make any future changes to breaking easier</span></div>
 <div class="line"><a id="l01245" name="l01245"></a><span class="lineno"><a class="line" href="classCharacter.html#ac2245aed6c7279986f42ef9208e816c0"> 1245</a></span><span class="keywordtype">bool</span> <a class="code hl_function" href="classCharacter.html#ac2245aed6c7279986f42ef9208e816c0">Character::is_limb_broken</a>( <span class="keyword">const</span> <a class="code hl_class" href="classint__id.html">bodypart_id</a> &amp;limb )<span class="keyword"> const</span></div>
 <div class="line"><a id="l01246" name="l01246"></a><span class="lineno"> 1246</span><span class="keyword"></span>{</div>
-<div class="line"><a id="l01247" name="l01247"></a><span class="lineno"> 1247</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#ab901ee8b150fdad01ff2028ec8dba84c">get_part_hp_cur</a>( limb ) == 0;</div>
+<div class="line"><a id="l01247" name="l01247"></a><span class="lineno"> 1247</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="classCreature.html#ab901ee8b150fdad01ff2028ec8dba84c">get_part_hp_cur</a>( limb ) &lt;= 0;</div>
 <div class="line"><a id="l01248" name="l01248"></a><span class="lineno"> 1248</span>}</div>
 <div class="line"><a id="l01249" name="l01249"></a><span class="lineno"> 1249</span> </div>
 <div class="line"><a id="l01250" name="l01250"></a><span class="lineno"><a class="line" href="classCharacter.html#a2a1dd6df0e3771b8a49495d837051050"> 1250</a></span><span class="keywordtype">bool</span> <a class="code hl_function" href="classCharacter.html#a2a1dd6df0e3771b8a49495d837051050">Character::can_run</a>()</div>
@@ -12940,7 +12940,7 @@ $(document).ready(function(){initNavTree('character_8cpp_source.html',''); initR
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="character_8cpp.html">character.cpp</a></li>
-    <li class="footer">Generated on Sun Apr 2 2023 12:46:11 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Mon Apr 3 2023 11:26:05 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
