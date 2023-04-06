@@ -394,7 +394,7 @@ $(document).ready(function(){initNavTree('inventory_8cpp_source.html',''); initR
 <div class="line"><a id="l00305" name="l00305"></a><span class="lineno">  305</span>                } <span class="keywordflow">else</span> {</div>
 <div class="line"><a id="l00306" name="l00306"></a><span class="lineno">  306</span>                    newit.<a class="code hl_variable" href="classitem.html#af38d78ce6d128f6c7a1999b7f9e00965">invlet</a> = it_ref-&gt;invlet;</div>
 <div class="line"><a id="l00307" name="l00307"></a><span class="lineno">  307</span>                }</div>
-<div class="line"><a id="l00308" name="l00308"></a><span class="lineno">  308</span>                elem.push_back( newit );</div>
+<div class="line"><a id="l00308" name="l00308"></a><span class="lineno">  308</span>                elem.emplace_back( <a class="code hl_function" href="namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304">std::move</a>( newit ) );</div>
 <div class="line"><a id="l00309" name="l00309"></a><span class="lineno">  309</span>                <span class="keywordflow">return</span> elem.back();</div>
 <div class="line"><a id="l00310" name="l00310"></a><span class="lineno">  310</span>            } <span class="keywordflow">else</span> <span class="keywordflow">if</span>( keep_invlet &amp;&amp; assign_invlet &amp;&amp; it_ref-&gt;invlet == newit.<a class="code hl_variable" href="classitem.html#af38d78ce6d128f6c7a1999b7f9e00965">invlet</a> &amp;&amp;</div>
 <div class="line"><a id="l00311" name="l00311"></a><span class="lineno">  311</span>                       it_ref-&gt;invlet != <span class="charliteral">&#39;\0&#39;</span> ) {</div>
@@ -410,7 +410,7 @@ $(document).ready(function(){initNavTree('inventory_8cpp_source.html',''); initR
 <div class="line"><a id="l00321" name="l00321"></a><span class="lineno">  321</span>    }</div>
 <div class="line"><a id="l00322" name="l00322"></a><span class="lineno">  322</span>    <a class="code hl_function" href="classinventory.html#a6632e04576710c1d9ee979850958e63c">update_cache_with_item</a>( newit );</div>
 <div class="line"><a id="l00323" name="l00323"></a><span class="lineno">  323</span> </div>
-<div class="line"><a id="l00324" name="l00324"></a><span class="lineno">  324</span>    <a class="code hl_variable" href="classinventory.html#ad90c7cdc1166330628541c9779681c9c">items</a>.push_back( {newit} );</div>
+<div class="line"><a id="l00324" name="l00324"></a><span class="lineno">  324</span>    <a class="code hl_variable" href="classinventory.html#ad90c7cdc1166330628541c9779681c9c">items</a>.emplace_back( std::list&lt;item&gt; { <a class="code hl_function" href="namespaceavatar__action.html#a76ba74774376a08222b8cdcce08f7304">std::move</a>( newit ) } );</div>
 <div class="line"><a id="l00325" name="l00325"></a><span class="lineno">  325</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="classinventory.html#ad90c7cdc1166330628541c9779681c9c">items</a>.back().back();</div>
 <div class="line"><a id="l00326" name="l00326"></a><span class="lineno">  326</span>}</div>
 <div class="line"><a id="l00327" name="l00327"></a><span class="lineno">  327</span> </div>
@@ -1614,7 +1614,7 @@ $(document).ready(function(){initNavTree('inventory_8cpp_source.html',''); initR
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="inventory_8cpp.html">inventory.cpp</a></li>
-    <li class="footer">Generated on Thu Apr 6 2023 22:52:24 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Thu Apr 6 2023 22:55:45 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
