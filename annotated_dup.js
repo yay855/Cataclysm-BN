@@ -1283,6 +1283,7 @@ var annotated_dup =
     [ "sokoban_game", "classsokoban__game.html", "classsokoban__game" ],
     [ "solar_tile", "classsolar__tile.html", "classsolar__tile" ],
     [ "sound_event", "structsound__event.html", "structsound__event" ],
+    [ "sound_on_move_uilist_callback", "classsound__on__move__uilist__callback.html", "classsound__on__move__uilist__callback" ],
     [ "spawn_point", "structspawn__point.html", "structspawn__point" ],
     [ "special_attack", "structspecial__attack.html", "structspecial__attack" ],
     [ "special_game", "structspecial__game.html", "structspecial__game" ],

@@ -1758,6 +1758,7 @@ var hierarchy =
       [ "overmap_ui::map_notes_callback", "classovermap__ui_1_1map__notes__callback.html", null ],
       [ "pointmenu_cb", "classpointmenu__cb.html", null ],
       [ "query_destination_callback", "classquery__destination__callback.html", null ],
+      [ "sound_on_move_uilist_callback", "classsound__on__move__uilist__callback.html", null ],
       [ "spellbook_callback", "classspellbook__callback.html", null ],
       [ "spellcasting_callback", "classspellcasting__callback.html", null ],
       [ "teleporter_callback", "classteleporter__callback.html", null ],

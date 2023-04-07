@@ -636,7 +636,7 @@ $(document).ready(function(){initNavTree('magic__enchantment_8cpp_source.html','
 <div class="line"><a id="l00547" name="l00547"></a><span class="lineno">  547</span>}</div>
 <div class="line"><a id="l00548" name="l00548"></a><span class="lineno">  548</span> </div>
 <div class="line"><a id="l00549" name="l00549"></a><span class="lineno">  549</span><span class="keyword">template</span> &lt;<span class="keywordtype">float</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a>::*First, <span class="keywordtype">float</span> <a class="code hl_struct" href="structmutation__branch.html">mutation_branch</a>::* ...Rest,</div>
-<div class="line"><a id="l00550" name="l00550"></a><span class="lineno">  550</span>          <span class="keyword">typename</span> std::enable_if&lt;( <span class="keyword">sizeof</span>...( Rest ) &gt; 0 ), <span class="keywordtype">bool</span>&gt;<a class="code hl_enumvalue" href="enums_8h.html#ac7c2392f800a8be2feb093ef5fe48d40af3725cafa78eb43cc647b405bb6ecfab">::type</a> NonEmpty = <span class="keyword">false</span> &gt;</div>
+<div class="line"><a id="l00550" name="l00550"></a><span class="lineno">  550</span>          <span class="keyword">typename</span> std::enable_if&lt;( <span class="keyword">sizeof</span>...( Rest ) &gt; 0 ), <span class="keywordtype">bool</span>&gt;::type NonEmpty = <span class="keyword">false</span> &gt;</div>
 <div class="line"><a id="l00551" name="l00551"></a><span class="lineno"><a class="line" href="namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#a5fcc56ba11bba20034a45fa200fb9db8">  551</a></span>                  <span class="keywordtype">bool</span> <a class="code hl_function" href="namespaceanonymous__namespace_02magic__enchantment_8cpp_03.html#a5fcc56ba11bba20034a45fa200fb9db8">is_set_value</a>( <span class="keyword">const</span> <a class="code hl_class" href="classstring__id.html">trait_id</a> &amp;mut, <span class="keywordtype">float</span> val )</div>
 <div class="line"><a id="l00552" name="l00552"></a><span class="lineno">  552</span>{</div>
 <div class="line"><a id="l00553" name="l00553"></a><span class="lineno">  553</span>    <span class="keywordflow">return</span> ( *mut ).*First == val &amp;&amp; is_set_value&lt;Rest...&gt;( mut, val );</div>
@@ -780,7 +780,6 @@ $(document).ready(function(){initNavTree('magic__enchantment_8cpp_source.html','
 <div class="ttc" id="aenum__conversions_8h_html"><div class="ttname"><a href="enum__conversions_8h.html">enum_conversions.h</a></div></div>
 <div class="ttc" id="aenums_8h_html"><div class="ttname"><a href="enums_8h.html">enums.h</a></div></div>
 <div class="ttc" id="aenums_8h_html_a3baf36d700701401b6baf94db93d096ea2f644bab8f796b847285eab073040f10"><div class="ttname"><a href="enums_8h.html#a3baf36d700701401b6baf94db93d096ea2f644bab8f796b847285eab073040f10">m_good</a></div><div class="ttdeci">@ m_good</div><div class="ttdef"><b>Definition:</b> <a href="enums_8h_source.html#l00260">enums.h:260</a></div></div>
-<div class="ttc" id="aenums_8h_html_ac7c2392f800a8be2feb093ef5fe48d40af3725cafa78eb43cc647b405bb6ecfab"><div class="ttname"><a href="enums_8h.html#ac7c2392f800a8be2feb093ef5fe48d40af3725cafa78eb43cc647b405bb6ecfab">type</a></div><div class="ttdeci">@ type</div><div class="ttdef"><b>Definition:</b> <a href="enums_8h_source.html#l00075">enums.h:75</a></div></div>
 <div class="ttc" id="ageneric__factory_8h_html"><div class="ttname"><a href="generic__factory_8h.html">generic_factory.h</a></div><div class="ttdoc">Helper for loading from JSON.</div></div>
 <div class="ttc" id="ageneric__factory_8h_html_a6bc35b9738f0a0a68ccc6b4cfc7918f1"><div class="ttname"><a href="generic__factory_8h.html#a6bc35b9738f0a0a68ccc6b4cfc7918f1">optional</a></div><div class="ttdeci">void optional(const JsonObject &amp;jo, const bool was_loaded, const std::string &amp;name, MemberType &amp;member)</div><div class="ttdef"><b>Definition:</b> <a href="generic__factory_8h_source.html#l00790">generic_factory.h:790</a></div></div>
 <div class="ttc" id="ajson_8h_html"><div class="ttname"><a href="json_8h.html">json.h</a></div></div>
@@ -864,7 +863,7 @@ $(document).ready(function(){initNavTree('magic__enchantment_8cpp_source.html','
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="magic__enchantment_8cpp.html">magic_enchantment.cpp</a></li>
-    <li class="footer">Generated on Fri Apr 7 2023 02:26:20 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Fri Apr 7 2023 12:01:48 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

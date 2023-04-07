@@ -1,5 +1,15 @@
 var NAVTREEINDEX60 =
 {
+"classpixel__minimap__projector.html#aaad9bf852b91920595b9e661d1380426":[36,0,751,5],
+"classpixel__minimap__projector.html#aee6978658a6f8fb8776d12de43fd2427":[36,0,751,3],
+"classplace__monster__iuse.html":[36,0,753],
+"classplace__monster__iuse.html#a270145fe1acd28b4e46cfd0edc17e282":[36,0,753,2],
+"classplace__monster__iuse.html#a2bc619d2dab1b8ab7978aa24736ddb9c":[36,0,753,12],
+"classplace__monster__iuse.html#a45b8425e1dd077b77ac0f0c730b5e398":[36,0,753,0],
+"classplace__monster__iuse.html#a47c07ef23613e998cb61def623ee85b9":[36,0,753,1],
+"classplace__monster__iuse.html#a4e3b83b7db473a9f5759627731d32605":[36,0,753,5],
+"classplace__monster__iuse.html#a5c802d0d2b7105f16448586fead3f2cc":[36,0,753,10],
+"classplace__monster__iuse.html#a827d7efb1e7721502fb8c9ba174648dc":[36,0,753,8],
 "classplace__monster__iuse.html#aa5685706721ec8483b4f7d087f164534":[36,0,753,6],
 "classplace__monster__iuse.html#aaa27cb7405d5d018b381b1855562efcf":[36,0,753,11],
 "classplace__monster__iuse.html#abccc201fa5f271d7fb40d79adad58f5f":[36,0,753,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX60 =
 "classplayer__morale_1_1morale__point.html#a9122249feb7739f785fa7b4ab35dbb8e":[36,0,759,1,1],
 "classplayer__morale_1_1morale__point.html#a99e68a4b48ad3c60b49c93e0e72edc77":[36,0,759,1,18],
 "classplayer__morale_1_1morale__point.html#a9fea74c03c65593c8c94bb64bbb70611":[36,0,759,1,12],
-"classplayer__morale_1_1morale__point.html#ab454dabbae99a91652b1e0962ac4eeab":[36,0,759,1,22],
-"classplayer__morale_1_1morale__point.html#ab636bc6bcb57db62f22d95b8c171a38b":[36,0,759,1,17],
-"classplayer__morale_1_1morale__point.html#ab777c9c77b12098e64d09625e1f1f082":[36,0,759,1,8],
-"classplayer__morale_1_1morale__point.html#abf6d229f81bc75e89c7b53c90a9a6b5c":[36,0,759,1,10],
-"classplayer__morale_1_1morale__point.html#ac24a31282a48c2b42be125e3027728f4":[36,0,759,1,24],
-"classplayer__morale_1_1morale__point.html#ac5d20f5a114b00574c674f8df34869c1":[36,0,759,1,19],
-"classplayer__morale_1_1morale__point.html#ade62c18d4c3c5fca64a0fa4a5f2434d3":[36,0,759,1,7],
-"classplayer__morale_1_1morale__point.html#ae6259995290e53f34e329dd0f2ff77c1":[36,0,759,1,0],
-"classplayer__morale_1_1morale__point.html#ae63c7a703db4c64e104cf511df07e746":[36,0,759,1,15],
-"classplayer__morale_1_1morale__point.html#af1016918cd3ae62a83197db7b8d209b4":[36,0,759,1,23],
-"classplayer__morale_1_1morale__subtype.html":[36,0,759,2]
+"classplayer__morale_1_1morale__point.html#ab454dabbae99a91652b1e0962ac4eeab":[36,0,759,1,22]
 };

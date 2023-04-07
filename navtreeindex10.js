@@ -1,5 +1,8 @@
 var NAVTREEINDEX10 =
 {
+"character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633f":[37,0,1,93,13],
+"character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633fa7ab3f388bbf5200ebf5e501260ecddcc":[37,0,1,93,13,4],
+"character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633faab846c0e3717a3e7d14af45cab70b44a":[37,0,1,93,13,1],
 "character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633fad8eced3b06972df4d1dd7d835fc3edd3":[37,0,1,93,13,0],
 "character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633faf1425da40a9f2d21ab702a1c7feae026":[37,0,1,93,13,3],
 "character_8h.html#aa7bb0ad73714bdf6b22d11b5b4e2633fafe9e1b90ba44d01aa88ba5a0b4aa911c":[37,0,1,93,13,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX10 =
 "character__martial__arts_8h.html#a7f08e733bbd21e1303309ff5f4dc86b5":[37,0,1,103,1],
 "character__martial__arts_8h_source.html":[37,0,1,103],
 "character__oracle_8cpp.html":[37,0,1,104],
-"character__oracle_8cpp.html#a4513b947a174bc83fbd690dd1a3ef345":[37,0,1,104,0],
-"character__oracle_8cpp_source.html":[37,0,1,104],
-"character__oracle_8h.html":[37,0,1,105],
-"character__oracle_8h.html#af9e99b4ad3251cccc67e7a67c836097f":[37,0,1,105,1]
+"character__oracle_8cpp.html#a4513b947a174bc83fbd690dd1a3ef345":[37,0,1,104,0]
 };

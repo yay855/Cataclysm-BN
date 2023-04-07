@@ -1,5 +1,15 @@
 var NAVTREEINDEX58 =
 {
+"classoptions__manager_1_1cOpt.html#a2b020dc6c50943f26c1d2016e01c7c32":[36,0,713,0,5],
+"classoptions__manager_1_1cOpt.html#a2d124620d716474f47a9cfe82d23a8e0":[36,0,713,0,52],
+"classoptions__manager_1_1cOpt.html#a2fee07d98cf9bc56bea83dfaa53e950d":[36,0,713,0,46],
+"classoptions__manager_1_1cOpt.html#a30416e0d020eaf668d676203d8008c13":[36,0,713,0,40],
+"classoptions__manager_1_1cOpt.html#a317cf6d8a930c6fbc7a02d38d1b570d8":[36,0,713,0,39],
+"classoptions__manager_1_1cOpt.html#a356f5a7a4eebb29fb25b61695ad673d7":[36,0,713,0,53],
+"classoptions__manager_1_1cOpt.html#a423e6cfa15aa271c3ecc55a71818a546":[36,0,713,0,22],
+"classoptions__manager_1_1cOpt.html#a42a7348d0e2d6f942759e09ca367f2a7":[36,0,713,0,6],
+"classoptions__manager_1_1cOpt.html#a448ba4a2a64963f8c54dbba38b198613":[36,0,713,0,44],
+"classoptions__manager_1_1cOpt.html#a46395add346c9a2a842bee52552a5261":[36,0,713,0,29],
 "classoptions__manager_1_1cOpt.html#a4758316c9b266e6352bc3d03aac867f7":[36,0,713,0,47],
 "classoptions__manager_1_1cOpt.html#a59736abd56fff5c98ed55d3c54395953":[36,0,713,0,54],
 "classoptions__manager_1_1cOpt.html#a6410d1e237047f548d0bca3324ee3a57":[36,0,713,0,25],
@@ -239,15 +249,5 @@ var NAVTREEINDEX58 =
 "classovermap__special__batch.html":[36,0,726],
 "classovermap__special__batch.html#a057d86d95244bfa671a99e2d19cab339":[36,0,726,0],
 "classovermap__special__batch.html#a072a2de95ce7201de4501cf4c3306b28":[36,0,726,8],
-"classovermap__special__batch.html#a0e38b577c72e83f9025061aaf463b2f1":[36,0,726,6],
-"classovermap__special__batch.html#a340832389d3e11c1eb87a2f8d4fc090c":[36,0,726,5],
-"classovermap__special__batch.html#a624c3aba09ddf7e9d34efeeb6a1e1fe7":[36,0,726,7],
-"classovermap__special__batch.html#a6a38a67755d1d44f6e563ab9efec6c25":[36,0,726,4],
-"classovermap__special__batch.html#acb0c58cdbd3b1d5529e75555fc04ea82":[36,0,726,2],
-"classovermap__special__batch.html#ae35ff5b6122d3102ef18f693c6946e29":[36,0,726,3],
-"classovermap__special__batch.html#af05fd8b0955d995f57cfc807aca05538":[36,0,726,1],
-"classovermap__ui_1_1map__notes__callback.html":[35,0,154,2],
-"classovermap__ui_1_1map__notes__callback.html":[36,0,31,2],
-"classovermap__ui_1_1map__notes__callback.html#a0746c85dcfaf38bf8a415d8c0f6da146":[36,0,31,2,11],
-"classovermap__ui_1_1map__notes__callback.html#a0746c85dcfaf38bf8a415d8c0f6da146":[35,0,154,2,11]
+"classovermap__special__batch.html#a0e38b577c72e83f9025061aaf463b2f1":[36,0,726,6]
 };
