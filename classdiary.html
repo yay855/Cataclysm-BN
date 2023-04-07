@@ -1185,7 +1185,7 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="diary_8cpp_source.html#l00810">810</a> of file <a class="el" href="diary_8cpp_source.html">diary.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00811" name="l00811"></a><span class="lineno">  811</span>{</div>
-<div class="line"><a id="l00812" name="l00812"></a><span class="lineno">  812</span>    std::string <a class="code hl_function" href="namespaceom__direction.html#a8ba958ccfad28c0a5572a04dd1428f32">name</a> = <a class="code hl_function" href="catacharset_8cpp.html#ae8ff0664ea195486ad0940e9a64a2452">base64_encode</a>( <a class="code hl_function" href="avatar_8cpp.html#a2eddae690431cd32ce7a091217d68a3a">get_avatar</a>().get_name() + <span class="stringliteral">&quot;_diary&quot;</span> );</div>
+<div class="line"><a id="l00812" name="l00812"></a><span class="lineno">  812</span>    std::string <a class="code hl_function" href="namespaceom__direction.html#a8ba958ccfad28c0a5572a04dd1428f32">name</a> = <a class="code hl_function" href="catacharset_8cpp.html#ae8ff0664ea195486ad0940e9a64a2452">base64_encode</a>( <a class="code hl_function" href="avatar_8cpp.html#a2eddae690431cd32ce7a091217d68a3a">get_avatar</a>().get_save_id() + <span class="stringliteral">&quot;_diary&quot;</span> );</div>
 <div class="line"><a id="l00813" name="l00813"></a><span class="lineno">  813</span>    std::string path = <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;get_world_base_save_path() + <span class="stringliteral">&quot;/&quot;</span> + <a class="code hl_function" href="namespaceom__direction.html#a8ba958ccfad28c0a5572a04dd1428f32">name</a> + <span class="stringliteral">&quot;.json&quot;</span>;</div>
 <div class="line"><a id="l00814" name="l00814"></a><span class="lineno">  814</span>    <span class="keywordflow">if</span>( <a class="code hl_function" href="filesystem_8cpp.html#aea678a36e4bf1e9ff808c85f1f367d30">file_exist</a>( path ) ) {</div>
 <div class="line"><a id="l00815" name="l00815"></a><span class="lineno">  815</span>        <a class="code hl_function" href="cata__utility_8cpp.html#a996629d79715bd5b44fb507d0d368476">read_from_file</a>( path, [&amp;]( std::istream &amp; fin ) {</div>
@@ -2224,7 +2224,7 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="diary_8cpp_source.html#l00760">760</a> of file <a class="el" href="diary_8cpp_source.html">diary.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00761" name="l00761"></a><span class="lineno">  761</span>{</div>
-<div class="line"><a id="l00762" name="l00762"></a><span class="lineno">  762</span>    std::string <a class="code hl_function" href="namespaceom__direction.html#a8ba958ccfad28c0a5572a04dd1428f32">name</a> = <a class="code hl_function" href="catacharset_8cpp.html#ae8ff0664ea195486ad0940e9a64a2452">base64_encode</a>( <a class="code hl_function" href="avatar_8cpp.html#a2eddae690431cd32ce7a091217d68a3a">get_avatar</a>().get_name() + <span class="stringliteral">&quot;_diary&quot;</span> );</div>
+<div class="line"><a id="l00762" name="l00762"></a><span class="lineno">  762</span>    std::string <a class="code hl_function" href="namespaceom__direction.html#a8ba958ccfad28c0a5572a04dd1428f32">name</a> = <a class="code hl_function" href="catacharset_8cpp.html#ae8ff0664ea195486ad0940e9a64a2452">base64_encode</a>( <a class="code hl_function" href="avatar_8cpp.html#a2eddae690431cd32ce7a091217d68a3a">get_avatar</a>().get_save_id() + <span class="stringliteral">&quot;_diary&quot;</span> );</div>
 <div class="line"><a id="l00763" name="l00763"></a><span class="lineno">  763</span>    std::string path = <a class="code hl_variable" href="game_8cpp.html#abeb98e93502d73818b4a73fabe191bc1">g</a>-&gt;get_world_base_save_path() + <span class="stringliteral">&quot;/&quot;</span> + <a class="code hl_function" href="namespaceom__direction.html#a8ba958ccfad28c0a5572a04dd1428f32">name</a> + <span class="stringliteral">&quot;.json&quot;</span>;</div>
 <div class="line"><a id="l00764" name="l00764"></a><span class="lineno">  764</span>    <span class="keyword">const</span> <span class="keywordtype">bool</span> is_writen = <a class="code hl_function" href="cata__utility_8cpp.html#a622c5bbf103e24e414fea34574eb68a8">write_to_file</a>( path, [&amp;]( std::ostream &amp; fout ) {</div>
 <div class="line"><a id="l00765" name="l00765"></a><span class="lineno">  765</span>        <a class="code hl_function" href="classdiary.html#a6d4172f93b61f99c02ef8a359b4daedc">serialize</a>( fout );</div>
@@ -2481,7 +2481,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classdiary.html">diary</a></li>
-    <li class="footer">Generated on Fri Apr 7 2023 12:02:14 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Fri Apr 7 2023 12:25:16 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
