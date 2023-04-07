@@ -477,7 +477,7 @@ var classmap =
     [ "grid", "classmap.html#a3a86dcc9866606ffff52cde90dd23ca6", null ],
     [ "last_full_vehicle_list", "classmap.html#acd274fe2dedb149855c07d3f13255462", null ],
     [ "last_full_vehicle_list_dirty", "classmap.html#a1d077af6c601c24e7d79bc34a20d5c50", null ],
-    [ "max_populated_zlev", "classmap.html#a087847b7569f1ed8e64d2229b52880b6", null ],
+    [ "max_populated_zlev", "classmap.html#a2915b707876f31cadef125c623290c5e", null ],
     [ "my_MAPSIZE", "classmap.html#a7997e4febecb36a59b48b06649dc9173", null ],
     [ "pathfinding_caches", "classmap.html#a372326780a5cc8eefd08d0cf223164b0", null ],
     [ "skew_vision_cache", "classmap.html#a51539ec1ea2f6bd5a4de46430ebbb57b", null ],

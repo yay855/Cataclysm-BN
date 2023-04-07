@@ -241,7 +241,7 @@ var searchData=
   ['maximum_238',['maximum',['../classevent__multiset.html#a8abcdbcf5f03acb8bebcd7e790660405',1,'event_multiset']]],
   ['maximum_5fcharges_239',['maximum_charges',['../structitype.html#af238865694d157c403d1c7d0b74106dc',1,'itype']]],
   ['maybe_5fmix_5fbits_240',['maybe_mix_bits',['../namespacecata_1_1hash64__detail.html#a9209c596e3439b3fa3732a89aeb6aed8',1,'cata::hash64_detail']]],
-  ['maybe_5fshift_241',['maybe_shift',['../npc_8cpp.html#affdaf613b6750271bd05132644f66e1f',1,'maybe_shift(tripoint &amp;pos, point d):&#160;npc.cpp'],['../npc_8cpp.html#aaec7d454af2bf3594a53e45aee424765',1,'maybe_shift(cata::optional&lt; tripoint &gt; &amp;pos, point d):&#160;npc.cpp']]],
+  ['maybe_5fshift_241',['maybe_shift',['../npc_8cpp.html#affdaf613b6750271bd05132644f66e1f',1,'maybe_shift(tripoint &amp;pos, point d):&#160;npc.cpp'],['../npc_8cpp.html#abd51c077ce6d869ed80795d2afb14ffe',1,'maybe_shift(std::optional&lt; tripoint &gt; &amp;pos, point d):&#160;npc.cpp']]],
   ['maybe_5ftemperature_5freader_242',['maybe_temperature_reader',['../weather__gen_8cpp.html#aa6cccc10bca6e14b2ee19d746656ea6c',1,'weather_gen.cpp']]],
   ['mcolor_243',['mcolor',['../classwish__mutate__callback.html#a83dbab3acc8aece280bc40a44af49bf9',1,'wish_mutate_callback']]],
   ['mech_5fhack_244',['mech_hack',['../namespacemonexamine.html#a6aead4c9c3f0afc0b99926f29f96f937',1,'monexamine']]],

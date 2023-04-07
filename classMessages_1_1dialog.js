@@ -16,7 +16,7 @@ var classMessages_1_1dialog =
     [ "filter", "classMessages_1_1dialog.html#afe5dda942adfc9c8e2618051619f52db", null ],
     [ "filter_color", "classMessages_1_1dialog.html#acd413d0c2762a101922e56b3fc77916b", null ],
     [ "filter_help_color", "classMessages_1_1dialog.html#a69196dc4ba7767574be56469cb147c99", null ],
-    [ "filter_sentry", "classMessages_1_1dialog.html#ad9c7083dda6d16d8420bd9a34ece752e", null ],
+    [ "filter_sentry", "classMessages_1_1dialog.html#a5711224ba32c1bf263d60983ad0d16a8", null ],
     [ "filter_str", "classMessages_1_1dialog.html#a47f5e1a841f47673c130fe5bb9094795", null ],
     [ "filtering", "classMessages_1_1dialog.html#a22e4cc8e4510cb35bedf0e9898394fdc", null ],
     [ "first_init", "classMessages_1_1dialog.html#ab33170d23baa4aab7913e86e56f0a374", null ],

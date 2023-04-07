@@ -5,7 +5,7 @@ var searchData=
   ['iffy_2',['iffy',['../namespaceexamine__item__menu.html#afb0565ed1efb7315c7703ceb4fca8399a394188710799de3dcc6cb1582e490004',1,'examine_item_menu']]],
   ['ignore_5fnoise_3',['ignore_noise',['../npc_8h.html#a05a2c81a2657358f0255ca09071a6813a72566b3ed580981ba68980d66f5535a3',1,'npc.h']]],
   ['ignore_5fwalls_4',['IGNORE_WALLS',['../magic_8h.html#a5322019703a7521b2c3e0ae4a038d0d9ad04ee222e8292a6e01eba60fa2b5501a',1,'magic.h']]],
-  ['imaxsteps_5',['iMaxSteps',['../classscrollingcombattext.html#aaf1f6d9e6ace308d25c0d29df454059baba005cccb901543ab7ccfdd1a05d4d67',1,'scrollingcombattext']]],
+  ['imaxsteps_5',['iMaxSteps',['../classscrollingcombattext.html#af88a5ecb87606b4b9b13a608b331cc01aba005cccb901543ab7ccfdd1a05d4d67',1,'scrollingcombattext']]],
   ['imenu_5fbday_6',['imenu_bday',['../editmap_8cpp.html#a0f30c5cb822691f8ae6ec2b5ae5d66b8a309152e0465ed582715772ec57504521',1,'editmap.cpp']]],
   ['imenu_5fburnt_7',['imenu_burnt',['../editmap_8cpp.html#a0f30c5cb822691f8ae6ec2b5ae5d66b8af5fb8ab9c7f2d776112b8d947ea0d0ef',1,'editmap.cpp']]],
   ['imenu_5fdamage_8',['imenu_damage',['../editmap_8cpp.html#a0f30c5cb822691f8ae6ec2b5ae5d66b8a671d69dca495b24889a18ca69cc360d6',1,'editmap.cpp']]],

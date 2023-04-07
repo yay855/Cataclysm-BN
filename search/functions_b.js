@@ -22,7 +22,7 @@ var searchData=
   ['kill_5ftracker_19',['kill_tracker',['../classkill__tracker.html#a6193f1472eeb9cd71b11913472d640bd',1,'kill_tracker']]],
   ['kill_5fvines_20',['kill_vines',['../namespacemdeath.html#aa395f6a2411d34c58c9fce3f9ca2c2f6',1,'mdeath']]],
   ['kill_5fxp_21',['kill_xp',['../classkill__tracker.html#a623d789a98bfb792b83b1899b608e397',1,'kill_tracker::kill_xp()'],['../classavatar.html#a0135d98dc093e782429c6f1a08a78f38',1,'avatar::kill_xp() const']]],
-  ['kill_5fxp_5ffor_5fnext_5fpoint_22',['kill_xp_for_next_point',['../classavatar.html#a953d369d61963924274fce043af1a61a',1,'avatar']]],
+  ['kill_5fxp_5ffor_5fnext_5fpoint_22',['kill_xp_for_next_point',['../classavatar.html#a1cac6ac6489896e9db8752cae15bb2ae',1,'avatar']]],
   ['kill_5fzslave_23',['kill_zslave',['../namespacemonexamine.html#a7d61cb89465024cfee5ac75d910fb1c3',1,'monexamine']]],
   ['kiln_5fempty_24',['kiln_empty',['../namespaceiexamine.html#a82fa11f641d3792302e86cdbec0e4011',1,'iexamine']]],
   ['kiln_5ffull_25',['kiln_full',['../namespaceiexamine.html#a9adbf32691928d1fb64896cadbabc373',1,'iexamine']]],

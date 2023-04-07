@@ -61,7 +61,7 @@ var searchData=
   ['kill_5ftracker_5fptr_58',['kill_tracker_ptr',['../classgame.html#a3b7828e88a965ea18597b632c9444ea5',1,'game']]],
   ['kill_5fvines_59',['kill_vines',['../namespacemdeath.html#aa395f6a2411d34c58c9fce3f9ca2c2f6',1,'mdeath']]],
   ['kill_5fxp_60',['kill_xp',['../classavatar.html#a0135d98dc093e782429c6f1a08a78f38',1,'avatar::kill_xp()'],['../classkill__tracker.html#a623d789a98bfb792b83b1899b608e397',1,'kill_tracker::kill_xp()']]],
-  ['kill_5fxp_5ffor_5fnext_5fpoint_61',['kill_xp_for_next_point',['../classavatar.html#a953d369d61963924274fce043af1a61a',1,'avatar']]],
+  ['kill_5fxp_5ffor_5fnext_5fpoint_61',['kill_xp_for_next_point',['../classavatar.html#a1cac6ac6489896e9db8752cae15bb2ae',1,'avatar']]],
   ['kill_5fzslave_62',['kill_zslave',['../namespacemonexamine.html#a7d61cb89465024cfee5ac75d910fb1c3',1,'monexamine']]],
   ['killer_63',['killer',['../classCreature.html#af4d6d569180f457e7d2294946eaf7563',1,'Creature']]],
   ['kills_64',['kills',['../structdiary__page.html#abffa26498493ef5540ac4e4abe8e3361',1,'diary_page::kills()'],['../classkill__tracker.html#a1fbcc4310449c768846a668f79fc90e7',1,'kill_tracker::kills()']]],

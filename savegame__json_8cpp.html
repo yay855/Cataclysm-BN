@@ -107,6 +107,7 @@ $(document).ready(function(){initNavTree('savegame__json_8cpp.html',''); initRes
 <code>#include &lt;map&gt;</code><br />
 <code>#include &lt;memory&gt;</code><br />
 <code>#include &lt;numeric&gt;</code><br />
+<code>#include &lt;optional&gt;</code><br />
 <code>#include &lt;set&gt;</code><br />
 <code>#include &lt;sstream&gt;</code><br />
 <code>#include &lt;stack&gt;</code><br />
@@ -172,7 +173,6 @@ $(document).ready(function(){initNavTree('savegame__json_8cpp.html',''); initRes
 <code>#include &quot;<a class="el" href="mtype_8h_source.html">mtype.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="npc_8h_source.html">npc.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="npc__class_8h_source.html">npc_class.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="optional_8h_source.html">optional.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="options_8h_source.html">options.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="overmapbuffer_8h_source.html">overmapbuffer.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="pickup__token_8h_source.html">pickup_token.h</a>&quot;</code><br />
@@ -325,14 +325,14 @@ Variables</h2></td></tr>
 <div class="line"><a id="l03468" name="l03468"></a><span class="lineno"> 3468</span>    jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( <span class="stringliteral">&quot;recoverable&quot;</span>, value.<a class="code hl_variable" href="structcomponent.html#a0b2dbc148d8e2f5ca54a36b64a6397d4">recoverable</a> );</div>
 <div class="line"><a id="l03469" name="l03469"></a><span class="lineno"> 3469</span>}</div>
 <div class="ttc" id="aclassJsonIn_html_af988f122efed0696d9d05f649e57c9b2"><div class="ttname"><a href="classJsonIn.html#af988f122efed0696d9d05f649e57c9b2">JsonIn::get_object</a></div><div class="ttdeci">JsonObject get_object()</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l01431">json.cpp:1431</a></div></div>
-<div class="ttc" id="aclassJsonObject_html"><div class="ttname"><a href="classJsonObject.html">JsonObject</a></div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00827">json.h:828</a></div></div>
+<div class="ttc" id="aclassJsonObject_html"><div class="ttname"><a href="classJsonObject.html">JsonObject</a></div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00826">json.h:827</a></div></div>
 <div class="ttc" id="aclassJsonObject_html_ae00f195360e3783cf50527cf07344202"><div class="ttname"><a href="classJsonObject.html#ae00f195360e3783cf50527cf07344202">JsonObject::allow_omitted_members</a></div><div class="ttdeci">void allow_omitted_members() const</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l00150">json.cpp:150</a></div></div>
-<div class="ttc" id="aclassJsonObject_html_ae66d47f9cb4993dfaf79819ec2aff2f8"><div class="ttname"><a href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">JsonObject::read</a></div><div class="ttdeci">bool read(const std::string &amp;name, T &amp;t, bool throw_on_error=true) const</div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00942">json.h:942</a></div></div>
+<div class="ttc" id="aclassJsonObject_html_ae66d47f9cb4993dfaf79819ec2aff2f8"><div class="ttname"><a href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">JsonObject::read</a></div><div class="ttdeci">bool read(const std::string &amp;name, T &amp;t, bool throw_on_error=true) const</div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00941">json.h:941</a></div></div>
 <div class="ttc" id="astructcomponent_html_a0b2dbc148d8e2f5ca54a36b64a6397d4"><div class="ttname"><a href="structcomponent.html#a0b2dbc148d8e2f5ca54a36b64a6397d4">component::recoverable</a></div><div class="ttdeci">bool recoverable</div><div class="ttdef"><b>Definition:</b> <a href="requirements_8h_source.html#l00063">requirements.h:63</a></div></div>
 <div class="ttc" id="astructcomponent_html_a9c114293306257abbc1db25073fc0492"><div class="ttname"><a href="structcomponent.html#a9c114293306257abbc1db25073fc0492">component::type</a></div><div class="ttdeci">itype_id type</div><div class="ttdef"><b>Definition:</b> <a href="requirements_8h_source.html#l00058">requirements.h:58</a></div></div>
 <div class="ttc" id="astructcomponent_html_aa6596b552ee2f19c2440c5a6aed9ecf4"><div class="ttname"><a href="structcomponent.html#aa6596b552ee2f19c2440c5a6aed9ecf4">component::count</a></div><div class="ttdeci">int count</div><div class="ttdef"><b>Definition:</b> <a href="requirements_8h_source.html#l00059">requirements.h:59</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="requirements_8h_source.html#l00059">component::count</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="json_8h_source.html#l00942">JsonObject::read()</a>, <a class="el" href="requirements_8h_source.html#l00063">component::recoverable</a>, and <a class="el" href="requirements_8h_source.html#l00058">component::type</a>.</p>
+<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="requirements_8h_source.html#l00059">component::count</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="json_8h_source.html#l00941">JsonObject::read()</a>, <a class="el" href="requirements_8h_source.html#l00063">component::recoverable</a>, and <a class="el" href="requirements_8h_source.html#l00058">component::type</a>.</p>
 
 </div>
 </div>
@@ -382,7 +382,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="astructquality__requirement_html_a9c7f9ed100813aa2d7b7b244528b0dcc"><div class="ttname"><a href="structquality__requirement.html#a9c7f9ed100813aa2d7b7b244528b0dcc">quality_requirement::count</a></div><div class="ttdeci">int count</div><div class="ttdef"><b>Definition:</b> <a href="requirements_8h_source.html#l00135">requirements.h:135</a></div></div>
 <div class="ttc" id="astructquality__requirement_html_ad838875d42e0385a7d9611902988ab66"><div class="ttname"><a href="structquality__requirement.html#ad838875d42e0385a7d9611902988ab66">quality_requirement::type</a></div><div class="ttdeci">quality_id type</div><div class="ttdef"><b>Definition:</b> <a href="requirements_8h_source.html#l00134">requirements.h:134</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="requirements_8h_source.html#l00135">quality_requirement::count</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="requirements_8h_source.html#l00136">quality_requirement::level</a>, <a class="el" href="json_8h_source.html#l00942">JsonObject::read()</a>, and <a class="el" href="requirements_8h_source.html#l00134">quality_requirement::type</a>.</p>
+<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="requirements_8h_source.html#l00135">quality_requirement::count</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="requirements_8h_source.html#l00136">quality_requirement::level</a>, <a class="el" href="json_8h_source.html#l00941">JsonObject::read()</a>, and <a class="el" href="requirements_8h_source.html#l00134">quality_requirement::type</a>.</p>
 
 </div>
 </div>
@@ -475,7 +475,7 @@ Variables</h2></td></tr>
 <div class="line"><a id="l03477" name="l03477"></a><span class="lineno"> 3477</span>    jo.<a class="code hl_function" href="classJsonObject.html#ae66d47f9cb4993dfaf79819ec2aff2f8">read</a>( <span class="stringliteral">&quot;recoverable&quot;</span>, value.<a class="code hl_variable" href="structcomponent.html#a0b2dbc148d8e2f5ca54a36b64a6397d4">recoverable</a> );</div>
 <div class="line"><a id="l03478" name="l03478"></a><span class="lineno"> 3478</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="requirements_8h_source.html#l00059">component::count</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="json_8h_source.html#l00942">JsonObject::read()</a>, <a class="el" href="requirements_8h_source.html#l00063">component::recoverable</a>, and <a class="el" href="requirements_8h_source.html#l00058">component::type</a>.</p>
+<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="requirements_8h_source.html#l00059">component::count</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="json_8h_source.html#l00941">JsonObject::read()</a>, <a class="el" href="requirements_8h_source.html#l00063">component::recoverable</a>, and <a class="el" href="requirements_8h_source.html#l00058">component::type</a>.</p>
 
 </div>
 </div>
@@ -545,7 +545,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="astructtripoint_html_ac944c0e329b5eba2602f7a52f66bbbb9"><div class="ttname"><a href="structtripoint.html#ac944c0e329b5eba2602f7a52f66bbbb9">tripoint::z</a></div><div class="ttdeci">int z</div><div class="ttdef"><b>Definition:</b> <a href="point_8h_source.html#l00138">point.h:138</a></div></div>
 <div class="ttc" id="astructtripoint_html_affdc0d5b75024cbfacd208a495def3dc"><div class="ttname"><a href="structtripoint.html#affdc0d5b75024cbfacd208a495def3dc">tripoint::x</a></div><div class="ttdeci">int x</div><div class="ttdef"><b>Definition:</b> <a href="point_8h_source.html#l00136">point.h:136</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="debug_8h_source.html#l00074">debugmsg</a>, <a class="el" href="game_8cpp_source.html#l00281">g</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="ammo__effect_8cpp_source.html#l00026">int_id&lt; T &gt;::obj()</a>, <a class="el" href="json_8h_source.html#l00942">JsonObject::read()</a>, <a class="el" href="point_8h_source.html#l00136">tripoint::x</a>, <a class="el" href="point_8h_source.html#l00137">tripoint::y</a>, and <a class="el" href="point_8h_source.html#l00138">tripoint::z</a>.</p>
+<p class="reference">References <a class="el" href="json_8cpp_source.html#l00150">JsonObject::allow_omitted_members()</a>, <a class="el" href="debug_8h_source.html#l00074">debugmsg</a>, <a class="el" href="game_8cpp_source.html#l00281">g</a>, <a class="el" href="json_8cpp_source.html#l01431">JsonIn::get_object()</a>, <a class="el" href="ammo__effect_8cpp_source.html#l00026">int_id&lt; T &gt;::obj()</a>, <a class="el" href="json_8h_source.html#l00941">JsonObject::read()</a>, <a class="el" href="point_8h_source.html#l00136">tripoint::x</a>, <a class="el" href="point_8h_source.html#l00137">tripoint::y</a>, and <a class="el" href="point_8h_source.html#l00138">tripoint::z</a>.</p>
 
 </div>
 </div>
@@ -780,9 +780,9 @@ template&lt;typename T &gt; </div>
 <div class="line"><a id="l03429" name="l03429"></a><span class="lineno"> 3429</span>}</div>
 <div class="ttc" id="aclassJsonOut_html_a44cdd853d4c6913b37caa9f0131eeff2"><div class="ttname"><a href="classJsonOut.html#a44cdd853d4c6913b37caa9f0131eeff2">JsonOut::end_array</a></div><div class="ttdeci">void end_array()</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l02028">json.cpp:2028</a></div></div>
 <div class="ttc" id="aclassJsonOut_html_a4550e2036b904c4d4a90e440dd41c684"><div class="ttname"><a href="classJsonOut.html#a4550e2036b904c4d4a90e440dd41c684">JsonOut::start_array</a></div><div class="ttdeci">void start_array(bool wrap=false)</div><div class="ttdef"><b>Definition:</b> <a href="json_8cpp_source.html#l02017">json.cpp:2017</a></div></div>
-<div class="ttc" id="aclassJsonOut_html_a4b8c8e50e3be57e737ae971ecf2c3fd5"><div class="ttname"><a href="classJsonOut.html#a4b8c8e50e3be57e737ae971ecf2c3fd5">JsonOut::write</a></div><div class="ttdeci">void write(T val)</div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00616">json.h:616</a></div></div>
+<div class="ttc" id="aclassJsonOut_html_a4b8c8e50e3be57e737ae971ecf2c3fd5"><div class="ttname"><a href="classJsonOut.html#a4b8c8e50e3be57e737ae971ecf2c3fd5">JsonOut::write</a></div><div class="ttdeci">void write(T val)</div><div class="ttdef"><b>Definition:</b> <a href="json_8h_source.html#l00615">json.h:615</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="json_8cpp_source.html#l02028">JsonOut::end_array()</a>, <a class="el" href="json_8cpp_source.html#l02017">JsonOut::start_array()</a>, and <a class="el" href="json_8h_source.html#l00616">JsonOut::write()</a>.</p>
+<p class="reference">References <a class="el" href="json_8cpp_source.html#l02028">JsonOut::end_array()</a>, <a class="el" href="json_8cpp_source.html#l02017">JsonOut::start_array()</a>, and <a class="el" href="json_8h_source.html#l00615">JsonOut::write()</a>.</p>
 
 </div>
 </div>
@@ -1068,7 +1068,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="savegame__json_8cpp.html">savegame_json.cpp</a></li>
-    <li class="footer">Generated on Fri Apr 7 2023 12:25:10 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Fri Apr 7 2023 13:13:34 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
