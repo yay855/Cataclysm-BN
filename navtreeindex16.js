@@ -1,8 +1,5 @@
 var NAVTREEINDEX16 =
 {
-"classCreature__tracker.html#afad36e18b93092f5c412a38ea332fa20":[36,0,187,15],
-"classCreature__tracker_1_1weak__ptr__comparator.html":[36,0,187,0],
-"classCreature__tracker_1_1weak__ptr__comparator.html#a5b4d042bf5f9b560ef0490f80b657fec":[36,0,187,0,0],
 "classDefaultRemovePartHandler.html":[36,0,200],
 "classDefaultRemovePartHandler.html#a58afa44fa91f26ff3232470f3a6a692c":[36,0,200,0],
 "classDefaultRemovePartHandler.html#a75ded3a237679ddf25873cf09398ce56":[36,0,200,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX16 =
 "classJsonArray.html#adf391661e513ed9d12bec8c2b507049e":[36,0,535,31],
 "classJsonArray.html#ae035b49148b09adf383242e5936977a2":[36,0,535,39],
 "classJsonArray.html#aeaf93fc6ab79b41878783fee3012ad93":[36,0,535,49],
-"classJsonArray.html#aeb9b67cb004053d13af133aa7e72beba":[36,0,535,5]
+"classJsonArray.html#aeb9b67cb004053d13af133aa7e72beba":[36,0,535,5],
+"classJsonArray.html#aed2d3345781599c14d56f71a414ef49c":[36,0,535,51],
+"classJsonArray.html#af753490029d333631c0ad16ac465fcd8":[36,0,535,54],
+"classJsonArray.html#afec55b2701a94ade8009381a7f1919f0":[36,0,535,4]
 };

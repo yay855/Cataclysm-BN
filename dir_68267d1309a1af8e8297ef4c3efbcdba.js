@@ -86,7 +86,6 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "cata_utility.h", "cata__utility_8h.html", "cata__utility_8h" ],
     [ "cata_variant.cpp", "cata__variant_8cpp.html", "cata__variant_8cpp" ],
     [ "cata_variant.h", "cata__variant_8h.html", "cata__variant_8h" ],
-    [ "cata_void.h", "cata__void_8h.html", "cata__void_8h" ],
     [ "catacharset.cpp", "catacharset_8cpp.html", "catacharset_8cpp" ],
     [ "catacharset.h", "catacharset_8h.html", "catacharset_8h" ],
     [ "cellular_automata.cpp", "cellular__automata_8cpp.html", null ],

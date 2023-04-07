@@ -1,8 +1,5 @@
 var NAVTREEINDEX40 =
 {
-"classgame.html#a6546b1ff65a4e183513050f7554a2fa9":[36,0,375,22],
-"classgame.html#a65d978e801fe1da6416a93c27b7ff4d3":[36,0,375,187],
-"classgame.html#a67bfec3932e4c8e2f1c1d79e78e6bf80":[36,0,375,188],
 "classgame.html#a69b976b3e03957dce252624568955450":[36,0,375,252],
 "classgame.html#a69e24ae51fed8b1a248ebdc072001e56":[36,0,375,286],
 "classgame.html#a6a87c10ddb1ae8645b8187c4fe6fdad4":[36,0,375,42],
@@ -249,5 +246,8 @@ var NAVTREEINDEX40 =
 "classgame_1_1non__dead__range_1_1iterator.html#af9491516e001a82abae3122cfb77e133":[36,0,375,4,0,3],
 "classgame_1_1non__dead__range_1_1iterator.html#afbce8ae8b836f3d47c5cc2efc59f7099":[36,0,375,4,0,10],
 "classgame_1_1npc__range.html":[36,0,375,5],
-"classgame_1_1npc__range.html#a00e3e55c9b17f3fae740c8dce9439440":[36,0,375,5,0]
+"classgame_1_1npc__range.html#a00e3e55c9b17f3fae740c8dce9439440":[36,0,375,5,0],
+"classgeneric__factory.html":[36,0,377],
+"classgeneric__factory.html#a00b41f19d8226b9cfae4976d937a07d7":[36,0,377,34],
+"classgeneric__factory.html#a00b421b0863b5deb31b0cc380c7c5243":[36,0,377,4]
 };

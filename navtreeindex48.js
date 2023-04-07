@@ -1,8 +1,5 @@
 var NAVTREEINDEX48 =
 {
-"classjmapgen__furniture.html#a947d5edd037bce6cd1aff60443717829":[36,0,500,4],
-"classjmapgen__gaspump.html":[36,0,501],
-"classjmapgen__gaspump.html#a21a6f7d91b6d49bcefb7d9bac2879e3f":[36,0,501,0],
 "classjmapgen__gaspump.html#a3638ea5c921796d739e72c119bc8fe5c":[36,0,501,3],
 "classjmapgen__gaspump.html#a3f585a0cf782a529a768dc9fed5a314a":[36,0,501,4],
 "classjmapgen__gaspump.html#a9adc3ee174e52f27acfd35db1a2ccb1b":[36,0,501,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX48 =
 "classkill__tracker.html#a6413fc0f25894f72bdc0760f048b66e4":[36,0,548,4],
 "classkill__tracker.html#a7a59e740c8d0cc8a2b0224c146752aa7":[36,0,548,5],
 "classkill__tracker.html#a8926a6c95a723250bd2870f429e6771f":[36,0,548,9],
-"classkill__tracker.html#a8c7ef99786fdbbf400f8833f1179e473":[36,0,548,8]
+"classkill__tracker.html#a8c7ef99786fdbbf400f8833f1179e473":[36,0,548,8],
+"classkill__tracker.html#aae8735c62665ea0a98180abfb5cb2c06":[36,0,548,1],
+"classkill__tracker.html#ace731689c29037ef7f880cb686ec6a5c":[36,0,548,7],
+"classkill__tracker.html#add76e2a375a3bef147168c7517e09ce4":[36,0,548,11]
 };

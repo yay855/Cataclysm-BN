@@ -1,8 +1,5 @@
 var NAVTREEINDEX112 =
 {
-"namespaceactivity__handlers_1_1repair__activity__hack_1_1anonymous__namespace_02activity__handlers_8cpp_03.html#ad991118ba95531cae09dff23e30c5ef6":[35,0,2,0,0,4],
-"namespaceactivity__handlers_1_1repair__activity__hack_1_1anonymous__namespace_02activity__handlers_8cpp_03.html#ae227ad1d32d2996b9aaa33ed96232eae":[35,0,2,0,0,1],
-"namespacealign.html":[35,0,3],
 "namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759":[35,0,3,0],
 "namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759a3282b06f67c5e15c0eaeb515ef8f86fd":[35,0,3,0,1],
 "namespacealign.html#aff2772e23f6ac91520e57d4b3ac0c759a4ba1498ecf6f0de5baac670a264e43eb":[35,0,3,0,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX112 =
 "namespaceavatar__action.html#abadb3333d387007017d11836c606f1e5":[35,0,68,13],
 "namespaceavatar__action.html#abc8baa13f726fc55e95a3fa6aa6c0cfe":[35,0,68,5],
 "namespaceavatar__action.html#ad651718c214e707034374b85d936d671":[35,0,68,20],
-"namespaceavatar__action.html#af2c58da1638b239e9df99d2a4611cde8":[35,0,68,9]
+"namespaceavatar__action.html#af2c58da1638b239e9df99d2a4611cde8":[35,0,68,9],
+"namespaceavatar__action.html#afd349bc65fc375556b15241ab68095b1":[35,0,68,19],
+"namespaceavatar__funcs.html":[35,0,69],
+"namespaceavatar__funcs.html#a0cb75fd1a3b035578ab495d30d8ee0bd":[35,0,69,4]
 };
