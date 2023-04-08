@@ -260,16 +260,16 @@ var NAVTREEINDEX =
 "structnpc__follower__rules.html#af929f56ad23d6e4e653359fd31425f5e",
 "structovermap__special__connection.html",
 "structplant__data.html",
-"structratio__index.html",
-"structscent__block.html#ad1dcad9d99484b452d6882fe62cade0a",
-"structtalk__effect__t.html#a68e4d38c90e8fae0d58473d0e67efd33",
-"structuilist__entry.html#a4b71cb87b0504d3107ab1364cdddc0eb",
-"structweather__animation__t.html",
-"teleport_8h_source.html",
-"trap_8h_source.html",
-"units__mass_8h.html#a50478f14516687ba519f45ff3dc4b945",
-"vehicle_8cpp.html#a34a9a7092d079c64e664da1e486ddfc0",
-"vitamin_8h.html"
+"structratio__index.html#aebe69fe5fa4efb718f317f5718660428",
+"structscent__block_1_1datum.html#a234adabae7dbd4a9218ca740ce522c17",
+"structtalk__effect__t.html#a7ac62b054d52cb82e60c9c41ff3f3835",
+"structuilist__entry.html#a77b143ae235bdec67f4f6e4db3068e20",
+"structweather__animation__t.html#ac2b3c811fc0b9701c2d6ed2da61fda15",
+"text__snippets_8cpp.html#ac3fc11c159cd056aa15ad7c0b37b070a",
+"trapfunc_8cpp.html#a11d45bc0bc6102e76713dccfc624cbf4",
+"units__mass_8h.html#ab3b1636cb969c682c3105813cfb43a40",
+"vehicle_8cpp.html#a3f2436294a28dc686156c10abab2f994",
+"vitamin_8h.html#a1614a36ad4442e08210a822735541012a6332547a7029263c6caae02ab40dc0d3"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

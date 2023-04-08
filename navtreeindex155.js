@@ -73,11 +73,8 @@ var NAVTREEINDEX155 =
 "structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01rl__v46b08b9e04c5409e11f349782f9465f7.html#aacd946689b01cbc2c9498608c57ee171":[36,0,764,1],
 "structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01rl__v46b08b9e04c5409e11f349782f9465f7.html#abdd39b7ab56784cc2ae36a34983b4d0b":[36,0,764,5],
 "structpoint__with__value.html":[36,0,765],
-"structpoint__with__value.html#a0348073d7b0b38f6fd7fc8e4e5cc440e":[36,0,765,4],
-"structpoint__with__value.html#a43b934818f5ddff18703346e7dfc7a22":[36,0,765,1],
-"structpoint__with__value.html#a45a6f67c346e948f6047e1c051e84449":[36,0,765,3],
-"structpoint__with__value.html#a7a59a9cebc369533100c20674b0d7565":[36,0,765,0],
-"structpoint__with__value.html#aae387f39ef499e3f48c6c526beb75a2a":[36,0,765,2],
+"structpoint__with__value.html#a0348073d7b0b38f6fd7fc8e4e5cc440e":[36,0,765,1],
+"structpoint__with__value.html#a45a6f67c346e948f6047e1c051e84449":[36,0,765,0],
 "structpointmenu__cb_1_1impl__t.html":[36,0,766,0],
 "structpointmenu__cb_1_1impl__t.html#a2617afb7efec664d8aad201a20b7cc84":[36,0,766,0,0],
 "structpointmenu__cb_1_1impl__t.html#a26dae5ae43156b9005e5909e7808b3d2":[36,0,766,0,2],
@@ -231,8 +228,8 @@ var NAVTREEINDEX155 =
 "structradio__tower__reference.html#acf3cbb74d3da593ef07b179ace7324ae":[36,0,781,2],
 "structranged_1_1aim__type.html":[36,0,34,0],
 "structranged_1_1aim__type.html":[35,0,158,0],
-"structranged_1_1aim__type.html#a3e379a6edec5465db69600543d4ad38f":[35,0,158,0,1],
 "structranged_1_1aim__type.html#a3e379a6edec5465db69600543d4ad38f":[36,0,34,0,1],
+"structranged_1_1aim__type.html#a3e379a6edec5465db69600543d4ad38f":[35,0,158,0,1],
 "structranged_1_1aim__type.html#a71c86bf73616f01d2fa87cb054242868":[36,0,34,0,3],
 "structranged_1_1aim__type.html#a71c86bf73616f01d2fa87cb054242868":[35,0,158,0,3],
 "structranged_1_1aim__type.html#aa6e78a117e47abf518d7ad5de1495166":[36,0,34,0,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX155 =
 "structranged__bash__info.html#a4d5e057e7f09e73d9285b4e8571c0c62":[36,0,782,1],
 "structranged__bash__info.html#a88e96bc25575285982c205c1b60984eb":[36,0,782,0],
 "structranged__bash__info.html#ad32a4ce6c109553ea7bc1e6d562d7617":[36,0,782,7],
-"structranged__bash__info.html#aee2eaa8b6d93ad107f3e75ab82c42496":[36,0,782,3]
+"structranged__bash__info.html#aee2eaa8b6d93ad107f3e75ab82c42496":[36,0,782,3],
+"structratio__index.html":[36,0,783],
+"structratio__index.html#a255c32be5663e1f75b6a2cf08fabf3d7":[36,0,783,0],
+"structratio__index.html#a781a77b89dcdbad20bbfc0fd217bf4f3":[36,0,783,1]
 };
