@@ -3,7 +3,7 @@ var lightmap_8cpp =
     [ "cast_zlight", "lightmap_8cpp.html#ac46962badafdae5dd4f37158c19433ae", null ],
     [ "cast_zlight< float, shrapnel_calc, shrapnel_check, accumulate_fragment_cloud >", "lightmap_8cpp.html#a52c749d1ba525f4cf88395ed15e8927a", null ],
     [ "cast_zlight< float, sight_calc, sight_check, accumulate_transparency >", "lightmap_8cpp.html#a668a9da7b042021d0d581089eb129073", null ],
-    [ "cast_zlight_segment", "lightmap_8cpp.html#af2b0551a8b813bdadad4acef34acd4ee", null ],
+    [ "cast_zlight_segment", "lightmap_8cpp.html#aeadae8af3e1f4c9fe8bb4f84f81ca8f3", null ],
     [ "castLight", "lightmap_8cpp.html#a670fff8cfcc7d263a7d6ad9dd41d05ff", null ],
     [ "castLightAll", "lightmap_8cpp.html#a423117633d27730d7513bd3240a0d2d3", null ],
     [ "castLightAll< float, float, shrapnel_calc, shrapnel_check, update_fragment_cloud, accumulate_fragment_cloud >", "lightmap_8cpp.html#a69a4d322b181b24861e7d861f9ed7a3c", null ],
