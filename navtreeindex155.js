@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"structpixel__minimap__settings.html#a2bd026d1f7fd6efc2db379facccaa394":[36,0,752,2],
+"structpixel__minimap__settings.html#a31399b2fbe2382d74e974fb00ec934b3":[36,0,752,5],
 "structpixel__minimap__settings.html#a472f00bcc7b59d32b42331c17db6329b":[36,0,752,3],
 "structpixel__minimap__settings.html#a97fbfd571c802c8828693390e3305b18":[36,0,752,0],
 "structpixel__minimap__settings.html#ad4bb822f7824630cd19dd92c95c559be":[36,0,752,1],
@@ -237,17 +239,15 @@ var NAVTREEINDEX155 =
 "structradio__tower__reference.html#aac9ff484e7d50c8abfa7a115660d4781":[36,0,781,0],
 "structradio__tower__reference.html#ac13e6b8f6baac0d892f30845bb7d2d3d":[36,0,781,1],
 "structradio__tower__reference.html#acf3cbb74d3da593ef07b179ace7324ae":[36,0,781,2],
-"structranged_1_1aim__type.html":[35,0,158,0],
 "structranged_1_1aim__type.html":[36,0,34,0],
-"structranged_1_1aim__type.html#a3e379a6edec5465db69600543d4ad38f":[35,0,158,0,1],
+"structranged_1_1aim__type.html":[35,0,158,0],
 "structranged_1_1aim__type.html#a3e379a6edec5465db69600543d4ad38f":[36,0,34,0,1],
-"structranged_1_1aim__type.html#a71c86bf73616f01d2fa87cb054242868":[35,0,158,0,3],
+"structranged_1_1aim__type.html#a3e379a6edec5465db69600543d4ad38f":[35,0,158,0,1],
 "structranged_1_1aim__type.html#a71c86bf73616f01d2fa87cb054242868":[36,0,34,0,3],
-"structranged_1_1aim__type.html#aa6e78a117e47abf518d7ad5de1495166":[35,0,158,0,0],
+"structranged_1_1aim__type.html#a71c86bf73616f01d2fa87cb054242868":[35,0,158,0,3],
 "structranged_1_1aim__type.html#aa6e78a117e47abf518d7ad5de1495166":[36,0,34,0,0],
-"structranged_1_1aim__type.html#ab42c19d743eccdd4175eefa27b08fc97":[35,0,158,0,2],
+"structranged_1_1aim__type.html#aa6e78a117e47abf518d7ad5de1495166":[35,0,158,0,0],
 "structranged_1_1aim__type.html#ab42c19d743eccdd4175eefa27b08fc97":[36,0,34,0,2],
-"structranged_1_1aim__type.html#ad3a5bbd8cc09179fa3c1958fb42d286b":[35,0,158,0,4],
-"structranged_1_1aim__type.html#ad3a5bbd8cc09179fa3c1958fb42d286b":[36,0,34,0,4],
-"structranged__bash__info.html":[36,0,782]
+"structranged_1_1aim__type.html#ab42c19d743eccdd4175eefa27b08fc97":[35,0,158,0,2],
+"structranged_1_1aim__type.html#ad3a5bbd8cc09179fa3c1958fb42d286b":[36,0,34,0,4]
 };

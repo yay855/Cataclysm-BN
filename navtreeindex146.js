@@ -1,5 +1,7 @@
 var NAVTREEINDEX146 =
 {
+"structfield__effect.html#aacf4a17639764c1829172b1dfb6c2b3e":[36,0,338,2],
+"structfield__effect.html#ac6e47b4f525be7c2cc546c56b0da1283":[36,0,338,9],
 "structfield__effect.html#aca190a5b86b4b2e05c3bfb4988d05349":[36,0,338,11],
 "structfield__effect.html#ad525377667b2b4ac5c28121eb5cba2f5":[36,0,338,0],
 "structfield__intensity__level.html":[36,0,340],
@@ -247,7 +249,5 @@ var NAVTREEINDEX146 =
 "structfurn__workbench__info.html#a533d95f2f3db987b5ba485ea1cd23cd4":[36,0,374,5],
 "structfurn__workbench__info.html#a79aa70596531babf5d982f4a66236ed0":[36,0,374,3],
 "structfurn__workbench__info.html#abb441f8325f50068c380183554adb057":[36,0,374,1],
-"structfurn__workbench__info.html#acd40894d855c1c287d7757873b025244":[36,0,374,4],
-"structgame__message__params.html":[36,0,376],
-"structgame__message__params.html#a03bfa8f6c4eea588a1717f3a4d8d0b2f":[36,0,376,0]
+"structfurn__workbench__info.html#acd40894d855c1c287d7757873b025244":[36,0,374,4]
 };

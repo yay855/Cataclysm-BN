@@ -1,5 +1,7 @@
 var NAVTREEINDEX133 =
 {
+"sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a18d6769919266cd0bd6cd78aa405d5d0":[37,0,1,589,4,2],
+"sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a6486b4e98228b83d4b13d54febe5f170":[37,0,1,589,4,8],
 "sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a69a256025f66e4ce5d15c9dd7225d357":[37,0,1,589,4,6],
 "sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a70a17ffa722a3985b86d30b034ad06d7":[37,0,1,589,4,11],
 "sounds_8h.html#af6b3d144906d9ccfda6824fb87e46aa3a74bcc1e0384a916f56360c649f543f3a":[37,0,1,589,4,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX133 =
 "structSpeechBubble.html#a786df9aa02b07bfc6b971709dbadcf66":[36,0,866,0],
 "structVehicleFacings.html":[36,0,986],
 "structVehicleFacings.html#a98625704bb5a6f88dc1152f7cd30bcee":[36,0,986,2],
-"structVehicleFacings.html#a9ccd6e0cf765622c656ec6114763d324":[36,0,986,0],
-"structVehicleFacings.html#aaa5eb8dc3c439da48f7ce768ba5c92e5":[36,0,986,1],
-"structVehicleLocation.html":[36,0,991]
+"structVehicleFacings.html#a9ccd6e0cf765622c656ec6114763d324":[36,0,986,0]
 };
