@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"platform__win_8h.html#a2b2a3944525d6676e9da720c5fd7fc7b":[37,0,1,504,0],
 "platform__win_8h_source.html":[37,0,1,504],
 "player_8cpp.html":[37,0,1,505],
 "player_8cpp.html#a018a5823d7e1524b702156d66788c335":[37,0,1,505,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "projectile_8h.html":[37,0,1,523],
 "projectile_8h.html#a02d1dede47c1bb85995516c35047df82":[37,0,1,523,2],
 "projectile_8h.html#a162c25498e3347a41712a4746b8b5100":[37,0,1,523,3],
-"projectile_8h.html#a65071d7b82e80907bb06d5c4127f7308":[37,0,1,523,6],
-"projectile_8h.html#a6d90e67ebbf93a627358b4a7c858e920":[37,0,1,523,4]
+"projectile_8h.html#a65071d7b82e80907bb06d5c4127f7308":[37,0,1,523,6]
 };

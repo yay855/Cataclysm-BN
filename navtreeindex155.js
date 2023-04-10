@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"structpixel__minimap__settings.html":[36,0,752],
 "structpixel__minimap__settings.html#a2bd026d1f7fd6efc2db379facccaa394":[36,0,752,2],
 "structpixel__minimap__settings.html#a31399b2fbe2382d74e974fb00ec934b3":[36,0,752,5],
 "structpixel__minimap__settings.html#a472f00bcc7b59d32b42331c17db6329b":[36,0,752,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "structranged_1_1aim__type.html#aa6e78a117e47abf518d7ad5de1495166":[36,0,34,0,0],
 "structranged_1_1aim__type.html#aa6e78a117e47abf518d7ad5de1495166":[35,0,158,0,0],
 "structranged_1_1aim__type.html#ab42c19d743eccdd4175eefa27b08fc97":[36,0,34,0,2],
-"structranged_1_1aim__type.html#ab42c19d743eccdd4175eefa27b08fc97":[35,0,158,0,2],
-"structranged_1_1aim__type.html#ad3a5bbd8cc09179fa3c1958fb42d286b":[36,0,34,0,4]
+"structranged_1_1aim__type.html#ab42c19d743eccdd4175eefa27b08fc97":[35,0,158,0,2]
 };

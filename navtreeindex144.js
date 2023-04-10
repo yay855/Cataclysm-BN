@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"structdialogue.html#a2edd4e78d06b37dafd34284a48b82720":[36,0,211,18],
 "structdialogue.html#a3b6fb4b6e79356838e69df8b5d126668":[36,0,211,7],
 "structdialogue.html#a42afe2cf929fea970dc6b74a8bec4bd7":[36,0,211,17],
 "structdialogue.html#a627a44501ac098ea98dfabf899721001":[36,0,211,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "structenum__traits_3_01mon__trigger_01_4.html":[36,0,289],
 "structenum__traits_3_01mon__trigger_01_4.html#a09c668727c7ef33726837369baf6135b":[36,0,289,0],
 "structenum__traits_3_01morale__subtype__t_01_4.html":[36,0,290],
-"structenum__traits_3_01morale__subtype__t_01_4.html#a5a598f58cd35d7df4337307a355f5fc3":[36,0,290,0],
-"structenum__traits_3_01mutagen__technique_01_4.html":[36,0,291]
+"structenum__traits_3_01morale__subtype__t_01_4.html#a5a598f58cd35d7df4337307a355f5fc3":[36,0,290,0]
 };

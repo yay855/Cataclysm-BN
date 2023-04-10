@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__loses__effect_01_4.html#a124cfb219b71e0064a3b56fa6c70f449":[35,0,73,0,16,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__loses__effect_01_4.html#a124cfb219b71e0064a3b56fa6c70f449":[36,0,14,0,16,0],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__takes__damage_01_4.html":[36,0,14,0,17],
 "structcata_1_1event__detail_1_1event__spec_3_01event__type_1_1character__takes__damage_01_4.html":[35,0,73,0,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "structcata_1_1list_1_1node.html#ae063bc5f477ff21c4278da10350e419e":[36,0,14,11,12,1],
 "structcata_1_1list_1_1node.html#ae063bc5f477ff21c4278da10350e419e":[35,0,73,12,12,1],
 "structcata_1_1list_1_1node.html#ae38c071ad2287f588dcbe4fc05678ad4":[35,0,73,12,12,2],
-"structcata_1_1list_1_1node.html#ae38c071ad2287f588dcbe4fc05678ad4":[36,0,14,11,12,2],
-"structcata_1_1list_1_1node__base.html":[36,0,14,11,13]
+"structcata_1_1list_1_1node.html#ae38c071ad2287f588dcbe4fc05678ad4":[36,0,14,11,12,2]
 };

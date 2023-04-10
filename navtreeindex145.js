@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"structenum__traits_3_01mutagen__technique_01_4.html":[36,0,291],
 "structenum__traits_3_01mutagen__technique_01_4.html#aaa4b4a7fb5a4e844839c7169213fbc13":[36,0,291,0],
 "structenum__traits_3_01ot__match__type_01_4.html":[36,0,292],
 "structenum__traits_3_01ot__match__type_01_4.html#a317773bda6dccbb199c0a723f8ac4640":[36,0,292,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "structfield__effect.html#a66fd1db44c9ea1914b66868bb50b3e4e":[36,0,338,15],
 "structfield__effect.html#a956401c9c65e351a9787e26a346d38a9":[36,0,338,5],
 "structfield__effect.html#a9a71be9700fa03568a5217cefb5b2a48":[36,0,338,17],
-"structfield__effect.html#aa7f8a9b88109f827e6378cdfac035dd7":[36,0,338,10],
-"structfield__effect.html#aaa06920a95c540f9197d51572f359b4f":[36,0,338,1]
+"structfield__effect.html#aa7f8a9b88109f827e6378cdfac035dd7":[36,0,338,10]
 };

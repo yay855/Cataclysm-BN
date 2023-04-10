@@ -1,5 +1,6 @@
 var NAVTREEINDEX83 =
 {
+"faction__camp_8cpp.html#ada030293eb24115372ffc464d181f298":[37,0,1,210,22],
 "faction__camp_8cpp.html#ada2b0dae2dff386ef3fc04af8e39653e":[37,0,1,210,9],
 "faction__camp_8cpp.html#adaec8ea46c8ba29a5f862832bc9f1cea":[37,0,1,210,83],
 "faction__camp_8cpp.html#add6bff65f422cff2a7ede6c7b904d982":[37,0,1,210,82],
@@ -248,6 +249,5 @@ var NAVTREEINDEX83 =
 "flood__fill_8h_source.html":[37,0,1,225],
 "fmtlib__core_8h.html":[37,0,1,226],
 "fmtlib__core_8h.html#a003e0caffa44ced976fd5d7e5dcedfec":[37,0,1,226,157],
-"fmtlib__core_8h.html#a012819c9e8b5e04872a271f50f8b8196":[37,0,1,226,116],
-"fmtlib__core_8h.html#a023c6c178e254d81d578b90921804b1c":[37,0,1,226,103]
+"fmtlib__core_8h.html#a012819c9e8b5e04872a271f50f8b8196":[37,0,1,226,116]
 };

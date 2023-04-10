@@ -1,5 +1,6 @@
 var NAVTREEINDEX104 =
 {
+"mapgen__functions_8h.html#ab679f3f16d988c1159f495d36595763e":[37,0,1,376,9],
 "mapgen__functions_8h.html#ab7baee3b6f460fd703c8e16a36abb83e":[37,0,1,376,15],
 "mapgen__functions_8h.html#abc6c2781c3ff3c218aecbb41400bb59f":[37,0,1,376,39],
 "mapgen__functions_8h.html#ac23d366d15f41916df6654bc57eabb8e":[37,0,1,376,16],
@@ -140,11 +141,11 @@ var NAVTREEINDEX104 =
 "mattack__actors_8cpp.html#a6bf1394e103efe8661fc75163e3482c3":[37,0,1,390,6],
 "mattack__actors_8cpp.html#a7a08490346831114f00f3e44cbe454e3":[37,0,1,390,10],
 "mattack__actors_8cpp.html#a90a259f4c1b37d66fbc8c485ea1ccaba":[37,0,1,390,8],
+"mattack__actors_8cpp.html#abbaadb5e8c4709064c2722b06a0d4223":[37,0,1,390,0],
 "mattack__actors_8cpp.html#ace42425e1e703ebbe953ade0f6110b7c":[37,0,1,390,7],
 "mattack__actors_8cpp.html#ad267f9f78e1f711376af69afb1403db2":[37,0,1,390,1],
 "mattack__actors_8cpp.html#ad42e9088931762f5e3e1bc3e23c839ae":[37,0,1,390,9],
 "mattack__actors_8cpp.html#ae326c5e4da7f23bc429d04d215dd7c9d":[37,0,1,390,4],
-"mattack__actors_8cpp.html#af9ec2b31a42b3bf3627529b4e6db4f97":[37,0,1,390,0],
 "mattack__actors_8cpp_source.html":[37,0,1,390],
 "mattack__actors_8h.html":[37,0,1,391],
 "mattack__actors_8h.html#a79521321a0890d89ad3d6a922f6caabf":[37,0,1,391,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX104 =
 "memorial__logger_8cpp.html#aef271ffabe838242062302c1b214ee96":[37,0,1,395,21],
 "memorial__logger_8cpp.html#af1a3e5c07ef96be118895afd086ba143":[37,0,1,395,33],
 "memorial__logger_8cpp.html#af406dedb2e646d2f18e5d5b5b3fa5a84":[37,0,1,395,28],
-"memorial__logger_8cpp.html#af6f884678af8ae4523b9e4ba6ecc77dd":[37,0,1,395,25],
-"memorial__logger_8cpp.html#af7be0fdf59a1f94184f49073494ded76":[37,0,1,395,15]
+"memorial__logger_8cpp.html#af6f884678af8ae4523b9e4ba6ecc77dd":[37,0,1,395,25]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX154 =
 {
+"structovermap__path__params.html#a7ee6dbdcac52e4152eca5d8ea480c142":[36,0,723,13],
 "structovermap__path__params.html#a8ac4e0f3c68abe88b97b122035b06efe":[36,0,723,6],
 "structovermap__path__params.html#a9041624b2f18bd27712bcb018745239f":[36,0,723,15],
 "structovermap__path__params.html#a9579e739aefbf3b34335d2ea5408f402":[36,0,723,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX154 =
 "structpickup__count.html#a64d0be2bd0df6a4e81ee48fde3df5c79":[36,0,745,4],
 "structpickup__count.html#ab42789dbd6eeaf052df3402a15d03cb8":[36,0,745,1],
 "structpickup__count.html#ad9f82197ab0c580d445bd02af20f86ed":[36,0,745,0],
-"structpickup__count.html#af61653b71f0220720559320419b69187":[36,0,745,3],
-"structpixel__minimap__settings.html":[36,0,752]
+"structpickup__count.html#af61653b71f0220720559320419b69187":[36,0,745,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX77 =
 {
+"consumption_8cpp.html#a22b82ff6998caf559fabe67d535d6771":[37,0,1,134,63],
 "consumption_8cpp.html#a28e8b9d50a08cc7e9fcf534eca71b094":[37,0,1,134,95],
 "consumption_8cpp.html#a294459f1407d3d2bffba00b088675538":[37,0,1,134,14],
 "consumption_8cpp.html#a2d2463d7a32338731d9a8cd1be4faad0":[37,0,1,134,107],
@@ -248,6 +249,5 @@ var NAVTREEINDEX77 =
 "coordinates_8h.html#ac5fae5740b7a4a08a29ef7b9b5fd9140":[37,0,1,139,25],
 "coordinates_8h.html#ac65392fa21f3816acd35deb94b7b6e02":[37,0,1,139,23],
 "coordinates_8h.html#acbef5be44e7c4e301c1ce84a9d4e5ee6":[37,0,1,139,51],
-"coordinates_8h.html#ad26ab336504bddf326a9ea0dd64927cd":[37,0,1,139,12],
-"coordinates_8h.html#ad8dcbefc7ff184e776032acbe8f0e520":[37,0,1,139,19]
+"coordinates_8h.html#ad26ab336504bddf326a9ea0dd64927cd":[37,0,1,139,12]
 };

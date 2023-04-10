@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"classmartialart.html#adab9e71fdbcb7b1b7394fb7ea1f2a05b":[36,0,608,41],
 "classmartialart.html#adc8e1ff8d310ee1de0b3623fe14df0dd":[36,0,608,10],
 "classmartialart.html#ae6ce014c7a88b8d3f238329ef9935d3d":[36,0,608,14],
 "classmartialart.html#ae92f1e27a9de5406cf99cf67c1054bfe":[36,0,608,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "classmod__manager.html#a0acad5b26969f9fd7fddae79826463f2":[36,0,638,15],
 "classmod__manager.html#a14455bce47298bd216ec4b0aa1f4dbbe":[36,0,638,7],
 "classmod__manager.html#a1480d14ed4f34d3a6cee037d6f0f1ad9":[36,0,638,13],
-"classmod__manager.html#a2368371dc6be0de88f45b3c7d413a601":[36,0,638,23],
-"classmod__manager.html#a331b23c7b4a1e371d4c10d901e84a733":[36,0,638,17]
+"classmod__manager.html#a2368371dc6be0de88f45b3c7d413a601":[36,0,638,23]
 };
