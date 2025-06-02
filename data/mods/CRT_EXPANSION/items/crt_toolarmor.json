@@ -119,9 +119,9 @@
     "id": "crt_em_vest",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "C.R.I.T. EM vest (off)", "str_pl": "C.R.I.T. EM vests (off)" },
-    "description": "The C.R.I.T. Spec Ops Enhanced Movement vest is embedded with high-tech filaments and reactive servos which protects its wearer and assists in movement at the cost high of power usage.  It is commonly worn by C.R.I.T. Spec Ops for its ease of use and maneuverability.  Turn it on for suit mode, extra protection and movement.",
-    "weight": "10 kg",
+    "name": { "str": "C.R.I.T. EM armor (off)", "str_pl": "C.R.I.T. EM armor (off)" },
+    "description": "The C.R.I.T. Spec Ops Enhanced Movement armor is a suit of high-tech armor embedded with high-tech filaments, reactive servos, and a reactive pump for a flexible layer of ballistic gel.  It is commonly worn by C.R.I.T. Spec Ops for its ease of use, maneuverability, and relatively light weight compared to power armor or exo-suits.  Turn it on for extra protection and movement.",
+    "weight": "8 kg",
     "volume": "6250 ml",
     "price": "70 kUSD",
     "to_hit": -3,
@@ -129,9 +129,10 @@
     "material": [ "kevlar", "superalloy" ],
     "symbol": "[",
     "color": "light_gray",
-    "covers": [ "torso" ],
+    "covers": [ "torso", "legs", "arms" ],
     "max_charges": 300,
     "initial_charges": 300,
+    "ammo": "battery",
     "use_action": [
       {
         "type": "transform",
@@ -150,18 +151,12 @@
         {
           "has": "WORN",
           "condition": "ACTIVE",
-          "values": [
-            { "value": "STRENGTH", "add": 2 },
-            { "value": "DEXTERITY", "add": 2 },
-            { "value": "INTELLIGENCE", "add": -2 },
-            { "value": "PERCEPTION", "add": 2 },
-            { "value": "SPEED", "add": 20 }
-          ]
+          "values": [ { "value": "STRENGTH", "add": 2 }, { "value": "DEXTERITY", "add": 2 }, { "value": "SPEED", "add": 20 } ]
         }
       ]
     },
     "coverage": 85,
-    "encumbrance": 50,
+    "encumbrance": 30,
     "storage": "2500 ml",
     "warmth": 10,
     "material_thickness": 4,
@@ -172,9 +167,9 @@
     "id": "crt_em_vest_on",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "C.R.I.T. EM vest (on)", "str_pl": "C.R.I.T. EM vests (on)" },
-    "description": "The C.R.I.T. Spec Ops Enhanced Movement vest is embedded with high-tech filaments, reactive servos and a generator which pumps a crystallized liquid that protects its wearer from most heavy combat situations at the cost of extreme power usage.  It is commonly worn by C.R.I.T. Spec Ops.  This vest is currently in suit form and draining your UPS power at high rates.",
-    "weight": "10 kg",
+    "name": { "str": "C.R.I.T. EM armor (on)", "str_pl": "C.R.I.T. EM armor (on)" },
+    "description": "The C.R.I.T. Spec Ops Enhanced Movement armor a suit of high-tech armor embedded with high-tech filaments, reactive servos, and a reactive pump for a flexible layer of ballistic gel.  The electronics are enabled and draining power.",
+    "weight": "5 kg",
     "volume": "6250 ml",
     "price": "70 kUSD",
     "to_hit": -3,
@@ -185,13 +180,14 @@
     "covers": [ "torso", "legs", "arms" ],
     "coverage": 100,
     "encumbrance": 5,
-    "storage": "2500 ml",
-    "warmth": 75,
+    "storage": "5 L",
+    "warmth": 10,
     "material_thickness": 6,
     "environmental_protection": 16,
     "max_charges": 300,
     "initial_charges": 0,
-    "turns_per_charge": 1,
+    "power_draw": 300000,
+    "qualities": [ [ "HV_INSULATION", 1 ] ],
     "revert_to": "crt_em_vest",
     "use_action": { "type": "transform", "menu_text": "Turn off armor", "msg": "C.R.I.T. E.M powering off…", "target": "crt_em_vest" },
     "relic_data": {
@@ -200,13 +196,7 @@
         {
           "has": "WORN",
           "condition": "ACTIVE",
-          "values": [
-            { "value": "STRENGTH", "add": 2 },
-            { "value": "DEXTERITY", "add": 2 },
-            { "value": "INTELLIGENCE", "add": -2 },
-            { "value": "PERCEPTION", "add": 2 },
-            { "value": "SPEED", "add": 20 }
-          ]
+          "values": [ { "value": "STRENGTH", "add": 2 }, { "value": "DEXTERITY", "add": 2 }, { "value": "SPEED", "add": 20 } ]
         }
       ]
     },
